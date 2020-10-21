@@ -2,14 +2,13 @@
 
 [![sync2gitee(list)](<https://github.com/yi-Xu-0100/hub-mirror/workflows/sync2gitee(list)/badge.svg>)](https://github.com/yi-Xu-0100/hub-mirror)
 [![traffic2badge](https://github.com/yi-Xu-0100/traffic2badge/workflows/traffic2badge/badge.svg)](https://github.com/yi-Xu-0100/traffic2badge/actions?query=workflow%3Atraffic2badge)
-[![sync2gitee(list)](<https://github.com/yi-Xu-0100/traffic2badge/workflows/sync2gitee(cached)/badge.svg>)](./.github/workflows/sync2gitee.cached.yml)
 [![GitHub last commit](https://img.shields.io/github/last-commit/yi-Xu-0100/traffic2badge)](./)
 [![LICENSE](https://img.shields.io/github/license/yi-Xu-0100/traffic2badge)](./LICENSE)
 
 [![GitHub views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
 [![GitHub clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic-to-badge/tree/traffic)
 
-模板使用 [GitHub Action traffic-to-badge](https://github.com/marketplace/actions/traffic-to-badge)，您可以使用存储库 `Insights/traffic` 数据来生成包含访问数和克隆数的徽章。
+本模板仓库使用 [GitHub Action traffic-to-badge](https://github.com/marketplace/actions/traffic-to-badge)，您可以使用存储库 `Insights/traffic` 数据来生成包含访问数和克隆数的徽章。
 
 ## Table of Contents
 
