@@ -15,7 +15,6 @@ Template usage repository of [GitHub Action traffic-to-badge](https://github.com
 - [traffic2badge](#traffic2badge)
 - [Table of Contents](#table-of-contents)
   - [usage for repo list](#usage-for-repo-list)
-- [CHANGELOG](#changelog)
 - [Thanks](#thanks)
 - [LICENSE](#license)
 
@@ -61,7 +60,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.0
+        uses: yi-Xu-0100/traffic-to-badge@v1.1.3
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
@@ -74,7 +73,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: traffic
+          publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
           publish_dir: ${{ steps.traffic.outputs.traffic_path }}
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
@@ -85,10 +84,6 @@ jobs:
           cd ${{ steps.traffic.outputs.traffic_path }}
           ls -a
 ```
-
-## CHANGELOG
-
--[CHANGELOG](./CHANGELOG_CN.md)
 
 ## Thanks
 

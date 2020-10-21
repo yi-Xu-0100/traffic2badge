@@ -15,7 +15,6 @@
 - [traffic2badge](#traffic2badge)
 - [Table of Contents](#table-of-contents)
   - [使用 repo list 的示例](#使用-repo-list-的示例)
-- [更新日志](#更新日志)
 - [协议](#协议)
 - [鸣谢](#鸣谢)
 
@@ -61,7 +60,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.0
+        uses: yi-Xu-0100/traffic-to-badge@v1.1.3
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
@@ -74,7 +73,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: traffic
+          publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
           publish_dir: ${{ steps.traffic.outputs.traffic_path }}
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
@@ -85,10 +84,6 @@ jobs:
           cd ${{ steps.traffic.outputs.traffic_path }}
           ls -a
 ```
-
-## 更新日志
-
-- [更新日志](./CHANGELOG_CN.md)
 
 ## 协议
 
