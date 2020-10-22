@@ -2,19 +2,19 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 48,
-    "uniques": 5
+    "count": 63,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/commits/traffic",
     "title": "Commits · yi-Xu-0100/traffic-to-badge",
-    "count": 26,
+    "count": 28,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/traffic",
     "title": "yi-Xu-0100/traffic-to-badge at traffic",
-    "count": 20,
+    "count": 22,
     "uniques": 2
   },
   {
@@ -24,15 +24,15 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/1db584a96b41fdb8ebacfe98c9e9f8f0d65beca5",
-    "title": "Get traffic data at 2020-10-16T01:06:28.124Z · yi-Xu-0100/traffic-to-badge@1d...",
-    "count": 8,
+    "path": "/yi-Xu-0100/traffic-to-badge/commits/main",
+    "title": "Commits · yi-Xu-0100/traffic-to-badge",
+    "count": 9,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commits/main",
-    "title": "Commits · yi-Xu-0100/traffic-to-badge",
-    "count": 7,
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/1db584a96b41fdb8ebacfe98c9e9f8f0d65beca5",
+    "title": "Get traffic data at 2020-10-16T01:06:28.124Z · yi-Xu-0100/traffic-to-badge@1d...",
+    "count": 8,
     "uniques": 1
   },
   {
@@ -48,15 +48,15 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/pulls",
+    "title": "Pull requests · yi-Xu-0100/traffic-to-badge",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/bc93cb973f2c06e21eb98e5f8df48dde09c27ff5",
     "title": "💚 fix again · yi-Xu-0100/traffic-to-badge@bc93cb9",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/graphs/traffic",
-    "title": "Traffic · yi-Xu-0100/traffic-to-badge",
-    "count": 3,
     "uniques": 1
   }
 ]

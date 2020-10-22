@@ -1,5 +1,17 @@
 [
   {
+    "path": "/yi-Xu-0100/javascript-action",
+    "title": "yi-Xu-0100/javascript-action: javascript-action",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/javascript-action/blob/main/CHANGELOG.md",
+    "title": "javascript-action/CHANGELOG.md at main · yi-Xu-0100/javascript-action",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/javascript-action/pull/1",
     "title": "Bump eslint-config-prettier from 6.12.0 to 6.13.0 by dependabot · Pull Reques...",
     "count": 1,
@@ -8,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/javascript-action/pull/2",
     "title": "Bump lint-staged from 10.4.0 to 10.4.2 by dependabot · Pull Request #2 · yi-X...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/javascript-action/releases",
+    "title": "Releases · yi-Xu-0100/javascript-action",
     "count": 1,
     "uniques": 1
   }
