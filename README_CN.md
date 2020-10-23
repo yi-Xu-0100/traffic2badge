@@ -1,4 +1,4 @@
-## traffic2badge
+## ⚡️ traffic2badge
 
 [![sync2gitee(list)](<https://github.com/yi-Xu-0100/hub-mirror/workflows/sync2gitee(list)/badge.svg>)](https://github.com/yi-Xu-0100/hub-mirror)
 [![traffic2badge](https://github.com/yi-Xu-0100/traffic2badge/workflows/traffic2badge/badge.svg)](https://github.com/yi-Xu-0100/traffic2badge/actions?query=workflow%3Atraffic2badge)
@@ -8,19 +8,33 @@
 [![GitHub views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
 [![GitHub clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic-to-badge/tree/traffic)
 
-本模板仓库使用 [GitHub Action traffic-to-badge](https://github.com/marketplace/actions/traffic-to-badge)，您可以使用存储库 `Insights/traffic` 数据来生成包含访问数和克隆数的徽章。
+本模板仓库使用 [traffic-to-badge GitHub Action](https://github.com/marketplace/actions/traffic-to-badge)，您可以使用存储库 `Insights/traffic` 数据来生成包含浏览数和克隆数的徽章。
 
-## Table of Contents
+## 🎨 目录
 
-- [traffic2badge](#traffic2badge)
-- [Table of Contents](#table-of-contents)
-  - [使用 repo list 的示例](#使用-repo-list-的示例)
-- [协议](#协议)
-- [鸣谢](#鸣谢)
+- [⚡️ traffic2badge](#️-traffic2badge)
+- [🎨 目录](#-目录)
+- [🚀 配置说明](#-配置说明)
+  - [📝 使用 `static_list` 的示例](#-使用-static_list-的示例)
+- [🎉 鸣谢](#-鸣谢)
+- [📄 协议](#-协议)
 
-### 使用 repo list 的示例
+## 🚀 配置说明
 
-**默认存储库列表不包括私有存储库和 `fork` 存储库。**
+**必须设置两个输入参数**，并且有三个输入参数会使用默认值而无需设置。
+
+|    输入参数    |                   描述                   | required |   default   |
+| :------------: | :--------------------------------------: | :------: | :---------: |
+|    my_token    | 用以获取私密存储库流量数据的个人访问令牌 |    ✔     |             |
+|  static_list   |           想要获取的存储库列表           |    ✔     |             |
+| traffic_branch |          用于备份流量数据的分支          |    ✖     |   traffic   |
+|  views_color   |          浏览数徽章背景的颜色值          |    ✖     | brightgreen |
+|  clones_color  |          克隆数徽章背景的颜色值          |    ✖     | brightgreen |
+|      logo      |        标签左侧的徽标或者简单图标        |    ✖     |   github    |
+
+### 📝 使用 `static_list` 的示例
+
+**[`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator) ：默认存储库列表不包括 `private` 存储库和 `fork` 存储库。**
 
 ```yaml
 name: traffic2badge
@@ -85,11 +99,13 @@ jobs:
           ls -a
 ```
 
-## 协议
+**说明:**
 
-[MIT](./LICENSE)
+1. [`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator) 生成用于 `static_list`用法的 `repoList` 。
+2. [`github-script`](https://github.com/marketplace/actions/github-script) 生成提交信息.
+3. [`actions-gh-pages`](https://github.com/marketplace/actions/github-pages-action) 将流量数据推送到 `traffic_branch` 。
 
-## 鸣谢
+## 🎉 鸣谢
 
 - [sangonzal/repository-traffic-action](https://github.com/sangonzal/repository-traffic-action)
 - [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge)
@@ -97,3 +113,7 @@ jobs:
 - [actions/github-script](https://github.com/actions/github-script)
 - [yi-Xu-0100/repo-list-generator](https://github.com/yi-Xu-0100/repo-list-generator)
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)
+
+## 📄 协议
+
+- [MIT](./LICENSE)

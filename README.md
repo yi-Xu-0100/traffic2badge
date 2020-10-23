@@ -1,4 +1,4 @@
-## traffic2badge
+## ⚡️ traffic2badge
 
 [![sync2gitee(list)](<https://github.com/yi-Xu-0100/hub-mirror/workflows/sync2gitee(list)/badge.svg>)](https://github.com/yi-Xu-0100/hub-mirror)
 [![traffic2badge](https://github.com/yi-Xu-0100/traffic2badge/workflows/traffic2badge/badge.svg)](https://github.com/yi-Xu-0100/traffic2badge/actions?query=workflow%3Atraffic2badge)
@@ -8,19 +8,33 @@
 [![GitHub views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
 [![GitHub clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic-to-badge/tree/traffic)
 
-Template usage repository of [GitHub Action traffic-to-badge](https://github.com/marketplace/actions/traffic-to-badge), you can use repositories `Insights/traffic` data to generate badges that include views and clones.
+Usage template repository of [traffic-to-badge GitHub Action](https://github.com/marketplace/actions/traffic-to-badge), you can use repositories `Insights/traffic` data to generate badges that include views and clones.
 
-## Table of Contents
+## 🎨 Table of contents
 
-- [traffic2badge](#traffic2badge)
-- [Table of Contents](#table-of-contents)
-  - [usage for repo list](#usage-for-repo-list)
-- [Thanks](#thanks)
-- [LICENSE](#license)
+- [⚡️ traffic2badge](#️-traffic2badge)
+- [🎨 Table of contents](#-table-of-contents)
+- [🚀 Configuration](#-configuration)
+  - [📝 Usage for `static_list`](#-usage-for-static_list)
+- [🎉 Thanks](#-thanks)
+- [📄 LICENSE](#-license)
 
-### usage for repo list
+## 🚀 Configuration
 
-**Default repository list do not include private and fork repositories.**
+There are **two inputs must be set up** and three inputs can be set to default without config.
+
+|     input      |                            description                             | required |   default   |
+| :------------: | :----------------------------------------------------------------: | :------: | :---------: |
+|    my_token    | Personal access token to obtain the secret repository traffic data |    ✔     |             |
+|  static_list   |             List of repositories which want to be got              |    ✔     |             |
+| traffic_branch |                Branch used to back up traffic data                 |    ✖     |   traffic   |
+|  views_color   |             Color value for the views badge background             |    ✖     | brightgreen |
+|  clones_color  |            Color value for the clones badge background             |    ✖     | brightgreen |
+|      logo      |            logo or simple-icon to the left of the label            |    ✖     |   github    |
+
+### 📝 Usage for `static_list`
+
+**[`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator): Default output `repoList` do not include private and fork repositories.**
 
 ```yaml
 name: traffic2badge
@@ -85,7 +99,13 @@ jobs:
           ls -a
 ```
 
-## Thanks
+**Explanation:**
+
+1. [`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator) generates `repoList` for `static_list` usage.
+2. [`github-script`](https://github.com/marketplace/actions/github-script) generates message for commit.
+3. [`actions-gh-pages`](https://github.com/marketplace/actions/github-pages-action) publish traffic data to `traffic_branch`.
+
+## 🎉 Thanks
 
 - [sangonzal/repository-traffic-action](https://github.com/sangonzal/repository-traffic-action)
 - [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge)
@@ -94,6 +114,6 @@ jobs:
 - [yi-Xu-0100/repo-list-generator](https://github.com/yi-Xu-0100/repo-list-generator)
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)
 
-## LICENSE
+## 📄 LICENSE
 
-[MIT](./LICENSE)
+- [MIT](./LICENSE)
