@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "yi-Xu-0100/traffic2badge: traffic to badge action usage template.",
+    "count": 27,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
+    "title": "yi-Xu-0100/traffic2badge at traffic",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/branches",
+    "title": "Branches · yi-Xu-0100/traffic2badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/commits/traffic",
+    "title": "Commits · yi-Xu-0100/traffic2badge",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/runs/1284288897",
+    "title": "🚑 fix version error · yi-Xu-0100/traffic2badge@622767b",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/commit/d2564299738c13a52ea492ea1b187c91e0b1977b",
+    "title": "🚑 fix version error · yi-Xu-0100/traffic2badge@d256429",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/graphs/traffic",
+    "title": "Traffic · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/pulls",
+    "title": "Pull requests · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/pulse",
+    "title": "Pulse · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/runs/1284275173",
+    "title": "🎉 init repo · yi-Xu-0100/traffic2badge@7919cd1",
+    "count": 1,
+    "uniques": 1
+  }
+]
