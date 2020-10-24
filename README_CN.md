@@ -10,6 +10,8 @@
 
 本模板仓库使用 [traffic-to-badge GitHub Action](https://github.com/marketplace/actions/traffic-to-badge)，您可以使用存储库 `Insights/traffic` 数据来生成包含浏览数和克隆数的徽章。
 
+[**简体中文**](./README_CN.md) | [English](./README.md)
+
 ## 🎨 目录
 
 - [⚡️ traffic2badge](#️-traffic2badge)
@@ -21,16 +23,16 @@
 
 ## 🚀 配置说明
 
-**必须设置两个输入参数**，并且有三个输入参数会使用默认值而无需设置。
+**仅仅必须设置一个输入参数**，并且有四个输入参数会使用默认值而无需设置，默认设置只支持运行仓库，需要多仓库支持，请参考[使用 `static_list` 的示例](#-使用-static_list-的示例)。
 
-|    输入参数    |                   描述                   | required |   default   |
-| :------------: | :--------------------------------------: | :------: | :---------: |
-|    my_token    | 用以获取私密存储库流量数据的个人访问令牌 |    ✔     |             |
-|  static_list   |           想要获取的存储库列表           |    ✔     |             |
-| traffic_branch |          用于备份流量数据的分支          |    ✖     |   traffic   |
-|  views_color   |          浏览数徽章背景的颜色值          |    ✖     | brightgreen |
-|  clones_color  |          克隆数徽章背景的颜色值          |    ✖     | brightgreen |
-|      logo      |        标签左侧的徽标或者简单图标        |    ✖     |   github    |
+|    输入参数    |                   描述                   | required |      default      |
+| :------------: | :--------------------------------------: | :------: | :---------------: |
+|    my_token    | 用以获取私密存储库流量数据的个人访问令牌 |    ✔     |                   |
+|  static_list   |           想要获取的存储库列表           |    ✖     | github.repository |
+| traffic_branch |          用于备份流量数据的分支          |    ✖     |      traffic      |
+|  views_color   |          浏览数徽章背景的颜色值          |    ✖     |    brightgreen    |
+|  clones_color  |          克隆数徽章背景的颜色值          |    ✖     |    brightgreen    |
+|      logo      |        标签左侧的徽标或者简单图标        |    ✖     |      github       |
 
 ### 📝 使用 `static_list` 的示例
 
@@ -74,14 +76,14 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.3
+        uses: yi-Xu-0100/traffic-to-badge@v1.1.4
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
-          traffic_branch: traffic
-          views_color: brightgreen
-          clones_color: brightgreen
-          logo: github
+          #(default) traffic_branch: traffic
+          #(default) views_color: brightgreen
+          #(default) clones_color: brightgreen
+          #(default) logo: github
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3

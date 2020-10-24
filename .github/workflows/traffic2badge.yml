@@ -11,7 +11,7 @@ jobs:
     name: Make GitHub Traffic to Badge
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout Code
         uses: actions/checkout@v2.3.3
 
       - name: Get Repo List
@@ -35,14 +35,14 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.3
+        uses: yi-Xu-0100/traffic-to-badge@v1.1.4
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
-          traffic_branch: traffic
-          views_color: brightgreen
-          clones_color: brightgreen
-          logo: github
+          #(default) traffic_branch: traffic
+          #(default) views_color: brightgreen
+          #(default) clones_color: brightgreen
+          #(default) logo: github
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3

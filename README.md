@@ -10,6 +10,8 @@
 
 Usage template repository of [traffic-to-badge GitHub Action](https://github.com/marketplace/actions/traffic-to-badge), you can use repositories `Insights/traffic` data to generate badges that include views and clones.
 
+[**English**](./README.md) | [简体中文](./README_CN.md)
+
 ## 🎨 Table of contents
 
 - [⚡️ traffic2badge](#️-traffic2badge)
@@ -21,20 +23,20 @@ Usage template repository of [traffic-to-badge GitHub Action](https://github.com
 
 ## 🚀 Configuration
 
-There are **two inputs must be set up** and three inputs can be set to default without config.
+There are **only one input must be set up** and four inputs can be set to default without config. The default setting only supports running repository, and if repositories support is required, please refer to [Usage for `static_list`](#-usage-for-static_list).
 
-|     input      |                            description                             | required |   default   |
-| :------------: | :----------------------------------------------------------------: | :------: | :---------: |
-|    my_token    | Personal access token to obtain the secret repository traffic data |    ✔     |             |
-|  static_list   |             List of repositories which want to be got              |    ✔     |             |
-| traffic_branch |                Branch used to back up traffic data                 |    ✖     |   traffic   |
-|  views_color   |             Color value for the views badge background             |    ✖     | brightgreen |
-|  clones_color  |            Color value for the clones badge background             |    ✖     | brightgreen |
-|      logo      |            logo or simple-icon to the left of the label            |    ✖     |   github    |
+|     input      |                            description                             | required |      default      |
+| :------------: | :----------------------------------------------------------------: | :------: | :---------------: |
+|    my_token    | Personal access token to obtain the secret repository traffic data |    ✔     |                   |
+|  static_list   |             List of repositories which want to be got              |    ✖     | github.repository |
+| traffic_branch |                Branch used to back up traffic data                 |    ✖     |      traffic      |
+|  views_color   |             Color value for the views badge background             |    ✖     |    brightgreen    |
+|  clones_color  |            Color value for the clones badge background             |    ✖     |    brightgreen    |
+|      logo      |            logo or simple-icon to the left of the label            |    ✖     |      github       |
 
 ### 📝 Usage for `static_list`
 
-**[`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator): Default output `repoList` do not include private and fork repositories.**
+**[`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator): Default output `repoList` do not include `private` and `fork` repositories.**
 
 ```yaml
 name: traffic2badge
@@ -74,14 +76,14 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.3
+        uses: yi-Xu-0100/traffic-to-badge@v1.1.4
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
-          traffic_branch: traffic
-          views_color: brightgreen
-          clones_color: brightgreen
-          logo: github
+          #(default) traffic_branch: traffic
+          #(default) views_color: brightgreen
+          #(default) clones_color: brightgreen
+          #(default) logo: github
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
