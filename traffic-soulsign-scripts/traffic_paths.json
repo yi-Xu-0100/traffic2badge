@@ -36,12 +36,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/9682fbbcb0567c5570b63a5cb3bacf69b42aaaff/scripts/club.aliyun.com.js",
-    "title": "soulsign-scripts/club.aliyun.com.js at 9682fbbcb0567c5570b63a5cb3bacf69b42aaa...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
     "title": "soulsign-scripts/conf.json at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/graphs/traffic",
     "title": "Traffic · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/pulse",
+    "title": "Pulse · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
