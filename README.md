@@ -103,9 +103,11 @@ jobs:
 
 **Explanation:**
 
-1. [`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator) generates `repoList` for `static_list` usage.
-2. [`github-script`](https://github.com/marketplace/actions/github-script) generates message for commit.
-3. [`actions-gh-pages`](https://github.com/marketplace/actions/github-pages-action) publish traffic data to `traffic_branch`.
+1. The [`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator) generates `repoList` for `static_list` usage.
+2. THe [`github-script`](https://github.com/marketplace/actions/github-script) generates message for commit.
+3. The [`actions-gh-pages`](https://github.com/marketplace/actions/github-pages-action) publish traffic data to `traffic_branch`.
+4. THe `TRAFFIC_TOKEN` needs to be generated, the guild in [Generate `my_token`](https://github.com/yi-Xu-0100/traffic-to-badge#-generate-my_token) .
+5. The `GITHUB_TOKEN` does not need to be generated，only reference it in your workflow file，and the guide in [Using the `GITHUB_TOKEN` in a workflow](https://docs.github.com/en/free-pro-team@latest/actions/reference/authentication-in-a-workflow#using-the-github_token-in-a-workflow) .
 
 ## 🎉 Thanks
 
