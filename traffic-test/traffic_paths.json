@@ -1,9 +1,15 @@
 [
   {
     "path": "/yi-Xu-0100/test/actions",
-    "title": "Actions · yi-Xu-0100/test",
-    "count": 10,
-    "uniques": 1
+    "title": "Actions · yi-Xu-0100/test · GitHub",
+    "count": 11,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/test",
+    "title": "yi-Xu-0100/test: test",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/test/runs/1247866786",
@@ -12,10 +18,10 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test",
-    "title": "yi-Xu-0100/test: test",
-    "count": 4,
-    "uniques": 2
+    "path": "/yi-Xu-0100/test/commits/main",
+    "title": "Commits · yi-Xu-0100/test",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/test/actions/runs/304462660",
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/test/tree/main/.github",
     "title": "test/.github at main · yi-Xu-0100/test",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/tree/main/.github/workflows",
-    "title": "test/.github/workflows at main · yi-Xu-0100/test",
     "count": 2,
     "uniques": 1
   }
