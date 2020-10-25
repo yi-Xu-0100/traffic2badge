@@ -105,7 +105,7 @@ jobs:
 
 1. [`repo-list-generator`](https://github.com/marketplace/actions/repo-list-generator) 生成用于 `static_list`用法的 `repoList` 。
 2. [`github-script`](https://github.com/marketplace/actions/github-script) 生成提交信息。
-3. [`actions-gh-pages`](https://github.com/marketplace/actions/github-pages-action) 将流量数据推送到 `traffic_branch` 。
+3. [`actions-gh-pages`](https://github.com/marketplace/actions/github-pages-action) 将流量数据推送到 `traffic_branch` 。 使用的选项参考 [使用手册](https://github.com/marketplace/actions/github-pages-action#table-of-contents) 。
 4. 需要生成 `TRAFFIC_TOKEN` ， 教程在 [生成 `my_token`](https://github.com/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md#-生成-my_token) 。
 5. 不需要生成 `GITHUB_TOKEN` ，按照配置填写即可，说明文档在 [在工作流程中使用 `GITHUB_TOKEN`](https://docs.github.com/cn/free-pro-team@latest/actions/reference/authentication-in-a-workflow#在工作流程中使用-github_token) 。
 
