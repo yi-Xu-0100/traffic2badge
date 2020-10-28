@@ -1,26 +1,26 @@
 [
   {
     "referrer": "github.com",
-    "count": 21,
-    "uniques": 10
-  },
-  {
-    "referrer": "soulsign.inu1255.cn",
-    "count": 9,
-    "uniques": 8
-  },
-  {
-    "referrer": "Baidu",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "referrer": "github.yixuju.cn",
-    "count": 1,
-    "uniques": 1
+    "count": 18,
+    "uniques": 9
   },
   {
     "referrer": "Google",
+    "count": 15,
+    "uniques": 2
+  },
+  {
+    "referrer": "soulsign.inu1255.cn",
+    "count": 8,
+    "uniques": 7
+  },
+  {
+    "referrer": "Baidu",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "referrer": "github.yixuju.cn",
     "count": 1,
     "uniques": 1
   }
