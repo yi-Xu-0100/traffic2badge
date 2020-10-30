@@ -1,0 +1,17 @@
+[
+  {
+    "referrer": "github.com",
+    "count": 123,
+    "uniques": 17
+  },
+  {
+    "referrer": "v2ex.com",
+    "count": 6,
+    "uniques": 6
+  },
+  {
+    "referrer": "goodfirstissues.com",
+    "count": 4,
+    "uniques": 2
+  }
+]
