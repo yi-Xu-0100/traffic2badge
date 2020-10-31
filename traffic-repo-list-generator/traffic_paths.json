@@ -2,19 +2,25 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 47,
+    "count": 61,
     "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
     "title": "Actions · yi-Xu-0100/repo-list-generator",
-    "count": 16,
+    "count": 31,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/commits/main",
     "title": "Commits · yi-Xu-0100/repo-list-generator",
-    "count": 6,
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/313377219",
+    "title": "📈 test root · yi-Xu-0100/repo-list-generator@712457e",
+    "count": 4,
     "uniques": 1
   },
   {
@@ -30,8 +36,20 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/313243628",
+    "title": "✅ test debug · yi-Xu-0100/repo-list-generator@a413151",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/315175068",
     "title": "🐛 fix action error · yi-Xu-0100/repo-list-generator@0cb9b5d",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/releases",
+    "title": "Releases · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 1
   },
@@ -39,24 +57,6 @@
     "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.2.1",
     "title": "Release Release v0.2.1 · yi-Xu-0100/repo-list-generator",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/315159322",
-    "title": "✅ test default token · yi-Xu-0100/repo-list-generator@175973d",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/network/members",
-    "title": "Forks · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases",
-    "title": "Releases · yi-Xu-0100/repo-list-generator",
-    "count": 2,
     "uniques": 1
   }
 ]
