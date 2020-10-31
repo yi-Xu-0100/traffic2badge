@@ -76,7 +76,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.5
+        uses: yi-Xu-0100/traffic-to-badge@v1.1.6
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
@@ -84,6 +84,7 @@ jobs:
           #(default) views_color: brightgreen
           #(default) clones_color: brightgreen
           #(default) logo: github
+          year: 2020
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
