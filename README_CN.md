@@ -33,6 +33,7 @@
 |  views_color   |          浏览数徽章背景的颜色值          |    ✖     |    brightgreen    |
 |  clones_color  |          克隆数徽章背景的颜色值          |    ✖     |    brightgreen    |
 |      logo      |        标签左侧的徽标或者简单图标        |    ✖     |      github       |
+|      year      |              许可证起始年份              |    ✖     |                   |
 
 ### 📝 使用 `static_list` 的示例
 
