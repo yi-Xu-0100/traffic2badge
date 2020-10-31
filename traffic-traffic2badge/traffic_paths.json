@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 139,
+    "count": 140,
     "uniques": 57
   },
   {
@@ -14,7 +14,7 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
     "title": "yi-Xu-0100/traffic2badge at traffic",
-    "count": 15,
+    "count": 16,
     "uniques": 7
   },
   {
@@ -48,15 +48,15 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/commits/traffic",
+    "title": "Commits · yi-Xu-0100/traffic2badge",
+    "count": 5,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/issues",
     "title": "Issues · yi-Xu-0100/traffic2badge",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/actions/runs/325232170",
-    "title": "📝 Add token guide · yi-Xu-0100/traffic2badge@bc404ae",
-    "count": 4,
-    "uniques": 1
   }
 ]
