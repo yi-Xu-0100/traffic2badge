@@ -1,14 +1,12 @@
-name: traffic2badge
+name: test
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
   schedule:
-    - cron: 0 0 * * *'
+    - cron: '1 0 * * *'
 
 jobs:
   run:
-    name: Make GitHub Traffic to Badge
+    name: Make GitHub Traffic to Badge with main branch
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -35,15 +33,15 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.6
+        uses: yi-Xu-0100/traffic-to-badge@main
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
-          #(default) traffic_branch: traffic
+          traffic_branch: testTraffic
           #(default) views_color: brightgreen
           #(default) clones_color: brightgreen
           #(default) logo: github
-          year: 2020
+          year: 2019
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
