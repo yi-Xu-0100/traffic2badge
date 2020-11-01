@@ -1,6 +1,11 @@
 name: test
 on:
   workflow_dispatch:
+    inputs:
+      test:
+        description: 'test'
+        required: false
+        default: 'test'
   schedule:
     - cron: '1 0 * * *'
 
