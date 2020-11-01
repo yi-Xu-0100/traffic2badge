@@ -32,8 +32,8 @@ There are **only one input must be set up** and four inputs can be set to defaul
 | traffic_branch |                Branch used to back up traffic data                 |    ✖     |      traffic      |
 |  views_color   |             Color value for the views badge background             |    ✖     |    brightgreen    |
 |  clones_color  |            Color value for the clones badge background             |    ✖     |    brightgreen    |
-|      logo      |            logo or simple-icon to the left of the label            |    ✖     |      github       |
-|      year      |                      year for license startup                      |    ✖     |                   |
+|      logo      |            Logo or simple-icon to the left of the label            |    ✖     |      github       |
+|      year      |                      Year for license startup                      |    ✖     |                   |
 
 ### 📝 Usage for `static_list`
 

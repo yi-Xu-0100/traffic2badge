@@ -2,16 +2,30 @@ name: test
 on:
   workflow_dispatch:
     inputs:
-      test:
-        description: 'test'
+      traffic_branch:
+        description: 'Branch used to back up traffic data'
         required: false
-        default: 'test'
-  schedule:
-    - cron: '1 0 * * *'
+        default: 'testTraffic'
+      views_color:
+        description: 'Color value for the views badge background'
+        required: false
+        default: 'brightgreen'
+      clones_color:
+        description: 'Color value for the clones badge background'
+        required: false
+        default: 'brightgreen'
+      logo:
+        description: 'Logo or simple-icon to the left of the label'
+        required: false
+        default: 'github'
+      year:
+        description: 'Year for license startup'
+        required: false
+        default: '2019'
 
 jobs:
   run:
-    name: Make GitHub Traffic to Badge with main branch
+    name: Test Traffic to Badge with main branch
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -36,17 +50,17 @@ jobs:
             core.info(time);
             return `Get traffic data at ${time}`;
 
-      - name: Set traffic
+      - name: Set Traffic
         id: traffic
         uses: yi-Xu-0100/traffic-to-badge@main
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
-          static_list: '${{ steps.repo.outputs.repoList }}'
-          traffic_branch: testTraffic
-          #(default) views_color: brightgreen
-          #(default) clones_color: brightgreen
-          #(default) logo: github
-          year: 2019
+          static_list: ${{ steps.repo.outputs.repoList }}
+          traffic_branch: ${{ github.event.inputs.traffic_branch }}
+          views_color: ${{ github.event.inputs.views_color }}
+          clones_color: ${{ github.event.inputs.clones_color }}
+          logo: ${{ github.event.inputs.logo }}
+          year: ${{ github.event.inputs.year }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
@@ -60,5 +74,6 @@ jobs:
 
       - name: Show traffic data
         run: |
+          echo ${{ steps.traffic.outputs.traffic_branch }}
           cd ${{ steps.traffic.outputs.traffic_path }}
           ls -a
