@@ -2,26 +2,26 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 49,
+    "count": 32,
     "uniques": 11
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator",
-    "count": 16,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/commits/main",
-    "title": "Commits · yi-Xu-0100/repo-list-generator",
-    "count": 6,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/releases",
     "title": "Releases · yi-Xu-0100/repo-list-generator",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/commits/main",
+    "title": "Commits · yi-Xu-0100/repo-list-generator",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.3.0",
@@ -36,27 +36,27 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/315175068",
-    "title": "🐛 fix action error · yi-Xu-0100/repo-list-generator@0cb9b5d",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.2.1",
-    "title": "Release Release v0.2.1 · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/315159322",
-    "title": "✅ test default token · yi-Xu-0100/repo-list-generator@175973d",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/network/members",
     "title": "Forks · yi-Xu-0100/repo-list-generator",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/runs/1280418405",
+    "title": "🔖 release v0.3.0 · yi-Xu-0100/repo-list-generator@47509de",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/commit/d089cac2b2541b70e74bfe50e76bbf95e71ea563",
+    "title": "✅ test ACTIONS_RUNTIME_TOKEN · yi-Xu-0100/repo-list-generator@d089cac",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/4",
+    "title": "Bump eslint-config-prettier from 6.13.0 to 6.14.0 by dependabot · Pull Reques...",
+    "count": 1,
     "uniques": 1
   }
 ]

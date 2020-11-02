@@ -12,12 +12,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/master/Configuration/ClashForWindows",
-    "title": "Application-Lists/Configuration/ClashForWindows at master · yi-Xu-0100/Applic...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/master/Configuration/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/cfw-settings.yaml at master · yi-Xu-0100/Application-Lists",
     "count": 1,
@@ -44,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/stargazers",
     "title": "Stargazers · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/master/Configuration/ClashForWindows",
+    "title": "Application-Lists/Configuration/ClashForWindows at master · yi-Xu-0100/Applic...",
     "count": 1,
     "uniques": 1
   }
