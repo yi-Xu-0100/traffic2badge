@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 27,
+    "count": 24,
     "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
     "title": "Issues · yi-Xu-0100/repo-list-generator",
-    "count": 9,
+    "count": 10,
     "uniques": 2
   },
   {
@@ -30,14 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/network/members",
-    "title": "Forks · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/issues/9",
+    "title": "Add BlockList to make the output list exclude some repo · Issue #9 · yi-Xu-01...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.3.0",
-    "title": "Release Release v0.3.0 · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/network/members",
+    "title": "Forks · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   },

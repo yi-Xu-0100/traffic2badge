@@ -42,20 +42,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/test/pull/2",
+    "title": "Bump Yikun/hub-mirror-action from v0.10 to v0.11 by dependabot · Pull Request...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/pull/2/checks",
+    "title": "Bump Yikun/hub-mirror-action from v0.10 to v0.11 by dependabot · Pull Request...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/test/runs/1258327855",
     "title": "✅ test more repo · yi-Xu-0100/test@10bf658",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/search",
-    "title": "Search · env",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/tree/test",
-    "title": "yi-Xu-0100/test at test",
     "count": 1,
     "uniques": 1
   }
