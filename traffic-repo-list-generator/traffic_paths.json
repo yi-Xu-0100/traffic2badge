@@ -2,60 +2,60 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 49,
-    "uniques": 11
+    "count": 31,
+    "uniques": 13
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/issues",
+    "title": "Issues · yi-Xu-0100/repo-list-generator",
+    "count": 10,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
     "title": "Actions · yi-Xu-0100/repo-list-generator",
-    "count": 16,
+    "count": 5,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/commits/main",
     "title": "Commits · yi-Xu-0100/repo-list-generator",
-    "count": 6,
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
+    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator · Git...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
+    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/releases",
     "title": "Releases · yi-Xu-0100/repo-list-generator",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.3.0",
-    "title": "Release Release v0.3.0 · yi-Xu-0100/repo-list-generator",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/CHANGELOG.md",
-    "title": "repo-list-generator/CHANGELOG.md at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/315175068",
-    "title": "🐛 fix action error · yi-Xu-0100/repo-list-generator@0cb9b5d",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.2.1",
-    "title": "Release Release v0.2.1 · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
+    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/315159322",
-    "title": "✅ test default token · yi-Xu-0100/repo-list-generator@175973d",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/dist/index.js",
+    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/network/members",
-    "title": "Forks · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/issues/9",
+    "title": "Add BlockList to make the output list exclude some repo · Issue #9 · yi-Xu-01...",
     "count": 2,
     "uniques": 1
   }

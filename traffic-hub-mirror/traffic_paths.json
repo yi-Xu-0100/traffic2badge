@@ -3,60 +3,60 @@
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitH...",
     "count": 33,
-    "uniques": 14
+    "uniques": 17
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions",
+    "title": "Actions · yi-Xu-0100/hub-mirror",
+    "count": 28,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
     "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 10,
+    "count": 8,
     "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
     "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 8,
+    "count": 6,
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/autoRelease.yml",
-    "title": "hub-mirror/autoRelease.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions",
-    "title": "Actions · yi-Xu-0100/hub-mirror",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/CHANGELOG.md",
-    "title": "hub-mirror/CHANGELOG.md at main · yi-Xu-0100/hub-mirror",
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/342151393",
+    "title": "Merge pull request #7 from yi-Xu-0100/dependabot/github_actions/Yikun/hub-mir...",
     "count": 5,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/dependabot.yml",
-    "title": "hub-mirror/dependabot.yml at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/network/members",
     "title": "Forks · yi-Xu-0100/hub-mirror",
-    "count": 4,
+    "count": 3,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "Issues · yi-Xu-0100/hub-mirror",
-    "count": 4,
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/331908250",
+    "title": "Merge pull request #6 from yi-Xu-0100/dependabot/github_actions/yi-Xu-0100/re...",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
-    "title": "yi-Xu-0100/hub-mirror: 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitH...",
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/339350651",
+    "title": "Merge pull request #6 from yi-Xu-0100/dependabot/github_actions/yi-Xu-0100/re...",
     "count": 3,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/342844153",
+    "title": "💚 Fix for pull error · yi-Xu-0100/hub-mirror@efc7c70",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
+    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 3,
+    "uniques": 1
   }
 ]
