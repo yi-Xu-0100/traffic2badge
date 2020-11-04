@@ -2,13 +2,19 @@
   {
     "path": "/yi-Xu-0100/Learn-for-coding",
     "title": "yi-Xu-0100/Learn-for-coding: 个人创作的一些简陋代码。",
-    "count": 5,
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Learn-for-coding/branches",
     "title": "Branches · yi-Xu-0100/Learn-for-coding",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Learn-for-coding/blob/7e00f29a367b7ca305d02df6cbea389f08927e02/python/email/emailserver.py",
+    "title": "Learn-for-coding/emailserver.py at 7e00f29a367b7ca305d02df6cbea389f08927e02 ·...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/Learn-for-coding/tree/master/matlab/functionForExamination",
     "title": "Learn-for-coding/matlab/functionForExamination at master · yi-Xu-0100/Learn-f...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Learn-for-coding/tree/master/MyTool",
-    "title": "Learn-for-coding/MyTool at master · yi-Xu-0100/Learn-for-coding",
     "count": 1,
     "uniques": 1
   }
