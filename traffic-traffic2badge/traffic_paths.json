@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 151,
+    "count": 149,
     "uniques": 61
   },
   {
@@ -18,16 +18,16 @@
     "uniques": 17
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
-    "title": "yi-Xu-0100/traffic2badge at traffic",
-    "count": 13,
-    "uniques": 7
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github/workflows",
     "title": "traffic2badge/.github/workflows at main · yi-Xu-0100/traffic2badge",
     "count": 13,
     "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
+    "title": "yi-Xu-0100/traffic2badge at traffic",
+    "count": 12,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",

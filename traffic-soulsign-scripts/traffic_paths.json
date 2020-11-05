@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 37,
-    "uniques": 16
+    "count": 34,
+    "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -12,26 +12,8 @@
     "uniques": 9
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
-    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/.github/workflows/stale.yml",
     "title": "soulsign-scripts/stale.yml at main · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/6",
-    "title": "wnflb签到 不在线 · Issue #6 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   },
@@ -54,8 +36,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
+    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github/workflows",
     "title": "soulsign-scripts/.github/workflows at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
