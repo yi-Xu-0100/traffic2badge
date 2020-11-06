@@ -27,15 +27,17 @@ Usage template repository of [traffic-to-badge GitHub Action](https://github.com
 
 There are **only one input must be set up** and four inputs can be set to default without config. The default setting only supports running repository, and if repositories support is required, please refer to [Usage for `static_list`](#-usage-for-static_list).
 
-|     input      |                            description                             | required |      default      |
-| :------------: | :----------------------------------------------------------------: | :------: | :---------------: |
-|    my_token    | Personal access token to obtain the secret repository traffic data |    ✔     |                   |
-|  static_list   |             List of repositories which want to be got              |    ✖     | github.repository |
-| traffic_branch |                Branch used to back up traffic data                 |    ✖     |      traffic      |
-|  views_color   |             Color value for the views badge background             |    ✖     |    brightgreen    |
-|  clones_color  |            Color value for the clones badge background             |    ✖     |    brightgreen    |
-|      logo      |            Logo or simple-icon to the left of the label            |    ✖     |      github       |
-|      year      |                      Year for license startup                      |    ✖     |                   |
+|       input       |                            description                             | required |      default      |
+| :---------------: | :----------------------------------------------------------------: | :------: | :---------------: |
+|     my_token      | Personal access token to obtain the secret repository traffic data |    ✔     |                   |
+|    static_list    |             List of repositories which want to be got              |    ✖     | github.repository |
+|  traffic_branch   |                Branch used to back up traffic data                 |    ✖     |      traffic      |
+|    views_color    |             Color value for the views badge background             |    ✖     |    brightgreen    |
+|   clones_color    |            Color value for the clones badge background             |    ✖     |    brightgreen    |
+| views_week_color  |      Color value for the views in past week badge background       |    ✖     |    brightgreen    |
+| clones_week_color |      Color value for the clones in past week badge background      |    ✖     |    brightgreen    |
+|       logo        |            Logo or simple-icon to the left of the label            |    ✖     |      github       |
+|       year        |                      Year for license startup                      |    ✖     |                   |
 
 ### 📝 Usage for `static_list`
 

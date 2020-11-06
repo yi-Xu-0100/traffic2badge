@@ -27,15 +27,17 @@
 
 **仅仅必须设置一个输入参数**，并且有四个输入参数会使用默认值而无需设置，默认设置只支持运行仓库，需要多仓库支持，请参考[使用 `static_list` 的示例](#-使用-static_list-的示例)。
 
-|    输入参数    |                   描述                   | required |      default      |
-| :------------: | :--------------------------------------: | :------: | :---------------: |
-|    my_token    | 用以获取私密存储库流量数据的个人访问令牌 |    ✔     |                   |
-|  static_list   |           想要获取的存储库列表           |    ✖     | github.repository |
-| traffic_branch |          用于备份流量数据的分支          |    ✖     |      traffic      |
-|  views_color   |          浏览数徽章背景的颜色值          |    ✖     |    brightgreen    |
-|  clones_color  |          克隆数徽章背景的颜色值          |    ✖     |    brightgreen    |
-|      logo      |        标签左侧的徽标或者简单图标        |    ✖     |      github       |
-|      year      |              许可证起始年份              |    ✖     |                   |
+|     输入参数      |                   描述                   | required |      default      |
+| :---------------: | :--------------------------------------: | :------: | :---------------: |
+|     my_token      | 用以获取私密存储库流量数据的个人访问令牌 |    ✔     |                   |
+|    static_list    |           想要获取的存储库列表           |    ✖     | github.repository |
+|  traffic_branch   |          用于备份流量数据的分支          |    ✖     |      traffic      |
+|    views_color    |          浏览数徽章背景的颜色值          |    ✖     |    brightgreen    |
+|   clones_color    |          克隆数徽章背景的颜色值          |    ✖     |    brightgreen    |
+| views_week_color  |      过去一周浏览数徽章背景的颜色值      |    ✖     |    brightgreen    |
+| clones_week_color |      过去一周克隆数徽章背景的颜色值      |    ✖     |    brightgreen    |
+|       logo        |        标签左侧的徽标或者简单图标        |    ✖     |      github       |
+|       year        |              许可证起始年份              |    ✖     |                   |
 
 ### 📝 使用 `static_list` 的示例
 
