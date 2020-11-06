@@ -1,19 +1,31 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/pull/10",
     "title": "Bump lint-staged from 10.5.0 to 10.5.1 by dependabot · Pull Request #10 · yi-...",
     "count": 3,
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/license-generator",
+    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/commits/main",
+    "title": "Commits · yi-Xu-0100/license-generator",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/license-generator/pull/11",
     "title": "Bump Yikun/hub-mirror-action from v0.10 to v0.11 by dependabot · Pull Request...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/pull/12",
+    "title": "Bump actions/checkout from v2.3.3 to v2.3.4 by dependabot · Pull Request #12 ...",
     "count": 1,
     "uniques": 1
   },
