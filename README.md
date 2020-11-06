@@ -56,7 +56,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2.3.3
+        uses: actions/checkout@v2.3.4
 
       - name: Get Repo List
         id: repo
@@ -79,13 +79,15 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.1.6
+        uses: yi-Xu-0100/traffic-to-badge@v1.2.1
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
           #(default) traffic_branch: traffic
           #(default) views_color: brightgreen
           #(default) clones_color: brightgreen
+          #(default) views_week_color: brightgreen
+          #(default) clones_week_color: brightgreen
           #(default) logo: github
           year: 2020
 
