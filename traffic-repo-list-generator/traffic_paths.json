@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 22,
-    "uniques": 10
+    "count": 21,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/dist/index.js",
     "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/network/members",
     "title": "Forks · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/dist",
-    "title": "repo-list-generator/dist at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   }
