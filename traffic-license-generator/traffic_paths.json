@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/pull/10",
     "title": "Bump lint-staged from 10.5.0 to 10.5.1 by dependabot · Pull Request #10 · yi-...",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator",
+    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/license-generator/commits/main",
@@ -32,12 +32,6 @@
   {
     "path": "/yi-Xu-0100/license-generator/pull/13",
     "title": "Bump @vercel/ncc from 0.24.1 to 0.25.0 by dependabot · Pull Request #13 · yi-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/pull/6",
-    "title": "Bump eslint from 7.11.0 to 7.12.0 by dependabot · Pull Request #6 · yi-Xu-010...",
     "count": 1,
     "uniques": 1
   },
