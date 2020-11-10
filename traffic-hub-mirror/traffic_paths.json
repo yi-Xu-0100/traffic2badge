@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitH...",
-    "count": 27,
-    "uniques": 12
+    "count": 25,
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/342151393",
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
-    "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/341347501",
     "title": "Merge pull request #7 from yi-Xu-0100/dependabot/github_actions/Yikun/hub-mir...",
     "count": 2,
@@ -57,6 +51,12 @@
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/341584722",
     "title": "Merge pull request #7 from yi-Xu-0100/dependabot/github_actions/Yikun/hub-mir...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/344062599",
+    "title": "💚 Fix for pull error · yi-Xu-0100/hub-mirror@efc7c70",
+    "count": 1,
     "uniques": 1
   }
 ]
