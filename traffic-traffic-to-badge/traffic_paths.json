@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 56,
-    "uniques": 8
+    "count": 50,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues",
     "title": "Issues · yi-Xu-0100/traffic-to-badge",
-    "count": 43,
-    "uniques": 3
+    "count": 40,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/29",
@@ -18,9 +18,21 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/35",
+    "title": "Bump eslint from 7.12.1 to 7.13.0 by dependabot · Pull Request #35 · yi-Xu-01...",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pulls",
+    "title": "Pull requests · yi-Xu-0100/traffic-to-badge",
+    "count": 8,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/traffic",
     "title": "yi-Xu-0100/traffic-to-badge at traffic",
-    "count": 16,
+    "count": 5,
     "uniques": 2
   },
   {
@@ -28,12 +40,6 @@
     "title": "New Issue · yi-Xu-0100/traffic-to-badge",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/traffic/README.md",
-    "title": "traffic-to-badge/README.md at traffic · yi-Xu-0100/traffic-to-badge",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/releases",
     "title": "Releases · yi-Xu-0100/traffic-to-badge",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.1.6",
-    "title": "Release Release v1.1.6 · yi-Xu-0100/traffic-to-badge",
     "count": 4,
     "uniques": 1
   }

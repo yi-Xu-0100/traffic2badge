@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 54,
-    "uniques": 8
+    "count": 53,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/testTraffic",
@@ -18,16 +18,16 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
+    "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63 · GitHub",
+    "count": 9,
+    "uniques": 8
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github/workflows",
     "title": "traffic2badge/.github/workflows at main · yi-Xu-0100/traffic2badge",
     "count": 9,
     "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
-    "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63 · GitHub",
-    "count": 8,
-    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",

@@ -6,8 +6,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/javascript-action/pull/7",
-    "title": "Bump eslint-config-prettier from 6.14.0 to 6.15.0 by dependabot · Pull Reques...",
+    "path": "/yi-Xu-0100/javascript-action/pull/11",
+    "title": "Bump @vercel/ncc from 0.25.0 to 0.25.1 by dependabot · Pull Request #11 · yi-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/javascript-action/pull/12",
+    "title": "Bump eslint from 7.12.1 to 7.13.0 by dependabot · Pull Request #12 · yi-Xu-01...",
     "count": 1,
     "uniques": 1
   },
@@ -20,12 +26,6 @@
   {
     "path": "/yi-Xu-0100/javascript-action/pull/9",
     "title": "Bump actions/checkout from v2.3.3 to v2.3.4 by dependabot · Pull Request #9 ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/javascript-action/pulls",
-    "title": "Pull requests · yi-Xu-0100/javascript-action",
     "count": 1,
     "uniques": 1
   }
