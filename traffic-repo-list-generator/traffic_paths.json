@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/releases",
     "title": "Releases · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 4,
@@ -34,12 +40,6 @@
     "title": "Add BlockList to make the output list exclude some repo · Issue #9 · yi-Xu-01...",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 3,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",

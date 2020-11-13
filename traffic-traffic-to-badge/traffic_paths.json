@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 49,
+    "count": 47,
     "uniques": 7
   },
   {
@@ -36,12 +36,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/tree/traffic",
-    "title": "yi-Xu-0100/traffic-to-badge at traffic",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
     "title": "Add note for traffic data · Issue #31 · yi-Xu-0100/traffic-to-badge",
     "count": 4,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/releases",
     "title": "Releases · yi-Xu-0100/traffic-to-badge",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.1.6",
+    "title": "Release Release v1.1.6 · yi-Xu-0100/traffic-to-badge",
     "count": 4,
     "uniques": 1
   }

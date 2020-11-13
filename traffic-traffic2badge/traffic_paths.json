@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/actions",
     "title": "Actions · yi-Xu-0100/traffic2badge",
-    "count": 62,
+    "count": 52,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 52,
-    "uniques": 7
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/testTraffic",
-    "title": "yi-Xu-0100/traffic2badge at testTraffic",
-    "count": 14,
-    "uniques": 1
+    "count": 47,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
@@ -24,15 +18,21 @@
     "uniques": 8
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/tree/testTraffic",
+    "title": "yi-Xu-0100/traffic2badge at testTraffic",
+    "count": 9,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github/workflows",
     "title": "traffic2badge/.github/workflows at main · yi-Xu-0100/traffic2badge",
-    "count": 9,
+    "count": 8,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",
     "title": "traffic2badge/.github at main · yi-Xu-0100/traffic2badge",
-    "count": 8,
+    "count": 7,
     "uniques": 3
   },
   {
@@ -42,21 +42,21 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/tree/test",
-    "title": "yi-Xu-0100/traffic2badge at test",
-    "count": 4,
+    "path": "/yi-Xu-0100/traffic2badge/search",
+    "title": "Search · Github script",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/tree/testTraffic/traffic-Application-Lists",
-    "title": "traffic2badge/traffic-Application-Lists at testTraffic · yi-Xu-0100/traffic2b...",
-    "count": 4,
-    "uniques": 1
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/339755562",
+    "title": "💚 update input for workflow_dispatch · yi-Xu-0100/traffic2badge@d721638",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/blob/main/.github/workflows/traffic2badge.yml",
     "title": "traffic2badge/traffic2badge.yml at main · yi-Xu-0100/traffic2badge",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   }
 ]
