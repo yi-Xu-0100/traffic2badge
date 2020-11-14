@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic2badge/actions",
-    "title": "Actions · yi-Xu-0100/traffic2badge",
-    "count": 52,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 47,
-    "uniques": 5
+    "count": 29,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions",
+    "title": "Actions · yi-Xu-0100/traffic2badge",
+    "count": 25,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
@@ -20,25 +20,19 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/testTraffic",
     "title": "yi-Xu-0100/traffic2badge at testTraffic",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/main/.github/workflows",
-    "title": "traffic2badge/.github/workflows at main · yi-Xu-0100/traffic2badge",
     "count": 8,
-    "uniques": 3
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",
     "title": "traffic2badge/.github at main · yi-Xu-0100/traffic2badge",
-    "count": 7,
+    "count": 3,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/blob/main/.github/workflows/test.yaml",
-    "title": "traffic2badge/test.yaml at main · yi-Xu-0100/traffic2badge",
-    "count": 6,
+    "path": "/yi-Xu-0100/traffic2badge/tree/main/.github/workflows",
+    "title": "traffic2badge/.github/workflows at main · yi-Xu-0100/traffic2badge",
+    "count": 3,
     "uniques": 2
   },
   {
@@ -54,9 +48,15 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/blob/main/.github/workflows/traffic2badge.yml",
-    "title": "traffic2badge/traffic2badge.yml at main · yi-Xu-0100/traffic2badge",
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/README_CN.md",
+    "title": "traffic2badge/README_CN.md at main · yi-Xu-0100/traffic2badge",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/339754533",
+    "title": "💚 update input for workflow_dispatch · yi-Xu-0100/traffic2badge@d721638",
+    "count": 2,
+    "uniques": 1
   }
 ]
