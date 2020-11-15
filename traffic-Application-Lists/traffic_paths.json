@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/master/Configuration/ClashForWindows/changeRule.js",
     "title": "Application-Lists/changeRule.js at master · yi-Xu-0100/Application-Lists · Gi...",
-    "count": 9,
-    "uniques": 6
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/master/Configuration/ClashForWindows/parser.js",
@@ -14,12 +14,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/master/Configuration/ClashForWindows",
     "title": "Application-Lists/Configuration/ClashForWindows at master · yi-Xu-0100/Applic...",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists",
-    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 3,
     "uniques": 2
   },
@@ -30,20 +24,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/commit/ba593f407cfa336469ec0b0e55ff8b3a9deabbbd",
-    "title": "增加 CFW 的配置文件 · yi-Xu-0100/Application-Lists@ba593f4 · GitHub",
-    "count": 1,
+    "path": "/yi-Xu-0100/Application-Lists",
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/edit/master/Configuration/ClashForWindows/parser.js",
     "title": "Editing Application-Lists/parser.js at master · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/master/Configuration",
-    "title": "Application-Lists/Configuration at master · yi-Xu-0100/Application-Lists · Gi...",
     "count": 1,
     "uniques": 1
   }

@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 55,
-    "uniques": 26
+    "count": 80,
+    "uniques": 31
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 42,
-    "uniques": 18
+    "count": 48,
+    "uniques": 19
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/9",
@@ -18,10 +18,28 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
+    "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts",
+    "count": 7,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/10",
     "title": "爱奇艺签到失败 · Issue #10 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/c72fa2a1e2724017961d6859239648ae584320ab/README.md",
+    "title": "soulsign-scripts/README.md at c72fa2a1e2724017961d6859239648ae584320ab · yi-X...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/4d11f527fa54ca8483a80514ad816bb39806b0ab",
+    "title": "📦 更新插件版本为 v2.3.0 · yi-Xu-0100/soulsign-scripts@4d11f52",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commits",
@@ -38,24 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
     "title": "Actions · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/9682fbbcb0567c5570b63a5cb3bacf69b42aaaff/scripts/zhiyou.smzdm.com.js",
-    "title": "soulsign-scripts/zhiyou.smzdm.com.js at 9682fbbcb0567c5570b63a5cb3bacf69b42aa...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/.github/workflows/stale.yml",
-    "title": "soulsign-scripts/stale.yml at main · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
-    "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
