@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitH...",
-    "count": 24,
-    "uniques": 10
+    "count": 22,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
     "title": "Actions · yi-Xu-0100/hub-mirror",
-    "count": 23,
+    "count": 15,
     "uniques": 1
   },
   {
@@ -30,18 +30,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/341347501",
-    "title": "Merge pull request #7 from yi-Xu-0100/dependabot/github_actions/Yikun/hub-mir...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/341584722",
-    "title": "Merge pull request #7 from yi-Xu-0100/dependabot/github_actions/Yikun/hub-mir...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/pull/9",
     "title": "Bump actions/cache from v2.1.2 to v2.1.3 by dependabot · Pull Request #9 · yi...",
     "count": 2,
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/pull/10",
     "title": "Bump yi-Xu-0100/repo-list-generator from v0.3.0 to v0.4.1 by dependabot · Pul...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/pull/8",
+    "title": "Bump actions/checkout from v2.3.3 to v2.3.4 by dependabot · Pull Request #8 ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/stargazers",
+    "title": "Stargazers · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }
