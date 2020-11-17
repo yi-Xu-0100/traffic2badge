@@ -2,31 +2,13 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitH...",
-    "count": 23,
+    "count": 16,
     "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
     "title": "Actions · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 16,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/342151393",
-    "title": "Merge pull request #7 from yi-Xu-0100/dependabot/github_actions/Yikun/hub-mir...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/342844153",
-    "title": "💚 Fix for pull error · yi-Xu-0100/hub-mirror@efc7c70",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
-    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -38,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/344062599",
     "title": "💚 Fix for pull error · yi-Xu-0100/hub-mirror@efc7c70",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
+    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   },

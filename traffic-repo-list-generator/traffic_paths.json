@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 20,
-    "uniques": 5
+    "count": 13,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
@@ -30,26 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
-    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator · Git...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/pull/14",
     "title": "Bump eslint from 7.12.1 to 7.13.0 by dependabot · Pull Request #14 · yi-Xu-01...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 1
   },
@@ -57,6 +39,24 @@
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/353052748",
     "title": "✨ add block_list support · yi-Xu-0100/repo-list-generator@2ebab1d",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/issues/9",
+    "title": "Add BlockList to make the output list exclude some repo · Issue #9 · yi-Xu-01...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/305803733",
+    "title": "✅ fetch error · yi-Xu-0100/repo-list-generator@594e7c9 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/LICENSE",
+    "title": "repo-list-generator/LICENSE at main · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]

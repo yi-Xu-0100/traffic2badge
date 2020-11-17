@@ -2,19 +2,19 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 43,
+    "count": 37,
     "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues",
     "title": "Issues · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 35,
+    "count": 31,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/29",
     "title": "question about analyze time of view counts · Issue #29 · yi-Xu-0100/traffic-t...",
-    "count": 23,
+    "count": 18,
     "uniques": 2
   },
   {
@@ -36,12 +36,6 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/new",
-    "title": "New Issue · yi-Xu-0100/traffic-to-badge",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
     "title": "Add note for traffic data · Issue #31 · yi-Xu-0100/traffic-to-badge",
     "count": 4,
@@ -58,5 +52,11 @@
     "title": "Actions · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases",
+    "title": "Releases · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 3,
+    "uniques": 2
   }
 ]
