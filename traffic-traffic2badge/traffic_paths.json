@@ -2,19 +2,31 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 15,
+    "count": 17,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/actions",
     "title": "Actions · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 7,
+    "count": 9,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/runs/365028119",
     "title": "Merge pull request #3 from yi-Xu-0100/dependabot/github_actions/yi-Xu-0100/re...",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
+    "title": "yi-Xu-0100/traffic2badge at traffic",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/345578347/workflow",
+    "title": "Merge pull request #2 from yi-Xu-0100/dependabot/github_actions/actions/check...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/pull/3",
     "title": "Bump yi-Xu-0100/repo-list-generator from v0.3.0 to v0.4.1 by dependabot · Pul...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",
-    "title": "traffic2badge/.github at main · yi-Xu-0100/traffic2badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/main/.github/workflows",
-    "title": "traffic2badge/.github/workflows at main · yi-Xu-0100/traffic2badge",
     "count": 1,
     "uniques": 1
   }
