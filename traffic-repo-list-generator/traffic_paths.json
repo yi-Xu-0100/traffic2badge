@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 13,
+    "count": 11,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/issues",
-    "title": "Issues · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 5,
-    "uniques": 1
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.4.1",
@@ -18,15 +18,15 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/353073585",
     "title": "🐛 fix debug file name · yi-Xu-0100/repo-list-generator@9ecd3fc",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/issues",
+    "title": "Issues · yi-Xu-0100/repo-list-generator",
+    "count": 3,
     "uniques": 1
   },
   {

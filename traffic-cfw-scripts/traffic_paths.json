@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/cfw-scripts",
+    "title": "yi-Xu-0100/cfw-scripts",
+    "count": 42,
+    "uniques": 12
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
+    "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/actions",
+    "title": "Actions · yi-Xu-0100/cfw-scripts",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
+    "title": "cfw-scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
+    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/actions/runs/365284500",
+    "title": "💚 test trggier for jsdoc · yi-Xu-0100/cfw-scripts@83c00c0",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/variables.json",
+    "title": "cfw-scripts/variables.json at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/releases",
+    "title": "Releases · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 1
+  }
+]

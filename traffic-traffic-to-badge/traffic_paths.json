@@ -2,25 +2,25 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 37,
-    "uniques": 8
+    "count": 32,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues",
     "title": "Issues · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 31,
+    "count": 28,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/29",
-    "title": "question about analyze time of view counts · Issue #29 · yi-Xu-0100/traffic-t...",
-    "count": 18,
+    "title": "Add new badges for views/week and clones/week · Issue #29 · yi-Xu-0100/traffi...",
+    "count": 9,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pulls",
     "title": "Pull requests · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 9,
+    "count": 8,
     "uniques": 2
   },
   {
@@ -36,6 +36,18 @@
     "uniques": 3
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/actions",
+    "title": "Actions · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases",
+    "title": "Releases · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
     "title": "Add note for traffic data · Issue #31 · yi-Xu-0100/traffic-to-badge",
     "count": 4,
@@ -46,17 +58,5 @@
     "title": "Add color option for week badge · Issue #33 · yi-Xu-0100/traffic-to-badge",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/actions",
-    "title": "Actions · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases",
-    "title": "Releases · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 3,
-    "uniques": 2
   }
 ]
