@@ -6,16 +6,16 @@
     "uniques": 5
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 5,
-    "uniques": 5
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.4.1",
     "title": "Release Release v0.4.1 · yi-Xu-0100/repo-list-generator",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/353073585",
