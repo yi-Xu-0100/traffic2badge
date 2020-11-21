@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 13,
-    "uniques": 5
+    "count": 15,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.4.1",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/305803733",
-    "title": "✅ fetch error · yi-Xu-0100/repo-list-generator@594e7c9 · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/309881143",
+    "title": "💚 update action workflow · yi-Xu-0100/repo-list-generator@fd7bd99 · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/309881143",
-    "title": "💚 update action workflow · yi-Xu-0100/repo-list-generator@fd7bd99 · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/LICENSE",
+    "title": "repo-list-generator/LICENSE at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }
