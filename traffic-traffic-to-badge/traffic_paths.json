@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 22,
+    "count": 20,
     "uniques": 10
   },
   {
@@ -18,16 +18,16 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues",
-    "title": "Issues · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 7,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
     "title": "traffic-to-badge/README_CN.md at main · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 5,
     "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/issues",
+    "title": "Issues · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/actions",
@@ -42,6 +42,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.1.5",
+    "title": "Release Release v1.1.5 · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/commits/main",
     "title": "Commits · yi-Xu-0100/traffic-to-badge",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/find/main",
     "title": "File Finder · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
-    "title": "Add note for traffic data · Issue #31 · yi-Xu-0100/traffic-to-badge",
     "count": 2,
     "uniques": 1
   }

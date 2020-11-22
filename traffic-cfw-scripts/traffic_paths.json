@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 65,
-    "uniques": 15
+    "count": 70,
+    "uniques": 16
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
     "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 7,
-    "uniques": 6
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/actions",
@@ -48,14 +48,14 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/actions/runs/365284500",
-    "title": "💚 test trggier for jsdoc · yi-Xu-0100/cfw-scripts@83c00c0",
+    "path": "/yi-Xu-0100/cfw-scripts/releases/tag/v0.0.1",
+    "title": "Release v0.0.1 · yi-Xu-0100/cfw-scripts",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/commits/main",
-    "title": "Commits · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/actions/runs/365284500",
+    "title": "💚 test trggier for jsdoc · yi-Xu-0100/cfw-scripts@83c00c0",
     "count": 3,
     "uniques": 1
   }

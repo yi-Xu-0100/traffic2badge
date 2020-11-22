@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 63,
-    "uniques": 24
+    "count": 66,
+    "uniques": 26
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 46,
-    "uniques": 24
+    "count": 44,
+    "uniques": 26
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
     "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 13,
-    "uniques": 5
+    "count": 15,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/10",
@@ -24,16 +24,10 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/9",
-    "title": "大佬能求个爱奇艺vip签到的脚本吗。。。 · Issue #9 · yi-Xu-0100/soulsign-scripts",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/9682fbbcb0567c5570b63a5cb3bacf69b42aaaff/scripts/zhiyou.smzdm.com.js",
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
     "title": "Actions · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/baipiaoyun.xyz.js",
+    "title": "soulsign-scripts/baipiaoyun.xyz.js at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
