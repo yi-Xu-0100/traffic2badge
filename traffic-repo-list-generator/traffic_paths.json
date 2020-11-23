@@ -2,50 +2,14 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 11,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v0.4.1",
-    "title": "Release Release v0.4.1 · yi-Xu-0100/repo-list-generator",
-    "count": 5,
-    "uniques": 1
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
     "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 4,
     "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/353073585",
-    "title": "🐛 fix debug file name · yi-Xu-0100/repo-list-generator@9ecd3fc",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/issues",
-    "title": "Issues · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/14",
-    "title": "Bump eslint from 7.12.1 to 7.13.0 by dependabot · Pull Request #14 · yi-Xu-01...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/353052748",
-    "title": "✨ add block_list support · yi-Xu-0100/repo-list-generator@2ebab1d",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/issues/9",
-    "title": "Add BlockList to make the output list exclude some repo · Issue #9 · yi-Xu-01...",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/309881143",
@@ -56,6 +20,24 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/commit/fd7bd993f5c90bd6b4c1e7e5963a11879cf84c22",
     "title": "💚 update action workflow · yi-Xu-0100/repo-list-generator@fd7bd99 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/15",
+    "title": "Bump @actions/artifact from 0.4.0 to 0.4.1 by dependabot · Pull Request #15 ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/16",
+    "title": "Bump actions/github-script from v3.0.0 to v3.1 by dependabot · Pull Request #...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/releases",
+    "title": "Releases · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }

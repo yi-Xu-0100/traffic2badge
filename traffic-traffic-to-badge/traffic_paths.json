@@ -2,20 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 20,
+    "count": 17,
     "uniques": 10
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/pulls",
-    "title": "Pull requests · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 8,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/35",
-    "title": "Bump eslint from 7.12.1 to 7.13.0 by dependabot · Pull Request #35 · yi-Xu-01...",
-    "count": 8,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
@@ -26,12 +14,18 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues",
     "title": "Issues · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 4,
+    "count": 3,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/actions",
     "title": "Actions · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pulls",
+    "title": "Pull requests · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/find/main",
     "title": "File Finder · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/38",
+    "title": "Bump actions/github-script from v3.0.0 to v3.1 by dependabot · Pull Request #...",
     "count": 2,
     "uniques": 1
   }
