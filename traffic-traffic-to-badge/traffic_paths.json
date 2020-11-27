@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 13,
-    "uniques": 9
+    "count": 10,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
@@ -30,22 +30,10 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases",
-    "title": "Releases · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.1.5",
     "title": "Release Release v1.1.5 · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/commits/main",
-    "title": "Commits · yi-Xu-0100/traffic-to-badge",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/find/main",
@@ -57,6 +45,18 @@
     "path": "/yi-Xu-0100/traffic-to-badge/pull/38",
     "title": "Bump actions/github-script from v3.0.0 to v3.1 by dependabot · Pull Request #...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.eslintignore",
+    "title": "traffic-to-badge/.eslintignore at main · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/dependabot.yml",
+    "title": "traffic-to-badge/dependabot.yml at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
     "uniques": 1
   }
 ]
