@@ -13,5 +13,10 @@
     "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "referrer": "Baidu",
+    "count": 1,
+    "uniques": 1
   }
 ]
