@@ -2,25 +2,19 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases",
-    "title": "Releases · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 4,
+    "count": 5,
     "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
     "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/commit/fd7bd993f5c90bd6b4c1e7e5963a11879cf84c22",
-    "title": "💚 update action workflow · yi-Xu-0100/repo-list-generator@fd7bd99 · GitHub",
-    "count": 1,
-    "uniques": 1
+    "path": "/yi-Xu-0100/repo-list-generator/releases",
+    "title": "Releases · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 3,
+    "uniques": 3
   }
 ]
