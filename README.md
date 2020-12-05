@@ -360,6 +360,36 @@
 [![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
 ```
 
+### 📚 [learn-scripts](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-learn-scripts)
+
+### 📷 Badge of learn-scripts without link
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)
+```
+
+### 🔗 Badge of learn-scripts with link
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+
+```md
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-learn-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-learn-scripts)
+```
+
 ### 📚 [license-generator](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-license-generator)
 
 ### 📷 Badge of license-generator without link
