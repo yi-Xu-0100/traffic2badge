@@ -12,6 +12,12 @@
     "uniques": 10
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
+    "title": "更新什么值得买的签到脚本到 V1.0.1（个人修改版） · yi-Xu-0100/soulsign-scripts@4a1985a · GitHub",
+    "count": 6,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
     "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 5,
@@ -21,6 +27,12 @@
     "path": "/yi-Xu-0100/soulsign-scripts/blob/fc9093a98533fa63d9999992fe9729e036507d22/scripts/zt.wps.cn.js",
     "title": "soulsign-scripts/zt.wps.cn.js at fc9093a98533fa63d9999992fe9729e036507d22 · y...",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/releases/tag/v2.1.1",
+    "title": "Release soulsign-chrome-personal v2.1.1 · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/9682fbbcb0567c5570b63a5cb3bacf69b42aaaff/scripts/www.93book.com.js",
     "title": "soulsign-scripts/www.93book.com.js at 9682fbbcb0567c5570b63a5cb3bacf69b42aaaf...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/9682fbbcb0567c5570b63a5cb3bacf69b42aaaff/scripts/www.feng.com.js",
-    "title": "soulsign-scripts/www.feng.com.js at 9682fbbcb0567c5570b63a5cb3bacf69b42aaaff ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/6558c7195037c1ba299392b1b8235d8270c056df",
-    "title": "📝 更新好书友签到脚本到 v1.0.8 · yi-Xu-0100/soulsign-scripts@6558c71",
     "count": 1,
     "uniques": 1
   }

@@ -18,5 +18,10 @@
     "referrer": "Baidu",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "sogou.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
