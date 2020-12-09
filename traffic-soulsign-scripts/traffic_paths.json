@@ -8,13 +8,13 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 16,
-    "uniques": 10
+    "count": 18,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
     "title": "更新什么值得买的签到脚本到 V1.0.1（个人修改版） · yi-Xu-0100/soulsign-scripts@4a1985a · GitHub",
-    "count": 6,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -28,6 +28,12 @@
     "title": "soulsign-scripts/zt.wps.cn.js at fc9093a98533fa63d9999992fe9729e036507d22 · y...",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
+    "title": "GitHub - yi-Xu-0100/soulsign-scripts at 4a1985af0b549499d0cec1eb9d630c5eec7dc...",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/releases/tag/v2.1.1",
@@ -51,12 +57,6 @@
     "path": "/yi-Xu-0100/soulsign-scripts/commit/13f0bfbbc0d188a9c6ea565eb815bb0bb73412fc",
     "title": "📝 更新好书友签到脚本到 v1.0.11 · yi-Xu-0100/soulsign-scripts@13f0bfb",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/003cd6488e37dda86dbbd9c77bf5142ba02fb034/scripts/baipiaoyun.xyz.js",
-    "title": "soulsign-scripts/baipiaoyun.xyz.js at 003cd6488e37dda86dbbd9c77bf5142ba02fb03...",
-    "count": 1,
     "uniques": 1
   }
 ]
