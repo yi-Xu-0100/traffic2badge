@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 31,
+    "count": 32,
     "uniques": 22
   },
   {
@@ -30,12 +30,6 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/fc9093a98533fa63d9999992fe9729e036507d22/scripts/zt.wps.cn.js",
     "title": "soulsign-scripts/zt.wps.cn.js at fc9093a98533fa63d9999992fe9729e036507d22 · y...",
     "count": 3,
@@ -50,6 +44,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/releases/tag/v2.1.1",
     "title": "Release soulsign-chrome-personal v2.1.1 · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 2,
     "uniques": 2
   },
