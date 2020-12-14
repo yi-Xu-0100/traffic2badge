@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 32,
-    "uniques": 22
+    "count": 27,
+    "uniques": 20
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 14,
+    "count": 13,
     "uniques": 8
   },
   {
@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
-    "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/fc9093a98533fa63d9999992fe9729e036507d22/scripts/zt.wps.cn.js",
     "title": "soulsign-scripts/zt.wps.cn.js at fc9093a98533fa63d9999992fe9729e036507d22 · y...",
     "count": 3,
@@ -40,6 +34,12 @@
     "title": "GitHub - yi-Xu-0100/soulsign-scripts at 4a1985af0b549499d0cec1eb9d630c5eec7dc...",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
+    "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/releases/tag/v2.1.1",
