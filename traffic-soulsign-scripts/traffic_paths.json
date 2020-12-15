@@ -3,13 +3,13 @@
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
     "count": 27,
-    "uniques": 20
+    "uniques": 21
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 13,
-    "uniques": 8
+    "count": 12,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
@@ -36,18 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
-    "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/releases/tag/v2.1.1",
-    "title": "Release soulsign-chrome-personal v2.1.1 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 2,
@@ -57,6 +45,18 @@
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
     "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commits",
+    "title": "Commits · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.feng.com.js",
+    "title": "soulsign-scripts/www.feng.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
     "uniques": 1
   }
 ]
