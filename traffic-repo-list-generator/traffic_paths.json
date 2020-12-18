@@ -6,15 +6,15 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
     "title": "Issues · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
   }
 ]

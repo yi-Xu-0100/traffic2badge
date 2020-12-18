@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 30,
-    "uniques": 25
+    "count": 28,
+    "uniques": 23
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -12,21 +12,15 @@
     "uniques": 10
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
-    "title": "更新什么值得买的签到脚本到 V1.0.1（个人修改版） · yi-Xu-0100/soulsign-scripts@4a1985a · GitHub",
-    "count": 12,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
     "title": "Actions · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 10,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
-    "title": "GitHub - yi-Xu-0100/soulsign-scripts at 4a1985af0b549499d0cec1eb9d630c5eec7dc...",
-    "count": 3,
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
+    "title": "更新什么值得买的签到脚本到 V1.0.1（个人修改版） · yi-Xu-0100/soulsign-scripts@4a1985a · GitHub",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -44,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commits",
     "title": "Commits · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
+    "title": "GitHub - yi-Xu-0100/soulsign-scripts at 4a1985af0b549499d0cec1eb9d630c5eec7dc...",
     "count": 2,
     "uniques": 1
   },
