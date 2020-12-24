@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/Application-Lists",
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/master/config",
+    "title": "Application-Lists/config at master · yi-Xu-0100/Application-Lists",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/master/config/ClashForWindows",
+    "title": "Application-Lists/config/ClashForWindows at master · yi-Xu-0100/Application-L...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/branches",
+    "title": "Branches · yi-Xu-0100/Application-Lists",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/master/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/cfw-settings.yaml at master · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/master/config/Notepad3",
+    "title": "Application-Lists/config/Notepad3 at master · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  }
+]

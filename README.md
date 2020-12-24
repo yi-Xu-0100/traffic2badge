@@ -120,6 +120,36 @@
 [![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
 ```
 
+### 📚 [docsify-test](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-docsify-test)
+
+### 📷 Badge of docsify-test without link
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)
+```
+
+### 🔗 Badge of docsify-test with link
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+
+```md
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
+```
+
 ### 📚 [ExcelWashing](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-ExcelWashing)
 
 ### 📷 Badge of ExcelWashing without link
