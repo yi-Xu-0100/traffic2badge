@@ -5,6 +5,11 @@
     "uniques": 2
   },
   {
+    "referrer": "Baidu",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "Yahoo",
     "count": 1,
     "uniques": 1
