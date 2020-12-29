@@ -540,6 +540,36 @@
 [![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
 ```
 
+### 📚 [purewriter-FAQ](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-purewriter-FAQ)
+
+### 📷 Badge of purewriter-FAQ without link
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)
+
+```md
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)
+```
+
+### 🔗 Badge of purewriter-FAQ with link
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+
+```md
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-purewriter-FAQ/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-purewriter-FAQ)
+```
+
 ### 📚 [repo-list-generator](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-repo-list-generator)
 
 ### 📷 Badge of repo-list-generator without link
