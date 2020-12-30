@@ -1,55 +1,37 @@
 [
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/master/Configuration/ClashForWindows/changeRule.js",
-    "title": "Application-Lists/changeRule.js at master · yi-Xu-0100/Application-Lists · Gi...",
-    "count": 3,
+    "path": "/yi-Xu-0100/Application-Lists",
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 9,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists",
-    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 2,
+    "path": "/yi-Xu-0100/Application-Lists/tree/master/config",
+    "title": "Application-Lists/config at master · yi-Xu-0100/Application-Lists",
+    "count": 7,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/master/Configuration/ClashForWindows",
-    "title": "Application-Lists/Configuration/ClashForWindows at master · yi-Xu-0100/Applic...",
-    "count": 2,
+    "path": "/yi-Xu-0100/Application-Lists/tree/master/config/ClashForWindows",
+    "title": "Application-Lists/config/ClashForWindows at master · yi-Xu-0100/Application-L...",
+    "count": 6,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/master/Configuration/ClashForWindows/cfw-settings.yaml",
+    "path": "/yi-Xu-0100/Application-Lists/blob/master/config/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/cfw-settings.yaml at master · yi-Xu-0100/Application-Lists",
-    "count": 1,
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/branches",
+    "title": "Branches · yi-Xu-0100/Application-Lists",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/master/Configuration/ClashForWindows/parser.js",
-    "title": "Application-Lists/parser.js at master · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/commit/ba593f407cfa336469ec0b0e55ff8b3a9deabbbd",
-    "title": "增加 CFW 的配置文件 · yi-Xu-0100/Application-Lists@ba593f4 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/network/members",
-    "title": "Forks · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/stargazers",
-    "title": "Stargazers · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/master/Configuration",
-    "title": "Application-Lists/Configuration at master · yi-Xu-0100/Application-Lists · Gi...",
+    "path": "/yi-Xu-0100/Application-Lists/tree/master/config/Notepad3",
+    "title": "Application-Lists/config/Notepad3 at master · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }

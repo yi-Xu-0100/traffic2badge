@@ -1,22 +1,7 @@
 [
   {
-    "referrer": "v2ex.com",
-    "count": 50,
-    "uniques": 35
-  },
-  {
     "referrer": "github.com",
-    "count": 38,
-    "uniques": 3
-  },
-  {
-    "referrer": "github.community",
-    "count": 12,
-    "uniques": 8
-  },
-  {
-    "referrer": "Google",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   }
 ]

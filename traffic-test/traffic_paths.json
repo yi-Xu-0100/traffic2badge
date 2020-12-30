@@ -1,61 +1,19 @@
 [
   {
-    "path": "/yi-Xu-0100/test",
-    "title": "yi-Xu-0100/test: test",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/test/commits/main",
-    "title": "Commits · yi-Xu-0100/test",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/test/actions",
     "title": "Actions · yi-Xu-0100/test · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/test/commit/73f7377a68b07f6483b123aba34621cfa6663fd9",
-    "title": "✅ test · yi-Xu-0100/test@73f7377",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/commit/97fa1cebbf8bf66330a6ce92d8f52fb2783eeb49",
-    "title": "test 2 · yi-Xu-0100/test@97fa1ce",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/commit/ded3c22ae302df8e093923f727088cba1148a2dd",
-    "title": "test 3 · yi-Xu-0100/test@ded3c22",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/commits/test",
-    "title": "Commits · yi-Xu-0100/test",
+    "path": "/yi-Xu-0100/test",
+    "title": "GitHub - yi-Xu-0100/test: test",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/test/pull/2",
     "title": "Bump Yikun/hub-mirror-action from v0.10 to v0.11 by dependabot · Pull Request...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/pull/2/checks",
-    "title": "Bump Yikun/hub-mirror-action from v0.10 to v0.11 by dependabot · Pull Request...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/runs/1258327855",
-    "title": "✅ test more repo · yi-Xu-0100/test@10bf658",
     "count": 1,
     "uniques": 1
   }

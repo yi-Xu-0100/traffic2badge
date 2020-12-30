@@ -2,48 +2,24 @@
   {
     "path": "/yi-Xu-0100/license-generator",
     "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 4,
-    "uniques": 4
+    "count": 2,
+    "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/license-generator/pull/10",
-    "title": "Bump lint-staged from 10.5.0 to 10.5.1 by dependabot · Pull Request #10 · yi-...",
-    "count": 3,
-    "uniques": 1
+    "path": "/yi-Xu-0100/license-generator/actions",
+    "title": "Actions · yi-Xu-0100/license-generator · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/license-generator/pull/11",
-    "title": "Bump Yikun/hub-mirror-action from v0.10 to v0.11 by dependabot · Pull Request...",
+    "path": "/yi-Xu-0100/license-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/license-generator · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/license-generator/pull/5",
-    "title": "Bump eslint-config-prettier from 6.13.0 to 6.14.0 by dependabot · Pull Reques...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/pull/6",
-    "title": "Bump eslint from 7.11.0 to 7.12.0 by dependabot · Pull Request #6 · yi-Xu-010...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/pull/7",
-    "title": "Bump lint-staged from 10.4.2 to 10.5.0 by dependabot · Pull Request #7 · yi-X...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/pull/8",
-    "title": "Bump eslint from 7.12.0 to 7.12.1 by dependabot · Pull Request #8 · yi-Xu-010...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/pull/9",
-    "title": "Bump eslint-config-prettier from 6.14.0 to 6.15.0 by dependabot · Pull Reques...",
+    "path": "/yi-Xu-0100/license-generator/releases/tag/v0.1.0",
+    "title": "Release Release v0.1.0 · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   }
