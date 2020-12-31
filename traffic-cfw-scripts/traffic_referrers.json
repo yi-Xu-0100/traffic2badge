@@ -5,12 +5,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Baidu",
-    "count": 1,
-    "uniques": 1
+    "referrer": "Google",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "referrer": "Google",
+    "referrer": "Baidu",
     "count": 1,
     "uniques": 1
   }

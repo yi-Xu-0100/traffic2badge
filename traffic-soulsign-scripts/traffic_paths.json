@@ -2,14 +2,26 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 11,
-    "uniques": 8
+    "count": 14,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 7,
-    "uniques": 6
+    "count": 12,
+    "uniques": 9
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/actions",
+    "title": "Actions · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
+    "title": "Discussions · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/10",
@@ -20,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/fc9093a98533fa63d9999992fe9729e036507d22/scripts/www.v2ex.com.js",
     "title": "soulsign-scripts/www.v2ex.com.js at fc9093a98533fa63d9999992fe9729e036507d22 ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
+    "title": "更新什么值得买的签到脚本到 V1.0.1（个人修改版） · yi-Xu-0100/soulsign-scripts@4a1985a · GitHub",
     "count": 1,
     "uniques": 1
   },
