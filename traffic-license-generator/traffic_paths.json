@@ -1,25 +1,19 @@
 [
   {
     "path": "/yi-Xu-0100/license-generator",
-    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/actions",
-    "title": "Actions · yi-Xu-0100/license-generator · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/license-generator · GitHub",
+    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/license-generator/releases/tag/v0.1.0",
-    "title": "Release Release v0.1.0 · yi-Xu-0100/license-generator",
+    "path": "/yi-Xu-0100/license-generator/actions",
+    "title": "Actions · yi-Xu-0100/license-generator · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/license-generator · GitHub",
     "count": 1,
     "uniques": 1
   }
