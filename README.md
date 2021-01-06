@@ -1,4 +1,4 @@
-## ⚡️ traffic2badge
+# ⚡️ traffic2badge
 
 [![sync2gitee(list)](<https://github.com/yi-Xu-0100/hub-mirror/workflows/sync2gitee(list)/badge.svg>)](https://github.com/yi-Xu-0100/hub-mirror)
 [![traffic2badge](https://github.com/yi-Xu-0100/traffic2badge/workflows/traffic2badge/badge.svg)](https://github.com/yi-Xu-0100/traffic2badge/actions?query=workflow%3Atraffic2badge)
@@ -16,7 +16,6 @@ Usage template repository of [traffic-to-badge GitHub Action](https://github.com
 
 ## 🎨 Table of contents
 
-- [⚡️ traffic2badge](#️-traffic2badge)
 - [🎨 Table of contents](#-table-of-contents)
 - [🚀 Configuration](#-configuration)
   - [📝 Usage for `static_list`](#-usage-for-static_list)

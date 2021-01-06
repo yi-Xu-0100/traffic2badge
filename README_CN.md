@@ -1,4 +1,4 @@
-## ⚡️ traffic2badge
+# ⚡️ traffic2badge
 
 [![sync2gitee(list)](<https://github.com/yi-Xu-0100/hub-mirror/workflows/sync2gitee(list)/badge.svg>)](https://github.com/yi-Xu-0100/hub-mirror)
 [![traffic2badge](https://github.com/yi-Xu-0100/traffic2badge/workflows/traffic2badge/badge.svg)](https://github.com/yi-Xu-0100/traffic2badge/actions?query=workflow%3Atraffic2badge)
@@ -16,7 +16,6 @@
 
 ## 🎨 目录
 
-- [⚡️ traffic2badge](#️-traffic2badge)
 - [🎨 目录](#-目录)
 - [🚀 配置说明](#-配置说明)
   - [📝 使用 `static_list` 的示例](#-使用-static_list-的示例)
