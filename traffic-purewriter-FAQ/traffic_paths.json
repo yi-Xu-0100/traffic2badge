@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/purewriter-FAQ",
     "title": "yi-Xu-0100/purewriter-FAQ: purewriter-FAQ",
-    "count": 10,
-    "uniques": 3
+    "count": 14,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/purewriter-FAQ/blob/main/.github/workflows/sync.yml",
@@ -32,6 +32,30 @@
   {
     "path": "/yi-Xu-0100/purewriter-FAQ/actions/runs/448383337",
     "title": "📝 add vscode ignore · yi-Xu-0100/purewriter-FAQ@62036e4",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/purewriter-FAQ/blob/main/docs/backup.md",
+    "title": "purewriter-FAQ/backup.md at main · yi-Xu-0100/purewriter-FAQ · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/purewriter-FAQ/blob/main/docs/desktop.md",
+    "title": "purewriter-FAQ/desktop.md at main · yi-Xu-0100/purewriter-FAQ · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/purewriter-FAQ/blob/main/docs/gossip.md",
+    "title": "purewriter-FAQ/gossip.md at main · yi-Xu-0100/purewriter-FAQ · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/purewriter-FAQ/blob/main/docs/markdown-guide.md",
+    "title": "purewriter-FAQ/markdown-guide.md at main · yi-Xu-0100/purewriter-FAQ · GitHub",
     "count": 1,
     "uniques": 1
   }

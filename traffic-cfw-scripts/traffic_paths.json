@@ -2,19 +2,19 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 5,
-    "uniques": 5
+    "count": 6,
+    "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/README.md",
     "title": "cfw-scripts/README.md at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 3,
     "uniques": 2
   },
   {
@@ -36,8 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/issues/1",
-    "title": "Separate traffic data for fit domains · Issue #1 · yi-Xu-0100/cfw-scripts · G...",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
+    "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
