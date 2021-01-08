@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
@@ -20,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/1",
     "title": "Bump Yikun/hub-mirror-action from v0.09 to v0.10 by dependabot · Pull Request...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/37",
+    "title": "Bump @vercel/ncc from 0.26.1 to 0.26.2 by dependabot-preview · Pull Request #...",
     "count": 1,
     "uniques": 1
   }
