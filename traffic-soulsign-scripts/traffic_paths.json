@@ -2,25 +2,25 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 29,
-    "uniques": 19
+    "count": 34,
+    "uniques": 22
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 17,
-    "uniques": 14
+    "count": 23,
+    "uniques": 16
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/actions",
+    "title": "Actions · yi-Xu-0100/soulsign-scripts",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/discussions",
     "title": "Discussions · yi-Xu-0100/soulsign-scripts",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions",
-    "title": "Actions · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -30,32 +30,32 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/470366341",
+    "title": "📄 更新协议年份 · yi-Xu-0100/soulsign-scripts@fc25d7d",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/003cd6488e37dda86dbbd9c77bf5142ba02fb034/scripts/renzhe.cloud.js",
     "title": "soulsign-scripts/renzhe.cloud.js at 003cd6488e37dda86dbbd9c77bf5142ba02fb034 ...",
     "count": 2,
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/gh-pages",
+    "title": "yi-Xu-0100/soulsign-scripts at gh-pages",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-xu-0100/soulsign-scripts",
+    "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build.zip",
     "title": "soulsign-scripts/build.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/003cd6488e37dda86dbbd9c77bf5142ba02fb034",
-    "title": "📝 更新忍者云签到脚本到 V1.0.10 · yi-Xu-0100/soulsign-scripts@003cd64",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/4a1985af0b549499d0cec1eb9d630c5eec7dc690",
-    "title": "更新什么值得买的签到脚本到 V1.0.1（个人修改版） · yi-Xu-0100/soulsign-scripts@4a1985a · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/f72d035d46a9d03a5e8bd3b1ef302cabc1a0c30a",
-    "title": "更新相关论坛签到脚本为通用模板 · yi-Xu-0100/soulsign-scripts@f72d035",
     "count": 1,
     "uniques": 1
   }
