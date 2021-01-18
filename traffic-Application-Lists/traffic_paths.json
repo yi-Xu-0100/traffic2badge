@@ -2,36 +2,24 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 9,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/master/config",
-    "title": "Application-Lists/config at master · yi-Xu-0100/Application-Lists",
-    "count": 7,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/master/config/ClashForWindows",
-    "title": "Application-Lists/config/ClashForWindows at master · yi-Xu-0100/Application-L...",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/master/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/cfw-settings.yaml at master · yi-Xu-0100/Application-Lists",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/branches",
-    "title": "Branches · yi-Xu-0100/Application-Lists",
-    "count": 2,
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/windowsApplications.md",
+    "title": "Application-Lists/windowsApplications.md at main · yi-Xu-0100/Application-Lists",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/master/config/Notepad3",
-    "title": "Application-Lists/config/Notepad3 at master · yi-Xu-0100/Application-Lists",
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/windowsSystemReinstallationApplications.md",
+    "title": "Application-Lists/windowsSystemReinstallationApplications.md at main · yi-Xu-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/commit/2c468c6c952729bccb0affe06d459b23c99250f2",
+    "title": "增加 neatdownloadmanager 的配置说明 · yi-Xu-0100/Application-Lists@2c468c6 · GitHub",
     "count": 1,
     "uniques": 1
   }

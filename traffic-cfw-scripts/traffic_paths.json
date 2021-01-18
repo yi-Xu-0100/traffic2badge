@@ -2,24 +2,60 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 7,
-    "uniques": 7
+    "count": 12,
+    "uniques": 8
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/README.md",
-    "title": "cfw-scripts/README.md at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/issues",
+    "title": "Issues · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/0689eb85c89de79d5a9e200bce2702271965fb8e/lib",
+    "title": "cfw-scripts/lib at 0689eb85c89de79d5a9e200bce2702271965fb8e · yi-Xu-0100/cfw-...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/0689eb85c89de79d5a9e200bce2702271965fb8e/lib/variables.yml",
+    "title": "cfw-scripts/variables.yml at 0689eb85c89de79d5a9e200bce2702271965fb8e · yi-Xu...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/issues/1",
-    "title": "Separate traffic data for fit domains · Issue #1 · yi-Xu-0100/cfw-scripts · G...",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/62da5138fdef1046cdcda16184dfca0e964ff43b/.vscode/settings.json",
+    "title": "cfw-scripts/settings.json at 62da5138fdef1046cdcda16184dfca0e964ff43b · yi-Xu...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/main.js",
+    "title": "cfw-scripts/main.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/resources/checkin.png",
+    "title": "cfw-scripts/checkin.png at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/resources/subscription-info.png",
+    "title": "cfw-scripts/subscription-info.png at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
