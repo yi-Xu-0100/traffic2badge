@@ -30,12 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/59",
-    "title": "Bump husky from 4.3.6 to 4.3.7 by dependabot · Pull Request #59 · yi-Xu-0100/...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/releases",
     "title": "Releases · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github/workflows",
     "title": "traffic-to-badge/.github/workflows at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/template",
+    "title": "traffic-to-badge/template at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }
