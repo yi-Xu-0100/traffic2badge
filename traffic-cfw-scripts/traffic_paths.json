@@ -2,19 +2,13 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 15,
-    "uniques": 11
+    "count": 11,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/0689eb85c89de79d5a9e200bce2702271965fb8e/lib",
     "title": "cfw-scripts/lib at 0689eb85c89de79d5a9e200bce2702271965fb8e · yi-Xu-0100/cfw-...",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/issues",
-    "title": "Issues · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/pulls",
     "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/0689eb85c89de79d5a9e200bce2702271965fb8e",
+    "title": "yi-Xu-0100/cfw-scripts at 0689eb85c89de79d5a9e200bce2702271965fb8e",
     "count": 1,
     "uniques": 1
   }
