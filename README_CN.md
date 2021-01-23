@@ -46,8 +46,6 @@
 name: traffic2badge
 on:
   push:
-    branches:
-      - main
   schedule:
     - cron: '1 0 * * *'
 

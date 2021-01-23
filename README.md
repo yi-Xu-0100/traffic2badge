@@ -46,8 +46,6 @@ There are **only one input must be set up** and four inputs can be set to defaul
 name: traffic2badge
 on:
   push:
-    branches:
-      - main
   schedule:
     - cron: '1 0 * * *'
 
