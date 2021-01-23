@@ -6,26 +6,32 @@
     "uniques": 4
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/LICENSE",
     "title": "repo-list-generator/LICENSE at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/37",
-    "title": "Bump @vercel/ncc from 0.26.1 to 0.26.2 by dependabot-preview · Pull Request #...",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
+    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/38",
-    "title": "Bump husky from 4.3.6 to 4.3.7 by dependabot · Pull Request #38 · yi-Xu-0100/...",
+    "path": "/yi-Xu-0100/repo-list-generator/commit/f0fddfe7760a9e462c57624692e9028deae88c75",
+    "title": "Merge pull request #1 from yi-Xu-0100/dependabot/github_actions/Yikun… · yi-X...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
+    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
