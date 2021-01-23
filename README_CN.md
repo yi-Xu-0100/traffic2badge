@@ -61,11 +61,11 @@ jobs:
 
       - name: Get Repo List
         id: repo
-        uses: yi-Xu-0100/repo-list-generator@v0.3.0
+        uses: yi-Xu-0100/repo-list-generator@v0.4.1
 
       - name: Get Commit Message
         id: message
-        uses: actions/github-script@v3.0.0
+        uses: actions/github-script@v3.1.0
         env:
           FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
         with:
@@ -80,7 +80,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.2.1
+        uses: yi-Xu-0100/traffic-to-badge@v1.3.0
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
