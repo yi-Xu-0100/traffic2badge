@@ -90,7 +90,7 @@ jobs:
           #(default) views_week_color: brightgreen
           #(default) clones_week_color: brightgreen
           #(default) logo: github
-          year: 2020
+          year: 2021
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
