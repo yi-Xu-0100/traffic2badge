@@ -2,7 +2,13 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 5,
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/issues/24",
+    "title": "use promise api for fs module · Issue #24 · yi-Xu-0100/traffic-to-badge · Git...",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -30,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases",
-    "title": "Releases · yi-Xu-0100/traffic-to-badge · GitHub",
+    "path": "/yi-Xu-0100/traffic-to-badge/issues/64",
+    "title": "Total Weekly Visit Count - All repositories · Issue #64 · yi-Xu-0100/traffic-...",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github/workflows",
     "title": "traffic-to-badge/.github/workflows at main · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/template",
-    "title": "traffic-to-badge/template at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }
