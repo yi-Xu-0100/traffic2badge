@@ -6,12 +6,6 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/LICENSE",
     "title": "repo-list-generator/LICENSE at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
@@ -26,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/commit/f0fddfe7760a9e462c57624692e9028deae88c75",
     "title": "Merge pull request #1 from yi-Xu-0100/dependabot/github_actions/Yikun… · yi-X...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   },
