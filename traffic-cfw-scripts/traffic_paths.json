@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 9,
-    "uniques": 8
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 12,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/62da5138fdef1046cdcda16184dfca0e964ff43b/.vscode/settings.json",
@@ -32,6 +26,24 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/resources/subscription-info.png",
     "title": "cfw-scripts/subscription-info.png at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/62da5138fdef1046cdcda16184dfca0e964ff43b",
+    "title": "📝 update change-rules.js to add DIRECT and AUTO into PROXY · yi-Xu-0100/cfw-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/645335d89fb9bfc7b632932356f1ce59ab15ddb4",
+    "title": "⬆️ Bump actions/stale from v3.0.14 to v3.0.15 (#19) · yi-Xu-0100/cfw-scripts@...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
