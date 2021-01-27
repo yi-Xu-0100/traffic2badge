@@ -7,8 +7,13 @@
 
 [![GitHub views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
 [![GitHub views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
-[![GitHub clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic-to-badge/tree/traffic)
-[![GitHub clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic-to-badge/tree/traffic)
+[![GitHub clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
+[![GitHub clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
+
+[![total views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
+[![total views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
+[![total clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
+[![total clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
 
 Usage template repository of [traffic-to-badge GitHub Action](https://github.com/marketplace/actions/traffic-to-badge), you can use repositories `Insights/traffic` data to generate badges that include views and clones.
 
@@ -26,17 +31,21 @@ Usage template repository of [traffic-to-badge GitHub Action](https://github.com
 
 There are **only one input must be set up** and four inputs can be set to default without config. The default setting only supports running repository, and if repositories support is required, please refer to [Usage for `static_list`](#-usage-for-static_list).
 
-|       input       |                            description                             | required |      default      |
-| :---------------: | :----------------------------------------------------------------: | :------: | :---------------: |
-|     my_token      | Personal access token to obtain the secret repository traffic data |    ✔     |                   |
-|    static_list    |             List of repositories which want to be got              |    ✖     | github.repository |
-|  traffic_branch   |                Branch used to back up traffic data                 |    ✖     |      traffic      |
-|    views_color    |             Color value for the views badge background             |    ✖     |    brightgreen    |
-|   clones_color    |            Color value for the clones badge background             |    ✖     |    brightgreen    |
-| views_week_color  |      Color value for the views in past week badge background       |    ✖     |    brightgreen    |
-| clones_week_color |      Color value for the clones in past week badge background      |    ✖     |    brightgreen    |
-|       logo        |            Logo or simple-icon to the left of the label            |    ✖     |      github       |
-|       year        |                      Year for license startup                      |    ✖     |                   |
+|          input          |                                 description                                  | required |      default      |
+| :---------------------: | :--------------------------------------------------------------------------: | :------: | :---------------: |
+|        my_token         |      Personal access token to obtain the secret repository traffic data      |    ✔     |                   |
+|       static_list       |                  List of repositories which want to be got                   |    ✖     | github.repository |
+|     traffic_branch      |                     Branch used to back up traffic data                      |    ✖     |      traffic      |
+|       views_color       |                  Color value for the views badge background                  |    ✖     |    brightgreen    |
+|      clones_color       |                 Color value for the clones badge background                  |    ✖     |    brightgreen    |
+|    views_week_color     |           Color value for the views in past week badge background            |    ✖     |    brightgreen    |
+|    clones_week_color    |           Color value for the clones in past week badge background           |    ✖     |    brightgreen    |
+|    total_views_color    |        Color value for the views badge background of all repositories        |    ✖     |    brightgreen    |
+|   total_clones_color    |       Color value for the clones badge background of all repositories        |    ✖     |    brightgreen    |
+| total_views_week_color  | Color value for the views in past week badge background of all repositories  |    ✖     |    brightgreen    |
+| total_clones_week_color | Color value for the clones in past week badge background of all repositories |    ✖     |    brightgreen    |
+|          logo           |                 Logo or simple-icon to the left of the label                 |    ✖     |      github       |
+|          year           |                           Year for license startup                           |    ✖     |                   |
 
 ### 📝 Usage for `static_list`
 
@@ -78,7 +87,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.3.0
+        uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
@@ -87,6 +96,10 @@ jobs:
           #(default) clones_color: brightgreen
           #(default) views_week_color: brightgreen
           #(default) clones_week_color: brightgreen
+          #(default) total_views_color: brightgreen
+          #(default) total_clones_color: brightgreen
+          #(default) total_views_week_color: brightgreen
+          #(default) total_clones_week_color: brightgreen
           #(default) logo: github
           year: 2021
 

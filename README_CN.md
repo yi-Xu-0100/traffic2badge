@@ -7,8 +7,13 @@
 
 [![GitHub views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
 [![GitHub views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
-[![GitHub clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic-to-badge/tree/traffic)
-[![GitHub clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic-to-badge/tree/traffic)
+[![GitHub clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
+[![GitHub clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-traffic2badge/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic)
+
+[![total views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
+[![total views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
+[![total clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
+[![total clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/total_clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-total-traffic-data-badge)
 
 本模板仓库使用 [traffic-to-badge GitHub Action](https://github.com/marketplace/actions/traffic-to-badge)，您可以使用存储库 `Insights/traffic` 数据来生成包含浏览数和克隆数的徽章。
 
@@ -26,17 +31,21 @@
 
 **仅仅必须设置一个输入参数**，并且有四个输入参数会使用默认值而无需设置，默认设置只支持运行仓库，需要多仓库支持，请参考[使用 `static_list` 的示例](#-使用-static_list-的示例)。
 
-|     输入参数      |                   描述                   | required |      default      |
-| :---------------: | :--------------------------------------: | :------: | :---------------: |
-|     my_token      | 用以获取私密存储库流量数据的个人访问令牌 |    ✔     |                   |
-|    static_list    |           想要获取的存储库列表           |    ✖     | github.repository |
-|  traffic_branch   |          用于备份流量数据的分支          |    ✖     |      traffic      |
-|    views_color    |          浏览数徽章背景的颜色值          |    ✖     |    brightgreen    |
-|   clones_color    |          克隆数徽章背景的颜色值          |    ✖     |    brightgreen    |
-| views_week_color  |      过去一周浏览数徽章背景的颜色值      |    ✖     |    brightgreen    |
-| clones_week_color |      过去一周克隆数徽章背景的颜色值      |    ✖     |    brightgreen    |
-|       logo        |        标签左侧的徽标或者简单图标        |    ✖     |      github       |
-|       year        |              许可证起始年份              |    ✖     |                   |
+|        输入参数         |                   描述                   | required |      default      |
+| :---------------------: | :--------------------------------------: | :------: | :---------------: |
+|        my_token         | 用以获取私密存储库流量数据的个人访问令牌 |    ✔     |                   |
+|       static_list       |           想要获取的存储库列表           |    ✖     | github.repository |
+|     traffic_branch      |          用于备份流量数据的分支          |    ✖     |      traffic      |
+|       views_color       |          浏览数徽章背景的颜色值          |    ✖     |    brightgreen    |
+|      clones_color       |          克隆数徽章背景的颜色值          |    ✖     |    brightgreen    |
+|    views_week_color     |      过去一周浏览数徽章背景的颜色值      |    ✖     |    brightgreen    |
+|    clones_week_color    |      过去一周克隆数徽章背景的颜色值      |    ✖     |    brightgreen    |
+|    total_views_color    |      所有仓库浏览数徽章背景的颜色值      |    ✖     |    brightgreen    |
+|   total_clones_color    |      所有仓库克隆数徽章背景的颜色值      |    ✖     |    brightgreen    |
+| total_views_week_color  |  所有仓库过去一周浏览数徽章背景的颜色值  |    ✖     |    brightgreen    |
+| total_clones_week_color |  所有仓库过去一周克隆数徽章背景的颜色值  |    ✖     |    brightgreen    |
+|          logo           |        标签左侧的徽标或者简单图标        |    ✖     |      github       |
+|          year           |              许可证起始年份              |    ✖     |                   |
 
 ### 📝 使用 `static_list` 的示例
 
@@ -78,7 +87,7 @@ jobs:
 
       - name: Set traffic
         id: traffic
-        uses: yi-Xu-0100/traffic-to-badge@v1.3.0
+        uses: yi-Xu-0100/traffic-to-badge@v1.4.0
         with:
           my_token: ${{ secrets.TRAFFIC_TOKEN }}
           static_list: '${{ steps.repo.outputs.repoList }}'
@@ -87,6 +96,10 @@ jobs:
           #(default) clones_color: brightgreen
           #(default) views_week_color: brightgreen
           #(default) clones_week_color: brightgreen
+          #(default) total_views_color: brightgreen
+          #(default) total_clones_color: brightgreen
+          #(default) total_views_week_color: brightgreen
+          #(default) total_clones_week_color: brightgreen
           #(default) logo: github
           year: 2021
 
