@@ -8,12 +8,18 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
     "title": "Actions · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/517847876",
     "title": "🐛 fix static_list for OI-wiki · yi-Xu-0100/hub-mirror@3417b4f · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/523403602",
+    "title": "✅ add debug · yi-Xu-0100/hub-mirror@8b500b1 · GitHub",
     "count": 1,
     "uniques": 1
   },
