@@ -8,14 +8,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
     "title": "Actions · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 6,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/517847876",
-    "title": "🐛 fix static_list for OI-wiki · yi-Xu-0100/hub-mirror@3417b4f · GitHub",
-    "count": 1,
-    "uniques": 1
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/523403602",
@@ -38,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
     "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
+    "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   },
