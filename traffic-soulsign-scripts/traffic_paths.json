@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 30,
-    "uniques": 16
+    "count": 29,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -30,6 +30,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
+    "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
     "title": "soulsign-scripts/www.iqiyi.com.js at main · yi-Xu-0100/soulsign-scripts · Git...",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/2a09dbb3a867abf28ee723e328254ddf45471b0e/.github/workflows/sync.yml",
     "title": "soulsign-scripts/sync.yml at 2a09dbb3a867abf28ee723e328254ddf45471b0e · yi-Xu...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/bd717c11a1b405c9f6ad080f485cba1ed96bf103/scripts/www.iqiyi.com.js",
-    "title": "soulsign-scripts/www.iqiyi.com.js at bd717c11a1b405c9f6ad080f485cba1ed96bf103...",
     "count": 1,
     "uniques": 1
   }

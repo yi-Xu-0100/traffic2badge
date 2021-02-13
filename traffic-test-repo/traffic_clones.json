@@ -1,0 +1,11 @@
+{
+  "count": 7,
+  "uniques": 5,
+  "clones": [
+    {
+      "timestamp": "2021-02-12T00:00:00Z",
+      "count": 7,
+      "uniques": 5
+    }
+  ]
+}
