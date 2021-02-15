@@ -154,6 +154,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-cfw-scripts/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-cfw-scripts)
 ```
 
+## 📚 [conventional-commit-types-i18n](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-conventional-commit-types-i18n)
+
+### 📷 Badges without link of [conventional-commit-types-i18n](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-conventional-commit-types-i18n)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [conventional-commit-types-i18n](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-conventional-commit-types-i18n)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-conventional-commit-types-i18n/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-conventional-commit-types-i18n)
+```
+
 ## 📚 [docsify-test](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-docsify-test)
 
 ### 📷 Badges without link of [docsify-test](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-docsify-test)
