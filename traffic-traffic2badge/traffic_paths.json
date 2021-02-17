@@ -12,51 +12,9 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
-    "title": "yi-Xu-0100/traffic2badge at traffic",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/blob/traffic/traffic-traffic-to-badge/traffic_views.json",
-    "title": "traffic2badge/traffic_views.json at traffic · yi-Xu-0100/traffic2badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/blob/traffic/traffic-traffic-to-badge/traffic_views_per_week.json",
-    "title": "traffic2badge/traffic_views_per_week.json at traffic · yi-Xu-0100/traffic2badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/blob/traffic/traffic-traffic-to-badge/views_per_week.svg",
-    "title": "traffic2badge/views_per_week.svg at traffic · yi-Xu-0100/traffic2badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/commits/traffic",
-    "title": "History for traffic-traffic-to-badge/traffic_views.json - yi-Xu-0100/traffic2...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/commits/traffic/traffic-traffic-to-badge/traffic_views.json",
-    "title": "History for traffic-traffic-to-badge/traffic_views.json - yi-Xu-0100/traffic2...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/commits/traffic/traffic-traffic-to-badge/traffic_views_per_week.json",
-    "title": "History for traffic-traffic-to-badge/traffic_views_per_week.json - yi-Xu-0100...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/issues",
     "title": "Issues · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   }
 ]
