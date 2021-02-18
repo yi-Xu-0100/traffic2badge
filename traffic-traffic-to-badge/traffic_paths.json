@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 10,
-    "uniques": 7
+    "count": 7,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/21",
     "title": "Can't find 'action.yml' · Issue #21 · yi-Xu-0100/traffic-to-badge",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases",
-    "title": "Releases · yi-Xu-0100/traffic-to-badge",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/37",
@@ -39,6 +33,12 @@
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/LICENSE",
     "title": "traffic-to-badge/LICENSE at main · yi-Xu-0100/traffic-to-badge",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/actions",
+    "title": "Actions · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 1,
     "uniques": 1
   },
   {
