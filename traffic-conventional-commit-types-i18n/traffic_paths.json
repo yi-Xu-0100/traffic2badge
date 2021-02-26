@@ -2,61 +2,61 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 10,
-    "uniques": 4
+    "count": 41,
+    "uniques": 8
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
+    "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n",
+    "count": 19,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/11",
+    "title": "fix: missing fallback translation when no locale available by Fabio286 · Pull...",
+    "count": 12,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
     "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
-    "count": 5,
-    "uniques": 1
+    "count": 8,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
     "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/568724343",
-    "title": "ci(actions): 💚 update codecov for more node version · yi-Xu-0100/conventiona...",
-    "count": 4,
+    "count": 8,
     "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/zh-cn.json",
-    "title": "conventional-commit-types-i18n/zh-cn.json at main · yi-Xu-0100/conventional-c...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
-    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
     "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
-    "count": 2,
-    "uniques": 2
+    "count": 7,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
+    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/package.json",
     "title": "conventional-commit-types-i18n/package.json at main · yi-Xu-0100/conventional...",
-    "count": 2,
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/compare/main...Fabio286:missing-locale-fix",
+    "title": "Comparing yi-Xu-0100:main...Fabio286:missing-locale-fix · yi-Xu-0100/conventi...",
+    "count": 5,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/568799365",
-    "title": "test(actions): ✅ add test for codecov-action · yi-Xu-0100/conventional-commit...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
-    "title": "conventional-commit-types-i18n/en.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/10",
+    "title": "fix: missing fallback translation when no locale available by Fabio286 · Pull...",
+    "count": 5,
     "uniques": 1
   }
 ]
