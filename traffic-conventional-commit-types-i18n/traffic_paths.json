@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 42,
-    "uniques": 8
+    "count": 39,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
@@ -18,12 +18,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
-    "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
-    "count": 8,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
     "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
     "count": 8,
@@ -33,6 +27,12 @@
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
     "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
     "count": 8,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
+    "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
+    "count": 7,
     "uniques": 3
   },
   {
