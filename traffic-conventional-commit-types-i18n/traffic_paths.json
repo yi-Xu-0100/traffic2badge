@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 39,
-    "uniques": 5
+    "count": 35,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
@@ -18,34 +18,10 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
-    "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
-    "count": 8,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
-    "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
-    "count": 8,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
     "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
     "count": 7,
     "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
-    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/package.json",
-    "title": "conventional-commit-types-i18n/package.json at main · yi-Xu-0100/conventional...",
-    "count": 5,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/compare/main...Fabio286:missing-locale-fix",
@@ -58,5 +34,29 @@
     "title": "fix: missing fallback translation when no locale available by Fabio286 · Pull...",
     "count": 5,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/9",
+    "title": "feat: italian localization by Fabio286 · Pull Request #9 · yi-Xu-0100/convent...",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
+    "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
+    "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/package.json",
+    "title": "conventional-commit-types-i18n/package.json at main · yi-Xu-0100/conventional...",
+    "count": 4,
+    "uniques": 2
   }
 ]
