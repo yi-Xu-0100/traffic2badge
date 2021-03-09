@@ -2,43 +2,7 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/.github/workflows/sync.yml",
-    "title": "Application-Lists/sync.yml at main · yi-Xu-0100/Application-Lists",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/.github",
-    "title": "Application-Lists/.github at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/.github/workflows",
-    "title": "Application-Lists/.github/workflows at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/f48ce9285b18a3b93f1d16501ee244bfd38d62f9/.github/workflows/sync.yml",
-    "title": "Application-Lists/sync.yml at f48ce9285b18a3b93f1d16501ee244bfd38d62f9 · yi-X...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/commit/be9d23c1608e39579754422d3f81c0c6baf408c1",
-    "title": ":arrow_up: Bump yanglbme/gitee-pages-action from v1.2.6 to v1.2.7 (#8) · yi-X...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/.docsify",
-    "title": "Application-Lists/.docsify at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   }
 ]

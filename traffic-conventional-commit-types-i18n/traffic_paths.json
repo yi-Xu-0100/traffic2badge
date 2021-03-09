@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 35,
+    "count": 34,
     "uniques": 6
   },
   {
@@ -20,8 +20,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
     "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
-    "count": 7,
-    "uniques": 3
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/compare/main...Fabio286:missing-locale-fix",
@@ -54,9 +54,9 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/package.json",
-    "title": "conventional-commit-types-i18n/package.json at main · yi-Xu-0100/conventional...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/releases/tag/v1.4.0",
+    "title": "Release @yi-xu-0100/conventional-commit-types-i18n v1.4.0 · yi-Xu-0100/conven...",
     "count": 4,
-    "uniques": 2
+    "uniques": 1
   }
 ]
