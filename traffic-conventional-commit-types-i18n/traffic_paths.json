@@ -2,61 +2,49 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 34,
-    "uniques": 6
+    "count": 4,
+    "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
-    "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n",
-    "count": 19,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/11",
-    "title": "fix: missing fallback translation when no locale available by Fabio286 · Pull...",
-    "count": 12,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
-    "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/compare/main...Fabio286:missing-locale-fix",
-    "title": "Comparing yi-Xu-0100:main...Fabio286:missing-locale-fix · yi-Xu-0100/conventi...",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/10",
-    "title": "fix: missing fallback translation when no locale available by Fabio286 · Pull...",
-    "count": 5,
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/bee13a82f2396daf169d3d1df932c25b717457fa",
+    "title": "fix: 🐛 missing fallback translation when no locale available (#11) · yi-Xu-0...",
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/9",
     "title": "feat: italian localization by Fabio286 · Pull Request #9 · yi-Xu-0100/convent...",
-    "count": 5,
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/pt-br.json",
+    "title": "conventional-commit-types-i18n/pt-br.json at main · yi-Xu-0100/conventional-c...",
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
     "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
-    "count": 4,
-    "uniques": 3
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
+    "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
+    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
     "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/releases/tag/v1.4.0",
-    "title": "Release @yi-xu-0100/conventional-commit-types-i18n v1.4.0 · yi-Xu-0100/conven...",
-    "count": 4,
+    "count": 1,
     "uniques": 1
   }
 ]
