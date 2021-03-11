@@ -2,19 +2,31 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 4,
+    "count": 7,
     "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/bee13a82f2396daf169d3d1df932c25b717457fa",
-    "title": "fix: 🐛 missing fallback translation when no locale available (#11) · yi-Xu-0...",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/9",
     "title": "feat: italian localization by Fabio286 · Pull Request #9 · yi-Xu-0100/convent...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
+    "title": "conventional-commit-types-i18n/en.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/fr.json",
+    "title": "conventional-commit-types-i18n/fr.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ko.json",
+    "title": "conventional-commit-types-i18n/ko.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -26,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
     "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commits/main",
-    "title": "Commits · yi-Xu-0100/conventional-commit-types-i18n",
     "count": 1,
     "uniques": 1
   },

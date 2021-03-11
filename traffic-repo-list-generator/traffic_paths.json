@@ -1,9 +1,9 @@
 [
   {
     "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "GitHub - yi-Xu-0100/repo-list-generator: The GitHub action that generate repo...",
-    "count": 2,
-    "uniques": 2
+    "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
@@ -18,8 +18,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/1",
-    "title": "Bump Yikun/hub-mirror-action from v0.09 to v0.10 by dependabot · Pull Request...",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
+    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
+    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/commit/f0fddfe7760a9e462c57624692e9028deae88c75",
+    "title": "Merge pull request #1 from yi-Xu-0100/dependabot/github_actions/Yikun… · yi-X...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
+    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
