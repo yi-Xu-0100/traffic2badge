@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 29,
+    "count": 28,
     "uniques": 18
   },
   {
@@ -36,18 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commits",
-    "title": "Commits · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/f72d035d46a9d03a5e8bd3b1ef302cabc1a0c30a",
-    "title": "GitHub - yi-Xu-0100/soulsign-scripts at f72d035d46a9d03a5e8bd3b1ef302cabc1a0c...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
     "title": "Actions · yi-Xu-0100/soulsign-scripts",
     "count": 1,
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/.vscode/settings.json",
     "title": "soulsign-scripts/settings.json at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
+    "title": "Discussions · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
+    "title": "File Finder",
     "count": 1,
     "uniques": 1
   }
