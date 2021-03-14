@@ -6,8 +6,26 @@
     "uniques": 6
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
+    "title": "GitHub - yi-Xu-0100/hub-mirror: 使用 github action - hub-mirror-action 的模板仓库，可以...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/actions",
     "title": "Actions · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
+    "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
+    "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   }
