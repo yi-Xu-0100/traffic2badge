@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 32,
-    "uniques": 20
+    "count": 31,
+    "uniques": 19
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -30,12 +30,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/21",
-    "title": "魂签的爱奇艺签到出错了，麻烦大佬看看怎么回事 · Issue #21 · yi-Xu-0100/soulsign-scripts",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
     "title": "Actions · yi-Xu-0100/soulsign-scripts",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/discussions",
     "title": "Discussions · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
+    "title": "File Finder",
     "count": 1,
     "uniques": 1
   }
