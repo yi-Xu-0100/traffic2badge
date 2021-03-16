@@ -2,19 +2,19 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 31,
-    "uniques": 19
+    "count": 36,
+    "uniques": 20
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 9,
-    "uniques": 9
+    "count": 15,
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 8,
+    "count": 9,
     "uniques": 3
   },
   {
@@ -36,26 +36,26 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.93hsy.com.js",
+    "title": "soulsign-scripts/www.93hsy.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/.vscode/settings.json",
     "title": "soulsign-scripts/settings.json at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/b51340a9132e8a32b1b2679925c3b947e27b7473",
-    "title": "更新阅次元阅读签到脚本 · yi-Xu-0100/soulsign-scripts@b51340a",
+    "path": "/yi-Xu-0100/soulsign-scripts/branches",
+    "title": "Branches · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
-    "title": "Discussions · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
-    "title": "File Finder",
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/3f0941f9ff5ab41c5ef1006bb72f5b47bdb39d6b",
+    "title": "版本更新 · yi-Xu-0100/soulsign-scripts@3f0941f · GitHub",
     "count": 1,
     "uniques": 1
   }
