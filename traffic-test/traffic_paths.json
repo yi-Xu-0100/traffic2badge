@@ -8,6 +8,12 @@
   {
     "path": "/yi-Xu-0100/test",
     "title": "yi-Xu-0100/test: test",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/test/actions/runs/651182429",
+    "title": "fix(actions): 🐛 try to fix the auth · yi-Xu-0100/test@d5fbfd2",
     "count": 3,
     "uniques": 2
   },
@@ -18,8 +24,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/test/actions/runs/651182429",
-    "title": "fix(actions): 🐛 try to fix the auth · yi-Xu-0100/test@d5fbfd2",
+    "path": "/yi-Xu-0100/test/commit/071d1a790e9cb706e82de639a847d120c4bb1398",
+    "title": "chore(release): :bookmark: release v1.2.1 · yi-Xu-0100/test@071d1a7",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/actions/runs/650405859",
+    "title": "fix(actions): 🐛 fix not found branch · yi-Xu-0100/test@25b4e19",
     "count": 2,
     "uniques": 1
   },
@@ -45,18 +57,6 @@
     "path": "/yi-Xu-0100/test/tree/main/.github/workflows",
     "title": "test/.github/workflows at main · yi-Xu-0100/test",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/actions",
-    "title": "Actions · yi-Xu-0100/test",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/actions/runs/651166537/workflow",
-    "title": "fix(actions): 🐛 fix missing quote · yi-Xu-0100/test@c0c2de3 · GitHub",
-    "count": 1,
     "uniques": 1
   }
 ]
