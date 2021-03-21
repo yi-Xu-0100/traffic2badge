@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: The GitHub action that using repositories Insigh...",
-    "count": 6,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.4.0",
@@ -24,6 +24,24 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/branches",
+    "title": "Branches · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/441e70a702723f4860778e97d608d4bb06b337bd",
+    "title": "chore(deps): ⬆️ Bump husky from 5.1.1 to 5.1.2 (#74) · yi-Xu-0100/traffic-to-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/commits/traffic",
+    "title": "Commits · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/compare/v1.1.6...v1.4.0",
     "title": "Comparing v1.1.6...v1.4.0 · yi-Xu-0100/traffic-to-badge",
     "count": 1,
@@ -38,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/64",
     "title": "Total Weekly Visit Count - All repositories · Issue #64 · yi-Xu-0100/traffic-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.3.0",
-    "title": "Release Release v1.3.0 · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }
