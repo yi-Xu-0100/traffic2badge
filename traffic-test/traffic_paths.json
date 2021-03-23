@@ -12,6 +12,12 @@
     "uniques": 3
   },
   {
+    "path": "/yi-Xu-0100/test/actions/runs/651182430",
+    "title": "fix(actions): 🐛 try to fix the auth · yi-Xu-0100/test@d5fbfd2 · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/test/actions/runs/651182429",
     "title": "fix(actions): 🐛 try to fix the auth · yi-Xu-0100/test@d5fbfd2",
     "count": 3,
@@ -52,11 +58,5 @@
     "title": "test/test.yml at main · yi-Xu-0100/test",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/test/actions/runs/650405859",
-    "title": "fix(actions): 🐛 fix not found branch · yi-Xu-0100/test@25b4e19",
-    "count": 2,
-    "uniques": 1
   }
 ]
