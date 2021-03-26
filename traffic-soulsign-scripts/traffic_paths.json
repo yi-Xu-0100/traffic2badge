@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 36,
-    "uniques": 22
+    "count": 32,
+    "uniques": 21
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/b51340a9132e8a32b1b2679925c3b947e27b7473",
-    "title": "更新阅次元阅读签到脚本 · yi-Xu-0100/soulsign-scripts@b51340a",
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/b6439672f8f845baecf5256a3b42ad9d3b00a98d",
+    "title": "fix!: 🐛 更新威锋网签到脚本到 v2.0.0 · yi-Xu-0100/soulsign-scripts@b643967",
     "count": 1,
     "uniques": 1
   }
