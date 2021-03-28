@@ -18,12 +18,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/test/actions/runs/651182429",
-    "title": "fix(actions): 🐛 try to fix the auth · yi-Xu-0100/test@d5fbfd2",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/test/blob/main/.github/workflows/prepare-release.yml",
     "title": "test/prepare-release.yml at main · yi-Xu-0100/test",
     "count": 3,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/test/blob/main/.github/workflows/test.yml",
     "title": "test/test.yml at main · yi-Xu-0100/test",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/test/pull/15",
+    "title": "chore(release): :bookmark: release v1.2.1 by github-actions · Pull Request #1...",
     "count": 2,
     "uniques": 2
   }

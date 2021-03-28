@@ -1,9 +1,9 @@
 [
   {
     "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "GitHub - yi-Xu-0100/repo-list-generator: The GitHub action that generate repo...",
-    "count": 2,
-    "uniques": 2
+    "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/releases",
@@ -14,12 +14,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/310160734",
     "title": "🔖 release 0.0.3 · yi-Xu-0100/repo-list-generator@61c9257 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/LICENSE",
-    "title": "repo-list-generator/LICENSE at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
