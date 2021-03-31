@@ -1,13 +1,25 @@
 [
   {
+    "path": "/yi-Xu-0100/test/pulls",
+    "title": "Pull requests · yi-Xu-0100/test",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/test",
+    "title": "yi-Xu-0100/test: test",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/test/commit/071d1a790e9cb706e82de639a847d120c4bb1398",
     "title": "chore(release): :bookmark: release v1.2.1 · yi-Xu-0100/test@071d1a7",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test",
-    "title": "yi-Xu-0100/test: test",
+    "path": "/yi-Xu-0100/test/blob/main/.github/workflows/test.yml",
+    "title": "test/test.yml at main · yi-Xu-0100/test",
     "count": 2,
     "uniques": 2
   },
@@ -18,8 +30,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/test/pulls",
-    "title": "Pull requests · yi-Xu-0100/test",
+    "path": "/yi-Xu-0100/test/tree/main/.github",
+    "title": "test/.github at main · yi-Xu-0100/test",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/test/tree/main/.github/workflows",
+    "title": "test/.github/workflows at main · yi-Xu-0100/test",
     "count": 2,
     "uniques": 2
   },
@@ -36,27 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test/actions/runs/650405859/workflow",
-    "title": "fix(actions): 🐛 fix not found branch · yi-Xu-0100/test@25b4e19",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/actions/runs/651182429",
-    "title": "fix(actions): 🐛 try to fix the auth · yi-Xu-0100/test@d5fbfd2",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/actions/workflows/sync2gitee.yml",
-    "title": "Actions · yi-Xu-0100/test · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/blob/main/.github/workflows/release.yml",
-    "title": "test/release.yml at main · yi-Xu-0100/test",
-    "count": 1,
+    "path": "/yi-Xu-0100/test/actions/runs/670620927",
+    "title": "ci(actions): 🐛 fix yaml syntax · yi-Xu-0100/test@d6f4382",
+    "count": 2,
     "uniques": 1
   }
 ]
