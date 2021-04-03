@@ -2,12 +2,18 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: The GitHub action that generate repository li...",
-    "count": 4,
+    "count": 5,
     "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/310160734",
     "title": "🔖 release 0.0.3 · yi-Xu-0100/repo-list-generator@61c9257 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/workflows/test.yml",
+    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }

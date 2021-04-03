@@ -1,33 +1,9 @@
 [
   {
     "path": "/yi-Xu-0100/test/pulls",
-    "title": "Pull requests · yi-Xu-0100/test",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/test",
-    "title": "yi-Xu-0100/test: test",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/test/blob/main/.github/workflows/test.yml",
-    "title": "test/test.yml at main · yi-Xu-0100/test",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/test/tree/main/.github",
-    "title": "test/.github at main · yi-Xu-0100/test",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/test/tree/main/.github/workflows",
-    "title": "test/.github/workflows at main · yi-Xu-0100/test",
-    "count": 2,
-    "uniques": 2
+    "title": "Pull requests · yi-Xu-0100/test · GitHub",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/test/actions/runs/651182430",
@@ -39,6 +15,12 @@
     "path": "/yi-Xu-0100/test/actions/runs/670620927",
     "title": "ci(actions): 🐛 fix yaml syntax · yi-Xu-0100/test@d6f4382",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test",
+    "title": "yi-Xu-0100/test: test",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -54,8 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test/blob/main/.github/workflows/release.yml",
-    "title": "test/release.yml at main · yi-Xu-0100/test",
+    "path": "/yi-Xu-0100/test/blob/main/.github/workflows/test.yml",
+    "title": "test/test.yml at main · yi-Xu-0100/test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/pull/15",
+    "title": "chore(release): :bookmark: release v1.2.1 by github-actions · Pull Request #1...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/pull/3",
+    "title": "Bump actions/github-script from v3.0.0 to v3.1 by dependabot · Pull Request #...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/releases",
+    "title": "Releases · yi-Xu-0100/test · GitHub",
     "count": 1,
     "uniques": 1
   }
