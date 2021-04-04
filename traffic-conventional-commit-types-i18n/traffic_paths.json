@@ -12,6 +12,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions",
+    "title": "Actions · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/de.json",
     "title": "conventional-commit-types-i18n/de.json at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
     "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
-    "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
     "count": 1,
     "uniques": 1
   }
