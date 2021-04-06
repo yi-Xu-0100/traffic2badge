@@ -2,42 +2,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 7,
-    "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
-    "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 4,
-    "uniques": 2
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions",
     "title": "Actions · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/de.json",
-    "title": "conventional-commit-types-i18n/de.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/es.json",
-    "title": "conventional-commit-types-i18n/es.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/3efd585514fb4ee3acb23284342ec14d909df7de",
-    "title": "feat(locale): ✨ add Bulgarian localization · yi-Xu-0100/conventional-commit-t...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/issues",
-    "title": "Issues · yi-Xu-0100/conventional-commit-types-i18n",
     "count": 1,
     "uniques": 1
   },
@@ -48,14 +18,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/releases",
-    "title": "Releases · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
+    "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
-    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/releases",
+    "title": "Releases · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 1,
     "uniques": 1
   }
