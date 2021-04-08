@@ -2,12 +2,30 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 4,
-    "uniques": 4
+    "count": 10,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
     "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/46",
+    "title": "chore(release): 🔖 release v1.6.0 by github-actions · Pull Request #46 · yi-X...",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62",
+    "title": "chore(release): 🔖 release v1.7.0 by github-actions · Pull Request #62 · yi-X...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
+    "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
     "count": 2,
     "uniques": 2
   },
@@ -24,26 +42,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
+    "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/35699d25e118e250033fe739d56b4ad6c748c79d",
     "title": "build(actions): ⚡️ improve prepare-relaese action · yi-Xu-0100/conventional-c...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
-    "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/46",
-    "title": "chore(release): 🔖 release v1.6.0 by github-actions · Pull Request #46 · yi-X...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/releases",
-    "title": "Releases · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62/files",
+    "title": "chore(release): 🔖 release v1.7.0 by github-actions · Pull Request #62 · yi-X...",
     "count": 1,
     "uniques": 1
   }
