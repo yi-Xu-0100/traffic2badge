@@ -2,42 +2,18 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 23,
-    "uniques": 13
+    "count": 14,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 11,
-    "uniques": 7
+    "title": "Issues · yi-Xu-0100/soulsign-scripts",
+    "count": 7,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commits/main",
-    "title": "Commits · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/LICENSE",
-    "title": "soulsign-scripts/LICENSE at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
-    "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.v2ex.com.js",
-    "title": "soulsign-scripts/www.v2ex.com.js at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 1
   },
@@ -48,14 +24,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
-    "title": "soulsign-scripts/conf.json at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
+    "title": "soulsign-scripts/www.iqiyi.com.js at main · yi-Xu-0100/soulsign-scripts · Git...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/.github/workflows/enhance-deps-pr.yml",
-    "title": "soulsign-scripts/enhance-deps-pr.yml at main · yi-Xu-0100/soulsign-scripts · ...",
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/8170e28d660bb5afaabeee8f5f5ca294c5af5181",
+    "title": "feat: ✨ 增加科研通签到脚本到 v1.0.0 · yi-Xu-0100/soulsign-scripts@8170e28",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/ff9e4a645d134d41f88626095d3cb210de6dedd7",
+    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from v3.7.3 to v3.8.… · yi-Xu...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commits/main",
+    "title": "Commits · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
