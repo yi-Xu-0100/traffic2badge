@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/test/pulls",
     "title": "Pull requests · yi-Xu-0100/test · GitHub",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/test/actions",
@@ -30,12 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test/actions/workflows/sync2gitee.yml",
-    "title": "Actions · yi-Xu-0100/test · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/test/blob/main/.github/workflows/test.yml",
     "title": "test/test.yml at main · yi-Xu-0100/test",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/test/tree/main/.github",
     "title": "test/.github at main · yi-Xu-0100/test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/tree/main/.github/workflows",
+    "title": "test/.github/workflows at main · yi-Xu-0100/test",
     "count": 1,
     "uniques": 1
   }
