@@ -19,14 +19,6 @@ Usage template repository of [traffic-to-badge GitHub Action](https://github.com
 
 [**English**](./README.md) | [简体中文](./README_CN.md)
 
-## 🎨 Table of contents
-
-- [🎨 Table of contents](#-table-of-contents)
-- [🚀 Configuration](#-configuration)
-  - [📝 Usage for `static_list`](#-usage-for-static_list)
-- [🎉 Thanks](#-thanks)
-- [📄 LICENSE](#-license)
-
 ## 🚀 Configuration
 
 There are **only one input must be set up** and four inputs can be set to default without config. The default setting only supports running repository, and if repositories support is required, please refer to [Usage for `static_list`](#-usage-for-static_list).
