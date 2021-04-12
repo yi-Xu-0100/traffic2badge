@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitH...",
-    "count": 42,
-    "uniques": 11
+    "count": 39,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commits/main",
-    "title": "Commits · yi-Xu-0100/hub-mirror",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/issues",
     "title": "Issues · yi-Xu-0100/hub-mirror",
     "count": 3,
@@ -57,6 +51,12 @@
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
     "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
+    "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 2,
     "uniques": 2
   }
 ]
