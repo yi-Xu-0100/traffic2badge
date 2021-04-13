@@ -1,49 +1,19 @@
 [
   {
-    "path": "/yi-Xu-0100/test/pulls",
-    "title": "Pull requests · yi-Xu-0100/test · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/test/actions",
     "title": "Actions · yi-Xu-0100/test · GitHub",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/test",
-    "title": "yi-Xu-0100/test: test",
+    "path": "/yi-Xu-0100/test/pulls",
+    "title": "Pull requests · yi-Xu-0100/test · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/test/actions/runs/670620927",
-    "title": "ci(actions): 🐛 fix yaml syntax · yi-Xu-0100/test@d6f4382",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/actions/runs/651166537/workflow",
-    "title": "fix(actions): 🐛 fix missing quote · yi-Xu-0100/test@c0c2de3 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/blob/main/.github/workflows/test.yml",
-    "title": "test/test.yml at main · yi-Xu-0100/test",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/tree/main/.github",
-    "title": "test/.github at main · yi-Xu-0100/test",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/tree/main/.github/workflows",
-    "title": "test/.github/workflows at main · yi-Xu-0100/test",
+    "path": "/yi-Xu-0100/test",
+    "title": "GitHub - yi-Xu-0100/test: test",
     "count": 1,
     "uniques": 1
   }
