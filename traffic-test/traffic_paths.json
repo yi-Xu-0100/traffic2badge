@@ -6,14 +6,20 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/test/pulls",
-    "title": "Pull requests · yi-Xu-0100/test · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/test",
     "title": "GitHub - yi-Xu-0100/test: test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/actions/workflows/sync2gitee.yml",
+    "title": "Actions · yi-Xu-0100/test · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/pulls",
+    "title": "Pull requests · yi-Xu-0100/test · GitHub",
     "count": 1,
     "uniques": 1
   }
