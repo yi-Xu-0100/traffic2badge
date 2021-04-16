@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/test/actions",
     "title": "Actions · yi-Xu-0100/test · GitHub",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/test",
@@ -20,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/test/pulls",
     "title": "Pull requests · yi-Xu-0100/test · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/releases",
+    "title": "Releases · yi-Xu-0100/test · GitHub",
     "count": 1,
     "uniques": 1
   }
