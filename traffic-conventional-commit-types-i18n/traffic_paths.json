@@ -1,31 +1,7 @@
 [
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "yi-Xu-0100/conventional-commit-types-i18n: conventional-commit-types internat...",
-    "count": 7,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
-    "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/46",
-    "title": "chore(release): 🔖 release v1.6.0 by github-actions · Pull Request #46 · yi-X...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62",
-    "title": "chore(release): 🔖 release v1.7.0 by github-actions · Pull Request #62 · yi-X...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
-    "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
+    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
     "count": 2,
     "uniques": 2
   },
@@ -36,26 +12,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
-    "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/issues",
     "title": "Issues · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62/files",
-    "title": "chore(release): 🔖 release v1.7.0 by github-actions · Pull Request #62 · yi-X...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
+    "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62/files/e68aff044411d5fb7fa76b21a072cc5c5ccc43f7..6d214f558c3a1d163cb8cff77726dfe003c98899",
-    "title": "Commit range not found · Pull Request #62 · yi-Xu-0100/conventional-commit-ty...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
+    "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/releases",
+    "title": "Releases · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 1,
     "uniques": 1
   }
