@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 22,
-    "uniques": 15
+    "count": 20,
+    "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -26,12 +26,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/692d2b72826324c05c394a5b2eaccea1c46089dd",
     "title": "更新比特球云盘和增加盛天网络 · yi-Xu-0100/soulsign-scripts@692d2b7",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/8170e28d660bb5afaabeee8f5f5ca294c5af5181",
-    "title": "feat: ✨ 增加科研通签到脚本到 v1.0.0 · yi-Xu-0100/soulsign-scripts@8170e28",
     "count": 1,
     "uniques": 1
   },
