@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions",
@@ -20,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
     "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/46",
+    "title": "chore(release): 🔖 release v1.6.0 by github-actions · Pull Request #46 · yi-X...",
     "count": 1,
     "uniques": 1
   },
