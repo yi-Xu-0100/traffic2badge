@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 13,
-    "uniques": 9
+    "count": 14,
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -15,6 +15,12 @@
     "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/music.163.com.js",
     "title": "soulsign-scripts/music.163.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e4919d...",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/6",
+    "title": "wnflb签到 不在线 · Issue #6 · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -32,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/692d2b72826324c05c394a5b2eaccea1c46089dd",
     "title": "更新比特球云盘和增加盛天网络 · yi-Xu-0100/soulsign-scripts@692d2b7",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/6",
-    "title": "wnflb签到 不在线 · Issue #6 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   },
