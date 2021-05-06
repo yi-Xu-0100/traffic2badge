@@ -6,8 +6,8 @@
   },
   {
     "referrer": "soulsign.inu1255.cn",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "gist.github.com",
@@ -16,6 +16,11 @@
   },
   {
     "referrer": "Baidu",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }

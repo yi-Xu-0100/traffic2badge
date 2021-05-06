@@ -2,19 +2,19 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions",
-    "title": "Actions · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
     "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions",
+    "title": "Actions · yi-Xu-0100/conventional-commit-types-i18n",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -36,14 +36,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/bg.json",
-    "title": "conventional-commit-types-i18n/bg.json at main · yi-Xu-0100/conventional-comm...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/issues",
+    "title": "Issues · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
     "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62",
+    "title": "chore(release): 🔖 release v1.6.1 by github-actions · Pull Request #62 · yi-X...",
     "count": 1,
     "uniques": 1
   }
