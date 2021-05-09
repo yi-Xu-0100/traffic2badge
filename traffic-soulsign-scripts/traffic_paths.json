@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 26,
-    "uniques": 10
+    "count": 24,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/30",
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/music.163.com.js",
-    "title": "soulsign-scripts/music.163.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e4919d...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/zt.wps.cn.js",
     "title": "soulsign-scripts/zt.wps.cn.js at 206545c7e7c36942c3b0c305c9d4aa8673e4919d · y...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/10",
     "title": "爱奇艺签到失败 · Issue #10 · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/3",
+    "title": "阅读元签到成功判断可能有误 · Issue #3 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
