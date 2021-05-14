@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 30,
-    "uniques": 15
+    "count": 29,
+    "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 20,
-    "uniques": 5
+    "count": 19,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/30",
@@ -21,18 +21,6 @@
     "path": "/yi-Xu-0100/soulsign-scripts/issues/4",
     "title": "😀 可以帮我完善整合一下我写的 `discuz.k` 咩? 😆 · Issue #4 · yi-Xu-0100/soulsign-scripts",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/zt.wps.cn.js",
-    "title": "soulsign-scripts/zt.wps.cn.js at 206545c7e7c36942c3b0c305c9d4aa8673e4919d · y...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/graphs/contributors",
-    "title": "Contributors to yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -54,8 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/pulse",
-    "title": "Pulse · yi-Xu-0100/soulsign-scripts · GitHub",
+    "path": "/yi-Xu-0100/soulsign-scripts/search",
+    "title": "Search · 魂签 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/stargazers",
+    "title": "Stargazers · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
+    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
