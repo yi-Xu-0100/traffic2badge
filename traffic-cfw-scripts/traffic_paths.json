@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "GitHub - yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package-lock.json",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/README.md",
     "title": "cfw-scripts/README.md at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
