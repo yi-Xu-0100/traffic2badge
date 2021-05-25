@@ -1,31 +1,13 @@
 [
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 2,
-    "uniques": 2
+    "title": "GitHub - yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-ty...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/568724343",
     "title": "ci(actions): 💚 update codecov for more node version · yi-Xu-0100/conventiona...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/2a78c98683b5e628bb98095762a89fdfdca32af1/locale/en.json",
-    "title": "conventional-commit-types-i18n/en.json at 2a78c98683b5e628bb98095762a89fdfdca...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/2a78c98683b5e628bb98095762a89fdfdca32af1/src/index.ts",
-    "title": "conventional-commit-types-i18n/index.ts at 2a78c98683b5e628bb98095762a89fdfdc...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/index.js",
-    "title": "conventional-commit-types-i18n/index.js at main · yi-Xu-0100/conventional-com...",
     "count": 1,
     "uniques": 1
   },
@@ -44,18 +26,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/76",
     "title": "chore(deps): ⬆️ bump eslint-config-alloy from 3.10.0 to 4.1.0 by dependabot ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/2a78c98683b5e628bb98095762a89fdfdca32af1",
-    "title": "yi-Xu-0100/conventional-commit-types-i18n at 2a78c98683b5e628bb98095762a89fdf...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/2a78c98683b5e628bb98095762a89fdfdca32af1/locale",
-    "title": "conventional-commit-types-i18n/locale at 2a78c98683b5e628bb98095762a89fdfdca3...",
     "count": 1,
     "uniques": 1
   }
