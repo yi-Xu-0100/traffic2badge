@@ -1,13 +1,31 @@
 [
   {
     "path": "/yi-Xu-0100/Application-Lists",
-    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 2,
-    "uniques": 2
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/commit/e5f7cfc19e40d8432bf461a78b19b0f0e4238a08",
     "title": "feat(translucenttb): ✨ add translucenttb configuration · yi-Xu-0100/Applicati...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
+    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
+    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }
