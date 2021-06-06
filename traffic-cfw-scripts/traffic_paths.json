@@ -2,26 +2,14 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 44,
-    "uniques": 12
+    "count": 43,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
     "count": 15,
     "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/resources",
-    "title": "cfw-scripts/resources at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib",
-    "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 7,
-    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
@@ -31,25 +19,25 @@
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
-    "title": "cfw-scripts/info.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 5,
+    "title": "cfw-scripts/info.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 6,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
-    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 4,
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/resources",
+    "title": "cfw-scripts/resources at main · yi-Xu-0100/cfw-scripts",
+    "count": 6,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.yml",
-    "title": "cfw-scripts/change-rules.yml at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 4,
-    "uniques": 3
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib",
+    "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts",
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
-    "title": "cfw-scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "title": "cfw-scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts",
     "count": 4,
     "uniques": 2
   },
@@ -58,5 +46,17 @@
     "title": "Issues · yi-Xu-0100/cfw-scripts",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/notify.js",
+    "title": "cfw-scripts/notify.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
+    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 3,
+    "uniques": 2
   }
 ]
