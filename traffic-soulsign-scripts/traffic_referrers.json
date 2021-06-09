@@ -5,24 +5,19 @@
     "uniques": 11
   },
   {
+    "referrer": "Google",
+    "count": 5,
+    "uniques": 3
+  },
+  {
     "referrer": "github.yixuju.cn",
     "count": 4,
     "uniques": 4
   },
   {
-    "referrer": "Google",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "referrer": "soulsign.inu1255.cn",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "referrer": "gist.github.com",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "Baidu",
