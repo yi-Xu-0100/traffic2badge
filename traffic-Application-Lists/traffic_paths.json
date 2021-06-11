@@ -1,26 +1,8 @@
 [
   {
     "path": "/yi-Xu-0100/Application-Lists",
-    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 7,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
-    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
-    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
+    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -32,12 +14,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/5b80eea6679bbcc454119f9014505fe4e39af051/docs/windows-applications.md",
     "title": "Application-Lists/windows-applications.md at 5b80eea6679bbcc454119f9014505fe4...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/init.js",
-    "title": "Application-Lists/init.js at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }
