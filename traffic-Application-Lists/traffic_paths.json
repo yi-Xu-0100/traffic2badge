@@ -1,13 +1,31 @@
 [
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/5b80eea6679bbcc454119f9014505fe4e39af051/docs/windows-applications.md",
-    "title": "Application-Lists/windows-applications.md at 5b80eea6679bbcc454119f9014505fe4...",
+    "path": "/yi-Xu-0100/Application-Lists",
+    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
+    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/commit/dbf661f1433f76b100535e1bb508142ac7fef735",
     "title": "ci(sync): 🔨 remove trigger with build · yi-Xu-0100/Application-Lists@dbf661f",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/docs",
+    "title": "Application-Lists/docs at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/.docsify",
+    "title": "Application-Lists/.docsify at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
     "uniques": 1
   }
