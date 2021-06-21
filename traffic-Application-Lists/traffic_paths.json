@@ -6,6 +6,24 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Notepad3/register-right-click-menu.reg",
+    "title": "Application-Lists/register-right-click-menu.reg at main · yi-Xu-0100/Applicat...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blame/main/config/Notepad3/register-right-click-menu.reg",
+    "title": "Application-Lists/config/Notepad3/register-right-click-menu.reg at main · yi-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Notepad3/Notepad3.ini",
+    "title": "Application-Lists/Notepad3.ini at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
     "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
@@ -14,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/commit/dbf661f1433f76b100535e1bb508142ac7fef735",
     "title": "ci(sync): 🔨 remove trigger with build · yi-Xu-0100/Application-Lists@dbf661f",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/Notepad3",
+    "title": "Application-Lists/config/Notepad3 at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
