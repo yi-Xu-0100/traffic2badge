@@ -1,9 +1,15 @@
 [
   {
     "path": "/yi-Xu-0100/Application-Lists",
-    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 4,
-    "uniques": 2
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Notepad3/Notepad3.ini",
+    "title": "Application-Lists/Notepad3.ini at main · yi-Xu-0100/Application-Lists",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Notepad3/register-right-click-menu.reg",
@@ -14,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blame/main/config/Notepad3/register-right-click-menu.reg",
     "title": "Application-Lists/config/Notepad3/register-right-click-menu.reg at main · yi-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Notepad3/Notepad3.ini",
-    "title": "Application-Lists/Notepad3.ini at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
