@@ -12,8 +12,14 @@
     "uniques": 10
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/fishc.com.cn.js",
+    "title": "soulsign-scripts/fishc.com.cn.js at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.scjuchuang.com.js",
+    "title": "soulsign-scripts/www.scjuchuang.com.js at main · yi-Xu-0100/soulsign-scripts ...",
     "count": 2,
     "uniques": 1
   },
@@ -24,14 +30,32 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
-    "title": "soulsign-scripts/www.iqiyi.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/api.live.bilibili.com.js",
+    "title": "soulsign-scripts/api.live.bilibili.com.js at main · yi-Xu-0100/soulsign-scrip...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/30",
-    "title": "脚本怎么弄进服务器全自动签到 · Issue #30 · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/baipiaoyun.xyz.js",
+    "title": "soulsign-scripts/baipiaoyun.xyz.js at main · yi-Xu-0100/soulsign-scripts · Gi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/bbs.pinggu.org.js",
+    "title": "soulsign-scripts/bbs.pinggu.org.js at main · yi-Xu-0100/soulsign-scripts · Gi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/club.aliyun.com.js",
+    "title": "soulsign-scripts/club.aliyun.com.js at main · yi-Xu-0100/soulsign-scripts · G...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/forum.51nb.com.js",
+    "title": "soulsign-scripts/forum.51nb.com.js at main · yi-Xu-0100/soulsign-scripts · Gi...",
     "count": 1,
     "uniques": 1
   }
