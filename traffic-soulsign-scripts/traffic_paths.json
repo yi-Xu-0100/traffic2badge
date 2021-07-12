@@ -2,19 +2,37 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 35,
-    "uniques": 23
+    "count": 38,
+    "uniques": 24
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 16,
-    "uniques": 13
+    "count": 14,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/www.geekhub.com.js",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/j02.space.js",
+    "title": "soulsign-scripts/j02.space.js at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/45a99d2a7cf06664b0b67bc6088633747c90f6c0/scripts/j02.space.js",
+    "title": "soulsign-scripts/j02.space.js at 45a99d2a7cf06664b0b67bc6088633747c90f6c0 · y...",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -30,12 +48,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/renzhe.cloud.js",
-    "title": "soulsign-scripts/renzhe.cloud.js at 206545c7e7c36942c3b0c305c9d4aa8673e4919d ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
     "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/api.live.bilibili.com.js",
     "title": "soulsign-scripts/api.live.bilibili.com.js at main · yi-Xu-0100/soulsign-scrip...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/baipiaoyun.xyz.js",
-    "title": "soulsign-scripts/baipiaoyun.xyz.js at main · yi-Xu-0100/soulsign-scripts · Gi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/bbs.pinggu.org.js",
-    "title": "soulsign-scripts/bbs.pinggu.org.js at main · yi-Xu-0100/soulsign-scripts · Gi...",
     "count": 1,
     "uniques": 1
   }
