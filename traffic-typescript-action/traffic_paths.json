@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/typescript-action/commit/d080c524e6b7e5decc9a5c22b9d7be673dc831d8",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.0.1 to 11.1.0 · yi-Xu-0100/typescrip...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/100",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.4.0 to 16.4.1 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  }
+]

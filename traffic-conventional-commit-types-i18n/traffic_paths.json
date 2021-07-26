@@ -10,5 +10,17 @@
     "title": "conventional-commit-types-i18n/fr.json at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/01a5b5fd0e5e222a90afa2c38ed71f6b794c2993",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.3.3 to 16.4.0 · yi-Xu-0100/conventio...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/159",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.3.3 to 16.4.0 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
   }
 ]
