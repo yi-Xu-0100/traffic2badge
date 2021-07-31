@@ -2,12 +2,60 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 2,
-    "uniques": 2
+    "count": 7,
+    "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/102",
-    "title": "chore(deps): ⬆️ bump lint-staged from 11.0.1 to 11.1.0 by dependabot · Pull R...",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
+    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/compare/v1.0.0...v1.0.1",
+    "title": "Comparing v1.0.0...v1.0.1 · yi-Xu-0100/repo-list-generator",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/issues",
+    "title": "Issues · yi-Xu-0100/repo-list-generator",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
+    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/3c2a17f4021dcd1a3a1ab2fd4eb763c3c11b5814/dist/index.js",
+    "title": "repo-list-generator/index.js at 3c2a17f4021dcd1a3a1ab2fd4eb763c3c11b5814 · yi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/98f45086f68798681af140986fbcf2873f29d2e5/dist/index.js",
+    "title": "repo-list-generator/index.js at 98f45086f68798681af140986fbcf2873f29d2e5 · yi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/98f45086f68798681af140986fbcf2873f29d2e5/dist/index.js.map",
+    "title": "repo-list-generator/index.js.map at 98f45086f68798681af140986fbcf2873f29d2e5 ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/CHANGELOG.md",
+    "title": "repo-list-generator/CHANGELOG.md at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
+    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
