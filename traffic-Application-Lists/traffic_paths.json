@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 6,
-    "uniques": 4
+    "count": 7,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/pull/49",
@@ -20,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/9aa6ed21d63b5cb74a919b8ca4eaa9d383633d4b/.github/workflows/sync.yml",
     "title": "Application-Lists/sync.yml at 9aa6ed21d63b5cb74a919b8ca4eaa9d383633d4b · yi-X...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
