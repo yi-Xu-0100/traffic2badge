@@ -4,5 +4,59 @@
     "title": "GitHub - yi-Xu-0100/typescript-action: 📝 Example GitHub action build in type...",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/commit/0e9e78d6daac62fd0ae1b0a215315b6ed6a3aef8",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 · yi-Xu-0100/typescrip...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/commit/71f553df684ccd95f6e7ffddc69f3859e45cb0bb",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.4.12 to 16.4.13 · yi-Xu-0100/typescr...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/commit/99e664479de5a4a6f922b5662d48a4b4e6adebcd",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.4.11 to 16.4.12 · yi-Xu-0100/typescr...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/commit/ad8efaf87600e6edf3034ba9d71fdeb11b677d3b",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.2 to 2.4.0 · yi-Xu-0100/type...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/commit/fc025b23f6673fe7685ee552cb01a084ff61bd2c",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.1 to 2.3.2 · yi-Xu-0100/type...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/110",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.1 to 2.3.2 by dependabot · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/112",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.2 to 2.4.0 by dependabot · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/113",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/114",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.4.12 to 16.4.13 by dependabot · Pull...",
+    "count": 1,
+    "uniques": 1
   }
 ]

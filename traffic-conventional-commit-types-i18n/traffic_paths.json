@@ -24,14 +24,38 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/46",
-    "title": "chore(release): 🔖 release v1.6.0 by github-actions · Pull Request #46 · yi-X...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/005061e4267a0d2bb7cea8189f0fb1098745e1d9",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.4.11 to 16.4.12 · yi-Xu-0100/convent...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
-    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/a2d281a68abb236e3936ebfe98de4258f3ad1b5e",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.2 to 2.4.0 · yi-Xu-0100/conv...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/ac02882430bdca86d11b5155c064ae143c0b1e68",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.1 to 2.3.2 · yi-Xu-0100/conv...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/ae10d94d9c7ba88990ecdd8f20abbefc01fbc656",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.4.12 to 16.4.13 · yi-Xu-0100/convent...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/f14af9a55697167bd0f838a4641686d69f1921fa",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 · yi-Xu-0100/conventio...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/177",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.1 to 2.3.2 by dependabot · P...",
     "count": 1,
     "uniques": 1
   }
