@@ -2,7 +2,13 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 2,
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/package-lock.json",
+    "title": "traffic-to-badge/package-lock.json at main · yi-Xu-0100/traffic-to-badge · Gi...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -30,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.1.5",
-    "title": "Release Release v1.1.5 · yi-Xu-0100/traffic-to-badge · GitHub",
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/45",
+    "title": "Bump eslint-config-prettier from 6.15.0 to 7.0.0 by dependabot · Pull Request...",
     "count": 1,
     "uniques": 1
   }
