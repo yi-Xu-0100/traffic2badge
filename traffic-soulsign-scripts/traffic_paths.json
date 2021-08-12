@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 14,
-    "uniques": 10
+    "count": 16,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -16,6 +16,18 @@
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/0d38f39eb9e8e58642f7c38a4bfb451cbab06040/scripts/music.163.com.js",
+    "title": "soulsign-scripts/music.163.com.js at 0d38f39eb9e8e58642f7c38a4bfb451cbab06040...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/0d38f39eb9e8e58642f7c38a4bfb451cbab06040/scripts/baipiaoyun.xyz.js",
+    "title": "soulsign-scripts/baipiaoyun.xyz.js at 0d38f39eb9e8e58642f7c38a4bfb451cbab0604...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/bbs.pinggu.org.js",
@@ -38,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/labels",
     "title": "Labels · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/0d38f39eb9e8e58642f7c38a4bfb451cbab06040",
+    "title": "yi-Xu-0100/soulsign-scripts at 0d38f39eb9e8e58642f7c38a4bfb451cbab06040",
     "count": 1,
     "uniques": 1
   }

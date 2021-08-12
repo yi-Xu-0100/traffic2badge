@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 23,
+    "count": 18,
     "uniques": 5
   },
   {
@@ -30,33 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/commit/98f45086f68798681af140986fbcf2873f29d2e5",
     "title": "🔖 release v1.0.1 · yi-Xu-0100/repo-list-generator@98f4508",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/compare/v1.0.0...v1.0.1",
-    "title": "Comparing v1.0.0...v1.0.1 · yi-Xu-0100/repo-list-generator",
-    "count": 3,
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/530296580",
+    "title": "🔖 release v1.0.1 · yi-Xu-0100/repo-list-generator@98f4508",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
-    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/541972170",
+    "title": "⬆️ Bump lint-staged from 10.5.3 to 10.5.4 (#44) · yi-Xu-0100/repo-list-genera...",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/675273834",
+    "title": "chore(deps): ⬆️ Bump husky from 5.1.3 to 5.2.0 (#56) · yi-Xu-0100/repo-list-g...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blame/main/action.yml",
+    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
+    "count": 2,
     "uniques": 1
   }
 ]
