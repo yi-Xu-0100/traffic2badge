@@ -12,8 +12,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/typescript-action/commit/53e5d0d1a094a6493b2336a5e676f48b026a6b18",
+    "title": "chore(deps): ⬆️ bump @types/jest from 26.0.24 to 27.0.0 · yi-Xu-0100/typescri...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action/commit/71f553df684ccd95f6e7ffddc69f3859e45cb0bb",
     "title": "chore(deps): ⬆️ bump @types/node from 16.4.12 to 16.4.13 · yi-Xu-0100/typescr...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/commit/95a53a30a8a0ca16f172ad865f789db80e16ca3f",
+    "title": "chore(deps): ⬆️ bump path-parse from 1.0.6 to 1.0.7 · yi-Xu-0100/typescript-a...",
     "count": 1,
     "uniques": 1
   },
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/112",
     "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.2 to 2.4.0 by dependabot · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/113",
-    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/114",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.4.12 to 16.4.13 by dependabot · Pull...",
     "count": 1,
     "uniques": 1
   }
