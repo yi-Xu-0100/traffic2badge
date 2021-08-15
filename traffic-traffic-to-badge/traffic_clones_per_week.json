@@ -1,11 +1,5 @@
 {
-  "count": 8,
-  "uniques": 6,
-  "clones": [
-    {
-      "timestamp": "2021-08-07T00:00:00Z",
-      "count": 8,
-      "uniques": 6
-    }
-  ]
+  "count": 0,
+  "uniques": 0,
+  "clones": []
 }
