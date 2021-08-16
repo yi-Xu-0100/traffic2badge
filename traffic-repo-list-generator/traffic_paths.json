@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 8,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/commit/076f5c88d46b151c868a7c80522c01d2844dd45b",
@@ -12,14 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/commits/main",
-    "title": "Commits · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/105",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/105",
-    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   },
