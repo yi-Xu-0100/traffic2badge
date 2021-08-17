@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "GitHub - yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 8,
-    "uniques": 6
+    "count": 7,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/issues/69",
@@ -36,14 +36,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/9c3d9b75f6c77140659c74357cab6e21c58c5316",
-    "title": "chore(deps): ⬆️ bump eslint from 7.31.0 to 7.32.0 · yi-Xu-0100/cfw-scripts@9c...",
+    "path": "/yi-Xu-0100/cfw-scripts/commit/a4e00db7cdee90bda7e7fca0aa71c37c03745895",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 · yi-Xu-0100/cfw-scrip...",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/commit/e5c872af1f5587788a97c14cdebaed1a8b6980b3",
     "title": "fix: 🐛 fix provider error · yi-Xu-0100/cfw-scripts@e5c872a · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/68",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   },
