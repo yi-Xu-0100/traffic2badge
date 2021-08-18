@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/typescript-action",
-    "title": "GitHub - yi-Xu-0100/typescript-action: 📝 Example GitHub action build in type...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/commit/0e9e78d6daac62fd0ae1b0a215315b6ed6a3aef8",
     "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 · yi-Xu-0100/typescrip...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/112",
     "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.2 to 2.4.0 by dependabot · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/113",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   }
