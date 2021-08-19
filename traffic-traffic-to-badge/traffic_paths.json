@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/21",
-    "title": "Can't find 'action.yml' · Issue #21 · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 3,
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
+    "count": 4,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 3,
-    "uniques": 2
+    "path": "/yi-Xu-0100/traffic-to-badge/issues/21",
+    "title": "Can't find 'action.yml' · Issue #21 · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/package-lock.json",
@@ -32,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/45",
     "title": "Bump eslint-config-prettier from 6.15.0 to 7.0.0 by dependabot · Pull Request...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.1.5",
+    "title": "Release Release v1.1.5 · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }
