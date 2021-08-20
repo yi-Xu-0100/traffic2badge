@@ -1,31 +1,25 @@
 [
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "GitHub - yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-ty...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/LICENSE",
     "title": "conventional-commit-types-i18n/LICENSE at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
-    "title": "conventional-commit-types-i18n/en.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/zh-tw.json",
-    "title": "conventional-commit-types-i18n/zh-tw.json at main · yi-Xu-0100/conventional-c...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/005061e4267a0d2bb7cea8189f0fb1098745e1d9",
     "title": "chore(deps): ⬆️ bump @types/node from 16.4.11 to 16.4.12 · yi-Xu-0100/convent...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/058d7cc7b6f9735fce8b92fb35d350215858ba24",
+    "title": "chore(deps): ⬆️ bump @typescript-eslint/parser from 4.29.1 to 4.29.2 · yi-Xu-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/0ae3cd33cfa25d871ef3b21a2420be1a7e3c6af3",
+    "title": "chore(deps): ⬆️ bump @typescript-eslint/eslint-plugin from 4.29.1 to… · yi-Xu...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/a31ffe79b758eda02dd80ab43a5dc883a6e0ca67",
     "title": "chore(deps): ⬆️ bump @typescript-eslint/parser from 4.29.0 to 4.29.1 · yi-Xu-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/ac02882430bdca86d11b5155c064ae143c0b1e68",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.1 to 2.3.2 · yi-Xu-0100/conv...",
     "count": 1,
     "uniques": 1
   }

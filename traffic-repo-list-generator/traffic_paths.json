@@ -1,13 +1,19 @@
 [
   {
     "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 3,
-    "uniques": 2
+    "title": "GitHub - yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate r...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/commit/076f5c88d46b151c868a7c80522c01d2844dd45b",
     "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 · yi-Xu-0100/repo-list...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/commit/b15747263e627bddb057825dd2bdaf9985182f94",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 · yi-Xu-0100/repo-list...",
     "count": 1,
     "uniques": 1
   },
@@ -20,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/105",
     "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/106",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   },

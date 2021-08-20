@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 9,
-    "uniques": 7
+    "count": 11,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/issues/69",
@@ -36,6 +36,18 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/31755303c93706e0bb5ae2c74d95df0c74e8ec35",
+    "title": "feat: ✨ append proxy in every groups · yi-Xu-0100/cfw-scripts@3175530 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/89c94171ef6e9e8f86a2eb7de77008f560bade3b",
+    "title": "feat: ✨ append proxy in every groups · yi-Xu-0100/cfw-scripts@89c9417 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/cfw-scripts/commit/a4e00db7cdee90bda7e7fca0aa71c37c03745895",
     "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 · yi-Xu-0100/cfw-scrip...",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/commit/e5c872af1f5587788a97c14cdebaed1a8b6980b3",
     "title": "fix: 🐛 fix provider error · yi-Xu-0100/cfw-scripts@e5c872a · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/68",
-    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }

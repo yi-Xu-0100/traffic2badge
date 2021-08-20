@@ -6,6 +6,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/typescript-action/commit/23ba8e416644cb143787ae7054f2e049c8daf2f0",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 · yi-Xu-0100/typescrip...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action/commit/53e5d0d1a094a6493b2336a5e676f48b026a6b18",
     "title": "chore(deps): ⬆️ bump @types/jest from 26.0.24 to 27.0.0 · yi-Xu-0100/typescri...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/112",
     "title": "chore(deps): ⬆️ bump actions/setup-node from 2.3.2 to 2.4.0 by dependabot · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/113",
-    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   }
