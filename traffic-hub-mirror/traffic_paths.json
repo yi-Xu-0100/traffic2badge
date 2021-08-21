@@ -6,8 +6,8 @@
     "uniques": 5
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/actions",
-    "title": "Actions · yi-Xu-0100/hub-mirror · GitHub",
+    "path": "/yi-Xu-0100/hub-mirror/issues",
+    "title": "Issues · yi-Xu-0100/hub-mirror · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -15,6 +15,12 @@
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
     "title": "hub-mirror/README.md at main · yi-Xu-0100/hub-mirror",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions",
+    "title": "Actions · yi-Xu-0100/hub-mirror",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -32,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
     "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "Issues · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }
