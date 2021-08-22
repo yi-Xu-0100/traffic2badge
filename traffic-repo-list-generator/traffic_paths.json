@@ -1,7 +1,25 @@
 [
   {
+    "path": "/yi-Xu-0100/repo-list-generator/commit/1df30f37a6c2d80a1647d7cb8bcb2b511c8311b2",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 · yi-Xu-0100/repo-list...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/commit/2a5e52985ac6ca5f26854a7a538dc45d1b7de069",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/rep...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/commit/b15747263e627bddb057825dd2bdaf9985182f94",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 · yi-Xu-0100/repo-list...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/commit/dc6875094e745edb98d003de5226a87205480ecb",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 · yi-Xu-0100/repo-list...",
     "count": 1,
     "uniques": 1
   },
@@ -18,14 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/107",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 by dependabot[bo...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v1.0.1",
-    "title": "Release Release v1.0.1 · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/108",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/109",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }

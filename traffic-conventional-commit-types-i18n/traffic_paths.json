@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/247783be943378fece6a3855fe6e5e15cd6458b5",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/con...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/31110171cb4fd7b28c38440febb0fb75c14becec",
     "title": "chore(deps): ⬆️ bump @types/node from 16.6.0 to 16.6.1 · yi-Xu-0100/conventio...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/cdaccc954bc544a41e6caa3554d595956b5a0975",
     "title": "chore(deps): ⬆️ bump @types/jest from 26.0.24 to 27.0.0 · yi-Xu-0100/conventi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/cff22cb74f6ea56f06aaee704c3aa40f7da9b681",
-    "title": "chore(deps): ⬆️ bump path-parse from 1.0.6 to 1.0.7 · yi-Xu-0100/conventional...",
     "count": 1,
     "uniques": 1
   }

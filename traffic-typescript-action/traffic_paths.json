@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/typescript-action/commit/cb3f886962f94de55ed0b1969547827a24690f18",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 · yi-Xu-0100/typescrip...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action/pull/115",
     "title": "chore(deps): ⬆️ bump @types/jest from 26.0.24 to 27.0.0 by dependabot · Pull ...",
     "count": 1,

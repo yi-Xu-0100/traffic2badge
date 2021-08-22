@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 17,
-    "uniques": 5
+    "count": 21,
+    "uniques": 7
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions",
+    "title": "Actions · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/issues",
@@ -18,20 +24,32 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/actions",
-    "title": "Actions · yi-Xu-0100/hub-mirror",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/1133114317",
     "title": "chore(deps): ⬆️ bump actions/cache from 2.1.5 to 2.1.6 · yi-Xu-0100/hub-mirro...",
     "count": 1,
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/525247051",
+    "title": "📝 test for not ssh · yi-Xu-0100/hub-mirror@5853a90 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/525247051/workflow",
+    "title": "📝 test for not ssh · yi-Xu-0100/hub-mirror@5853a90 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/actions/workflows/sync2gitee.yml",
     "title": "Actions · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
+    "title": "hub-mirror/add_secret_key.png at main · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   },
