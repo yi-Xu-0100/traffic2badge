@@ -1,5 +1,11 @@
 [
   {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/commit/1df30f37a6c2d80a1647d7cb8bcb2b511c8311b2",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 · yi-Xu-0100/repo-list...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/109",
     "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }
