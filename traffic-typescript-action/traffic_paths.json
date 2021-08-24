@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/typescript-action/commit/622863ff85652541abff1084a96a7f2466014ef3",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 · yi-Xu-0100/typescrip...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action/commit/95a53a30a8a0ca16f172ad865f789db80e16ca3f",
     "title": "chore(deps): ⬆️ bump path-parse from 1.0.6 to 1.0.7 · yi-Xu-0100/typescript-a...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/119",
     "title": "chore(deps): ⬆️ bump @types/jest from 27.0.0 to 27.0.1 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/120",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   }

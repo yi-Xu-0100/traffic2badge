@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ko.json",
+    "title": "conventional-commit-types-i18n/ko.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/058d7cc7b6f9735fce8b92fb35d350215858ba24",
     "title": "chore(deps): ⬆️ bump @typescript-eslint/parser from 4.29.1 to 4.29.2 · yi-Xu-...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/a31ffe79b758eda02dd80ab43a5dc883a6e0ca67",
     "title": "chore(deps): ⬆️ bump @typescript-eslint/parser from 4.29.0 to 4.29.1 · yi-Xu-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/cdaccc954bc544a41e6caa3554d595956b5a0975",
-    "title": "chore(deps): ⬆️ bump @types/jest from 26.0.24 to 27.0.0 · yi-Xu-0100/conventi...",
     "count": 1,
     "uniques": 1
   }
