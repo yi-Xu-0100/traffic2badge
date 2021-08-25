@@ -1,9 +1,15 @@
 [
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
-    "title": "GitHub - yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 3,
-    "uniques": 2
+    "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/71c77bfdc53b1b18bcc15f003b538f0f32b9357d",
+    "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.0 to 3.4.1 · yi-Xu-0100/...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/fafc6405c111d464de85595e4edff6c63e0db79c",
@@ -18,8 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/releases",
-    "title": "Releases · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/81",
+    "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.0 to 3.4.1 by dependabot...",
     "count": 1,
     "uniques": 1
   }
