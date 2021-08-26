@@ -6,32 +6,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/commit/53e5d0d1a094a6493b2336a5e676f48b026a6b18",
-    "title": "chore(deps): ⬆️ bump @types/jest from 26.0.24 to 27.0.0 · yi-Xu-0100/typescri...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/commit/622863ff85652541abff1084a96a7f2466014ef3",
     "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 · yi-Xu-0100/typescrip...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/commit/95a53a30a8a0ca16f172ad865f789db80e16ca3f",
-    "title": "chore(deps): ⬆️ bump path-parse from 1.0.6 to 1.0.7 · yi-Xu-0100/typescript-a...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/commit/cb3f886962f94de55ed0b1969547827a24690f18",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 · yi-Xu-0100/typescrip...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/115",
-    "title": "chore(deps): ⬆️ bump @types/jest from 26.0.24 to 27.0.0 by dependabot · Pull ...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +38,24 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/119",
     "title": "chore(deps): ⬆️ bump @types/jest from 27.0.0 to 27.0.1 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/120",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/122",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/123",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   }
