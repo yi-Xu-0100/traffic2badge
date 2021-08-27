@@ -6,12 +6,6 @@
     "uniques": 8
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/issues/69",
-    "title": "更新某profile时候脚本报错 · Issue #69 · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
     "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/commit/c6d8156c4dc525f68aba6f7583ddcc5e3422c75b",
     "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.0 to 3.4.1 · yi-Xu-0100/...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/68",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   }
