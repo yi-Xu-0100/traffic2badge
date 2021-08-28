@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/523ffbbc424e267488357b37d44fc4152b314190",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/cfw-scripts@523ff...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/cfw-scripts/commit/75daff2d0b4a67474b5853603748a6b76adb3b43",
     "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.0 to 3.4.1 · yi-Xu-0100/...",
     "count": 1,
@@ -36,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/8c90847b26bd06ef97b438c2ef50bc4fe4ed4a3c",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/cfw-scripts@8c908...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/cfw-scripts/commit/a4e00db7cdee90bda7e7fca0aa71c37c03745895",
     "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 · yi-Xu-0100/cfw-scrip...",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/commit/b4739c98deb251952599abe69a67067bb034139e",
     "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/cfw...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/c6d8156c4dc525f68aba6f7583ddcc5e3422c75b",
-    "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.0 to 3.4.1 · yi-Xu-0100/...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/68",
-    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.1 to 11.1.2 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   }

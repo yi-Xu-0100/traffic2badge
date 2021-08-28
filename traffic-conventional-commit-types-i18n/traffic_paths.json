@@ -30,32 +30,32 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/14b61913689ce444f6837715d2f041b2f2322674",
+    "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.0.2 to 2.0.3 · yi-Xu-0100/...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/247783be943378fece6a3855fe6e5e15cd6458b5",
     "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/con...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/31110171cb4fd7b28c38440febb0fb75c14becec",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.6.0 to 16.6.1 · yi-Xu-0100/conventio...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/ff5660dbd7b83371ef92dd5104f6e1d22e727fe6",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/6242124f9ab07c6c2d0d41fda9db9519211eb65a",
-    "title": "chore(deps): ⬆️ bump @types/jest from 27.0.0 to 27.0.1 · yi-Xu-0100/conventio...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/189",
+    "title": "chore(deps): ⬆️ bump @typescript-eslint/parser from 4.29.1 to 4.29.2 by depen...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/8e6dfebc665839e1789df2ed06bcd1b30d646770",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.4.13 to 16.6.0 · yi-Xu-0100/conventi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/186",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.4.13 to 16.6.0 by dependabot · Pull ...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/190",
+    "title": "chore(deps): ⬆️ bump @typescript-eslint/eslint-plugin from 4.29.1 to 4.29.2 b...",
     "count": 1,
     "uniques": 1
   }

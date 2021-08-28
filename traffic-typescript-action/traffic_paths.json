@@ -6,38 +6,26 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/typescript-action/commit/500f70a7554a3de005e6d5dcf9c0a78d484ca534",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/typescript-action...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action/commit/622863ff85652541abff1084a96a7f2466014ef3",
     "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 · yi-Xu-0100/typescrip...",
     "count": 1,
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/typescript-action/commit/c4bf0bb72e39de249357b642454a08786290e8e0",
+    "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.0.2 to 2.0.3 · yi-Xu-0100/...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action/commit/cb3f886962f94de55ed0b1969547827a24690f18",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 · yi-Xu-0100/typescrip...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/116",
-    "title": "chore(deps): ⬆️ bump path-parse from 1.0.6 to 1.0.7 by dependabot · Pull Requ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/117",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.4.13 to 16.6.0 by dependabot · Pull ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/118",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.6.0 to 16.6.1 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/119",
-    "title": "chore(deps): ⬆️ bump @types/jest from 27.0.0 to 27.0.1 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/123",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/125",
+    "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.0.2 to 2.0.3 by dependabot...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/126",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot[bot] · Pull Requ...",
     "count": 1,
     "uniques": 1
   }
