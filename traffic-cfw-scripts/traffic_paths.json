@@ -2,12 +2,42 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 9,
-    "uniques": 8
+    "count": 10,
+    "uniques": 6
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
-    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy.js",
+    "title": "cfw-scripts/add-proxy.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
+    "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy-plus.js",
+    "title": "cfw-scripts/add-proxy-plus.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
+    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   },
@@ -26,36 +56,6 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/commit/523ffbbc424e267488357b37d44fc4152b314190",
     "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/cfw-scripts@523ff...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/75daff2d0b4a67474b5853603748a6b76adb3b43",
-    "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.0 to 3.4.1 · yi-Xu-0100/...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/89c94171ef6e9e8f86a2eb7de77008f560bade3b",
-    "title": "feat: ✨ append proxy in every groups · yi-Xu-0100/cfw-scripts@89c9417 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/8c90847b26bd06ef97b438c2ef50bc4fe4ed4a3c",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/cfw-scripts@8c908...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/b4739c98deb251952599abe69a67067bb034139e",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/cfw...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/c6d8156c4dc525f68aba6f7583ddcc5e3422c75b",
-    "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.0 to 3.4.1 · yi-Xu-0100/...",
     "count": 1,
     "uniques": 1
   }
