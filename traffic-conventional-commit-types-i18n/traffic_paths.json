@@ -6,14 +6,26 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/LICENSE",
-    "title": "conventional-commit-types-i18n/LICENSE at main · yi-Xu-0100/conventional-comm...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ja.json",
+    "title": "conventional-commit-types-i18n/ja.json at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ko.json",
     "title": "conventional-commit-types-i18n/ko.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/zh-cn.json",
+    "title": "conventional-commit-types-i18n/zh-cn.json at main · yi-Xu-0100/conventional-c...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/zh-tw.json",
+    "title": "conventional-commit-types-i18n/zh-tw.json at main · yi-Xu-0100/conventional-c...",
     "count": 1,
     "uniques": 1
   },
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/ff5660dbd7b83371ef92dd5104f6e1d22e727fe6",
     "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/189",
-    "title": "chore(deps): ⬆️ bump @typescript-eslint/parser from 4.29.1 to 4.29.2 by depen...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/190",
-    "title": "chore(deps): ⬆️ bump @typescript-eslint/eslint-plugin from 4.29.1 to 4.29.2 b...",
     "count": 1,
     "uniques": 1
   }
