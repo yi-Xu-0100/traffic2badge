@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 10,
-    "uniques": 6
+    "count": 8,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
@@ -42,14 +42,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/116a21f20e5eca94201d4e63686c8565cc524968",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/cfw...",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/v0.0.1/scripts/auto-check-in.js",
+    "title": "cfw-scripts/auto-check-in.js at v0.0.1 · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/31755303c93706e0bb5ae2c74d95df0c74e8ec35",
-    "title": "feat: ✨ append proxy in every groups · yi-Xu-0100/cfw-scripts@3175530 · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/commit/116a21f20e5eca94201d4e63686c8565cc524968",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/cfw...",
     "count": 1,
     "uniques": 1
   },

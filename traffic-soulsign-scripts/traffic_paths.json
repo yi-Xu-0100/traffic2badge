@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 32,
-    "uniques": 17
+    "count": 26,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 16,
-    "uniques": 10
+    "count": 13,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
@@ -36,18 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/312f0dead3052ed903e835161eb93a3bfa771722",
-    "title": "fix: 🐛 update www.scjuchuang.com.js to v1.0.8 · yi-Xu-0100/soulsign-scripts@...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/3dc9b2b2284f7bf70ddab52b9033005ce9b8d9d2",
-    "title": "docs: 📝 fix link about script#186 · yi-Xu-0100/soulsign-scripts@3dc9b2b · Gi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/2",
     "title": "忍者云签到脚本 bug · Issue #2 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/30",
     "title": "脚本怎么弄进服务器全自动签到 · Issue #30 · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/9",
+    "title": "大佬能求个爱奇艺vip签到的脚本吗。。。 · Issue #9 · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }

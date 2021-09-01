@@ -30,20 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/commit/b15747263e627bddb057825dd2bdaf9985182f94",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 · yi-Xu-0100/repo-list...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/commit/dc6875094e745edb98d003de5226a87205480ecb",
     "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 · yi-Xu-0100/repo-list...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/106",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/108",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/109",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/111",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot · Pull Request #...",
     "count": 1,
     "uniques": 1
   }

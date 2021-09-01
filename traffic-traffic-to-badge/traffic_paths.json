@@ -6,12 +6,6 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/LICENSE",
-    "title": "traffic-to-badge/LICENSE at main · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.nvmrc",
     "title": "traffic-to-badge/.nvmrc at main · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 1,
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/fcbe072c3f772ffb2fb253dd6c667ea47c0eb6ff",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 · yi-Xu-0100/traffic-t...",
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/133",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 by dependabot · Pull R...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/132",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.0 to 0.29.1 by dependabot · Pull R...",
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/134",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 by dependabot · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/137",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot · Pull Request #...",
     "count": 1,
     "uniques": 1
   }
