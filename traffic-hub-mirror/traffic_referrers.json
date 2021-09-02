@@ -1,12 +1,12 @@
 [
   {
     "referrer": "hub.fastgit.org",
-    "count": 8,
-    "uniques": 1
+    "count": 9,
+    "uniques": 2
   },
   {
     "referrer": "github.com",
-    "count": 6,
-    "uniques": 4
+    "count": 7,
+    "uniques": 5
   }
 ]

@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/package-lock.json",
+    "title": "traffic-to-badge/package-lock.json at main · yi-Xu-0100/traffic-to-badge · Gi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/32a90911f19f07a3478c0effd8b7a2b3d3ebf5a6",
     "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/tra...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/134",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/137",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot · Pull Request #...",
     "count": 1,
     "uniques": 1
   }

@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 8,
+    "count": 9,
     "uniques": 8
   },
   {
@@ -18,8 +18,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
-    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists",
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
+    "title": "Application-Lists/parser.yaml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "Application-Lists/enhance-deps-pr.yml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/package-lock.json",
+    "title": "Application-Lists/package-lock.json at main · yi-Xu-0100/Application-Lists · ...",
     "count": 1,
     "uniques": 1
   },
@@ -32,6 +44,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/commit/1dc5b85a6e7afd577bd57998ec39dc3575d2156b",
     "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/App...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/issues",
+    "title": "Issues · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
     "uniques": 1
   }
