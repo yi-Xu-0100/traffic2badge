@@ -30,24 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/commit/cb3f886962f94de55ed0b1969547827a24690f18",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 · yi-Xu-0100/typescrip...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/122",
-    "title": "chore(deps): ⬆️ bump @actions/core from 1.4.0 to 1.5.0 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/123",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.1 to 0.29.2 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/pull/125",
     "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.0.2 to 2.0.3 by dependabot...",
     "count": 1,
@@ -56,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/126",
     "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot[bot] · Pull Requ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pulls",
+    "title": "Pull requests · yi-Xu-0100/typescript-action · GitHub",
     "count": 1,
     "uniques": 1
   }

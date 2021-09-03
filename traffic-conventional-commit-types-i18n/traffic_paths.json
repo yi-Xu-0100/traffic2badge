@@ -42,20 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/247783be943378fece6a3855fe6e5e15cd6458b5",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 · yi-Xu-0100/con...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/ff5660dbd7b83371ef92dd5104f6e1d22e727fe6",
     "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/192",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 4.0.2 to 4.1 by dependabot · ...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/196",
+    "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.0.2 to 2.0.3 by dependabot...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/197",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot · Pull Request #...",
     "count": 1,
     "uniques": 1
   }
