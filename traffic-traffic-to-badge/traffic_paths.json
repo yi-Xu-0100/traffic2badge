@@ -2,8 +2,20 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 3,
+    "count": 8,
     "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/7b32d9bc51ab53620adce1dfcc447a0af8a4f189",
+    "title": "build(deps): ♻️ upgrade @action/github to v5.0.0 · yi-Xu-0100/traffic-to-badg...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG.md",
+    "title": "traffic-to-badge/CHANGELOG.md at main · yi-Xu-0100/traffic-to-badge",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.nvmrc",
@@ -24,8 +36,26 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/commits/main",
+    "title": "Commits · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/compare/v1.4.0...HEAD",
+    "title": "Comparing v1.4.0...HEAD · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/137",
     "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot · Pull Request #...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tags",
+    "title": "Tags · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }
