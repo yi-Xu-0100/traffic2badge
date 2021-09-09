@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 10,
-    "uniques": 5
+    "count": 12,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/523ffbbc424e267488357b37d44fc4152b314190",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/cfw-scripts@523ff...",
+    "path": "/yi-Xu-0100/cfw-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/8c90847b26bd06ef97b438c2ef50bc4fe4ed4a3c",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/cfw-scripts@8c908...",
+    "path": "/yi-Xu-0100/cfw-scripts/search",
+    "title": "Search · purge · GitHub",
     "count": 1,
     "uniques": 1
   }

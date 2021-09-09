@@ -1,19 +1,7 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator/commit/5401649f25e8aea8c338200f2dd8083ae74ce827",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/license-generator...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/commit/9aec9e30866307832d0406342bc3879c1d8d5e60",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.29.2 to 0.30.0 · yi-Xu-0100/license-g...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/pull/96",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot · Pull Request #...",
     "count": 1,
     "uniques": 1
   }

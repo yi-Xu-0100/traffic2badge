@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/ff5ad74932fd19a53971c083496e1b734e82a89a/docs/windows-applications.md",
+    "title": "Application-Lists/windows-applications.md at ff5ad74932fd19a53971c083496e1b73...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 1,
@@ -32,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/package-lock.json",
     "title": "Application-Lists/package-lock.json at main · yi-Xu-0100/Application-Lists · ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/commit/16803f3e149f2d29c951493b52af76171faf84a8",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/Application-Lists...",
     "count": 1,
     "uniques": 1
   },

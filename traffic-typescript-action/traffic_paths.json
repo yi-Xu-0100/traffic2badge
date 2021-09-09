@@ -12,30 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/commit/500f70a7554a3de005e6d5dcf9c0a78d484ca534",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 · yi-Xu-0100/typescript-action...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/commit/c4bf0bb72e39de249357b642454a08786290e8e0",
-    "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.0.2 to 2.0.3 · yi-Xu-0100/...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/125",
-    "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.0.2 to 2.0.3 by dependabot...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/126",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.1 to 7.0.2 by dependabot[bot] · Pull Requ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/pull/132",
     "title": "chore(deps): ⬆️ bump @types/node from 16.7.8 to 16.7.10 by dependabot[bot] · ...",
     "count": 1,
