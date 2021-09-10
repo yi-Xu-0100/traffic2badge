@@ -32,8 +32,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
     "title": "Actions · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/525247051/workflow",
+    "title": "📝 test for not ssh · yi-Xu-0100/hub-mirror@5853a90 · GitHub",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.yml",
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
     "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
-    "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }
