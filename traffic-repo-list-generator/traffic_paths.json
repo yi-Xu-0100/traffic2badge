@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 5,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/CHANGELOG.md",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/113",
     "title": "chore(deps): ⬆️ bump eslint-plugin-prettier from 3.4.1 to 4.0.0 by dependabot...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/114",
+    "title": "chore(deps): ⬆️ bump prettier from 2.3.2 to 2.4.0 by dependabot · Pull Reques...",
     "count": 1,
     "uniques": 1
   },
