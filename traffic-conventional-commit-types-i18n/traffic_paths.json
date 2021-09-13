@@ -12,20 +12,26 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/fr.json",
+    "title": "conventional-commit-types-i18n/fr.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/hu.json",
     "title": "conventional-commit-types-i18n/hu.json at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/package-lock.json",
-    "title": "conventional-commit-types-i18n/package-lock.json at main · yi-Xu-0100/convent...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/204",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.7.8 to 16.7.10 by dependabot · Pull ...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/204",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.7.8 to 16.7.10 by dependabot · Pull ...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/211",
+    "title": "chore(deps): ⬆️ bump @types/node from 16.9.0 to 16.9.1 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
