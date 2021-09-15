@@ -34,5 +34,11 @@
     "title": "chore(deps): ⬆️ bump @types/node from 16.9.0 to 16.9.1 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/213",
+    "title": "chore(deps): ⬆️ bump typescript from 4.4.2 to 4.4.3 by dependabot[bot] · Pull...",
+    "count": 1,
+    "uniques": 1
   }
 ]
