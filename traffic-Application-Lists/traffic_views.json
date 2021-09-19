@@ -443,6 +443,11 @@
       "uniques": 1
     },
     {
+      "timestamp": "2021-09-17T00:00:00Z",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "timestamp": "2021-09-07T00:00:00Z",
       "count": 1,
       "uniques": 1
@@ -456,11 +461,6 @@
       "timestamp": "2021-09-11T00:00:00Z",
       "count": 1,
       "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-17T00:00:00Z",
-      "count": 2,
-      "uniques": 2
     }
   ]
 }
