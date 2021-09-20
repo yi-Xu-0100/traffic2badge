@@ -528,11 +528,6 @@
       "uniques": 5
     },
     {
-      "timestamp": "2021-09-17T00:00:00Z",
-      "count": 14,
-      "uniques": 7
-    },
-    {
       "timestamp": "2021-09-10T00:00:00Z",
       "count": 5,
       "uniques": 3
@@ -541,6 +536,11 @@
       "timestamp": "2021-09-13T00:00:00Z",
       "count": 10,
       "uniques": 3
+    },
+    {
+      "timestamp": "2021-09-17T00:00:00Z",
+      "count": 14,
+      "uniques": 7
     }
   ]
 }
