@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 23,
-    "uniques": 20
+    "count": 21,
+    "uniques": 19
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 20,
-    "uniques": 13
+    "count": 18,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/21",
@@ -20,8 +20,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/37",
     "title": "签到失败 · Issue #37 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
@@ -30,32 +30,32 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/www.chinafix.com.js",
+    "title": "soulsign-scripts/www.chinafix.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e49...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/13f0bfbbc0d188a9c6ea565eb815bb0bb73412fc",
     "title": "📝 更新好书友签到脚本到 v1.0.11 · yi-Xu-0100/soulsign-scripts@13f0bfb",
     "count": 3,
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d",
+    "title": "yi-Xu-0100/soulsign-scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts",
+    "title": "soulsign-scripts/scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d · yi-Xu-...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/0d38f39eb9e8e58642f7c38a4bfb451cbab06040/scripts/music.163.com.js",
     "title": "soulsign-scripts/music.163.com.js at 0d38f39eb9e8e58642f7c38a4bfb451cbab06040...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/www.93hsy.com.js",
-    "title": "soulsign-scripts/www.93hsy.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e4919d...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/57be74e2fc9f5c2a0c496da694ef0412429d20fe",
-    "title": "fix: 🐛 更新爱奇艺签到脚本到 v1.0.9 · yi-Xu-0100/soulsign-scripts@57be74e · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commits",
-    "title": "Commits · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 1
   }
