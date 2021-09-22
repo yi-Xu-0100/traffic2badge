@@ -1668,6 +1668,31 @@
       "uniques": 1
     },
     {
+      "timestamp": "2021-09-16T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-17T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-18T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-19T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-20T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "timestamp": "2021-09-09T00:00:00Z",
       "count": 1,
       "uniques": 1
@@ -1699,31 +1724,6 @@
     },
     {
       "timestamp": "2021-09-15T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-16T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-17T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-18T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-19T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-20T00:00:00Z",
       "count": 1,
       "uniques": 1
     }
