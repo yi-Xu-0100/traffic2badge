@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/test",
-    "title": "GitHub - yi-Xu-0100/test: test",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/test/actions",
     "title": "Actions · yi-Xu-0100/test · GitHub",
     "count": 1,
@@ -14,12 +8,6 @@
   {
     "path": "/yi-Xu-0100/test/actions/runs/576811073",
     "title": "test: test action name env · yi-Xu-0100/test@88aa01d · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/test/pulls",
-    "title": "Pull requests · yi-Xu-0100/test · GitHub",
     "count": 1,
     "uniques": 1
   }
