@@ -913,6 +913,16 @@
       "uniques": 1
     },
     {
+      "timestamp": "2021-09-16T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-23T00:00:00Z",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "timestamp": "2021-09-12T00:00:00Z",
       "count": 1,
       "uniques": 1
@@ -931,16 +941,6 @@
       "timestamp": "2021-09-15T00:00:00Z",
       "count": 1,
       "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-16T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2021-09-23T00:00:00Z",
-      "count": 2,
-      "uniques": 2
     }
   ]
 }
