@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/fr.json",
-    "title": "conventional-commit-types-i18n/fr.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ru.json",
     "title": "conventional-commit-types-i18n/ru.json at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/211",
-    "title": "chore(deps): ⬆️ bump @types/node from 16.9.0 to 16.9.1 by dependabot[bot] · P...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/213",
+    "title": "chore(deps): ⬆️ bump typescript from 4.4.2 to 4.4.3 by dependabot[bot] · Pull...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/213",
-    "title": "chore(deps): ⬆️ bump typescript from 4.4.2 to 4.4.3 by dependabot[bot] · Pull...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/releases",
+    "title": "Releases · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/.husky",
+    "title": "conventional-commit-types-i18n/.husky at main · yi-Xu-0100/conventional-commi...",
     "count": 1,
     "uniques": 1
   }

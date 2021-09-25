@@ -623,11 +623,6 @@
       "uniques": 8
     },
     {
-      "timestamp": "2021-09-14T00:00:00Z",
-      "count": 11,
-      "uniques": 6
-    },
-    {
       "timestamp": "2021-09-17T00:00:00Z",
       "count": 9,
       "uniques": 5
@@ -636,6 +631,11 @@
       "timestamp": "2021-09-21T00:00:00Z",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "timestamp": "2021-09-14T00:00:00Z",
+      "count": 11,
+      "uniques": 6
     }
   ]
 }

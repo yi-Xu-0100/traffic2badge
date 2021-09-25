@@ -12,18 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/commit/2c5ffa1d93e91b33575b5d80dc4e769206b8fa12",
-    "title": "chore(deps): ⬆️ bump prettier from 2.3.2 to 2.4.0 · yi-Xu-0100/repo-list-gene...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/115",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.30.0 to 0.31.0 by dependabot · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/pull/116",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.31.0 to 0.31.1 by dependabot · Pull R...",
     "count": 1,
