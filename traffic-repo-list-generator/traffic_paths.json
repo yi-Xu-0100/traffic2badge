@@ -1,17 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/dependabot.yml",
-    "title": "repo-list-generator/dependabot.yml at main · yi-Xu-0100/repo-list-generator ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/pull/116",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.31.0 to 0.31.1 by dependabot · Pull R...",
     "count": 1,
