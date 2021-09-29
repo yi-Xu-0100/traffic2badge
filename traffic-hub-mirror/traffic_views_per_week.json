@@ -1,5 +1,21 @@
 {
-  "count": 0,
-  "uniques": 0,
-  "views": []
+  "count": 8,
+  "uniques": 4,
+  "views": [
+    {
+      "timestamp": "2021-09-23T00:00:00Z",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "timestamp": "2021-09-26T00:00:00Z",
+      "count": 5,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-28T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    }
+  ]
 }

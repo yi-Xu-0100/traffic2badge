@@ -1,5 +1,41 @@
 {
-  "count": 0,
-  "uniques": 0,
-  "clones": []
+  "count": 71,
+  "uniques": 12,
+  "clones": [
+    {
+      "timestamp": "2021-09-22T00:00:00Z",
+      "count": 8,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-23T00:00:00Z",
+      "count": 8,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-24T00:00:00Z",
+      "count": 11,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-25T00:00:00Z",
+      "count": 12,
+      "uniques": 2
+    },
+    {
+      "timestamp": "2021-09-26T00:00:00Z",
+      "count": 8,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-27T00:00:00Z",
+      "count": 8,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2021-09-28T00:00:00Z",
+      "count": 16,
+      "uniques": 5
+    }
+  ]
 }
