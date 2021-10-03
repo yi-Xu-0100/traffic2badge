@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 14,
-    "uniques": 10
+    "count": 13,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -14,31 +14,19 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/www.v2ex.com.js",
     "title": "soulsign-scripts/www.v2ex.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e4919d ...",
-    "count": 8,
+    "count": 7,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d",
     "title": "yi-Xu-0100/soulsign-scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts",
-    "title": "soulsign-scripts/scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d · yi-Xu-...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/www.chinafix.com.js",
-    "title": "soulsign-scripts/www.chinafix.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e49...",
-    "count": 3,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/www.scjuchuang.com.js",
     "title": "soulsign-scripts/www.scjuchuang.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e...",
-    "count": 3,
+    "count": 2,
     "uniques": 1
   },
   {
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/0d38f39eb9e8e58642f7c38a4bfb451cbab06040/scripts/music.163.com.js",
     "title": "soulsign-scripts/music.163.com.js at 0d38f39eb9e8e58642f7c38a4bfb451cbab06040...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/45a99d2a7cf06664b0b67bc6088633747c90f6c0/scripts/j02.space.js",
+    "title": "soulsign-scripts/j02.space.js at 45a99d2a7cf06664b0b67bc6088633747c90f6c0 · y...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
+    "title": "soulsign-scripts/conf.json at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
