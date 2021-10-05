@@ -2,14 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 14,
-    "uniques": 10
+    "count": 19,
+    "uniques": 13
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
+    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts",
+    "count": 11,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 8,
-    "uniques": 8
+    "count": 7,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/www.v2ex.com.js",
@@ -24,15 +30,15 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions",
-    "title": "Actions · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
+    "title": "chore(package): 📦 update package to v2.3.0 · yi-Xu-0100/soulsign-scripts@d9d...",
+    "count": 4,
+    "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/898070305",
-    "title": "perf: ⚡️ update xingxinggo.us.js to v1.0.2 · yi-Xu-0100/soulsign-scripts@f0a3...",
-    "count": 1,
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
+    "title": "yi-Xu-0100/soulsign-scripts at d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -48,14 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/45a99d2a7cf06664b0b67bc6088633747c90f6c0/scripts/j02.space.js",
-    "title": "soulsign-scripts/j02.space.js at 45a99d2a7cf06664b0b67bc6088633747c90f6c0 · y...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
-    "title": "soulsign-scripts/conf.json at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts",
+    "title": "soulsign-scripts/scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d · yi-Xu-...",
     "count": 1,
     "uniques": 1
   }
