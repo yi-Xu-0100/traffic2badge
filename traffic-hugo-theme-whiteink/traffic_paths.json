@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 3,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/config.toml.example",
@@ -12,26 +12,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/partials/header.html",
-    "title": "hugo-theme-whiteink/header.html at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/partials/head.html",
-    "title": "hugo-theme-whiteink/head.html at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
-    "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/partials",
-    "title": "hugo-theme-whiteink/layouts/partials at main · yi-Xu-0100/hugo-theme-whiteink",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/92274c7e1ccd825f447bc327804ae7f33ac0e4c0",
+    "title": "测试 github action · yi-Xu-0100/hugo-theme-whiteink@92274c7 · GitHub",
     "count": 1,
     "uniques": 1
   }
