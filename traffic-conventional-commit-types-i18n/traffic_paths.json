@@ -18,8 +18,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
+    "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/228",
     "title": "chore(deps): ⬆️ bump @typescript-eslint/parser from 4.31.2 to 4.32.0 by depen...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/231",
+    "title": "chore(deps): ⬆️ bump lint-staged from 11.1.2 to 11.2.0 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
