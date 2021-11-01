@@ -1,14 +1,20 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v1.0.1",
-    "title": "Release Release v1.0.1 · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 2,
-    "uniques": 1
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "count": 7,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/125",
     "title": "chore(deps): ⬆️ bump husky from 7.0.2 to 7.0.4 by dependabot[bot] · Pull Requ...",
-    "count": 1,
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v1.0.1",
+    "title": "Release Release v1.0.1 · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 2,
     "uniques": 1
   }
 ]
