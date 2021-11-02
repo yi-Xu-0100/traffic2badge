@@ -2,30 +2,24 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/c31119c852cdb4bdf65898d7690f0b3d79d150d0",
     "title": "chore(deps): ⬆️ bump @types/node from 16.11.2 to 16.11.3 · yi-Xu-0100/convent...",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/244",
     "title": "chore(deps): ⬆️ bump @types/node from 16.11.1 to 16.11.2 by dependabot[bot] ·...",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/245",
     "title": "chore(deps): ⬆️ bump husky from 7.0.2 to 7.0.4 by dependabot[bot] · Pull Requ...",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/246",
     "title": "chore(deps): ⬆️ bump @types/node from 16.11.2 to 16.11.3 by dependabot[bot] ·...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/5f595e0be52139a611e0848c01fe7c7eea7992ae",
-    "title": "chore(deps): ⬆️ bump standard-version from 9.3.1 to 9.3.2 · yi-Xu-0100/conven...",
     "count": 1,
     "uniques": 1
   }
