@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/typescript-action",
+    "title": "yi-Xu-0100/typescript-action: 📝 Example GitHub action build in typescript.",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/LICENSE",
+    "title": "typescript-action/LICENSE at main · yi-Xu-0100/typescript-action",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/src/main.ts",
+    "title": "typescript-action/main.ts at main · yi-Xu-0100/typescript-action",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/tree/main/src",
+    "title": "typescript-action/src at main · yi-Xu-0100/typescript-action",
+    "count": 1,
+    "uniques": 1
+  }
+]

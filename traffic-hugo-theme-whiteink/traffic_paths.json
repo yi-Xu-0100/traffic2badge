@@ -2,20 +2,32 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 19,
-    "uniques": 2
+    "count": 21,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/config.toml.example",
     "title": "hugo-theme-whiteink/config.toml.example at main · yi-Xu-0100/hugo-theme-white...",
-    "count": 4,
-    "uniques": 1
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
     "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/index.html",
+    "title": "hugo-theme-whiteink/index.html at main · yi-Xu-0100/hugo-theme-whiteink · Git...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/.github",
+    "title": "hugo-theme-whiteink/.github at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/e6d8e674673e3324b3fcb50d9e3a7c51db50f558/exampleSite/content/blog/_index.md",
@@ -36,26 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/index.html",
-    "title": "hugo-theme-whiteink/index.html at main · yi-Xu-0100/hugo-theme-whiteink · Git...",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/archetypes/default.md",
+    "title": "hugo-theme-whiteink/default.md at main · yi-Xu-0100/hugo-theme-whiteink · Git...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/65a13296368b479e1e2e9a26d4527ddd112b1c20",
-    "title": "fix index style · yi-Xu-0100/hugo-theme-whiteink@65a1329 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/9e313695bffeb59fc064bc05c65e9810f9c58700",
-    "title": "🔖 release v0.0.8 again · yi-Xu-0100/hugo-theme-whiteink@9e31369 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/b03f6920aa338c0567135605d23bd3d0750abf87",
-    "title": "📝 add exampleSite to prettierignore · yi-Xu-0100/hugo-theme-whiteink@b03f692...",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/.github/workflows/demo.yml",
+    "title": "hugo-theme-whiteink/demo.yml at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
     "count": 1,
     "uniques": 1
   }
