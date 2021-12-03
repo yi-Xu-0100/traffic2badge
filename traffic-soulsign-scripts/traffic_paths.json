@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 37,
-    "uniques": 21
+    "count": 44,
+    "uniques": 25
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
@@ -14,8 +14,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 9,
-    "uniques": 6
+    "count": 11,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
@@ -36,6 +36,12 @@
     "uniques": 3
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/actions/workflows/enhance-deps-pr.yml",
     "title": "Actions · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 3,
@@ -51,12 +57,6 @@
     "path": "/yi-Xu-0100/soulsign-scripts/blob/0d38f39eb9e8e58642f7c38a4bfb451cbab06040/scripts/music.163.com.js",
     "title": "soulsign-scripts/music.163.com.js at 0d38f39eb9e8e58642f7c38a4bfb451cbab06040...",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
-    "title": "File Finder · GitHub",
-    "count": 2,
     "uniques": 1
   }
 ]
