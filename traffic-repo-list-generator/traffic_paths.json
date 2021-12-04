@@ -2,7 +2,31 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/1504185948",
+    "title": "chore(deps): ⬆️ bump prettier from 2.4.1 to 2.5.0 · yi-Xu-0100/repo-list-gene...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/workflows/test.yml",
+    "title": "Actions · yi-Xu-0100/repo-list-generator",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/runs/4325215082",
+    "title": "chore(deps): ⬆️ bump prettier from 2.4.1 to 2.5.0 · yi-Xu-0100/repo-list-gene...",
+    "count": 1,
+    "uniques": 1
   }
 ]
