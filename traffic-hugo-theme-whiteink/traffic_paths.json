@@ -3,7 +3,7 @@
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
     "count": 14,
-    "uniques": 6
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/_default",
@@ -14,37 +14,13 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
     "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
-    "count": 9,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions",
-    "title": "Actions · yi-Xu-0100/hugo-theme-whiteink · GitHub",
-    "count": 4,
-    "uniques": 1
+    "count": 8,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/list.html",
     "title": "hugo-theme-whiteink/list.html at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/partials/sidebar.html",
-    "title": "hugo-theme-whiteink/sidebar.html at main · yi-Xu-0100/hugo-theme-whiteink · G...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/1b2c988cf4a239b946745dd56a9eeebaef141b52/layouts/partials/mobile-toc.html",
-    "title": "hugo-theme-whiteink/mobile-toc.html at 1b2c988cf4a239b946745dd56a9eeebaef141b...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/c5c5839c39f001a08eeed2ae901a974cc224105a/layouts/partials/sidebar.html",
-    "title": "hugo-theme-whiteink/sidebar.html at c5c5839c39f001a08eeed2ae901a974cc224105a ...",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -54,9 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/partials/toc.html",
-    "title": "hugo-theme-whiteink/toc.html at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/theme.toml",
+    "title": "hugo-theme-whiteink/theme.toml at main · yi-Xu-0100/hugo-theme-whiteink",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/page",
+    "title": "hugo-theme-whiteink/layouts/page at main · yi-Xu-0100/hugo-theme-whiteink · G...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/config.toml.example",
+    "title": "hugo-theme-whiteink/config.toml.example at main · yi-Xu-0100/hugo-theme-white...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/baseof.html",
+    "title": "hugo-theme-whiteink/baseof.html at main · yi-Xu-0100/hugo-theme-whiteink · Gi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/index.html",
+    "title": "hugo-theme-whiteink/index.html at main · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 1,
     "uniques": 1
   }
 ]
