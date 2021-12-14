@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 5,
-    "uniques": 5
+    "count": 10,
+    "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/pulls",
+    "title": "Pull requests · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/a77c1c97f5793e5a29c91ee7d89448983faed533/config/ClashForWindows/mixin.yaml",
@@ -14,6 +20,18 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
+    "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists · G...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/pull/83",
+    "title": "chore(deps): ⬆️ bump prettier from 2.5.0 to 2.5.1 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }
