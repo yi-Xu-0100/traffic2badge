@@ -2,50 +2,8 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 11,
-    "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/_default",
-    "title": "hugo-theme-whiteink/layouts/_default at main · yi-Xu-0100/hugo-theme-whiteink...",
-    "count": 11,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
-    "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
-    "count": 8,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/list.html",
-    "title": "hugo-theme-whiteink/list.html at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/single.html",
-    "title": "hugo-theme-whiteink/single.html at main · yi-Xu-0100/hugo-theme-whiteink · Gi...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/baseof.html",
-    "title": "hugo-theme-whiteink/baseof.html at main · yi-Xu-0100/hugo-theme-whiteink · Gi...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/static",
-    "title": "hugo-theme-whiteink/static at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/page",
-    "title": "hugo-theme-whiteink/layouts/page at main · yi-Xu-0100/hugo-theme-whiteink · G...",
-    "count": 2,
-    "uniques": 1
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/static/img",
@@ -56,6 +14,48 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/archetypes/default.md",
     "title": "hugo-theme-whiteink/default.md at main · yi-Xu-0100/hugo-theme-whiteink · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/.eslintignore",
+    "title": "hugo-theme-whiteink/.eslintignore at main · yi-Xu-0100/hugo-theme-whiteink · ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/.gitignore",
+    "title": "hugo-theme-whiteink/.gitignore at main · yi-Xu-0100/hugo-theme-whiteink · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/404.html",
+    "title": "hugo-theme-whiteink/404.html at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/baseof.html",
+    "title": "hugo-theme-whiteink/baseof.html at main · yi-Xu-0100/hugo-theme-whiteink · Gi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/list.html",
+    "title": "hugo-theme-whiteink/list.html at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/single.html",
+    "title": "hugo-theme-whiteink/single.html at main · yi-Xu-0100/hugo-theme-whiteink · Gi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/index.html",
+    "title": "hugo-theme-whiteink/index.html at main · yi-Xu-0100/hugo-theme-whiteink · Git...",
     "count": 1,
     "uniques": 1
   }
