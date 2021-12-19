@@ -2,20 +2,38 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 32,
-    "uniques": 24
+    "count": 40,
+    "uniques": 30
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 24,
-    "uniques": 10
+    "count": 26,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 11,
-    "uniques": 8
+    "count": 18,
+    "uniques": 11
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/actions/workflows/jsdoc.yml",
+    "title": "Actions · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
+    "title": "chore(package): 📦 update package to v2.3.0 · yi-Xu-0100/soulsign-scripts@d9d...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2/build2.4.3.zip",
+    "title": "soulsign-scripts/build2.4.3.zip at d9dbe42bc553ebdf0f3d23f478596bb466ebbce2 ·...",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/find/main",
@@ -38,24 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
     "title": "soulsign-scripts/www.iqiyi.com.js at main · yi-Xu-0100/soulsign-scripts · Git...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/branches",
-    "title": "Branches · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/42d846c8c0b06343fd199137fd9942cf2e4e25ab",
-    "title": "📝 更新鱼C论坛签到脚本到v1.0.1 · yi-Xu-0100/soulsign-scripts@42d846c · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
-    "title": "chore(package): 📦 update package to v2.3.0 · yi-Xu-0100/soulsign-scripts@d9d...",
     "count": 1,
     "uniques": 1
   }
