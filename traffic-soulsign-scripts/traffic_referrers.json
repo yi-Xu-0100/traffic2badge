@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 57,
-    "uniques": 29
+    "count": 42,
+    "uniques": 27
   },
   {
     "referrer": "soulsign.inu1255.cn",
@@ -28,11 +28,6 @@
     "referrer": "uonfu.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "gitee.com",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "hub.fastgit.org",
