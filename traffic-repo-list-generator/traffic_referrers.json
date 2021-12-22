@@ -5,12 +5,17 @@
     "uniques": 2
   },
   {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "kandi.openweaver.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }
