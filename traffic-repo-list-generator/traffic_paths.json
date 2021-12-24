@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
+    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/network/members",
     "title": "Forks · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
     "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
-    "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
