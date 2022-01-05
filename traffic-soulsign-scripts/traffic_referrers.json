@@ -2,12 +2,12 @@
   {
     "referrer": "github.com",
     "count": 60,
-    "uniques": 24
+    "uniques": 26
   },
   {
     "referrer": "Baidu",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "Google",
@@ -22,6 +22,11 @@
   {
     "referrer": "uonfu.com",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "github.yixuju.cn",
+    "count": 1,
     "uniques": 1
   }
 ]
