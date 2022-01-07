@@ -1,9 +1,9 @@
 [
   {
     "path": "/yi-Xu-0100/license-generator",
-    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
-    "count": 2,
-    "uniques": 2
+    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/license-generator/blob/main/package.json",
@@ -12,8 +12,38 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/license-generator/blob/main/src/index.js",
+    "title": "license-generator/index.js at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/src/util.js",
+    "title": "license-generator/util.js at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/template/mit.txt",
+    "title": "license-generator/mit.txt at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/license-generator/tree/ede3b5db900fddb360851ae1e9fc832d8ac145e6",
     "title": "GitHub - yi-Xu-0100/license-generator at ede3b5db900fddb360851ae1e9fc832d8ac1...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/src",
+    "title": "license-generator/src at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/template",
+    "title": "license-generator/template at main · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   }
