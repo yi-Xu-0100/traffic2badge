@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 3,
-    "uniques": 3
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
@@ -22,6 +22,24 @@
     "title": "Release Release v0.0.1 · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
+    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/8415cb64716e8a7cfc45d562aa6609bcda5eb203",
+    "title": "📝 update readme for usage · yi-Xu-0100/cfw-scripts@8415cb6",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/find/main",
+    "title": "File Finder",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/v0.0.1/scripts",

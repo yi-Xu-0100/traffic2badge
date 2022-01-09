@@ -1,21 +1,21 @@
 [
   {
-    "path": "/yi-Xu-0100/soulsign-scripts",
-    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 23,
-    "uniques": 18
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 19,
-    "uniques": 11
+    "count": 18,
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 15,
-    "uniques": 9
+    "count": 13,
+    "uniques": 7
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts",
+    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
+    "count": 11,
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/f6416dc1cbb03a8e01e0229d3e253491d72f80ca",
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/account.lingfengyun.com.js",
-    "title": "soulsign-scripts/account.lingfengyun.com.js at main · yi-Xu-0100/soulsign-scr...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/fc9093a98533fa63d9999992fe9729e036507d22",
     "title": "📝 添加 prettier 配置并更新所有文件 · yi-Xu-0100/soulsign-scripts@fc9093a · GitHub",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commits/main",
     "title": "Commits · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
+    "title": "Discussions · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
