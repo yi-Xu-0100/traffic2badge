@@ -2,37 +2,25 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 17,
+    "count": 15,
+    "uniques": 8
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts",
+    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
+    "count": 11,
     "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 13,
-    "uniques": 7
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts",
-    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 12,
-    "uniques": 9
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/f7ebcbaa3570d878c32e9d8e73d23d49ceb882bf/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at f7ebcbaa3570d878c32e9d8e73d23d49ceb882bf ·...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/f6416dc1cbb03a8e01e0229d3e253491d72f80ca",
-    "title": "chore(deps): ⬆️ bump yanglbme/gitee-pages-action from 1.3.9 to 1.4.0 · yi-Xu-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commits/main",
-    "title": "Commits · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -48,14 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
-    "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/4",
-    "title": "😀 可以帮我完善整合一下我写的 `discuz.k` 咩? 😆 · Issue #4 · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
