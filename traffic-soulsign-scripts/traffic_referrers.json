@@ -1,17 +1,17 @@
 [
   {
     "referrer": "github.com",
-    "count": 28,
-    "uniques": 11
-  },
-  {
-    "referrer": "github.yixuju.cn",
-    "count": 7,
-    "uniques": 3
+    "count": 24,
+    "uniques": 7
   },
   {
     "referrer": "soulsign.inu1255.cn",
     "count": 6,
     "uniques": 3
+  },
+  {
+    "referrer": "github.yixuju.cn",
+    "count": 6,
+    "uniques": 2
   }
 ]
