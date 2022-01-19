@@ -2,24 +2,18 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/find/main",
-    "title": "文件查找器",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/pulls",
-    "title": "Pull requests · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 1
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
     "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/find/main",
+    "title": "文件查找器",
     "count": 1,
     "uniques": 1
   }
