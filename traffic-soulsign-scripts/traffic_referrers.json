@@ -10,17 +10,17 @@
     "uniques": 4
   },
   {
-    "referrer": "soulsign.inu1255.cn",
-    "count": 5,
-    "uniques": 2
-  },
-  {
     "referrer": "cs.github.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "gitee.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "soulsign.inu1255.cn",
     "count": 1,
     "uniques": 1
   }
