@@ -1,9 +1,15 @@
 [
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/hu.json",
+    "title": "conventional-commit-types-i18n/hu.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 3,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/568984550",
@@ -14,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/es.json",
     "title": "conventional-commit-types-i18n/es.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/hu.json",
-    "title": "conventional-commit-types-i18n/hu.json at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
   },
