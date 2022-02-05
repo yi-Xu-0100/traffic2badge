@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 6,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
     "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
@@ -26,6 +26,18 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
     "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/113",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.2 to 12.3.3 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/114",
+    "title": "chore(deps): ⬆️ bump node-notifier from 10.0.0 to 10.0.1 by dependabot[bot] ·...",
     "count": 1,
     "uniques": 1
   }

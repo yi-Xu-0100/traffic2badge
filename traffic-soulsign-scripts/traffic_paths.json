@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 23,
-    "uniques": 11
+    "count": 22,
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 16,
-    "uniques": 8
+    "count": 12,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 6,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/38fe4ba8cbe437375150efe12f9ebccfc462b399",
@@ -32,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/deployments/activity_log",
     "title": "Deployments · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
+    "title": "189Cloud脚本可能有些问题Error: Request failed with status code 400 · Issue #52 · yi-X...",
     "count": 1,
     "uniques": 1
   }
