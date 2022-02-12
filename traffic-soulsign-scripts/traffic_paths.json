@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 25,
-    "uniques": 16
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
-    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 14,
-    "uniques": 8
+    "count": 24,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -18,14 +12,14 @@
     "uniques": 8
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/121676ef049d7e83e206a4c412beac0f350471f3",
-    "title": "fix: 🐛 update account.lingfengyun.com.js to v1.0.1 · yi-Xu-0100/soulsign-scr...",
-    "count": 1,
-    "uniques": 1
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
+    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 12,
+    "uniques": 7
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/38fe4ba8cbe437375150efe12f9ebccfc462b399",
-    "title": "fix: 🐛 update cloud.189.cn.js to v1.0.5 · yi-Xu-0100/soulsign-scripts@38fe4ba",
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/121676ef049d7e83e206a4c412beac0f350471f3",
+    "title": "fix: 🐛 update account.lingfengyun.com.js to v1.0.1 · yi-Xu-0100/soulsign-scr...",
     "count": 1,
     "uniques": 1
   },
