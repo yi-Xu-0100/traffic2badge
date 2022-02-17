@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
+    "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/pull/16",
     "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
     "count": 1,

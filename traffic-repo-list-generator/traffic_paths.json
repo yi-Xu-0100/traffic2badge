@@ -12,6 +12,30 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/163",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/164",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.3 to 12.3.4 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/165",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.33.1 to 0.33.3 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/166",
+    "title": "chore(deps): ⬆️ bump eslint from 8.8.0 to 8.9.0 by dependabot[bot] · Pull Req...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
     "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
     "count": 1,

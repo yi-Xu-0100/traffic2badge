@@ -2,24 +2,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 5,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
     "title": "conventional-commit-types-i18n/en.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/it.json",
-    "title": "conventional-commit-types-i18n/it.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/296",
-    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.2 to 12.3.3 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   },
@@ -36,8 +24,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62/files/477307325f21434dbb6e0a0e38db363d29306993..5fe7a37abf7258c95ec2528c1cec3d85072e01af",
-    "title": "Commit range not found · Pull Request #62 · yi-Xu-0100/conventional-commit-ty...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/300",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/301",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.3 to 12.3.4 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
