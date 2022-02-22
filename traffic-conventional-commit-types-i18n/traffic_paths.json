@@ -6,12 +6,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/298",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.15 to 17.0.16 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/300",
     "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
     "count": 1,
