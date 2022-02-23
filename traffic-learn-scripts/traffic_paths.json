@@ -1,5 +1,11 @@
 [
   {
+    "path": "/yi-Xu-0100/learn-scripts",
+    "title": "GitHub - yi-Xu-0100/learn-scripts: learn-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/learn-scripts/pull/79",
     "title": "chore(deps): ⬆️ bump lint-staged from 12.3.3 to 12.3.4 by dependabot[bot] · P...",
     "count": 1,
@@ -8,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/learn-scripts/pull/80",
     "title": "chore(deps): ⬆️ bump eslint from 8.8.0 to 8.9.0 by dependabot[bot] · Pull Req...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/learn-scripts/pull/81",
+    "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.3.0 to 8.4.0 by dependabot...",
     "count": 1,
     "uniques": 1
   }

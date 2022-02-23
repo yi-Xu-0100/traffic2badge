@@ -2,24 +2,60 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 11,
-    "uniques": 9
+    "count": 13,
+    "uniques": 8
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
+    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/cmd_init.bat",
+    "title": "Application-Lists/cmd_init.bat at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/memreduct.ini",
+    "title": "Application-Lists/memreduct.ini at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/neatdownloadmanager.json",
+    "title": "Application-Lists/neatdownloadmanager.json at main · yi-Xu-0100/Application-L...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/saladict.json",
+    "title": "Application-Lists/saladict.json at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/snipaste.ini",
+    "title": "Application-Lists/snipaste.ini at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/SumatraPDF.txt",
+    "title": "Application-Lists/SumatraPDF.txt at main · yi-Xu-0100/Application-Lists · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/docs/windows-system-reinstallation-applications.md",
+    "title": "Application-Lists/windows-system-reinstallation-applications.md at main · yi-...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/pull/100",
     "title": "chore(deps): ⬆️ bump prismjs from 1.26.0 to 1.27.0 by dependabot[bot] · Pull ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/pull/98",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/pull/99",
-    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.3 to 12.3.4 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
