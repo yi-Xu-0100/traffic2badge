@@ -42,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62/files/c719e99f79ce7795d69fd2bfb2e9f3cda5a38a8a..ef666542ae7e3b702ede79bbd2fe1445e0b9554f",
-    "title": "Commit range not found · Pull Request #62 · yi-Xu-0100/conventional-commit-ty...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/306",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.19 to 17.0.20 by dependabot[bot] ·...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
-    "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/307",
+    "title": "chore(deps): ⬆️ bump @types/jest from 27.4.0 to 27.4.1 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62/files/c719e99f79ce7795d69fd2bfb2e9f3cda5a38a8a..ef666542ae7e3b702ede79bbd2fe1445e0b9554f",
+    "title": "Commit range not found · Pull Request #62 · yi-Xu-0100/conventional-commit-ty...",
     "count": 1,
     "uniques": 1
   }
