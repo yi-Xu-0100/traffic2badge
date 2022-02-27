@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 12,
-    "uniques": 7
+    "count": 19,
+    "uniques": 10
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/.prettierrc.js",
+    "title": "Application-Lists/.prettierrc.js at main · yi-Xu-0100/Application-Lists",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/docs/windows-system-reinstallation-applications.md",
     "title": "Application-Lists/windows-system-reinstallation-applications.md at main · yi-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/pull/100",
-    "title": "chore(deps): ⬆️ bump prismjs from 1.26.0 to 1.27.0 by dependabot[bot] · Pull ...",
     "count": 1,
     "uniques": 1
   }
