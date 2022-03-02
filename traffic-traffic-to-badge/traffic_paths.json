@@ -1,20 +1,14 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 3,
+    "path": "/yi-Xu-0100/traffic-to-badge/issues/21",
+    "title": "Can't find 'action.yml' · Issue #21 · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 4,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/21",
-    "title": "Can't find 'action.yml' · Issue #21 · yi-Xu-0100/traffic-to-badge",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
-    "title": "traffic-to-badge/README_CN.md at main · yi-Xu-0100/traffic-to-badge",
-    "count": 2,
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -26,6 +20,18 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/193",
     "title": "chore(deps): ⬆️ bump pinst from 2.1.6 to 3.0.0 by dependabot[bot] · Pull Requ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/194",
+    "title": "chore(deps): ⬆️ bump eslint from 8.9.0 to 8.10.0 by dependabot[bot] · Pull Re...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/195",
+    "title": "chore(deps): ⬆️ bump image-downloader from 4.0.3 to 4.1.0 by dependabot[bot] ...",
     "count": 1,
     "uniques": 1
   }
