@@ -22,5 +22,11 @@
     "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot[bot] · ...",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/226",
+    "title": "chore(deps): ⬆️ bump typescript from 4.5.5 to 4.6.2 by dependabot[bot] · Pull...",
+    "count": 1,
+    "uniques": 1
   }
 ]
