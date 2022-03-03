@@ -28,5 +28,11 @@
     "title": "chore(deps): ⬆️ bump typescript from 4.5.5 to 4.6.2 by dependabot[bot] · Pull...",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/227",
+    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
+    "count": 1,
+    "uniques": 1
   }
 ]
