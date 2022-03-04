@@ -2,24 +2,24 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 32,
-    "uniques": 19
+    "count": 31,
+    "uniques": 18
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
     "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 11,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
-    "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 8,
+    "count": 7,
     "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
     "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
+    "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 6,
     "uniques": 4
   },
@@ -32,12 +32,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/dependabot.yml",
     "title": "hub-mirror/dependabot.yml at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "Issues · yi-Xu-0100/hub-mirror · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/enhance-deps-pr.yml",
-    "title": "hub-mirror/enhance-deps-pr.yml at main · yi-Xu-0100/hub-mirror",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.org.yml",
+    "title": "hub-mirror/sync2gitee.list.org.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commits",
+    "title": "Commits · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   }
