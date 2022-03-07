@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/docsify-test/pull/28",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/docsify-test",
+    "title": "yi-Xu-0100/docsify-test: docsify-test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/docsify-test/actions",
+    "title": "Actions · yi-Xu-0100/docsify-test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/docsify-test/actions/runs/1926910297",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 · yi-Xu-0100/docsify-t...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/docsify-test/runs/5404049097",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 · yi-Xu-0100/docsify-t...",
+    "count": 1,
+    "uniques": 1
+  }
+]

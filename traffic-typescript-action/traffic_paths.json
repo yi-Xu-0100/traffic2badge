@@ -1,5 +1,17 @@
 [
   {
+    "path": "/yi-Xu-0100/typescript-action/pull/225",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot[bot] · ...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/227",
+    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action",
     "title": "yi-Xu-0100/typescript-action: 📝 Example GitHub action build in typescript.",
     "count": 1,
@@ -18,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/225",
-    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot[bot] · ...",
+    "path": "/yi-Xu-0100/typescript-action/pull/225/files",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot · Pull ...",
     "count": 1,
     "uniques": 1
   },
@@ -30,8 +42,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/227",
-    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
+    "path": "/yi-Xu-0100/typescript-action/pull/228",
+    "title": "chore(deps): ⬆️ bump actions/upload-artifact from 2.3.1 to 3 by dependabot[bo...",
     "count": 1,
     "uniques": 1
   }
