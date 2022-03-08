@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/300",
     "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
     "count": 2,
@@ -24,30 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/de.json",
-    "title": "conventional-commit-types-i18n/de.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
-    "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/304",
-    "title": "chore(deps): ⬆️ bump pinst from 2.1.6 to 3.0.0 by dependabot[bot] · Pull Requ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/305",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.18 to 17.0.19 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/306",
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.19 to 17.0.20 by dependabot[bot] ·...",
     "count": 1,
@@ -56,6 +26,24 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/307",
     "title": "chore(deps): ⬆️ bump @types/jest from 27.4.0 to 27.4.1 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/309/files",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot · Pull ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/310",
+    "title": "chore(deps): ⬆️ bump typescript from 4.5.5 to 4.6.2 by dependabot[bot] · Pull...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/312",
+    "title": "chore(deps): ⬆️ bump actions/upload-artifact from 2.3.1 to 3 by dependabot[bo...",
     "count": 1,
     "uniques": 1
   }
