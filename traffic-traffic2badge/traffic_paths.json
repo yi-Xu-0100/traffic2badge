@@ -2,14 +2,20 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 16,
-    "uniques": 3
+    "count": 15,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",
     "title": "traffic2badge/.github at main · yi-Xu-0100/traffic2badge",
     "count": 7,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions",
+    "title": "Actions · yi-Xu-0100/traffic2badge",
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/blob/main/.github/workflows/traffic2badge.yml",
@@ -30,16 +36,16 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/actions",
-    "title": "Actions · yi-Xu-0100/traffic2badge",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/actions/runs/1939631156",
     "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9 · GitHub",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/1942783886",
+    "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/runs/5435738617",
@@ -52,11 +58,5 @@
     "title": "Issues · yi-Xu-0100/traffic2badge · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/pull/17",
-    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
-    "count": 2,
-    "uniques": 1
   }
 ]

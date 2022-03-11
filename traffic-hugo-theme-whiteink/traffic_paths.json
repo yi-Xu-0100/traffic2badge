@@ -2,12 +2,18 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 6,
-    "uniques": 5
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/CHANGELOG.md",
     "title": "hugo-theme-whiteink/CHANGELOG.md at main · yi-Xu-0100/hugo-theme-whiteink · G...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/a9d2a9622f08296fb4966877b3469ac026316e80",
+    "title": "add action update · yi-Xu-0100/hugo-theme-whiteink@a9d2a96 · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -30,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/a9d2a9622f08296fb4966877b3469ac026316e80",
-    "title": "add action update · yi-Xu-0100/hugo-theme-whiteink@a9d2a96 · GitHub",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/747370990",
+    "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.1.0 to 8.2.0 · yi-Xu-0100/...",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/135",
     "title": "chore(deps): ⬆️ bump eslint from 8.9.0 to 8.10.0 by dependabot[bot] · Pull Re...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/136",
-    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
     "count": 1,
     "uniques": 1
   }

@@ -2,47 +2,47 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 25,
-    "uniques": 18
+    "count": 22,
+    "uniques": 16
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
     "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror",
-    "count": 12,
-    "uniques": 3
+    "count": 10,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
     "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror",
-    "count": 9,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.yml",
-    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
     "count": 6,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
     "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 5,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.yml",
+    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
     "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 4,
+    "count": 3,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.cached.yml",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
     "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.cached.yml",
     "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
     "count": 2,
     "uniques": 1
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/dependabot.yml",
-    "title": "hub-mirror/dependabot.yml at main · yi-Xu-0100/hub-mirror",
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/1941850412",
+    "title": "sync2gitee(list) · yi-Xu-0100/hub-mirror@e6b9de5",
     "count": 1,
     "uniques": 1
   }

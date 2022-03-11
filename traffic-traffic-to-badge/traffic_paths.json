@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/198",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.4 to 12.3.5 by dependabot[bot] · P...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/pulls",
     "title": "Pull requests · yi-Xu-0100/traffic-to-badge",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/193",
     "title": "chore(deps): ⬆️ bump pinst from 2.1.6 to 3.0.0 by dependabot[bot] · Pull Requ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/194",
-    "title": "chore(deps): ⬆️ bump eslint from 8.9.0 to 8.10.0 by dependabot[bot] · Pull Re...",
     "count": 1,
     "uniques": 1
   }

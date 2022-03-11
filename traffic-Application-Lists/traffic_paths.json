@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 18,
-    "uniques": 9
+    "count": 12,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/issues/102",
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/.prettierrc.js",
-    "title": "Application-Lists/.prettierrc.js at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/pull/101",
     "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/pull/98",
     "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/security/dependabot/3",
+    "title": "Inefficient Regular Expression Complexity in marked · Dependabot alert #3 · y...",
     "count": 2,
     "uniques": 1
   }
