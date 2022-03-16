@@ -1,13 +1,13 @@
 [
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/300",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
-    "count": 2,
-    "uniques": 1
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
+    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
+    "count": 4,
+    "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/309",
-    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot[bot] · ...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/300",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
     "count": 2,
     "uniques": 1
   },
@@ -18,20 +18,32 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
+    "title": "conventional-commit-types-i18n/en.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/it.json",
+    "title": "conventional-commit-types-i18n/it.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/zh-cn.json",
+    "title": "conventional-commit-types-i18n/zh-cn.json at main · yi-Xu-0100/conventional-c...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/309",
+    "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot[bot] · ...",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/309/files",
     "title": "chore(deps): ⬆️ bump actions/setup-node from 2.5.1 to 3 by dependabot · Pull ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/310",
-    "title": "chore(deps): ⬆️ bump typescript from 4.5.5 to 4.6.2 by dependabot[bot] · Pull...",
     "count": 1,
     "uniques": 1
   },

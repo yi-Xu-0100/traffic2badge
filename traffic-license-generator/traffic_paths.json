@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator/pull/149",
-    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/commits",
     "title": "Commits · yi-Xu-0100/license-generator · GitHub",
     "count": 1,
@@ -14,6 +8,12 @@
   {
     "path": "/yi-Xu-0100/license-generator/pull/142",
     "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/pull/149",
+    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
     "count": 1,
     "uniques": 1
   }
