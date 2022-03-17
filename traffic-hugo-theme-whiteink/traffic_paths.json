@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/740510820",
+    "title": "chore(deps-dev): bump eslint from 7.23.0 to 7.24.0 · yi-Xu-0100/hugo-theme-wh...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/747370990",
     "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.1.0 to 8.2.0 · yi-Xu-0100/...",
     "count": 1,
@@ -26,18 +32,6 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/feac95842b720b4b5c5747f6325614e21588e39a",
     "title": "fix aciton autoRelease · yi-Xu-0100/hugo-theme-whiteink@feac958 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/130",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/136",
-    "title": "chore(deps): ⬆️ bump actions/checkout from 2.4.0 to 3 by dependabot[bot] · Pu...",
     "count": 1,
     "uniques": 1
   }
