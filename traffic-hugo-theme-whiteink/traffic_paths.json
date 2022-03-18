@@ -1,20 +1,20 @@
 [
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/CHANGELOG.md",
-    "title": "hugo-theme-whiteink/CHANGELOG.md at main · yi-Xu-0100/hugo-theme-whiteink · G...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/a9d2a9622f08296fb4966877b3469ac026316e80",
-    "title": "add action update · yi-Xu-0100/hugo-theme-whiteink@a9d2a96 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 1,
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/7c36210af579fd49f87843bac4efd41b68f19595",
+    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 · yi-Xu-0100/hugo-them...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/issues",
+    "title": "Issues · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -30,8 +30,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/a9d2a9622f08296fb4966877b3469ac026316e80",
+    "title": "add action update · yi-Xu-0100/hugo-theme-whiteink@a9d2a96 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/feac95842b720b4b5c5747f6325614e21588e39a",
     "title": "fix aciton autoRelease · yi-Xu-0100/hugo-theme-whiteink@feac958 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/commits/main",
+    "title": "Commits · yi-Xu-0100/hugo-theme-whiteink",
     "count": 1,
     "uniques": 1
   }
