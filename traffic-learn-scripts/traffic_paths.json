@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/learn-scripts/pull/86",
+    "title": "chore(deps): ⬆️ bump prettier from 2.5.1 to 2.6.0 by dependabot[bot] · Pull R...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/learn-scripts",
+    "title": "yi-Xu-0100/learn-scripts: learn-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/learn-scripts/pull/86/files/0dc93a34c4e4a68cdcc0ed45830ee4b8a0f66b40..be3daf33cfa0a86805d047d1bf0843a95b9bf8fc",
+    "title": "Commit range not found · Pull Request #86 · yi-Xu-0100/learn-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/learn-scripts/pull/87",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.5 to 12.3.6 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  }
+]
