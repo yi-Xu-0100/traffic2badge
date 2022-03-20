@@ -2,14 +2,20 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
     "title": "conventional-commit-types-i18n/en.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
+    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/it.json",
@@ -18,8 +24,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/pt-br.json",
+    "title": "conventional-commit-types-i18n/pt-br.json at main · yi-Xu-0100/conventional-c...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/zh-cn.json",
     "title": "conventional-commit-types-i18n/zh-cn.json at main · yi-Xu-0100/conventional-c...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
+    "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
     "count": 1,
     "uniques": 1
   },
@@ -38,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/315",
     "title": "chore(deps): ⬆️ bump prettier from 2.5.1 to 2.6.0 by dependabot[bot] · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
-    "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
     "count": 1,
     "uniques": 1
   }
