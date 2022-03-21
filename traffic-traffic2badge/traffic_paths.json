@@ -6,27 +6,9 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/actions/runs/1942783886",
-    "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/blob/main/README.md",
     "title": "traffic2badge/README.md at main · yi-Xu-0100/traffic2badge",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/actions",
-    "title": "Actions · yi-Xu-0100/traffic2badge",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/runs/5441661150",
-    "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -39,6 +21,12 @@
     "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
     "title": "yi-Xu-0100/traffic2badge at traffic",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions",
+    "title": "Actions · yi-Xu-0100/traffic2badge",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/runs/1971643692",
     "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/1974827901",
+    "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/_config.yml",
+    "title": "traffic2badge/_config.yml at main · yi-Xu-0100/traffic2badge",
     "count": 1,
     "uniques": 1
   }

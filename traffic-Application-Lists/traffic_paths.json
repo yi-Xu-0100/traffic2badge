@@ -18,9 +18,21 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/commits",
+    "title": "Commits · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/commit/a77c1c97f5793e5a29c91ee7d89448983faed533",
     "title": "feat(CFW): ✨ add configuration example · yi-Xu-0100/Application-Lists@a77c1c9",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/TrafficMonitor/config-common.png",
     "title": "Application-Lists/config-common.png at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/commits",
-    "title": "Commits · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/pull/104",
-    "title": "chore(deps): ⬆️ bump docsify-cli from 4.4.3 to 4.4.4 by dependabot[bot] · Pul...",
     "count": 1,
     "uniques": 1
   }

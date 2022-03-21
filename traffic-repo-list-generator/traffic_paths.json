@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 11,
-    "uniques": 5
+    "count": 12,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
@@ -22,11 +22,5 @@
     "title": "Pull requests · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/172",
-    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.4 to 12.3.5 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
   }
 ]

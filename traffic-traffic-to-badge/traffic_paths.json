@@ -12,12 +12,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/198",
-    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.4 to 12.3.5 by dependabot[bot] · P...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/actions",
     "title": "Actions · yi-Xu-0100/traffic-to-badge",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github",
     "title": "traffic-to-badge/.github at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github/workflows",
+    "title": "traffic-to-badge/.github/workflows at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }
