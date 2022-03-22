@@ -1,5 +1,29 @@
 [
   {
+    "path": "/yi-Xu-0100/typescript-action",
+    "title": "yi-Xu-0100/typescript-action: 📝 Example GitHub action build in typescript.",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "typescript-action/enhance-deps-pr.yml at main · yi-Xu-0100/typescript-action",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/.gitignore",
+    "title": "typescript-action/.gitignore at main · yi-Xu-0100/typescript-action",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/tsconfig.json",
+    "title": "typescript-action/tsconfig.json at main · yi-Xu-0100/typescript-action",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/typescript-action/pull/230",
     "title": "chore(deps): ⬆️ bump prettier from 2.5.1 to 2.6.0 by dependabot[bot] · Pull R...",
     "count": 1,
@@ -8,6 +32,18 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/231",
     "title": "chore(deps): ⬆️ bump lint-staged from 12.3.5 to 12.3.6 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/tree/main/.github",
+    "title": "typescript-action/.github at main · yi-Xu-0100/typescript-action",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/tree/main/.github/workflows",
+    "title": "typescript-action/.github/workflows at main · yi-Xu-0100/typescript-action",
     "count": 1,
     "uniques": 1
   }
