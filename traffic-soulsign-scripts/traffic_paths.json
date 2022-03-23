@@ -2,26 +2,32 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。 - https://git...",
-    "count": 40,
-    "uniques": 25
+    "count": 44,
+    "uniques": 26
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 29,
-    "uniques": 19
+    "count": 26,
+    "uniques": 17
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 10,
-    "uniques": 5
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
     "title": "189Cloud脚本可能有些问题Error: Request failed with status code 400 · Issue #52 · yi-X...",
-    "count": 5,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/121676ef049d7e83e206a4c412beac0f350471f3/scripts/account.lingfengyun.com.js",
+    "title": "soulsign-scripts/account.lingfengyun.com.js at 121676ef049d7e83e206a4c412beac...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/53",
@@ -36,8 +42,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/121676ef049d7e83e206a4c412beac0f350471f3/scripts/account.lingfengyun.com.js",
-    "title": "soulsign-scripts/account.lingfengyun.com.js at 121676ef049d7e83e206a4c412beac...",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/register.stnts.com.js",
+    "title": "soulsign-scripts/register.stnts.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e...",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/.github/workflows/sync.yml",
     "title": "soulsign-scripts/sync.yml at main · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/deployments/activity_log",
-    "title": "Deployments · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
