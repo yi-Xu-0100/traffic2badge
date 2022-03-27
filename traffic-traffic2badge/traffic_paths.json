@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/actions/runs/1974827901",
-    "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/blob/main/_config.yml",
     "title": "traffic2badge/_config.yml at main · yi-Xu-0100/traffic2badge",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",
     "title": "traffic2badge/.github at main · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/main/.github/workflows",
+    "title": "traffic2badge/.github/workflows at main · yi-Xu-0100/traffic2badge",
     "count": 1,
     "uniques": 1
   }
