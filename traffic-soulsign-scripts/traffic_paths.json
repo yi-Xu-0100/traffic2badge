@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 38,
-    "uniques": 24
+    "count": 35,
+    "uniques": 23
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 19,
-    "uniques": 12
+    "count": 16,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 9,
-    "uniques": 5
+    "count": 11,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/deployments/activity_log",
-    "title": "Deployments · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
+    "title": "Discussions · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
-    "title": "Discussions · yi-Xu-0100/soulsign-scripts · GitHub",
+    "path": "/yi-Xu-0100/soulsign-scripts/pull/56",
+    "title": "chore(deps): ⬆️ bump actions/cache from 2.1.7 to 3 by dependabot[bot] · Pull ...",
     "count": 1,
     "uniques": 1
   }
