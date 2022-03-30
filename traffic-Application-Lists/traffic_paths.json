@@ -12,30 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/pakku.json",
-    "title": "Application-Lists/pakku.json at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/saladict.json",
-    "title": "Application-Lists/saladict.json at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
-    "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/TrafficMonitor/config-common.png",
-    "title": "Application-Lists/config-common.png at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/commits",
     "title": "Commits · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
@@ -56,6 +32,30 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/issues/102",
     "title": "项目引用了ansi-regex等190个开源组件，存在2个漏洞，建议升级 · Issue #102 · yi-Xu-0100/Application-Li...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/pull/106",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.5 to 12.3.6 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/pull/107",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.6 to 12.3.7 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/pull/108",
+    "title": "chore(deps): ⬆️ bump actions/cache from 2.1.7 to 3 by dependabot[bot] · Pull ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/pull/109",
+    "title": "chore(deps): ⬆️ bump prettier from 2.6.0 to 2.6.1 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }

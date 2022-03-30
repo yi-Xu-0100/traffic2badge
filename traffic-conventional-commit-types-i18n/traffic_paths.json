@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 4,
-    "uniques": 4
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/fr.json",
@@ -36,18 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/314",
-    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.5 to 12.3.6 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/315",
-    "title": "chore(deps): ⬆️ bump prettier from 2.5.1 to 2.6.0 by dependabot[bot] · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/317",
     "title": "chore(deps): ⬆️ bump actions/cache from 2.1.7 to 3 by dependabot[bot] · Pull ...",
     "count": 1,
@@ -56,6 +44,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
     "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/src",
+    "title": "conventional-commit-types-i18n/src at main · yi-Xu-0100/conventional-commit-t...",
     "count": 1,
     "uniques": 1
   }

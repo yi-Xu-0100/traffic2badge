@@ -2,24 +2,12 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 7,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/_default/baseof.html",
     "title": "hugo-theme-whiteink/baseof.html at main · yi-Xu-0100/hugo-theme-whiteink · Gi...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/commit/7c36210af579fd49f87843bac4efd41b68f19595",
-    "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 · yi-Xu-0100/hugo-them...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/issues",
-    "title": "Issues · yi-Xu-0100/hugo-theme-whiteink",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/page/archieves.html",
     "title": "hugo-theme-whiteink/archieves.html at main · yi-Xu-0100/hugo-theme-whiteink ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/partials/main.html",
+    "title": "hugo-theme-whiteink/main.html at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/partials/root.html",
+    "title": "hugo-theme-whiteink/root.html at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
     "count": 1,
     "uniques": 1
   }
