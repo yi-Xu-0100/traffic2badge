@@ -2,36 +2,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 25,
-    "uniques": 15
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
-    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/main.js",
-    "title": "cfw-scripts/main.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 2
+    "count": 21,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
     "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/releases/tag/v0.0.1",
-    "title": "Release Release v0.0.1 · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
     "count": 2,
     "uniques": 2
   },
@@ -54,8 +30,32 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/main.js",
+    "title": "cfw-scripts/main.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
     "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-xu-0100/cfw-scripts/issues",
+    "title": "Issues · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/issues/1",
+    "title": "Separate traffic data for fit domains · Issue #1 · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
