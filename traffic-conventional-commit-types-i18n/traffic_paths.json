@@ -1,13 +1,19 @@
 [
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 2,
-    "uniques": 2
+    "title": "GitHub - yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-ty...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/fr.json",
     "title": "conventional-commit-types-i18n/fr.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/323",
+    "title": "chore(deps): ⬆️ bump prettier from 2.6.1 to 2.6.2 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   },
