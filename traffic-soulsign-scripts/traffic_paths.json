@@ -2,20 +2,26 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 60,
-    "uniques": 35
+    "count": 58,
+    "uniques": 34
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 32,
-    "uniques": 19
+    "uniques": 18
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 12,
-    "uniques": 8
+    "count": 14,
+    "uniques": 9
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
+    "title": "189Cloud脚本可能有些问题Error: Request failed with status code 400 · Issue #52 · yi-X...",
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/53",
@@ -30,10 +36,10 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
-    "title": "189Cloud脚本可能有些问题Error: Request failed with status code 400 · Issue #52 · yi-X...",
-    "count": 5,
-    "uniques": 3
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/57",
+    "title": "天翼云签到bug 我也出现了Error: Request failed with status code 400 · Issue #57 · yi-Xu-...",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/8170e28d660bb5afaabeee8f5f5ca294c5af5181",
@@ -42,21 +48,15 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
+    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
     "title": "Actions · yi-Xu-0100/soulsign-scripts",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/57",
-    "title": "天翼云签到bug 我也出现了Error: Request failed with status code 400 · Issue #57 · yi-Xu-...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
-    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
     "uniques": 2
   }
 ]
