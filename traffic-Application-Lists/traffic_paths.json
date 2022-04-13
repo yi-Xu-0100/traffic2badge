@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 17,
-    "uniques": 13
+    "count": 13,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
@@ -14,12 +14,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor",
-    "title": "Application-Lists/config/TrafficMonitor at main · yi-Xu-0100/Application-Lists",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/commits",
     "title": "Commits · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/issues",
+    "title": "Issues · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }

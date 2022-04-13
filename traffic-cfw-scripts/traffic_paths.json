@@ -2,13 +2,25 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 20,
-    "uniques": 15
+    "count": 26,
+    "uniques": 20
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/releases/tag/v0.0.1",
     "title": "Release Release v0.0.1 · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/issues/69",
+    "title": "更新某profile时候脚本报错 · Issue #69 · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -36,26 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
-    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
+    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
-    "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/v0.0.1/scripts/auto-check-in.js",
-    "title": "cfw-scripts/auto-check-in.js at v0.0.1 · yi-Xu-0100/cfw-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/commit/8415cb64716e8a7cfc45d562aa6609bcda5eb203",
-    "title": "📝 update readme for usage · yi-Xu-0100/cfw-scripts@8415cb6 · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
+    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
