@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 68,
-    "uniques": 43
+    "count": 65,
+    "uniques": 44
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 37,
+    "count": 34,
     "uniques": 22
   },
   {
@@ -24,12 +24,6 @@
     "uniques": 5
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
     "title": "189Cloud脚本可能有些问题Error: Request failed with status code 400 · Issue #52 · yi-X...",
     "count": 5,
@@ -42,21 +36,27 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
-    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions",
-    "title": "Actions · yi-Xu-0100/soulsign-scripts",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github/workflows",
-    "title": "soulsign-scripts/.github/workflows at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/pull/58",
+    "title": "chore(deps): ⬆️ bump actions/stale from 4 to 5 by dependabot[bot] · Pull Requ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d",
+    "title": "yi-Xu-0100/soulsign-scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/121676ef049d7e83e206a4c412beac0f350471f3/scripts/account.lingfengyun.com.js",
+    "title": "soulsign-scripts/account.lingfengyun.com.js at 121676ef049d7e83e206a4c412beac...",
+    "count": 1,
+    "uniques": 1
   }
 ]
