@@ -2,32 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 10,
-    "uniques": 10
+    "count": 11,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
     "title": "Application-Lists/parser.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor",
-    "title": "Application-Lists/config/TrafficMonitor at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
-    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
@@ -42,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/TrafficMonitor/config.ini",
-    "title": "Application-Lists/config.ini at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/translucenttb.cfg",
     "title": "Application-Lists/translucenttb.cfg at main · yi-Xu-0100/Application-Lists",
     "count": 1,
@@ -56,6 +32,18 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/commits",
     "title": "Commits · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/issues",
+    "title": "Issues · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor",
+    "title": "Application-Lists/config/TrafficMonitor at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }

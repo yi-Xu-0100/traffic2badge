@@ -6,32 +6,8 @@
     "uniques": 6
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/728635054/workflow",
-    "title": "chore(deps-dev): bump @vercel/ncc from 0.28.1 to 0.28.2 · yi-Xu-0100/hugo-the...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/728635078/workflow",
-    "title": "chore(deps-dev): bump @vercel/ncc from 0.28.1 to 0.28.2 · yi-Xu-0100/hugo-the...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/740510895/workflow",
-    "title": "chore(deps-dev): bump eslint from 7.23.0 to 7.24.0 · yi-Xu-0100/hugo-theme-wh...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/743858047/workflow",
     "title": "chore(deps-dev): bump @vercel/ncc from 0.28.2 to 0.28.3 · yi-Xu-0100/hugo-the...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/743887863/workflow",
-    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.28.2 to 0.28.3 · yi-Xu-0100/hugo-them...",
     "count": 1,
     "uniques": 1
   },
@@ -42,20 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/747370989/workflow",
-    "title": "chore(deps-dev): bump eslint-config-prettier from 8.1.0 to 8.2.0 · yi-Xu-0100...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/747370990/workflow",
     "title": "chore(deps-dev): bump eslint-config-prettier from 8.1.0 to 8.2.0 · yi-Xu-0100...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/actions/runs/747376038/workflow",
-    "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.1.0 to 8.2.0 · yi-Xu-0100/...",
     "count": 1,
     "uniques": 1
   }
