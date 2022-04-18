@@ -2,42 +2,24 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 31,
+    "count": 21,
     "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
     "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror",
-    "count": 6,
-    "uniques": 4
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
     "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
-    "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 6,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror",
     "count": 5,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.org.yml",
     "title": "hub-mirror/sync2gitee.list.org.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
-    "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
     "count": 4,
     "uniques": 2
   },
@@ -54,9 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
-    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 3,
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
+    "title": "hub-mirror/README.md at main · yi-Xu-0100/hub-mirror",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/327601800",
+    "title": "sync2gitee(cached) · yi-Xu-0100/hub-mirror@8991ba1 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/runs/327615377",
+    "title": "sync2gitee · yi-Xu-0100/hub-mirror@8991ba1 · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
