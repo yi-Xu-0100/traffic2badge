@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/239",
-    "title": "chore(deps): ⬆️ bump codecov/codecov-action from 2.1.0 to 3 by dependabot[bot...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/pull/241",
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.23 to 17.0.24 by dependabot[bot] ·...",
     "count": 1,
