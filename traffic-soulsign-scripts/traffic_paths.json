@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 个人是个人为魂签制作的签到脚本，还有一些使用签到脚本。",
-    "count": 63,
-    "uniques": 45
+    "count": 68,
+    "uniques": 46
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 49,
-    "uniques": 28
+    "count": 47,
+    "uniques": 26
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts",
-    "count": 15,
-    "uniques": 10
+    "count": 18,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
@@ -42,6 +42,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/pull/58",
     "title": "chore(deps): ⬆️ bump actions/stale from 4 to 5 by dependabot[bot] · Pull Requ...",
     "count": 2,
@@ -51,12 +57,6 @@
     "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d",
     "title": "yi-Xu-0100/soulsign-scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/38fe4ba8cbe437375150efe12f9ebccfc462b399/scripts/cloud.189.cn.js",
-    "title": "soulsign-scripts/cloud.189.cn.js at 38fe4ba8cbe437375150efe12f9ebccfc462b399 ...",
-    "count": 1,
     "uniques": 1
   }
 ]
