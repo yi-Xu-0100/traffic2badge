@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 3,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/6/checks",
@@ -14,12 +14,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG.md",
     "title": "traffic-to-badge/CHANGELOG.md at main · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
-    "title": "traffic-to-badge/README_CN.md at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   },
@@ -36,7 +30,7 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/6/commits/ecabfc914fafb2847f543dc24de77c3d18361a31",
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/6/commits/82a3c3efbe7aef2ce81dd0452213fd801de6724f",
     "title": "更新到稳定版本 by yi-Xu-0100 · Pull Request #6 · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 1,
     "uniques": 1
