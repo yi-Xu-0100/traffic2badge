@@ -2,36 +2,24 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 32,
-    "uniques": 15
+    "count": 29,
+    "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 15,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
-    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 9,
-    "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
-    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 4,
+    "count": 12,
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/resources",
-    "title": "cfw-scripts/resources at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 4,
-    "uniques": 2
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
+    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 6,
+    "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
-    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
+    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
     "count": 3,
     "uniques": 3
   },
@@ -42,21 +30,33 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
-    "title": "cfw-scripts/info.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
-    "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib",
     "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/resources",
+    "title": "cfw-scripts/resources at main · yi-Xu-0100/cfw-scripts",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
+    "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
+    "title": "cfw-scripts/info.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
     "uniques": 1
   }
 ]

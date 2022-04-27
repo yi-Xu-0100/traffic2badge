@@ -6,6 +6,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
+    "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/actions",
     "title": "Actions · yi-Xu-0100/traffic2badge · GitHub",
     "count": 2,
@@ -30,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/blob/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8/.github/workflows/test.yml",
+    "title": "traffic2badge/test.yml at 2574c6360aa28a36d3cbb16dad7c9e1bd52957d8 · yi-Xu-01...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/blob/main/.github/workflows/enhance-deps-pr.yml",
     "title": "traffic2badge/enhance-deps-pr.yml at main · yi-Xu-0100/traffic2badge · GitHub",
     "count": 1,
@@ -42,20 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
-    "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "Pull requests · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/runs/6057159252",
-    "title": "traffic2badge · yi-Xu-0100/traffic2badge@dafdad9 · GitHub",
     "count": 1,
     "uniques": 1
   }
