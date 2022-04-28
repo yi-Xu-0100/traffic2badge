@@ -1,19 +1,13 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/blob/main/CHANGELOG.md",
-    "title": "license-generator/CHANGELOG.md at main · yi-Xu-0100/license-generator",
+    "path": "/yi-Xu-0100/license-generator/commits",
+    "title": "Commits · yi-Xu-0100/license-generator · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/license-generator/commits",
-    "title": "Commits · yi-Xu-0100/license-generator · GitHub",
+    "path": "/yi-Xu-0100/license-generator/pull/164",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.6.0 to 1.7.0 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   },

@@ -8,8 +8,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 4,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
@@ -24,14 +30,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
+    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
+    "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
-    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists",
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/Notepad3",
+    "title": "Application-Lists/config/Notepad3 at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },

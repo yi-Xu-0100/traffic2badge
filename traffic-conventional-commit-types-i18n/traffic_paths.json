@@ -36,6 +36,18 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/329",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.25 to 17.0.26 by dependabot[bot] ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/330",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.26 to 17.0.27 by dependabot[bot] ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
     "title": "conventional-commit-types-i18n/locale at main · yi-Xu-0100/conventional-commi...",
     "count": 1,
