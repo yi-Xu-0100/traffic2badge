@@ -1,14 +1,8 @@
 [
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/241",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.23 to 17.0.24 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/242",
-    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.7 to 12.3.8 by dependabot[bot] · P...",
-    "count": 1,
+    "path": "/yi-Xu-0100/typescript-action/pull/248",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.27 to 17.0.29 by dependabot[bot] ·...",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -26,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/247",
     "title": "chore(deps): ⬆️ bump @actions/core from 1.6.0 to 1.7.0 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/249",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.4.0 to 12.4.1 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
