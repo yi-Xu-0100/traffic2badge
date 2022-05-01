@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 34,
-    "uniques": 18
+    "count": 31,
+    "uniques": 17
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
@@ -36,12 +36,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
-    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
     "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts",
     "count": 2,
@@ -57,6 +51,12 @@
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
     "title": "cfw-scripts/info.js at main · yi-Xu-0100/cfw-scripts",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/main.js",
+    "title": "cfw-scripts/main.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
