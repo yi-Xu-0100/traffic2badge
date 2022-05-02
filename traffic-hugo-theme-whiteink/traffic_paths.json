@@ -2,8 +2,20 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 7,
-    "uniques": 5
+    "count": 10,
+    "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
+    "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/index.html",
+    "title": "hugo-theme-whiteink/index.html at main · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blame/main/CHANGELOG.md",
@@ -14,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/config.toml.example",
     "title": "hugo-theme-whiteink/config.toml.example at main · yi-Xu-0100/hugo-theme-white...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/taxonomy/terms.html",
+    "title": "hugo-theme-whiteink/terms.html at main · yi-Xu-0100/hugo-theme-whiteink",
     "count": 1,
     "uniques": 1
   },
@@ -36,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
-    "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink · GitHub",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/page",
+    "title": "hugo-theme-whiteink/layouts/page at main · yi-Xu-0100/hugo-theme-whiteink",
     "count": 1,
     "uniques": 1
   }

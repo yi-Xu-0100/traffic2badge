@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 10,
-    "uniques": 5
+    "count": 13,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-system-reinstallation-applications.md",
+    "title": "Application-Lists/windows-system-reinstallation-applications.md at 614ea91fc0...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor",
     "title": "Application-Lists/config/TrafficMonitor at main · yi-Xu-0100/Application-Lists",
     "count": 3,
@@ -36,26 +42,20 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-applications.md",
+    "title": "Application-Lists/windows-applications.md at 614ea91fc0e6f353e3125f2978081199...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-tools.md",
+    "title": "Application-Lists/windows-tools.md at 614ea91fc0e6f353e3125f29780811992325709...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
     "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/Notepad3",
-    "title": "Application-Lists/config/Notepad3 at main · yi-Xu-0100/Application-Lists",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/docs",
-    "title": "Application-Lists/docs at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/server",
-    "title": "Application-Lists/server at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }

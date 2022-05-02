@@ -13,5 +13,10 @@
     "referrer": "github.community",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "referrer": "gitee.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
