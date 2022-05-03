@@ -1,9 +1,9 @@
 [
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 2,
-    "uniques": 2
+    "title": "GitHub - yi-Xu-0100/conventional-commit-types-i18n: 🌐 常规提交类型国际化版本。",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
@@ -20,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
     "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/327",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.24 to 17.0.25 by dependabot[bot] ·...",
     "count": 1,
     "uniques": 1
   },
