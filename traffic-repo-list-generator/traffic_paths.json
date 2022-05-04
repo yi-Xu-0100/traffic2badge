@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/releases",
-    "title": "Releases · yi-Xu-0100/repo-list-generator",
-    "count": 2,
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
+    "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -32,6 +32,18 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/189",
     "title": "chore(deps): ⬆️ bump underscore from 1.13.2 to 1.13.3 by dependabot[bot] · Pu...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
+    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.vscode",
+    "title": "repo-list-generator/.vscode at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
