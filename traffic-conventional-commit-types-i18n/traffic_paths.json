@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/328",
-    "title": "chore(deps): ⬆️ bump lint-staged from 12.3.8 to 12.4.0 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/329",
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.25 to 17.0.26 by dependabot[bot] ·...",
     "count": 1,
@@ -38,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/330",
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.26 to 17.0.27 by dependabot[bot] ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/336",
+    "title": "chore(deps): ⬆️ bump @types/jest from 27.4.1 to 27.5.0 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
