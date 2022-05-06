@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "GitHub - yi-Xu-0100/conventional-commit-types-i18n: 🌐 常规提交类型国际化版本。",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
+    "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
@@ -14,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ja.json",
     "title": "conventional-commit-types-i18n/ja.json at main · yi-Xu-0100/conventional-comm...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
-    "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
     "count": 1,
     "uniques": 1
   },
