@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 16,
-    "uniques": 8
+    "count": 18,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 7,
-    "uniques": 3
+    "count": 8,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
@@ -36,6 +36,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1",
+    "title": "Application-Lists/Microsoft.PowerShell_profile.ps1 at main · yi-Xu-0100/Appli...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/server",
     "title": "Application-Lists/server at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-applications.md",
     "title": "Application-Lists/windows-applications.md at 614ea91fc0e6f353e3125f2978081199...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-tools.md",
-    "title": "Application-Lists/windows-tools.md at 614ea91fc0e6f353e3125f29780811992325709...",
     "count": 1,
     "uniques": 1
   }
