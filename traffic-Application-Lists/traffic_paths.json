@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 8,
-    "uniques": 4
+    "count": 7,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
@@ -18,22 +18,10 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists · ...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-system-reinstallation-applications.md",
     "title": "Application-Lists/windows-system-reinstallation-applications.md at 614ea91fc0...",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
-    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1",
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-applications.md",
     "title": "Application-Lists/windows-applications.md at 614ea91fc0e6f353e3125f2978081199...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-tools.md",
+    "title": "Application-Lists/windows-tools.md at 614ea91fc0e6f353e3125f29780811992325709...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/a77c1c97f5793e5a29c91ee7d89448983faed533/config/README.md",
+    "title": "Application-Lists/README.md at a77c1c97f5793e5a29c91ee7d89448983faed533 · yi-...",
     "count": 1,
     "uniques": 1
   }

@@ -2,38 +2,32 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 47,
-    "uniques": 30
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
-    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 28,
-    "uniques": 14
+    "count": 45,
+    "uniques": 27
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 27,
-    "uniques": 19
+    "count": 29,
+    "uniques": 21
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
+    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 24,
+    "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 8,
-    "uniques": 3
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/59",
     "title": "不懂就问，这些签到有啥用呢 · Issue #59 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 5,
     "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
-    "title": "File Finder · GitHub",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/30",
@@ -57,6 +51,12 @@
     "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d",
     "title": "yi-Xu-0100/soulsign-scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/604715426",
+    "title": "feat: ✨ 增加科研通签到脚本到 v1.0.0 · yi-Xu-0100/soulsign-scripts@8170e28",
+    "count": 1,
     "uniques": 1
   }
 ]

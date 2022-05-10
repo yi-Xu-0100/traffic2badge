@@ -42,20 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/246",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.26 to 17.0.27 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/247",
-    "title": "chore(deps): ⬆️ bump @actions/core from 1.6.0 to 1.7.0 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/pull/249",
     "title": "chore(deps): ⬆️ bump lint-staged from 12.4.0 to 12.4.1 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/pull/251",
+    "title": "chore(deps): ⬆️ bump typescript from 4.6.3 to 4.6.4 by dependabot[bot] · Pull...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/tree/main/dist",
+    "title": "typescript-action/dist at main · yi-Xu-0100/typescript-action",
     "count": 1,
     "uniques": 1
   }
