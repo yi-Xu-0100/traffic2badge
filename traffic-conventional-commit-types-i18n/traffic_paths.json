@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 5,
-    "uniques": 5
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
@@ -26,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/336",
     "title": "chore(deps): ⬆️ bump @types/jest from 27.4.1 to 27.5.0 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/337",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.4 to 8.0.1 by dependabot[bot] · Pull Requ...",
     "count": 1,
     "uniques": 1
   }

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/learn-scripts/pull/97",
+    "title": "chore(deps): ⬆️ bump eslint from 8.14.0 to 8.15.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/learn-scripts/pull/98",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.4 to 8.0.0 by dependabot[bot] · Pull Requ...",
+    "count": 1,
+    "uniques": 1
+  }
+]
