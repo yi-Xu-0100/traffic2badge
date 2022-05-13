@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/250",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.29 to 17.0.30 by dependabot[bot] ·...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/blob/main/action.yml",
     "title": "typescript-action/action.yml at main · yi-Xu-0100/typescript-action",
     "count": 1,
@@ -36,14 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/251",
-    "title": "chore(deps): ⬆️ bump typescript from 4.6.3 to 4.6.4 by dependabot[bot] · Pull...",
+    "path": "/yi-Xu-0100/typescript-action/pull/255",
+    "title": "chore(deps): ⬆️ bump husky from 7.0.4 to 8.0.1 by dependabot[bot] · Pull Requ...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/typescript-action/pull/255",
-    "title": "chore(deps): ⬆️ bump husky from 7.0.4 to 8.0.1 by dependabot[bot] · Pull Requ...",
+    "path": "/yi-Xu-0100/typescript-action/pull/256",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.31 to 17.0.32 by dependabot[bot] ·...",
     "count": 1,
     "uniques": 1
   },
