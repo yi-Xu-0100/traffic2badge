@@ -1,8 +1,8 @@
 [
   {
     "referrer": "github.com",
-    "count": 72,
-    "uniques": 31
+    "count": 66,
+    "uniques": 32
   },
   {
     "referrer": "soulsign.inu1255.cn",
@@ -11,11 +11,11 @@
   },
   {
     "referrer": "github.yixuju.cn",
-    "count": 9,
-    "uniques": 3
+    "count": 7,
+    "uniques": 2
   },
   {
-    "referrer": "gitee.com",
+    "referrer": "Google",
     "count": 3,
     "uniques": 2
   },
@@ -25,12 +25,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Google",
+    "referrer": "mail.qq.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "mail.qq.com",
+    "referrer": "gitee.com",
     "count": 1,
     "uniques": 1
   }

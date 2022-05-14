@@ -1,31 +1,7 @@
 [
   {
-    "path": "/yi-Xu-0100/typescript-action",
-    "title": "yi-Xu-0100/typescript-action: 📝 Example GitHub action build in typescript.",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/package.json",
-    "title": "typescript-action/package.json at main · yi-Xu-0100/typescript-action",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/action.yml",
-    "title": "typescript-action/action.yml at main · yi-Xu-0100/typescript-action",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/blob/main/LICENSE",
     "title": "typescript-action/LICENSE at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/src/main.ts",
-    "title": "typescript-action/main.ts at main · yi-Xu-0100/typescript-action",
     "count": 1,
     "uniques": 1
   },
@@ -38,18 +14,6 @@
   {
     "path": "/yi-Xu-0100/typescript-action/pull/256",
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.31 to 17.0.32 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/tree/main/dist",
-    "title": "typescript-action/dist at main · yi-Xu-0100/typescript-action",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/tree/main/src",
-    "title": "typescript-action/src at main · yi-Xu-0100/typescript-action",
     "count": 1,
     "uniques": 1
   }

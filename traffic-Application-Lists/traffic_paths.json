@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 25,
-    "uniques": 13
+    "count": 24,
+    "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
@@ -24,12 +24,6 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-system-reinstallation-applications.md",
-    "title": "Application-Lists/windows-system-reinstallation-applications.md at 614ea91fc0...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
     "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 2,
@@ -48,14 +42,20 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/search",
-    "title": "Search · TrafficMonitor",
-    "count": 2,
+    "path": "/yi-Xu-0100/Application-Lists/blob/a77c1c97f5793e5a29c91ee7d89448983faed533/config/README.md",
+    "title": "Application-Lists/README.md at a77c1c97f5793e5a29c91ee7d89448983faed533 · yi-...",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/614ea91fc0e6f353e3125f297808119923257098/docs/windows-applications.md",
-    "title": "Application-Lists/windows-applications.md at 614ea91fc0e6f353e3125f2978081199...",
+    "path": "/yi-Xu-0100/Application-Lists/blob/ff5ad74932fd19a53971c083496e1b734e82a89a/docs/windows-applications.md",
+    "title": "Application-Lists/windows-applications.md at ff5ad74932fd19a53971c083496e1b73...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists · ...",
     "count": 1,
     "uniques": 1
   }
