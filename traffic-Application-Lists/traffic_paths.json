@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 24,
+    "count": 22,
     "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 9,
+    "count": 8,
     "uniques": 4
   },
   {
@@ -42,20 +42,20 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/a77c1c97f5793e5a29c91ee7d89448983faed533/config/README.md",
-    "title": "Application-Lists/README.md at a77c1c97f5793e5a29c91ee7d89448983faed533 · yi-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/ff5ad74932fd19a53971c083496e1b734e82a89a/docs/windows-applications.md",
-    "title": "Application-Lists/windows-applications.md at ff5ad74932fd19a53971c083496e1b73...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists · ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Notepad3/themes/Obsidian.ini",
+    "title": "Application-Lists/Obsidian.ini at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/snipaste.ini",
+    "title": "Application-Lists/snipaste.ini at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }

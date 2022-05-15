@@ -22,5 +22,11 @@
     "title": "chore(deps): ⬆️ bump husky from 7.0.4 to 8.0.1 by dependabot[bot] · Pull Requ...",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/339",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.32 to 17.0.33 by dependabot[bot] ·...",
+    "count": 1,
+    "uniques": 1
   }
 ]
