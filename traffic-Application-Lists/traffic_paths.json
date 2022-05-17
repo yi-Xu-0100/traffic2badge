@@ -2,32 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 20,
+    "count": 19,
     "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
-    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
-    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lists",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
-    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
-    "title": "Application-Lists/parser.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 2,
-    "uniques": 2
+    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1",
@@ -36,14 +18,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/server",
-    "title": "Application-Lists/server at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 2,
-    "uniques": 2
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
+    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists · ...",
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
+    "title": "Application-Lists/parser.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +38,24 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/snipaste.ini",
     "title": "Application-Lists/snipaste.ini at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/SumatraPDF.txt",
+    "title": "Application-Lists/SumatraPDF.txt at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
+    "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/v2rayN.txt",
+    "title": "Application-Lists/v2rayN.txt at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }
