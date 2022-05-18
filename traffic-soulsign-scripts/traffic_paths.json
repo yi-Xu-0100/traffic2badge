@@ -2,38 +2,26 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 47,
-    "uniques": 32
+    "count": 34,
+    "uniques": 28
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 27,
-    "uniques": 20
+    "count": 20,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 23,
-    "uniques": 15
+    "count": 14,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 11,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/59",
-    "title": "不懂就问，这些签到有啥用呢 · Issue #59 · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/bbs.pinggu.org.js",
-    "title": "soulsign-scripts/bbs.pinggu.org.js at main · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 1
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/604715426",
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/LICENSE",
     "title": "soulsign-scripts/LICENSE at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
+    "title": "soulsign-scripts/www.iqiyi.com.js at main · yi-Xu-0100/soulsign-scripts · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/fork",
+    "title": "Fork yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }

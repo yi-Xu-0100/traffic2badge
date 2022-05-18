@@ -6,10 +6,22 @@
     "uniques": 6
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/en.json",
+    "title": "conventional-commit-types-i18n/en.json at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/zh-cn.json",
+    "title": "conventional-commit-types-i18n/zh-cn.json at main · yi-Xu-0100/conventional-c...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/packages/628736",
     "title": "Package conventional-commit-types-i18n · yi-Xu-0100/conventional-commit-types...",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/337",
@@ -20,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/339",
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.32 to 17.0.33 by dependabot[bot] ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/340",
+    "title": "chore(deps): ⬆️ bump standard-version from 9.3.2 to 9.5.0 by dependabot[bot] ...",
     "count": 1,
     "uniques": 1
   }
