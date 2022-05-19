@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/218",
-    "title": "chore(deps): ⬆️ bump image-downloader from 4.2.0 to 4.3.0 by dependabot[bot] ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/220",
     "title": "chore(deps): ⬆️ bump husky from 7.0.4 to 8.0.1 by dependabot[bot] · Pull Requ...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/224/files/4f60b3d52178b0d1eaac7331435e2efda8d57725..5a74bc28471f7a588a8fd30c560c86edc0c89aac",
     "title": "Commit range not found · Pull Request #224 · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/225/files/ec4460ec84e61ecf7e85579ea720161a83ac9bad..5957728fcea60118a9959ff0f81ea18f5fc74221",
+    "title": "Commit range not found · Pull Request #225 · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }

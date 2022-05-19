@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.vscode/settings.json",
     "title": "repo-list-generator/settings.json at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/193",
     "title": "chore(deps): ⬆️ bump eslint from 8.14.0 to 8.15.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/194",
+    "title": "chore(deps): ⬆️ bump @actions/core from 1.8.0 to 1.8.1 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
