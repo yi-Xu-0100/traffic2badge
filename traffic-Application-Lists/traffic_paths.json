@@ -1,21 +1,15 @@
 [
   {
     "path": "/yi-Xu-0100/Application-Lists",
-    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 14,
-    "uniques": 10
+    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 11,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1",
-    "title": "Application-Lists/Microsoft.PowerShell_profile.ps1 at main · yi-Xu-0100/Appli...",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
@@ -26,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
     "title": "Application-Lists/parser.yaml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1",
+    "title": "Application-Lists/Microsoft.PowerShell_profile.ps1 at main · yi-Xu-0100/Appli...",
     "count": 1,
     "uniques": 1
   },
