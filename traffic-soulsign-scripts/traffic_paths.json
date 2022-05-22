@@ -2,26 +2,26 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 46,
-    "uniques": 32
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 19,
-    "uniques": 12
+    "count": 43,
+    "uniques": 31
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 19,
+    "uniques": 13
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues",
+    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 17,
-    "uniques": 12
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 7,
-    "uniques": 6
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
@@ -36,14 +36,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/604715426",
-    "title": "feat: ✨ 增加科研通签到脚本到 v1.0.0 · yi-Xu-0100/soulsign-scripts@8170e28",
+    "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/672114694",
+    "title": "fix!: 🐛 更新威锋网签到脚本到 v2.0.0 · yi-Xu-0100/soulsign-scripts@b643967",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/672114694",
-    "title": "fix!: 🐛 更新威锋网签到脚本到 v2.0.0 · yi-Xu-0100/soulsign-scripts@b643967",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/0d38f39eb9e8e58642f7c38a4bfb451cbab06040/scripts/music.163.com.js",
+    "title": "soulsign-scripts/music.163.com.js at 0d38f39eb9e8e58642f7c38a4bfb451cbab06040...",
     "count": 1,
     "uniques": 1
   },
