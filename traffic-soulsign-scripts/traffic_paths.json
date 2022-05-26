@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 40,
-    "uniques": 28
+    "count": 36,
+    "uniques": 25
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -15,7 +15,7 @@
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 13,
-    "uniques": 9
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions/runs/672114694",
-    "title": "fix!: 🐛 更新威锋网签到脚本到 v2.0.0 · yi-Xu-0100/soulsign-scripts@b643967",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/0d38f39eb9e8e58642f7c38a4bfb451cbab06040/scripts/music.163.com.js",
     "title": "soulsign-scripts/music.163.com.js at 0d38f39eb9e8e58642f7c38a4bfb451cbab06040...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/121676ef049d7e83e206a4c412beac0f350471f3/scripts/account.lingfengyun.com.js",
     "title": "soulsign-scripts/account.lingfengyun.com.js at 121676ef049d7e83e206a4c412beac...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/baipiaoyun.xyz.js",
+    "title": "soulsign-scripts/baipiaoyun.xyz.js at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
