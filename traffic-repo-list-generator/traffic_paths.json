@@ -12,18 +12,6 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/197",
-    "title": "chore(deps): ⬆️ bump @actions/github from 5.0.2 to 5.0.3 by dependabot[bot] ·...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/198",
-    "title": "chore(deps): ⬆️ bump @actions/artifact from 1.0.1 to 1.0.2 by dependabot[bot]...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/issues/created_by/@me",
     "title": "Issues · yi-Xu-0100/repo-list-generator",
     "count": 1,
@@ -36,26 +24,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/194",
-    "title": "chore(deps): ⬆️ bump @actions/core from 1.8.0 to 1.8.1 by dependabot[bot] · P...",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/200",
+    "title": "chore(deps): ⬆️ bump @actions/artifact from 1.0.2 to 1.1.0 by dependabot[bot]...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/195",
-    "title": "chore(deps): ⬆️ bump @actions/github from 5.0.1 to 5.0.2 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/196",
-    "title": "chore(deps): ⬆️ bump @actions/artifact from 1.0.0 to 1.0.1 by dependabot[bot]...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/197/files/e9167f915ed4e12d269c178b371e6bcbaf9b9e23..ac34016c4187abb3e80df566a379531fa5126f1b",
-    "title": "Commit range not found · Pull Request #197 · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/201",
+    "title": "chore(deps): ⬆️ bump eslint from 8.15.0 to 8.16.0 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }
