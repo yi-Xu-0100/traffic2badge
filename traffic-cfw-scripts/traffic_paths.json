@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 35,
-    "uniques": 17
+    "count": 26,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/issues/139",
@@ -12,22 +12,10 @@
     "uniques": 6
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/pulls",
     "title": "Pull requests · yi-Xu-0100/cfw-scripts",
     "count": 5,
     "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
-    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 4,
-    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/issues",
@@ -36,21 +24,9 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
-    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/rule-providers.yml",
-    "title": "cfw-scripts/rule-providers.yml at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
-    "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
+    "count": 4,
     "uniques": 2
   },
   {
@@ -58,5 +34,29 @@
     "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
+    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/141",
+    "title": "🐛 update to fix rule-providers.yml occupied error by Ovler-Young · Pull Requ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/f018f6694ac7ad5c4f5c7fb951eb61b7db9265dc/lib/variables.yml",
+    "title": "cfw-scripts/variables.yml at f018f6694ac7ad5c4f5c7fb951eb61b7db9265dc · yi-Xu...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/CHANGELOG.md",
+    "title": "cfw-scripts/CHANGELOG.md at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
   }
 ]
