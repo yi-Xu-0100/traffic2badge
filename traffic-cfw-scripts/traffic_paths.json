@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/issues/139",
     "title": "大佬你好，能麻烦帮忙写个脚本吗，每次更新节点池配置的时候把节点名包含的Relay_和 Pool替换成空字符串 · Issue #139 · yi-Xu-0...",
-    "count": 25,
-    "uniques": 6
+    "count": 26,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/pulls",
@@ -30,18 +30,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
-    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
-    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/pull/141",
     "title": "🐛 update to fix rule-providers.yml occupied error by Ovler-Young · Pull Requ...",
     "count": 2,
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/CHANGELOG.md",
     "title": "cfw-scripts/CHANGELOG.md at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/notify.js",
+    "title": "cfw-scripts/notify.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/rule-providers.yml",
+    "title": "cfw-scripts/rule-providers.yml at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
