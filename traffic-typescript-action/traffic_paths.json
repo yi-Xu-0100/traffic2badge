@@ -1,17 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/typescript-action",
-    "title": "yi-Xu-0100/typescript-action: 📝 Example GitHub action build in typescript.",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/pull/260",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.33 to 17.0.34 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/pull/261",
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.34 to 17.0.35 by dependabot[bot] ·...",
     "count": 1,
