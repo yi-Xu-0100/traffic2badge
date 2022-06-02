@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/f018f6694ac7ad5c4f5c7fb951eb61b7db9265dc/lib/variables.yml",
-    "title": "cfw-scripts/variables.yml at f018f6694ac7ad5c4f5c7fb951eb61b7db9265dc · yi-Xu...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/CHANGELOG.md",
     "title": "cfw-scripts/CHANGELOG.md at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/rule-providers.yml",
     "title": "cfw-scripts/rule-providers.yml at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
+    "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
