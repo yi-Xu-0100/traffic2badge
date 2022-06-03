@@ -6,20 +6,8 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/2353678511",
-    "title": "sync2gitee · yi-Xu-0100/hub-mirror@1de7598 · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
     "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/runs/6512345736",
-    "title": "sync2gitee · yi-Xu-0100/hub-mirror@1de7598 · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +44,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
     "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }
