@@ -2,20 +2,26 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 19,
+    "count": 21,
     "uniques": 16
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
     "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
-    "count": 11,
-    "uniques": 2
+    "count": 12,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
     "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/cfw-scripts",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/rule-providers.yml",
@@ -28,12 +34,6 @@
     "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/issues/139",
-    "title": "大佬你好，能麻烦帮忙写个脚本吗，每次更新节点池配置的时候把节点名包含的Relay_和 Pool替换成空字符串 · Issue #139 · yi-Xu-0...",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy.js",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/search",
+    "title": "Search · 游戏",
     "count": 2,
     "uniques": 1
   }
