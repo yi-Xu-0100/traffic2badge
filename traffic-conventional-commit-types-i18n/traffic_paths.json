@@ -4,5 +4,17 @@
     "title": "conventional-commit-types-i18n/es.json at main · yi-Xu-0100/conventional-comm...",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/595695802",
+    "title": "fix: missing fallback translation when no locale available · yi-Xu-0100/conve...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/352",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.40 to 17.0.41 by dependabot[bot] ·...",
+    "count": 1,
+    "uniques": 1
   }
 ]
