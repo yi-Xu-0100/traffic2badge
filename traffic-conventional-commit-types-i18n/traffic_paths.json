@@ -16,5 +16,11 @@
     "title": "chore(deps): ⬆️ bump @types/node from 17.0.40 to 17.0.41 by dependabot[bot] ·...",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/353",
+    "title": "chore(deps): ⬆️ bump lint-staged from 13.0.0 to 13.0.1 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
   }
 ]
