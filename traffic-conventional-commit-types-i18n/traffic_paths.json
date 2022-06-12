@@ -1,9 +1,21 @@
 [
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/es.json",
-    "title": "conventional-commit-types-i18n/es.json at main · yi-Xu-0100/conventional-comm...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/.github",
+    "title": "conventional-commit-types-i18n/.github at main · yi-Xu-0100/conventional-comm...",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
+    "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/568724343",
+    "title": "ci(actions): 💚 update codecov for more node version · yi-Xu-0100/conventiona...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/595695802",
@@ -12,14 +24,38 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/352",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.40 to 17.0.41 by dependabot[bot] ·...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "conventional-commit-types-i18n/enhance-deps-pr.yml at main · yi-Xu-0100/conve...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/353",
-    "title": "chore(deps): ⬆️ bump lint-staged from 13.0.0 to 13.0.1 by dependabot[bot] · P...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/prepare-release.yml",
+    "title": "conventional-commit-types-i18n/prepare-release.yml at main · yi-Xu-0100/conve...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/release-beta.yml",
+    "title": "conventional-commit-types-i18n/release-beta.yml at main · yi-Xu-0100/conventi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/release.yml",
+    "title": "conventional-commit-types-i18n/release.yml at main · yi-Xu-0100/conventional-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/test.yml",
+    "title": "conventional-commit-types-i18n/test.yml at main · yi-Xu-0100/conventional-com...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/es.json",
+    "title": "conventional-commit-types-i18n/es.json at main · yi-Xu-0100/conventional-comm...",
     "count": 1,
     "uniques": 1
   }

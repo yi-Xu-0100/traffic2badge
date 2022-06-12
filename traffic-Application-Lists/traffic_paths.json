@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 10,
-    "uniques": 9
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
     "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
@@ -36,14 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
-    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
+    "path": "/yi-Xu-0100/Application-Lists/pull/126",
+    "title": "chore(deps): ⬆️ bump ws from 8.7.0 to 8.8.0 by dependabot[bot] · Pull Request...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/server",
-    "title": "Application-Lists/server at main · yi-Xu-0100/Application-Lists",
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
+    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }
