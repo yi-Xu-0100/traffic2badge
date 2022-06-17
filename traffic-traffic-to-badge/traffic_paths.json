@@ -1,19 +1,31 @@
 [
   {
-    "path": "/yi-xu-0100/traffic-to-badge/issues/21",
-    "title": "Can't find 'action.yml' · Issue #21 · yi-Xu-0100/traffic-to-badge",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/233",
     "title": "chore(deps): ⬆️ bump lint-staged from 13.0.0 to 13.0.1 by dependabot[bot] · P...",
     "count": 2,
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
+    "title": "traffic-to-badge/README.md at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/234",
     "title": "chore(deps): ⬆️ bump prettier from 2.6.2 to 2.7.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/235",
+    "title": "chore(deps): ⬆️ bump mindsers/changelog-reader-action from 2.0.0 to 2.1.0 by ...",
     "count": 1,
     "uniques": 1
   }

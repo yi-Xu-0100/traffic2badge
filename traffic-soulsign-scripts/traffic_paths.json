@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "问题 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 21,
-    "uniques": 9
+    "count": 23,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 17,
-    "uniques": 9
+    "count": 21,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
@@ -20,8 +20,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/38fe4ba8cbe437375150efe12f9ebccfc462b399/scripts/cloud.189.cn.js",
     "title": "soulsign-scripts/cloud.189.cn.js at 38fe4ba8cbe437375150efe12f9ebccfc462b399 ...",
-    "count": 5,
+    "count": 8,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/api.live.bilibili.com.js",
+    "title": "soulsign-scripts/api.live.bilibili.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
@@ -30,8 +42,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
+    "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/62",
+    "title": "凌风云签到增加了滑块验证 · Issue #62 · yi-Xu-0100/soulsign-scripts",
     "count": 3,
     "uniques": 1
   },
@@ -40,23 +58,5 @@
     "title": "wnflb签到 不在线 · Issue #6 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
-    "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/api.live.bilibili.com.js",
-    "title": "soulsign-scripts/api.live.bilibili.com.js at main · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/new",
-    "title": "New Issue · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 1
   }
 ]
