@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 4,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/.github",
@@ -14,12 +14,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/568724343",
     "title": "ci(actions): 💚 update codecov for more node version · yi-Xu-0100/conventiona...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/595695802",
-    "title": "fix: missing fallback translation when no locale available · yi-Xu-0100/conve...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/31522f965e1d67dc4fb841dba10cc2803b3638b7",
     "title": "ci(actions): 💚 update codecov for more node version · yi-Xu-0100/conventiona...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/afe7083d92536dd2092732d84642b941a3c8033d",
+    "title": "fix: 🐛 fix lint error · yi-Xu-0100/conventional-commit-types-i18n@afe7083",
     "count": 1,
     "uniques": 1
   }
