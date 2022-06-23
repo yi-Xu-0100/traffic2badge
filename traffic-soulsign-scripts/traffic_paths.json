@@ -1,8 +1,14 @@
 [
   {
+    "path": "/yi-Xu-0100/soulsign-scripts",
+    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
+    "count": 37,
+    "uniques": 10
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/38fe4ba8cbe437375150efe12f9ebccfc462b399/scripts/cloud.189.cn.js",
     "title": "soulsign-scripts/cloud.189.cn.js at 38fe4ba8cbe437375150efe12f9ebccfc462b399 ...",
-    "count": 25,
+    "count": 29,
     "uniques": 1
   },
   {
@@ -10,12 +16,6 @@
     "title": "问题 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 20,
     "uniques": 11
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts",
-    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 17,
-    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
@@ -28,6 +28,12 @@
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 7,
     "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/52",
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/find/main",
     "title": "File Finder · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/11",
-    "title": "百度文库页面更新了，脚本失效 · Issue #11 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 2
   }
