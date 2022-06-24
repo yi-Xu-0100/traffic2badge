@@ -2,60 +2,24 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/.github",
-    "title": "conventional-commit-types-i18n/.github at main · yi-Xu-0100/conventional-comm...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/runs/568724343",
-    "title": "ci(actions): 💚 update codecov for more node version · yi-Xu-0100/conventiona...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/355",
+    "title": "chore(deps): ⬆️ bump prettier from 2.6.2 to 2.7.0 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/enhance-deps-pr.yml",
-    "title": "conventional-commit-types-i18n/enhance-deps-pr.yml at main · yi-Xu-0100/conve...",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/356",
+    "title": "chore(deps): ⬆️ bump mindsers/changelog-reader-action from 2.0.0 to 2.1.0 by ...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/prepare-release.yml",
-    "title": "conventional-commit-types-i18n/prepare-release.yml at main · yi-Xu-0100/conve...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/release-beta.yml",
-    "title": "conventional-commit-types-i18n/release-beta.yml at main · yi-Xu-0100/conventi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/release.yml",
-    "title": "conventional-commit-types-i18n/release.yml at main · yi-Xu-0100/conventional-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/test.yml",
-    "title": "conventional-commit-types-i18n/test.yml at main · yi-Xu-0100/conventional-com...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/31522f965e1d67dc4fb841dba10cc2803b3638b7",
-    "title": "ci(actions): 💚 update codecov for more node version · yi-Xu-0100/conventiona...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/afe7083d92536dd2092732d84642b941a3c8033d",
-    "title": "fix: 🐛 fix lint error · yi-Xu-0100/conventional-commit-types-i18n@afe7083",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/357",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.42 to 17.0.43 by dependabot[bot] ·...",
     "count": 1,
     "uniques": 1
   }
