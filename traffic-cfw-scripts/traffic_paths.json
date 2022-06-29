@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 13,
-    "uniques": 8
+    "count": 16,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
@@ -14,14 +14,20 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
     "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 4,
-    "uniques": 1
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
     "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/download-provider.js",
+    "title": "cfw-scripts/download-provider.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
@@ -32,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/issues",
     "title": "Issues · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/148",
-    "title": "chore(deps): ⬆️ bump mindsers/changelog-reader-action from 2.0.0 to 2.1.0 by ...",
     "count": 2,
     "uniques": 1
   },
