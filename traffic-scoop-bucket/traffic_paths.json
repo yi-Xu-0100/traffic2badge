@@ -2,18 +2,24 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket",
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 17,
+    "count": 29,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/actions",
     "title": "scoop-bucket/excavator.yml at main · yi-Xu-0100/scoop-bucket",
-    "count": 12,
+    "count": 28,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2583287021",
     "title": "Excavator · yi-Xu-0100/scoop-bucket@652d399",
+    "count": 9,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/actions/workflows/excavator.yml",
+    "title": "Actions · yi-Xu-0100/scoop-bucket",
     "count": 9,
     "uniques": 1
   },
@@ -24,39 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/actions/workflows/excavator.yml",
-    "title": "Actions · yi-Xu-0100/scoop-bucket",
-    "count": 6,
+    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2583677951",
+    "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
+    "count": 7,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2583677951",
+    "path": "/yi-Xu-0100/scoop-bucket/runs/7114065553",
     "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
-    "count": 5,
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/runs/7123394596",
+    "title": "Excavator · yi-Xu-0100/scoop-bucket@4e00965",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/search",
+    "title": "Search · commit -m",
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/runs/7112560493",
     "title": "Excavator · yi-Xu-0100/scoop-bucket@652d399",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/runs/7114065553",
-    "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/issues/new/choose",
-    "title": "New Issue · yi-Xu-0100/scoop-bucket",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/.github/workflows",
-    "title": "scoop-bucket/.github at main · yi-Xu-0100/scoop-bucket",
-    "count": 4,
     "uniques": 1
   }
 ]

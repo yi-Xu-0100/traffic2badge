@@ -2,8 +2,20 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 17,
-    "uniques": 5
+    "count": 22,
+    "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/static",
+    "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
@@ -12,20 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/actions/workflows/sync2gitee.yml",
     "title": "Actions · yi-Xu-0100/hub-mirror",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/static",
-    "title": "hub-mirror/static at main · yi-Xu-0100/hub-mirror",
     "count": 2,
     "uniques": 1
   },
