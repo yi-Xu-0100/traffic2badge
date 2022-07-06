@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 21,
-    "uniques": 13
+    "count": 19,
+    "uniques": 14
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
     "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 8,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
-    "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 4,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
@@ -24,38 +18,44 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
-    "title": "cfw-scripts/info.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/download-provider.js",
-    "title": "cfw-scripts/download-provider.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/.github/workflows/autoRelease.yml",
     "title": "cfw-scripts/autoRelease.yml at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/notify.js",
-    "title": "cfw-scripts/notify.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
+    "title": "cfw-scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
-    "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.yml",
+    "title": "cfw-scripts/change-rules.yml at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy.js",
-    "title": "cfw-scripts/add-proxy.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/download-provider.js",
+    "title": "cfw-scripts/download-provider.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
+    "title": "cfw-scripts/info.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
+    "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/issues/69",
+    "title": "更新某profile时候脚本报错 · Issue #69 · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
