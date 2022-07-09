@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
@@ -32,12 +32,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pulls",
     "title": "Error: Repository access blocked · Issue #174 · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
-    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
