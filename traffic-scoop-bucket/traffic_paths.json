@@ -1,44 +1,14 @@
 [
   {
+    "path": "/yi-Xu-0100/scoop-bucket/actions",
+    "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
+    "count": 16,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/scoop-bucket",
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 28,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/actions",
-    "title": "scoop-bucket/excavator.yml at main · yi-Xu-0100/scoop-bucket",
-    "count": 28,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2583287021",
-    "title": "Excavator · yi-Xu-0100/scoop-bucket@652d399",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/actions/workflows/excavator.yml",
-    "title": "Actions · yi-Xu-0100/scoop-bucket",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bin",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2583677951",
-    "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/runs/7114065553",
-    "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
-    "count": 7,
+    "count": 12,
     "uniques": 1
   },
   {
@@ -54,9 +24,39 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/runs/7112560493",
-    "title": "Excavator · yi-Xu-0100/scoop-bucket@652d399",
-    "count": 5,
+    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2585718707",
+    "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2586955867",
+    "title": "Excavator · yi-Xu-0100/scoop-bucket@4e00965",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/actions/workflows/excavator.yml",
+    "title": "Actions · yi-Xu-0100/scoop-bucket",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/issues/1",
+    "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket · Gi...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2583677951",
+    "title": "Excavator · yi-Xu-0100/scoop-bucket@3ae127f",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/aliyunpan-xiaobaiyang.json",
+    "title": "scoop-bucket/aliyunpan-xiaobaiyang.json at main · yi-Xu-0100/scoop-bucket",
+    "count": 2,
     "uniques": 1
   }
 ]
