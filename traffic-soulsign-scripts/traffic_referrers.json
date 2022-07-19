@@ -6,13 +6,8 @@
   },
   {
     "referrer": "github.yixuju.cn",
-    "count": 13,
-    "uniques": 4
-  },
-  {
-    "referrer": "soulsign.inu1255.cn",
-    "count": 8,
-    "uniques": 4
+    "count": 10,
+    "uniques": 3
   },
   {
     "referrer": "ijkxs.com",
@@ -25,8 +20,13 @@
     "uniques": 1
   },
   {
-    "referrer": "Google",
-    "count": 2,
+    "referrer": "soulsign.inu1255.cn",
+    "count": 6,
     "uniques": 2
+  },
+  {
+    "referrer": "Google",
+    "count": 1,
+    "uniques": 1
   }
 ]
