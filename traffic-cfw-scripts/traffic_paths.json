@@ -8,8 +8,14 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 9,
-    "uniques": 5
+    "count": 13,
+    "uniques": 8
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
+    "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/issues/69",
@@ -24,14 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
-    "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/find/main",
+    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   }
