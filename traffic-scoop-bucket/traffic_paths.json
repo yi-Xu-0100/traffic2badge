@@ -2,25 +2,7 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/issues/1",
     "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/2654563009",
-    "title": "perf(UartAssist): ⚡️ add persist for uartassist · yi-Xu-0100/scoop-bucket@3c9...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/commit/55cdcf19bf22f0b4166b4bc894f44084d8571a2e",
-    "title": "ci: ✅ remove WindowsPowereshell test job · yi-Xu-0100/scoop-bucket@55cdcf1",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/runs/7296313985",
-    "title": "perf(UartAssist): ⚡️ add persist for uartassist · yi-Xu-0100/scoop-bucket@3c9...",
-    "count": 1,
+    "count": 2,
     "uniques": 1
   }
 ]
