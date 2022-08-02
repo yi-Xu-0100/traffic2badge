@@ -18,24 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/actions",
-    "title": "Actions · yi-Xu-0100/hub-mirror",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/525247051",
-    "title": "sync2gitee(list)-org · yi-Xu-0100/hub-mirror@5853a90",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions/runs/525247051/workflow",
-    "title": "📝 test for not ssh · yi-Xu-0100/hub-mirror@5853a90",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
     "title": "hub-mirror/add_secret_key.png at main · yi-Xu-0100/hub-mirror",
     "count": 1,
