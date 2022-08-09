@@ -2,61 +2,13 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 14,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/taxonomy",
-    "title": "hugo-theme-whiteink/layouts/taxonomy at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 6,
-    "uniques": 1
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/config.toml.example",
     "title": "hugo-theme-whiteink/config.toml.example at main · yi-Xu-0100/hugo-theme-white...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
-    "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/partials",
-    "title": "hugo-theme-whiteink/layouts/partials at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/partials/list.html",
-    "title": "hugo-theme-whiteink/list.html at main · yi-Xu-0100/hugo-theme-whiteink",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/taxonomy/terms.html",
-    "title": "hugo-theme-whiteink/terms.html at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/_default",
-    "title": "hugo-theme-whiteink/layouts/_default at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/page",
-    "title": "hugo-theme-whiteink/layouts/page at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/static",
-    "title": "hugo-theme-whiteink/static at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 2,
     "uniques": 1
   }
 ]
