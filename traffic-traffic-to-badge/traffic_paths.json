@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 6,
-    "uniques": 4
+    "count": 7,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/actions",
@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/action.yml",
+    "title": "traffic-to-badge/action.yml at main · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/actions/runs/2775418198",
     "title": "autoRelease · yi-Xu-0100/traffic-to-badge@a66602e",
     "count": 1,
@@ -26,12 +32,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/actions/workflows/autoRelease.yml",
     "title": "Actions · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/action.yml",
-    "title": "traffic-to-badge/action.yml at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   },
