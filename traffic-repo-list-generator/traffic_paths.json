@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 30,
-    "uniques": 14
+    "count": 29,
+    "uniques": 13
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
     "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator · Git...",
-    "count": 9,
+    "count": 10,
     "uniques": 3
   },
   {
@@ -16,12 +16,6 @@
     "title": "repo-list-generator/test.yml at main · yi-Xu-0100/repo-list-generator",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
-    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 4,
-    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
@@ -36,27 +30,33 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
     "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/issues/174",
+    "title": "Error: Repository access blocked · Issue #174 · yi-Xu-0100/repo-list-generator",
     "count": 3,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/dist",
     "title": "repo-list-generator/dist at main · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/workflows/test.yml",
+    "title": "Actions · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/autoRelease.yml",
+    "title": "repo-list-generator/autoRelease.yml at main · yi-Xu-0100/repo-list-generator ...",
+    "count": 2,
+    "uniques": 2
   }
 ]
