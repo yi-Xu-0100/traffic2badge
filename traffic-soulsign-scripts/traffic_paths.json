@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 19,
-    "uniques": 14
+    "count": 20,
+    "uniques": 13
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 18,
-    "uniques": 11
+    "count": 16,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 12,
-    "uniques": 7
+    "count": 14,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
@@ -28,6 +28,18 @@
     "title": "File Finder · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/e2c888c234064ba73cbb2f6c48631b4682fa544b/scripts/www.gorpg.club.js",
+    "title": "soulsign-scripts/www.gorpg.club.js at e2c888c234064ba73cbb2f6c48631b4682fa544...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/1d6c827f876b9392f4e9c68fe798cb0aa5aae513",
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commits/main",
     "title": "Commits · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
-    "title": "Discussions · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
