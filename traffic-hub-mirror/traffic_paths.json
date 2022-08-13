@@ -2,25 +2,61 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 12,
-    "uniques": 10
+    "count": 27,
+    "uniques": 12
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/github_name.png",
-    "title": "hub-mirror/github_name.png at main · yi-Xu-0100/hub-mirror",
-    "count": 1,
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror",
+    "count": 14,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
+    "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
+    "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
+    "title": "hub-mirror/patch.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
+    "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror",
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
     "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 1,
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/patch.yml",
+    "title": "hub-mirror/patch.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror",
-    "count": 1,
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
+    "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
+    "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 2,
     "uniques": 1
   }
 ]
