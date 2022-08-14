@@ -2,19 +2,19 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket",
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
+    "title": "scoop-bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/commit/6ca7a2da3123d6d21217cb871e2fed29c7460706",
     "title": "feat(ClashForWindows): ✨ ask uac for remove process · yi-Xu-0100/scoop-bucket...",
     "count": 4,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
-    "title": "scoop-bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket",
-    "count": 2,
-    "uniques": 1
   }
 ]
