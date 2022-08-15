@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 9,
-    "uniques": 6
+    "count": 10,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/3afbf8b31f50143bfb5d5fb1754470dc931d9f76/config/Microsoft.PowerShell_profile.ps1",
+    "title": "Application-Lists/Microsoft.PowerShell_profile.ps1 at 3afbf8b31f50143bfb5d5fb...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
     "title": "Application-Lists/parser.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 1,
@@ -32,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/v2rayN.txt",
     "title": "Application-Lists/v2rayN.txt at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/.prettierrc.js",
+    "title": "Application-Lists/.prettierrc.js at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
