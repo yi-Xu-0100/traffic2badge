@@ -2,20 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 7,
-    "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/actions",
-    "title": "Actions · yi-Xu-0100/traffic-to-badge",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/upload/main",
-    "title": "Upload files · yi-Xu-0100/traffic-to-badge",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/action.yml",
@@ -30,32 +18,32 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/actions/runs/2775418198",
-    "title": "autoRelease · yi-Xu-0100/traffic-to-badge@a66602e",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/actions/workflows/autoRelease.yml",
-    "title": "Actions · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/LICENSE",
-    "title": "traffic-to-badge/LICENSE at main · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-xu-0100/traffic-to-badge/issues",
-    "title": "Issues · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/29",
     "title": "Add new badges for views/week and clones/week · Issue #29 · yi-Xu-0100/traffi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-xu-0100/traffic-to-badge/issues/33",
+    "title": "Add color option for week badge · Issue #33 · yi-Xu-0100/traffic-to-badge · G...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github",
+    "title": "traffic-to-badge/.github at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github/workflows",
+    "title": "traffic-to-badge/.github/workflows at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/traffic",
+    "title": "yi-Xu-0100/traffic-to-badge at traffic",
     "count": 1,
     "uniques": 1
   }
