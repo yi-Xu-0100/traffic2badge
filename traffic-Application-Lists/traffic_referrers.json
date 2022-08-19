@@ -1,16 +1,11 @@
 [
   {
-    "referrer": "github.yixuju.cn",
-    "count": 9,
-    "uniques": 2
-  },
-  {
     "referrer": "github.com",
-    "count": 8,
-    "uniques": 4
+    "count": 7,
+    "uniques": 3
   },
   {
-    "referrer": "pudn.com",
+    "referrer": "github.yixuju.cn",
     "count": 1,
     "uniques": 1
   }

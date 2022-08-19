@@ -16,5 +16,11 @@
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/commit/d9be22fca210a0803abb9fa7b86ef8aef74aa65d",
+    "title": "fix(ClashForWindows): 🐛 start service before restart in update · yi-Xu-0100/...",
+    "count": 1,
+    "uniques": 1
   }
 ]
