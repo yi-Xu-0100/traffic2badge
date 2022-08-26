@@ -1,25 +1,61 @@
 [
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
-    "title": "scoop-bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 6,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/commit/6ca7a2da3123d6d21217cb871e2fed29c7460706",
-    "title": "feat(ClashForWindows): ✨ ask uac for remove process · yi-Xu-0100/scoop-bucket...",
-    "count": 4,
-    "uniques": 2
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/.github/workflows",
+    "title": "scoop-bucket/.github/workflows at main · yi-Xu-0100/scoop-bucket",
+    "count": 5,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket",
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/workflows/excavator.yml",
+    "title": "scoop-bucket/excavator.yml at main · yi-Xu-0100/scoop-bucket",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
+    "title": "scoop-bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket · GitHub",
     "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bin",
+    "title": "scoop-bucket/bin at main · yi-Xu-0100/scoop-bucket",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/.github",
+    "title": "scoop-bucket/.github at main · yi-Xu-0100/scoop-bucket",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/commit/5578712d1fc74b4a901b673e37e4591b3c4b4c00",
+    "title": "ClashForWindows: Update to version 0.19.27 · yi-Xu-0100/scoop-bucket@5578712 ...",
+    "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/commit/d9be22fca210a0803abb9fa7b86ef8aef74aa65d",
-    "title": "fix(ClashForWindows): 🐛 start service before restart in update · yi-Xu-0100/...",
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/workflows/ci.yml",
+    "title": "scoop-bucket/ci.yml at main · yi-Xu-0100/scoop-bucket",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/workflows/issue_comment.yml",
+    "title": "scoop-bucket/issue_comment.yml at main · yi-Xu-0100/scoop-bucket",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bin/auto-pr.ps1",
+    "title": "scoop-bucket/auto-pr.ps1 at main · yi-Xu-0100/scoop-bucket",
     "count": 1,
     "uniques": 1
   }

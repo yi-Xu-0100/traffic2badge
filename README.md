@@ -394,66 +394,6 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-hugo-theme-whiteink/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-hugo-theme-whiteink)
 ```
 
-## 📚 [javascript-action](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-javascript-action)
-
-### 📷 Badges without link of [javascript-action](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-javascript-action)
-
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)
-![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)
-![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)
-![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)
-![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [javascript-action](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-javascript-action)
-
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-
-```markdown
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-javascript-action/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-javascript-action)
-```
-
-## 📚 [Learn-for-coding](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Learn-for-coding)
-
-### 📷 Badges without link of [Learn-for-coding](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Learn-for-coding)
-
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)
-![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)
-![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)
-![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)
-![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [Learn-for-coding](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Learn-for-coding)
-
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-
-```markdown
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Learn-for-coding/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Learn-for-coding)
-```
-
 ## 📚 [learn-scripts](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-learn-scripts)
 
 ### 📷 Badges without link of [learn-scripts](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-learn-scripts)
