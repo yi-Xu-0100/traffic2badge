@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
-    "title": "scoop-bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/scoop-bucket/tree/main/bin",
     "title": "scoop-bucket/bin at main · yi-Xu-0100/scoop-bucket",
     "count": 3,
@@ -34,6 +28,12 @@
     "title": "scoop-bucket/.github at main · yi-Xu-0100/scoop-bucket",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
+    "title": "scoop-bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/commit/5578712d1fc74b4a901b673e37e4591b3c4b4c00",
