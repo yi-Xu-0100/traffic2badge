@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 14,
+    "count": 15,
     "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/commits",
+    "title": "Commits · yi-Xu-0100/repo-list-generator",
+    "count": 7,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
@@ -48,14 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/225",
-    "title": "Allow excluding archived repositories by natete · Pull Request #225 · yi-Xu-0...",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "repo-list-generator/enhance-deps-pr.yml at main · yi-Xu-0100/repo-list-genera...",
     "count": 2,
     "uniques": 1
   }
