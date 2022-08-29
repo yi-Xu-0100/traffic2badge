@@ -2,12 +2,24 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 3,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/src/index.ts",
     "title": "conventional-commit-types-i18n/index.ts at main · yi-Xu-0100/conventional-com...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/issues",
+    "title": "Issues · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pulls",
+    "title": "Pull requests · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 1,
     "uniques": 1
   },
