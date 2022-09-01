@@ -1,8 +1,23 @@
 [
   {
     "referrer": "github.com",
-    "count": 33,
-    "uniques": 18
+    "count": 40,
+    "uniques": 20
+  },
+  {
+    "referrer": "Google",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "referrer": "github.yixuju.cn",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "referrer": "ijkxs.com",
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "soulsign.inu1255.cn",
@@ -10,18 +25,8 @@
     "uniques": 3
   },
   {
-    "referrer": "github.yixuju.cn",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "referrer": "ijkxs.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "Google",
-    "count": 2,
-    "uniques": 2
+    "referrer": "gist.github.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
