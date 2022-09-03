@@ -1,61 +1,25 @@
 [
   {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/.github/workflows",
-    "title": "scoop-bucket/.github/workflows at main · yi-Xu-0100/scoop-bucket",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/workflows/excavator.yml",
-    "title": "scoop-bucket/excavator.yml at main · yi-Xu-0100/scoop-bucket",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bin",
-    "title": "scoop-bucket/bin at main · yi-Xu-0100/scoop-bucket",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/.github",
-    "title": "scoop-bucket/.github at main · yi-Xu-0100/scoop-bucket",
-    "count": 3,
+    "path": "/yi-Xu-0100/scoop-bucket/blob/3ae127fb2e6705d6e76667281a10a115f5f529eb/bucket/aliyunpan-xiaobaiyang.json",
+    "title": "scoop-bucket/aliyunpan-xiaobaiyang.json at 3ae127fb2e6705d6e76667281a10a115f5...",
+    "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
     "title": "scoop-bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/commit/5578712d1fc74b4a901b673e37e4591b3c4b4c00",
     "title": "ClashForWindows: Update to version 0.19.27 · yi-Xu-0100/scoop-bucket@5578712 ...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/workflows/ci.yml",
-    "title": "scoop-bucket/ci.yml at main · yi-Xu-0100/scoop-bucket",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/workflows/issue_comment.yml",
-    "title": "scoop-bucket/issue_comment.yml at main · yi-Xu-0100/scoop-bucket",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/3ae127fb2e6705d6e76667281a10a115f5f529eb/bucket/aliyunpan-xiaobaiyang.json",
-    "title": "scoop-bucket/aliyunpan-xiaobaiyang.json at 3ae127fb2e6705d6e76667281a10a115f5...",
+    "path": "/yi-Xu-0100/scoop-bucket/issues/1",
+    "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket · Gi...",
     "count": 1,
     "uniques": 1
   }
