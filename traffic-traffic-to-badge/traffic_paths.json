@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/main/src",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.husky/pre-commit",
     "title": "traffic-to-badge/pre-commit at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-xu-0100/traffic-to-badge/issues/21",
+    "title": "Can't find 'action.yml' · Issue #21 · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   },
