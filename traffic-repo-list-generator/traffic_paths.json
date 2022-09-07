@@ -2,31 +2,13 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 12,
-    "uniques": 3
+    "count": 8,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/commits",
     "title": "Commits · yi-Xu-0100/repo-list-generator",
     "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
-    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
-    "count": 4,
     "uniques": 1
   },
   {
@@ -36,10 +18,16 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/issues",
-    "title": "Issues · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/CHANGELOG.md",
+    "title": "repo-list-generator/CHANGELOG.md at main · yi-Xu-0100/repo-list-generator · G...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/2926331639",
@@ -48,14 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049/dist/index.js",
-    "title": "repo-list-generator/index.js at aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049 · yi...",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049/src/repo.js",
+    "title": "repo-list-generator/repo.js at aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049 · yi-...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049/src/repo.js",
-    "title": "repo-list-generator/repo.js at aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049 · yi-...",
+    "path": "/yi-Xu-0100/repo-list-generator/issues",
+    "title": "Issues · yi-Xu-0100/repo-list-generator",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/225",
+    "title": "Allow excluding archived repositories by natete · Pull Request #225 · yi-Xu-0...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
+    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   }
