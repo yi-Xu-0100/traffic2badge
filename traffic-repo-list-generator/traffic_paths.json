@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 8,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/commits",
     "title": "Commits · yi-Xu-0100/repo-list-generator",
     "count": 7,
@@ -14,14 +8,14 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/enhance-deps-pr.yml",
     "title": "repo-list-generator/enhance-deps-pr.yml at main · yi-Xu-0100/repo-list-genera...",
-    "count": 3,
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 1
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/CHANGELOG.md",
@@ -30,33 +24,39 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/2926331639",
-    "title": "test · yi-Xu-0100/repo-list-generator@aabfb8d",
-    "count": 2,
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
+    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049/src/repo.js",
-    "title": "repo-list-generator/repo.js at aabfb8d2a4b99f26b0bf4c426fd0aafa046e6049 · yi-...",
-    "count": 2,
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/dependabot.yml",
+    "title": "repo-list-generator/dependabot.yml at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/issues",
-    "title": "Issues · yi-Xu-0100/repo-list-generator",
-    "count": 2,
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/autoRelease.yml",
+    "title": "repo-list-generator/autoRelease.yml at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/225",
-    "title": "Allow excluding archived repositories by natete · Pull Request #225 · yi-Xu-0...",
-    "count": 2,
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/LICENSE",
+    "title": "repo-list-generator/LICENSE at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
+    "path": "/yi-Xu-0100/repo-list-generator/commit/98b9283a0266f8c601ff053565cd3e9a34240a75",
+    "title": "chore(deps): ⬆️ bump eslint from 8.19.0 to 8.20.0 · yi-Xu-0100/repo-list-gene...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/graphs/contributors",
+    "title": "Contributors to yi-Xu-0100/repo-list-generator",
+    "count": 1,
     "uniques": 1
   }
 ]
