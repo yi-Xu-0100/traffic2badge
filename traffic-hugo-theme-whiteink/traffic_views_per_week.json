@@ -1,15 +1,15 @@
 {
-  "count": 17,
+  "count": 3,
   "uniques": 2,
   "views": [
     {
-      "timestamp": "2022-09-03T00:00:00Z",
-      "count": 16,
+      "timestamp": "2022-09-09T00:00:00Z",
+      "count": 1,
       "uniques": 1
     },
     {
-      "timestamp": "2022-09-09T00:00:00Z",
-      "count": 1,
+      "timestamp": "2022-09-10T00:00:00Z",
+      "count": 2,
       "uniques": 1
     }
   ]
