@@ -1,14 +1,14 @@
 [
   {
-    "path": "/yi-Xu-0100/scoop-bucket/commit/b53bbffeed15ddf453f3d1cd1758645ede02b9d0",
-    "title": "ClashForWindows: Update to version 0.19.29 · yi-Xu-0100/scoop-bucket@b53bbff ...",
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 1,
-    "uniques": 1
+    "path": "/yi-Xu-0100/scoop-bucket/commit/b53bbffeed15ddf453f3d1cd1758645ede02b9d0",
+    "title": "ClashForWindows: Update to version 0.19.29 · yi-Xu-0100/scoop-bucket@b53bbff ...",
+    "count": 2,
+    "uniques": 2
   }
 ]
