@@ -1,21 +1,21 @@
 [
   {
+    "referrer": "github.com",
+    "count": 11,
+    "uniques": 3
+  },
+  {
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 2
+  },
+  {
     "referrer": "producthunt.com",
     "count": 3,
     "uniques": 1
   },
   {
-    "referrer": "github.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "github.yixuju.cn",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }
