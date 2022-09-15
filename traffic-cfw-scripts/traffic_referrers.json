@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 11,
-    "uniques": 3
+    "count": 12,
+    "uniques": 4
   },
   {
     "referrer": "Google",
-    "count": 10,
-    "uniques": 2
+    "count": 11,
+    "uniques": 3
   },
   {
     "referrer": "producthunt.com",
@@ -16,6 +16,11 @@
   },
   {
     "referrer": "github.yixuju.cn",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "resume.github.io",
     "count": 1,
     "uniques": 1
   }
