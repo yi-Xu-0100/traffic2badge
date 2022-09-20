@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/scoop-assistant",
+    "title": "yi-Xu-0100/scoop-assistant: The GUI for scoop.",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-assistant/actions/runs/2764944655",
+    "title": "build(deps): :arrow_up: bump actions/checkout from 2 to 3 (#3) · yi-Xu-0100/s...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-assistant/actions/runs/2764944655/jobs/4345054208",
+    "title": "build(deps): :arrow_up: bump actions/checkout from 2 to 3 (#3) · yi-Xu-0100/s...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-assistant/actions/workflows/build.yml",
+    "title": "Actions · yi-Xu-0100/scoop-assistant",
+    "count": 1,
+    "uniques": 1
+  }
+]
