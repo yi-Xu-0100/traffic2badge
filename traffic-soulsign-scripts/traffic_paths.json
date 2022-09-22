@@ -8,7 +8,7 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
     "title": "soulsign-scripts/cloud.189.cn.js at 4f1443daf469d06dc831a99350569a1a146399fc ...",
-    "count": 12,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -16,12 +16,6 @@
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 6,
     "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/cloud.189.cn.js",
     "title": "soulsign-scripts/cloud.189.cn.js at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/club.aliyun.com.js",
+    "title": "soulsign-scripts/club.aliyun.com.js at main · yi-Xu-0100/soulsign-scripts · G...",
     "count": 1,
     "uniques": 1
   }
