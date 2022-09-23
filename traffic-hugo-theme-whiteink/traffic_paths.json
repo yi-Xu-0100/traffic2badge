@@ -2,8 +2,50 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: yixuju 的 hugo-theme-whiteink",
-    "count": 6,
+    "count": 9,
     "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
+    "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/_default",
+    "title": "hugo-theme-whiteink/layouts/_default at main · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/14c6e63593ef76b3ab607ac20cf43342917b8a15/config.toml.example",
+    "title": "hugo-theme-whiteink/config.toml.example at 14c6e63593ef76b3ab607ac20cf4334291...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/taxonomy",
+    "title": "hugo-theme-whiteink/layouts/taxonomy at main · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/14c6e63593ef76b3ab607ac20cf43342917b8a15/layouts/partials/archieves.html",
+    "title": "hugo-theme-whiteink/archieves.html at 14c6e63593ef76b3ab607ac20cf43342917b8a1...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/14c6e63593ef76b3ab607ac20cf43342917b8a15/layouts/partials/sidebar.html",
+    "title": "hugo-theme-whiteink/sidebar.html at 14c6e63593ef76b3ab607ac20cf43342917b8a15 ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/layouts/taxonomy/terms.html",
+    "title": "hugo-theme-whiteink/terms.html at main · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/.prettierignore",
@@ -12,20 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
-    "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/_default",
-    "title": "hugo-theme-whiteink/layouts/_default at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/partials",
-    "title": "hugo-theme-whiteink/layouts/partials at main · yi-Xu-0100/hugo-theme-whiteink",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/search",
+    "title": "Search · categories",
     "count": 1,
     "uniques": 1
   }
