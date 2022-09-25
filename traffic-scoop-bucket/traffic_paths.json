@@ -24,8 +24,32 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/fcd48ca1d35c634bebf07c42ef9e856410bd2659/bucket/ClashForWindows.json",
+    "title": "scoop-bucket/ClashForWindows.json at fcd48ca1d35c634bebf07c42ef9e856410bd2659...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/commit/fcd48ca1d35c634bebf07c42ef9e856410bd2659",
+    "title": "ClashForWindows: Update to version 0.20.4 · yi-Xu-0100/scoop-bucket@fcd48ca",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/find/main",
+    "title": "File Finder",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/scoop-bucket/issues",
     "title": "Issues · yi-Xu-0100/scoop-bucket · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/projects",
+    "title": "Projects · scoop-bucket",
     "count": 1,
     "uniques": 1
   },
