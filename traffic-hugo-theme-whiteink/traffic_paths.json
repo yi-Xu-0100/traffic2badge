@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 7,
-    "uniques": 2
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts",
     "title": "hugo-theme-whiteink/layouts at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/_default",
-    "title": "hugo-theme-whiteink/layouts/_default at main · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/14c6e63593ef76b3ab607ac20cf43342917b8a15/config.toml.example",
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/.prettierignore",
-    "title": "hugo-theme-whiteink/.prettierignore at main · yi-Xu-0100/hugo-theme-whiteink",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/search",
+    "title": "Search · categories",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/search",
-    "title": "Search · categories",
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/layouts/_default",
+    "title": "hugo-theme-whiteink/layouts/_default at main · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/tree/main/static",
+    "title": "hugo-theme-whiteink/static at main · yi-Xu-0100/hugo-theme-whiteink",
     "count": 1,
     "uniques": 1
   }

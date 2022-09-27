@@ -1,43 +1,13 @@
 [
   {
     "path": "/yi-Xu-0100/cfw-scripts",
-    "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 8,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/cfw-scripts",
+    "title": "GitHub - yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/issues",
-    "title": "Issues · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
     "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
-    "title": "cfw-scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/141",
-    "title": "🐛 update to fix rule-providers.yml occupied error by Ovler-Young · Pull Requ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/141/files",
-    "title": "🐛 update to fix rule-providers.yml occupied error by Ovler-Young · Pull Requ...",
     "count": 1,
     "uniques": 1
   }
