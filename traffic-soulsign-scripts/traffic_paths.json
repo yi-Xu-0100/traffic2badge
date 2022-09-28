@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 30,
+    "count": 29,
     "uniques": 14
   },
   {
@@ -10,6 +10,12 @@
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 13,
     "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
+    "title": "soulsign-scripts/cloud.189.cn.js at 4f1443daf469d06dc831a99350569a1a146399fc ...",
+    "count": 7,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/search",
@@ -34,12 +40,6 @@
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 5,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
-    "title": "soulsign-scripts/cloud.189.cn.js at 4f1443daf469d06dc831a99350569a1a146399fc ...",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
