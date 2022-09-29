@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 29,
-    "uniques": 14
+    "count": 27,
+    "uniques": 13
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -14,7 +14,7 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
     "title": "soulsign-scripts/cloud.189.cn.js at 4f1443daf469d06dc831a99350569a1a146399fc ...",
-    "count": 7,
+    "count": 9,
     "uniques": 1
   },
   {
@@ -42,12 +42,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
-    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/www.abooky.com.js",
     "title": "soulsign-scripts/www.abooky.com.js at 4f1443daf469d06dc831a99350569a1a146399f...",
     "count": 3,
@@ -57,6 +51,12 @@
     "path": "/yi-Xu-0100/soulsign-scripts/tree/4f1443daf469d06dc831a99350569a1a146399fc/scripts",
     "title": "soulsign-scripts/scripts at 4f1443daf469d06dc831a99350569a1a146399fc · yi-Xu-...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/muchong.com.js",
+    "title": "soulsign-scripts/muchong.com.js at 4f1443daf469d06dc831a99350569a1a146399fc ·...",
+    "count": 1,
     "uniques": 1
   }
 ]

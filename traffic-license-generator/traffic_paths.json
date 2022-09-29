@@ -1,8 +1,14 @@
 [
   {
     "path": "/yi-Xu-0100/license-generator",
-    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
-    "count": 1,
+    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
+    "title": "license-generator/LICENSE at main · yi-Xu-0100/license-generator",
+    "count": 2,
     "uniques": 1
   },
   {
