@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/scoop-bucket/commit/cbef4c6a3274b41e5b57cd7f2684d8ed67850336",
-    "title": "ClashForWindows: Update to version 0.20.3 · yi-Xu-0100/scoop-bucket@cbef4c6 ·...",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/scoop-bucket/issues/1",
     "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket · Gi...",
     "count": 2,
@@ -20,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/blob/fcd48ca1d35c634bebf07c42ef9e856410bd2659/bucket/ClashForWindows.json",
     "title": "scoop-bucket/ClashForWindows.json at fcd48ca1d35c634bebf07c42ef9e856410bd2659...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/commit/cbef4c6a3274b41e5b57cd7f2684d8ed67850336",
+    "title": "ClashForWindows: Update to version 0.20.3 · yi-Xu-0100/scoop-bucket@cbef4c6 ·...",
     "count": 1,
     "uniques": 1
   },
