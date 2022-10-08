@@ -3,7 +3,13 @@
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
     "count": 17,
-    "uniques": 11
+    "uniques": 10
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
+    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts",
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
@@ -12,21 +18,9 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
-    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/www.93hsy.com.js",
     "title": "soulsign-scripts/www.93hsy.com.js at 4f1443daf469d06dc831a99350569a1a146399fc...",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/www.abooky.com.js",
-    "title": "soulsign-scripts/www.abooky.com.js at 4f1443daf469d06dc831a99350569a1a146399f...",
-    "count": 3,
     "uniques": 1
   },
   {
@@ -34,6 +28,12 @@
     "title": "议题 · yi-Xu-0100/soulsign-scripts",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/www.abooky.com.js",
+    "title": "soulsign-scripts/www.abooky.com.js at 4f1443daf469d06dc831a99350569a1a146399f...",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/search",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/4f1443daf469d06dc831a99350569a1a146399fc/scripts",
-    "title": "soulsign-scripts/scripts at 4f1443daf469d06dc831a99350569a1a146399fc · yi-Xu-...",
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/64",
+    "title": "请问可以改一个ScriptCat版本的GORPG自动签到吗 · Issue #64 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
