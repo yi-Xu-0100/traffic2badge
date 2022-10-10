@@ -2,61 +2,7 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 15,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
-    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
-    "count": 5,
+    "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/dependabot.yml",
-    "title": "repo-list-generator/dependabot.yml at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v1.1.0",
-    "title": "Release Release v1.1.0 · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
-    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
-    "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.gitignore",
-    "title": "repo-list-generator/.gitignore at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/commit/79dfecef45fb3ea8e65ad96029b790cda3439eab",
-    "title": "docs(README): 🐛 fix wrong default value in readme · yi-Xu-0100/repo-list-gen...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/commit/dbefe0317b61ff8706f909cde7b43c1fd0adad6c",
-    "title": "feat: Allow excluding archived repositories (#225) · yi-Xu-0100/repo-list-gen...",
-    "count": 1,
-    "uniques": 1
   }
 ]
