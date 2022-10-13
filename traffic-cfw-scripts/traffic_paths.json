@@ -1,19 +1,25 @@
 [
   {
+    "path": "/yi-Xu-0100/cfw-scripts",
+    "title": "GitHub - yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
+    "count": 6,
+    "uniques": 6
+  },
+  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
     "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 6,
     "uniques": 5
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts",
-    "title": "GitHub - yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
     "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/commits/main",
+    "title": "Commits · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   },
