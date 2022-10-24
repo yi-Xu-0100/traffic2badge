@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/license-generator",
     "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/license-generator/actions",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/license-generator/actions/runs/3254284859",
     "title": "CC-BY-NC-ND-4.0 · yi-Xu-0100/license-generator@35c8f4e",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/CHANGELOG.md",
+    "title": "license-generator/CHANGELOG.md at main · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   },
