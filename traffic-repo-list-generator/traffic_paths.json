@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 6,
-    "uniques": 4
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/pulls",
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
-    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/projects",
     "title": "Projects · repo-list-generator",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/security",
     "title": "Security Overview · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
+    "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generato...",
     "count": 1,
     "uniques": 1
   }
