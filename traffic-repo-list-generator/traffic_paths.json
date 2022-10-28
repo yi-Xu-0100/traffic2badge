@@ -2,13 +2,7 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {
@@ -20,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
     "title": "Issues · yi-Xu-0100/repo-list-generator",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   },
@@ -36,26 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/projects",
-    "title": "Projects · repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/233",
-    "title": "chore(deps): ⬆️ bump @actions/github from 5.1.0 to 5.1.1 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/security",
-    "title": "Security Overview · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
     "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generato...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.husky",
+    "title": "repo-list-generator/.husky at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }
