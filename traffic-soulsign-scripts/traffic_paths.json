@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 27,
-    "uniques": 17
+    "count": 24,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
@@ -14,32 +14,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 8,
-    "uniques": 6
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/discussions",
-    "title": "Discussions · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/actions",
-    "title": "Actions · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/121676ef049d7e83e206a4c412beac0f350471f3/scripts/account.lingfengyun.com.js",
@@ -56,6 +38,24 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/8170e28d660bb5afaabeee8f5f5ca294c5af5181",
     "title": "feat: ✨ 增加科研通签到脚本到 v1.0.0 · yi-Xu-0100/soulsign-scripts@8170e28 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
+    "title": "File Finder · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/121676ef049d7e83e206a4c412beac0f350471f3/scripts",
+    "title": "soulsign-scripts/scripts at 121676ef049d7e83e206a4c412beac0f350471f3 · yi-Xu-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
+    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
