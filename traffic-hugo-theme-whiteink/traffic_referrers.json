@@ -1,7 +1,12 @@
 [
   {
     "referrer": "hugothemesfree.com",
-    "count": 1,
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "github.com",
+    "count": 2,
     "uniques": 1
   }
 ]
