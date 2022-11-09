@@ -2,25 +2,13 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 12,
-    "uniques": 6
+    "count": 7,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.org.yml",
     "title": "hub-mirror/sync2gitee.list.org.yml at main · yi-Xu-0100/hub-mirror",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/delete/main/static/add_secret_key.png",
-    "title": "Deleting hub-mirror/add_secret_key.png at main · yi-Xu-0100/hub-mirror",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
-    "title": "hub-mirror/add_secret_key.png at main · yi-Xu-0100/hub-mirror",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -32,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/actions/runs/3347393585/jobs/5545326218",
     "title": "sync2gitee(list) · yi-Xu-0100/hub-mirror@897b131",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/897b131f02541466643d459f05547adafe5716d2/static/add_secret_key.png",
-    "title": "hub-mirror/add_secret_key.png at 897b131f02541466643d459f05547adafe5716d2 · y...",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +38,24 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.yml",
     "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
+    "title": "hub-mirror/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
+    "title": "hub-mirror/patch.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
+    "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }
