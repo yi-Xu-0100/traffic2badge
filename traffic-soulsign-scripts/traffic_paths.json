@@ -2,32 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 17,
-    "uniques": 9
+    "count": 16,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 8,
-    "uniques": 4
+    "count": 10,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 7,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/67",
-    "title": "天翼云盘签到脚本返回 400 错误 · Issue #67 · yi-Xu-0100/soulsign-scripts",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
-    "title": "soulsign-scripts/cloud.189.cn.js at 4f1443daf469d06dc831a99350569a1a146399fc ...",
-    "count": 2,
-    "uniques": 2
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
@@ -42,8 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/003cd6488e37dda86dbbd9c77bf5142ba02fb034",
-    "title": "📝 更新忍者云签到脚本到 V1.0.10 · yi-Xu-0100/soulsign-scripts@003cd64",
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/67",
+    "title": "天翼云盘签到脚本返回 400 错误 · Issue #67 · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
+    "title": "soulsign-scripts/cloud.189.cn.js at 4f1443daf469d06dc831a99350569a1a146399fc ...",
     "count": 1,
     "uniques": 1
   },
