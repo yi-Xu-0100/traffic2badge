@@ -4,5 +4,23 @@
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/62/files/03f972bd5ef097033fd4a660f397dd6fb3cd41d6..e572cc71999b5013a1b43aae9f80b9cb3f30c03a",
+    "title": "Commit range not found · Pull Request #62 · yi-Xu-0100/conventional-commit-ty...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/377",
+    "title": "chore(deps): ⬆️ bump lint-staged from 13.0.4 to 13.1.0 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/378",
+    "title": "chore(deps): ⬆️ bump decode-uri-component from 0.2.0 to 0.2.2 by dependabot[b...",
+    "count": 1,
+    "uniques": 1
   }
 ]

@@ -2,12 +2,24 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues/174",
     "title": "Error: Repository access blocked · Issue #174 · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/243",
+    "title": "chore(deps): ⬆️ bump eslint from 8.28.0 to 8.29.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/244",
+    "title": "chore(deps): ⬆️ bump lint-staged from 13.0.4 to 13.1.0 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   },
