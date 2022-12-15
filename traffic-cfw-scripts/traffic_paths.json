@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
-    "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/pull/177",
     "title": "chore(deps): ⬆️ bump eslint from 8.28.0 to 8.29.0 by dependabot[bot] · Pull R...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/releases/tag/v0.0.1",
     "title": "Release Release v0.0.1 · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/search",
+    "title": "Search · cfw",
     "count": 1,
     "uniques": 1
   }
