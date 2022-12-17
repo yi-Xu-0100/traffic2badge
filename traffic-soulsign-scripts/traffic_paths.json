@@ -8,20 +8,32 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 19,
-    "uniques": 11
+    "count": 20,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 10,
-    "uniques": 7
+    "count": 12,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/search",
     "title": "Search · 京东签到",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/zhiyou.smzdm.com.js",
+    "title": "soulsign-scripts/zhiyou.smzdm.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/d82564b5265859f8b8ed84bf45a5f950c71816b1",
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/discussions",
     "title": "Discussions · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/64",
-    "title": "请问可以改一个ScriptCat版本的GORPG自动签到吗 · Issue #64 · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
