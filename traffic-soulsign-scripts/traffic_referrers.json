@@ -1,12 +1,17 @@
 [
   {
     "referrer": "github.com",
-    "count": 17,
-    "uniques": 10
+    "count": 18,
+    "uniques": 11
+  },
+  {
+    "referrer": "ijkxs.com",
+    "count": 9,
+    "uniques": 2
   },
   {
     "referrer": "github.yixuju.cn",
-    "count": 6,
+    "count": 5,
     "uniques": 3
   },
   {
@@ -23,10 +28,5 @@
     "referrer": "Google",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "referrer": "ijkxs.com",
-    "count": 1,
-    "uniques": 1
   }
 ]
