@@ -2,30 +2,18 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 15,
-    "uniques": 12
+    "count": 14,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
     "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 3,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
     "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/177",
-    "title": "chore(deps): ⬆️ bump eslint from 8.28.0 to 8.29.0 by dependabot[bot] · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/178",
-    "title": "chore(deps): ⬆️ bump lint-staged from 13.0.4 to 13.1.0 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   },
