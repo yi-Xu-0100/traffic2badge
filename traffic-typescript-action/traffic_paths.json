@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/typescript-action",
+    "title": "GitHub - yi-Xu-0100/typescript-action: 📝 Example GitHub action build in type...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/action.yml",
+    "title": "typescript-action/action.yml at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/dist/index.js",
+    "title": "typescript-action/index.js at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/package.json",
+    "title": "typescript-action/package.json at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/src/main.ts",
+    "title": "typescript-action/main.ts at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/src/utils.ts",
+    "title": "typescript-action/utils.ts at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/tsconfig.json",
+    "title": "typescript-action/tsconfig.json at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/blob/main/tslint.json",
+    "title": "typescript-action/tslint.json at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/tree/main/dist",
+    "title": "typescript-action/dist at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/typescript-action/tree/main/src",
+    "title": "typescript-action/src at main · yi-Xu-0100/typescript-action · GitHub",
+    "count": 1,
+    "uniques": 1
+  }
+]
