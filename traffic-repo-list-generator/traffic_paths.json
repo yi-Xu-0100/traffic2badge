@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 3,
+    "count": 4,
     "uniques": 2
   },
   {
@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
+    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/compare/v1.0.1...HEAD",
     "title": "Comparing v1.0.1...HEAD · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
@@ -48,14 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/248",
-    "title": "chore(deps): ⬆️ bump eslint from 8.30.0 to 8.31.0 by dependabot[bot] · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/249",
-    "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.5.0 to 8.6.0 by dependabot...",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/233",
+    "title": "Commit range not found · Pull Request #233 · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
