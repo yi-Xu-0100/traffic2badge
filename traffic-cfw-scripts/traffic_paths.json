@@ -2,12 +2,42 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 5,
-    "uniques": 5
+    "count": 7,
+    "uniques": 7
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
+    "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blame/main/README.md",
     "title": "cfw-scripts/README.md at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at e5c872af1f5587788a97c14cdebaed1a8b6980b3 · yi-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/change-rules.yml",
+    "title": "cfw-scripts/change-rules.yml at e5c872af1f5587788a97c14cdebaed1a8b6980b3 · yi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/info.js",
+    "title": "cfw-scripts/info.js at e5c872af1f5587788a97c14cdebaed1a8b6980b3 · yi-Xu-0100/...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/subscription-userinfo.js",
+    "title": "cfw-scripts/subscription-userinfo.js at e5c872af1f5587788a97c14cdebaed1a8b698...",
     "count": 1,
     "uniques": 1
   },
@@ -26,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/pull/182",
     "title": "chore(deps): ⬆️ bump eslint from 8.30.0 to 8.31.0 by dependabot[bot] · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/183",
-    "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.5.0 to 8.6.0 by dependabot...",
     "count": 1,
     "uniques": 1
   }
