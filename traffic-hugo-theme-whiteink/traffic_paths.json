@@ -8,7 +8,7 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink",
     "title": "yi-Xu-0100/hugo-theme-whiteink: hugo-theme-whiteink for yixuju",
-    "count": 4,
+    "count": 5,
     "uniques": 4
   },
   {
@@ -38,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/204",
     "title": "chore(deps): ⬆️ bump husky from 8.0.2 to 8.0.3 by dependabot[bot] · Pull Requ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/205",
+    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
     "count": 1,
     "uniques": 1
   }
