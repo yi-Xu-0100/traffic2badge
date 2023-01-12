@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 7,
+    "count": 10,
     "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "count": 7,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
@@ -15,25 +21,19 @@
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 6,
-    "uniques": 5
+    "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.ablesci.com.js",
+    "title": "soulsign-scripts/www.ablesci.com.js at main · yi-Xu-0100/soulsign-scripts",
     "count": 4,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
     "title": "soulsign-scripts/conf.json at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
+    "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.ablesci.com.js",
-    "title": "soulsign-scripts/www.ablesci.com.js at main · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/pull/71",
-    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/30",
+    "title": "脚本怎么弄进服务器全自动签到 · Issue #30 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
