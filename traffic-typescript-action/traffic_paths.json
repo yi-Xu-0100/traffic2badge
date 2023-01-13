@@ -1,53 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/typescript-action",
-    "title": "GitHub - yi-Xu-0100/typescript-action: 📝 Example GitHub action build in type...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/action.yml",
-    "title": "typescript-action/action.yml at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/dist/index.js",
-    "title": "typescript-action/index.js at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/package.json",
-    "title": "typescript-action/package.json at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/src/main.ts",
-    "title": "typescript-action/main.ts at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/src/utils.ts",
-    "title": "typescript-action/utils.ts at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/tsconfig.json",
-    "title": "typescript-action/tsconfig.json at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/tslint.json",
-    "title": "typescript-action/tslint.json at main · yi-Xu-0100/typescript-action · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/pull/298",
     "title": "chore(deps): ⬆️ bump husky from 8.0.2 to 8.0.3 by dependabot[bot] · Pull Requ...",
     "count": 1,
