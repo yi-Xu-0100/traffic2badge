@@ -2,8 +2,20 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
+    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists",
     "count": 3,
-    "uniques": 3
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
+    "title": "Application-Lists/parser.yaml at main · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/find/main",
@@ -14,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/pull/157",
     "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
+    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   }
