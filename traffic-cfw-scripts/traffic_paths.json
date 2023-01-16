@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 10,
-    "uniques": 10
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/182",
-    "title": "chore(deps): ⬆️ bump eslint from 8.30.0 to 8.31.0 by dependabot[bot] · Pull R...",
+    "path": "/yi-Xu-0100/cfw-scripts/pull/183",
+    "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.5.0 to 8.6.0 by dependabot...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/183",
-    "title": "chore(deps): ⬆️ bump eslint-config-prettier from 8.5.0 to 8.6.0 by dependabot...",
+    "path": "/yi-Xu-0100/cfw-scripts/pull/185",
+    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
     "count": 1,
     "uniques": 1
   }
