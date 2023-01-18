@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 10,
-    "uniques": 9
+    "count": 12,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/resources",
@@ -12,38 +12,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
-    "title": "cfw-scripts/package.json at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
     "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/change-rules.js",
-    "title": "cfw-scripts/change-rules.js at e5c872af1f5587788a97c14cdebaed1a8b6980b3 · yi-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/change-rules.yml",
-    "title": "cfw-scripts/change-rules.yml at e5c872af1f5587788a97c14cdebaed1a8b6980b3 · yi...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/info.js",
-    "title": "cfw-scripts/info.js at e5c872af1f5587788a97c14cdebaed1a8b6980b3 · yi-Xu-0100/...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/e5c872af1f5587788a97c14cdebaed1a8b6980b3/scripts/subscription-userinfo.js",
-    "title": "cfw-scripts/subscription-userinfo.js at e5c872af1f5587788a97c14cdebaed1a8b698...",
+    "path": "/yi-Xu-0100/cfw-scripts/actions/runs/3930836274",
+    "title": "pages build and deployment · yi-Xu-0100/cfw-scripts@0be7e89",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +32,30 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
     "title": "cfw-scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/.vscode/settings.json",
+    "title": "cfw-scripts/settings.json at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/185",
+    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/188",
+    "title": "chore(deps): ⬆️ bump prettier from 2.8.2 to 2.8.3 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/189",
+    "title": "chore(deps): ⬆️ bump eslint from 8.31.0 to 8.32.0 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }
