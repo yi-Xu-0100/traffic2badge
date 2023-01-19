@@ -2,8 +2,20 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 4,
-    "uniques": 4
+    "count": 9,
+    "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
+    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
+    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
@@ -24,26 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/dist/index.js",
     "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/233",
-    "title": "Commit range not found · Pull Request #233 · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/autoRelease.yml",
+    "title": "repo-list-generator/autoRelease.yml at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/233/files/bfa9b6ab7554b56108307c17663bf1c9822bb846..bcb84cfe0bebe2d77adbfd9d671730d87587a366",
-    "title": "Commit range not found · Pull Request #233 · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/253",
+    "title": "chore(deps): ⬆️ bump rimraf from 3.0.2 to 4.0.4 by dependabot[bot] · Pull Req...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/251",
-    "title": "chore(deps): ⬆️ bump @actions/artifact from 1.1.0 to 1.1.1 by dependabot[bot]...",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/254",
+    "title": "chore(deps): ⬆️ bump prettier from 2.8.2 to 2.8.3 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }

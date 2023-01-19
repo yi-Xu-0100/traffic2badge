@@ -6,26 +6,26 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG.md",
-    "title": "traffic-to-badge/CHANGELOG.md at main · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
     "title": "Add note for traffic data · Issue #31 · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/278",
+    "title": "chore(deps): ⬆️ bump rimraf from 3.0.2 to 4.0.4 by dependabot[bot] · Pull Req...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/276",
-    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/279",
+    "title": "chore(deps): ⬆️ bump prettier from 2.8.2 to 2.8.3 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/280",
+    "title": "chore(deps): ⬆️ bump eslint from 8.31.0 to 8.32.0 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }
