@@ -1,20 +1,14 @@
 [
   {
     "path": "/yi-Xu-0100/traffic2badge",
-    "title": "GitHub - yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Us...",
-    "count": 2,
-    "uniques": 2
+    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
     "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/pull/20",
-    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
-    "count": 1,
     "uniques": 1
   }
 ]

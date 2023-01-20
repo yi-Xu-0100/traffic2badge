@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/185",
-    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 by depend...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/pull/188",
     "title": "chore(deps): ⬆️ bump prettier from 2.8.2 to 2.8.3 by dependabot[bot] · Pull R...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/pull/189",
     "title": "chore(deps): ⬆️ bump eslint from 8.31.0 to 8.32.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
