@@ -12,12 +12,6 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
-    "title": "Add note for traffic data · Issue #31 · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/280",
     "title": "chore(deps): ⬆️ bump eslint from 8.31.0 to 8.32.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/v1.3.0",
+    "title": "yi-Xu-0100/traffic-to-badge at v1.3.0",
     "count": 1,
     "uniques": 1
   }
