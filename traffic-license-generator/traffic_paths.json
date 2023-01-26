@@ -1,7 +1,19 @@
 [
   {
     "path": "/yi-Xu-0100/license-generator",
-    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
+    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/src/index.js",
+    "title": "license-generator/index.js at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/src/util.js",
+    "title": "license-generator/util.js at main · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   },
@@ -14,6 +26,18 @@
   {
     "path": "/yi-Xu-0100/license-generator/pull/221",
     "title": "chore(deps): ⬆️ bump eslint from 8.31.0 to 8.32.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/src",
+    "title": "license-generator/src at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/template",
+    "title": "license-generator/template at main · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   }
