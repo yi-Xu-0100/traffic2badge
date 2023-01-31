@@ -2,26 +2,20 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 15,
-    "uniques": 8
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
     "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator · Git...",
-    "count": 11,
+    "count": 6,
     "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
     "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generator",
-    "count": 7,
+    "count": 6,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
-    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
-    "count": 5,
-    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
@@ -30,22 +24,16 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
+    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
     "count": 4,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/autoRelease.yml",
     "title": "repo-list-generator/autoRelease.yml at main · yi-Xu-0100/repo-list-generator ...",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 3,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/test.yml",
@@ -54,9 +42,21 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
-    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
+    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
+    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "repo-list-generator/enhance-deps-pr.yml at main · yi-Xu-0100/repo-list-genera...",
+    "count": 2,
+    "uniques": 1
   }
 ]

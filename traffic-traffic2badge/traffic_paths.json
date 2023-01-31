@@ -6,6 +6,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/actions/workflows/pages/pages-build-deployment",
     "title": "Actions · yi-Xu-0100/traffic2badge",
     "count": 2,
@@ -15,12 +21,6 @@
     "path": "/yi-Xu-0100/traffic2badge/actions/workflows/test.yml",
     "title": "Actions · yi-Xu-0100/traffic2badge",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge",
-    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 1,
     "uniques": 1
   },
   {
