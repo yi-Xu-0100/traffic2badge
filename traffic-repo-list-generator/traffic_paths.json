@@ -6,46 +6,28 @@
     "uniques": 6
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
-    "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
-    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator · Git...",
+    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
     "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
-    "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generato...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
-    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 2
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
     "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
     "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
+    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/4044629396/jobs/6955024038",
@@ -54,9 +36,27 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/autoRelease.yml",
-    "title": "repo-list-generator/autoRelease.yml at main · yi-Xu-0100/repo-list-generator ...",
+    "path": "/yi-Xu-0100/repo-list-generator/search",
+    "title": "Search · repo",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/4044629396",
+    "title": "autoRelease · yi-Xu-0100/repo-list-generator@0847147",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/14155181539a7ef400b18c6caddaef13ae650d00/src/repo.js",
+    "title": "repo-list-generator/repo.js at 14155181539a7ef400b18c6caddaef13ae650d00 · yi-...",
+    "count": 1,
     "uniques": 1
   }
 ]
