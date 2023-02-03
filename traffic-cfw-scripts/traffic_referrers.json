@@ -3,5 +3,10 @@
     "referrer": "github.com",
     "count": 6,
     "uniques": 2
+  },
+  {
+    "referrer": "Google",
+    "count": 2,
+    "uniques": 2
   }
 ]
