@@ -1,37 +1,7 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/blob/main/src/index.js",
-    "title": "license-generator/index.js at main · yi-Xu-0100/license-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/blob/main/src/util.js",
-    "title": "license-generator/util.js at main · yi-Xu-0100/license-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/pull/222",
     "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.36.0 to 0.36.1 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/tree/main/src",
-    "title": "license-generator/src at main · yi-Xu-0100/license-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/tree/main/template",
-    "title": "license-generator/template at main · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   }

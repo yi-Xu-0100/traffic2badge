@@ -8,20 +8,32 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 6,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 5,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.ablesci.com.js",
+    "title": "soulsign-scripts/www.ablesci.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "count": 4,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
     "title": "chore(package): 📦 update package to v2.3.0 · yi-Xu-0100/soulsign-scripts@d9d...",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/actions",
@@ -36,20 +48,14 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/conf.json",
+    "title": "soulsign-scripts/conf.json at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/discussions",
     "title": "Discussions · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
-    "title": "File Finder · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts",
-    "title": "soulsign-scripts/scripts at 206545c7e7c36942c3b0c305c9d4aa8673e4919d · yi-Xu-...",
     "count": 1,
     "uniques": 1
   }
