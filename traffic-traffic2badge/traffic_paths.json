@@ -1,15 +1,15 @@
 [
   {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
     "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge",
-    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/workflows/pages/pages-build-deployment",
@@ -38,6 +38,18 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/workflows/traffic2badge.yml",
     "title": "Actions · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/.github/dependabot.yml",
+    "title": "traffic2badge/dependabot.yml at main · yi-Xu-0100/traffic2badge · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",
+    "title": "traffic2badge/.github at main · yi-Xu-0100/traffic2badge · GitHub",
     "count": 1,
     "uniques": 1
   }
