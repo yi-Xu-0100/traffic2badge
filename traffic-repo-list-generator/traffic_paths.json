@@ -30,6 +30,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
     "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/4164839131/jobs/7207020183",
     "title": "chore(deps): ⬆️ bump eslint from 8.33.0 to 8.34.0 · yi-Xu-0100/repo-list-gene...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/workflows/test.yml",
-    "title": "Actions · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }

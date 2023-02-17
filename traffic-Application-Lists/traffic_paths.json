@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 13,
-    "uniques": 10
+    "count": 8,
+    "uniques": 8
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/translucenttb.cfg",
+    "title": "Application-Lists/translucenttb.cfg at main · yi-Xu-0100/Application-Lists · ...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/issues",
@@ -18,26 +24,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/server",
-    "title": "Application-Lists/server at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
-    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/snipaste.ini",
     "title": "Application-Lists/snipaste.ini at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/translucenttb.cfg",
-    "title": "Application-Lists/translucenttb.cfg at main · yi-Xu-0100/Application-Lists · ...",
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
+    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/network/members",
     "title": "Forks · yi-Xu-0100/Application-Lists",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/pull/166",
+    "title": "chore(deps): ⬆️ bump ws from 8.12.0 to 8.12.1 by dependabot[bot] · Pull Reque...",
     "count": 1,
     "uniques": 1
   }
