@@ -6,6 +6,24 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/license-generator",
+    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/action.yml",
+    "title": "license-generator/action.yml at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/.github/dependabot.yml",
+    "title": "license-generator/dependabot.yml at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
     "title": "license-generator/LICENSE at main · yi-Xu-0100/license-generator",
     "count": 1,
@@ -14,6 +32,18 @@
   {
     "path": "/yi-Xu-0100/license-generator/pull/227",
     "title": "chore(deps): ⬆️ bump lint-staged from 13.1.1 to 13.1.2 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/.github",
+    "title": "license-generator/.github at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/.github/workflows",
+    "title": "license-generator/.github/workflows at main · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   }
