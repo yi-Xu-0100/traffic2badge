@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 7,
-    "uniques": 4
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/releases",
@@ -20,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/workflows/autoRelease.yml",
     "title": "traffic-to-badge/autoRelease.yml at main · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/285",
-    "title": "chore(deps): ⬆️ bump prettier from 2.8.3 to 2.8.4 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   },

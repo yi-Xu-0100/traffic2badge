@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/license-generator/blob/main/.github/workflows/CC-BY-NC-ND-4.0.yml",
-    "title": "license-generator/CC-BY-NC-ND-4.0.yml at main · yi-Xu-0100/license-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/blob/main/action.yml",
     "title": "license-generator/action.yml at main · yi-Xu-0100/license-generator",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/license-generator/tree/main/.github",
     "title": "license-generator/.github at main · yi-Xu-0100/license-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/.github/workflows",
+    "title": "license-generator/.github/workflows at main · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   }
