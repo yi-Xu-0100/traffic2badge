@@ -1,23 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/typescript-action",
-    "title": "yi-Xu-0100/typescript-action: 📝 Example GitHub action build in typescript.",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/.github/workflows/enhance-deps-pr.yml",
-    "title": "typescript-action/enhance-deps-pr.yml at main · yi-Xu-0100/typescript-action",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/typescript-action/blob/main/.github/workflows/test.yml",
-    "title": "typescript-action/test.yml at main · yi-Xu-0100/typescript-action",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/typescript-action/pull/307",
     "title": "chore(deps): ⬆️ bump lint-staged from 13.1.1 to 13.1.2 by dependabot[bot] · P...",
     "count": 1,
