@@ -2,12 +2,18 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "想-yi-徐-0100/然脚本：一些脚本，供分析器在冲突。为。窗户。",
-    "count": 17,
-    "uniques": 13
+    "count": 19,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/notify.js",
     "title": "cfw-scripts/notify.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
+    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   },
@@ -32,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/pulls",
     "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/search",
+    "title": "Search · clash rules",
     "count": 1,
     "uniques": 1
   }

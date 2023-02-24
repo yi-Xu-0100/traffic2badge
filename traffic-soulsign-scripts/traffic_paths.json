@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 20,
+    "count": 22,
     "uniques": 16
   },
   {
@@ -14,8 +14,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 10,
-    "uniques": 8
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/121676ef049d7e83e206a4c412beac0f350471f3/scripts/account.lingfengyun.com.js",
@@ -30,8 +30,20 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/commits/main",
+    "title": "Commits · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/96ccd1d07e69dda4b9c4ddcbb28bb47ea57c4187/scripts/www.ablesci.com.js",
     "title": "soulsign-scripts/www.ablesci.com.js at 96ccd1d07e69dda4b9c4ddcbb28bb47ea57c41...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/84ca560b04de50bb71805063768de098103f9ab4",
+    "title": "feat: ✨ add www.aliyundrive.com.js to v1.0.1 · yi-Xu-0100/soulsign-scripts@84...",
     "count": 1,
     "uniques": 1
   },
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/121676ef049d7e83e206a4c412beac0f350471f3",
     "title": "yi-Xu-0100/soulsign-scripts at 121676ef049d7e83e206a4c412beac0f350471f3",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/121676ef049d7e83e206a4c412beac0f350471f3/scripts",
-    "title": "soulsign-scripts/scripts at 121676ef049d7e83e206a4c412beac0f350471f3 · yi-Xu-...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
