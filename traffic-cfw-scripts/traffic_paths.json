@@ -2,12 +2,48 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "想-yi-徐-0100/然脚本：一些脚本，供分析器在冲突。为。窗户。",
-    "count": 18,
-    "uniques": 14
+    "count": 24,
+    "uniques": 15
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib",
+    "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/notify.js",
     "title": "cfw-scripts/notify.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
+    "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
+    "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/conf.json",
+    "title": "cfw-scripts/conf.json at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/rule-providers.yml",
+    "title": "cfw-scripts/rule-providers.yml at main · yi-Xu-0100/cfw-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
+    "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   },
@@ -18,32 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
-    "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/issues/69",
     "title": "更新某profile时候脚本报错 · Issue #69 · yi-Xu-0100/cfw-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/195",
-    "title": "chore(deps): ⬆️ bump lint-staged from 13.1.1 to 13.1.2 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/search",
-    "title": "Search · clash rules",
     "count": 1,
     "uniques": 1
   }
