@@ -2,13 +2,31 @@
   {
     "path": "/yi-Xu-0100/license-generator",
     "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 6,
+    "count": 9,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/license-generator/commits/main",
     "title": "Commits · yi-Xu-0100/license-generator",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/issues/200",
+    "title": "[Qustion]: How do I generate a URL license ? · Issue #200 · yi-Xu-0100/licens...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/CHANGELOG.md",
+    "title": "license-generator/CHANGELOG.md at main · yi-Xu-0100/license-generator",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/actions",
+    "title": "Actions · yi-Xu-0100/license-generator",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -30,26 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/license-generator/issues/200",
-    "title": "[Qustion]: How do I generate a URL license ? · Issue #200 · yi-Xu-0100/licens...",
+    "path": "/yi-Xu-0100/license-generator/commit/db257e387a0eded3bee5da4eaabeab4b10b34076",
+    "title": "chore(deps): ⬆️ bump lint-staged from 13.1.1 to 13.1.2 · yi-Xu-0100/license-g...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/license-generator/pull/227",
-    "title": "chore(deps): ⬆️ bump lint-staged from 13.1.1 to 13.1.2 by dependabot[bot] · P...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/tree/main/.github",
-    "title": "license-generator/.github at main · yi-Xu-0100/license-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/tree/main/.github/workflows",
-    "title": "license-generator/.github/workflows at main · yi-Xu-0100/license-generator",
+    "path": "/yi-Xu-0100/license-generator/commits",
+    "title": "Commits · yi-Xu-0100/license-generator",
     "count": 1,
     "uniques": 1
   }
