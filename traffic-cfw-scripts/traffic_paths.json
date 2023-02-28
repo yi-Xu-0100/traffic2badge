@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/.gitignore",
+    "title": "cfw-scripts/.gitignore at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/rule-providers.yml",
     "title": "cfw-scripts/rule-providers.yml at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
     "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
-    "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   }
