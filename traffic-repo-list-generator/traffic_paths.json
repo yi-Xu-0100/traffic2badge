@@ -6,16 +6,16 @@
     "uniques": 12
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/issues",
-    "title": "Issues · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 14,
-    "uniques": 5
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/issues/262",
     "title": "Warning: Unexpected input(s) 'allow_archived' · Issue #262 · yi-Xu-0100/repo-...",
     "count": 14,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/issues",
+    "title": "Issues · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 13,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
@@ -24,16 +24,16 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 6,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/commits/main",
     "title": "Commits · yi-Xu-0100/repo-list-generator",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
+    "count": 5,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",

@@ -6,12 +6,6 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
-    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
     "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
     "count": 2,
@@ -20,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/patch.yml",
     "title": "hub-mirror/patch.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
+    "title": "hub-mirror/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   },
