@@ -6,16 +6,16 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test",
-    "title": "yi-Xu-0100/test: test",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/test/actions/runs/670620926",
     "title": "ci(actions): 🐛 fix yaml syntax · yi-Xu-0100/test@d6f4382",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test",
+    "title": "yi-Xu-0100/test: test",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/test/actions/runs/670620926/jobs/534997714",
