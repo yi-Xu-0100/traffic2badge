@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 32,
-    "uniques": 10
+    "count": 33,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues/262",
@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
+    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
+    "count": 4,
+    "uniques": 4
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/4274809119",
     "title": "chore: update license year · yi-Xu-0100/repo-list-generator@da4e358",
     "count": 4,
@@ -48,15 +54,9 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
-    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
+    "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/actions/runs/4274867720",
-    "title": "build(node): ⬆️ use node16 in action · yi-Xu-0100/repo-list-generator@b2482bd",
-    "count": 3,
-    "uniques": 1
   }
 ]

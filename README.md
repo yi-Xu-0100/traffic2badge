@@ -454,6 +454,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-license-generator/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-license-generator)
 ```
 
+## 📚 [matlab-toolbox](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-matlab-toolbox)
+
+### 📷 Badges without link of [matlab-toolbox](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-matlab-toolbox)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [matlab-toolbox](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-matlab-toolbox)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
+```
+
 ## 📚 [my-bash-config](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-my-bash-config)
 
 ### 📷 Badges without link of [my-bash-config](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-my-bash-config)
