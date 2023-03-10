@@ -8,38 +8,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 10,
-    "uniques": 10
+    "count": 9,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 7,
-    "uniques": 3
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
     "title": "chore(package): 📦 update package to v2.3.0 · yi-Xu-0100/soulsign-scripts@d9d...",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
-    "title": "GitHub - yi-Xu-0100/soulsign-scripts at d9dbe42bc553ebdf0f3d23f478596bb466ebb...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/inu1255/soulsign-chrome/issues/222",
-    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2/build2.4.3.zip",
-    "title": "soulsign-scripts/build2.4.3.zip at d9dbe42bc553ebdf0f3d23f478596bb466ebbce2 ·...",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.aliyundrive.com.js",
@@ -54,8 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/find/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
-    "title": "File Finder · GitHub",
+    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
+    "title": "File Finder",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/64",
+    "title": "请问可以改一个ScriptCat版本的GORPG自动签到吗 · Issue #64 · yi-Xu-0100/soulsign-scripts · Git...",
     "count": 1,
     "uniques": 1
   }

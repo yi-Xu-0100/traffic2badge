@@ -1,7 +1,25 @@
 [
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github",
+    "title": "traffic-to-badge/.github at main · yi-Xu-0100/traffic-to-badge",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "GitHub - yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using reposit...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/dependabot.yml",
+    "title": "traffic-to-badge/dependabot.yml at main · yi-Xu-0100/traffic-to-badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "traffic-to-badge/enhance-deps-pr.yml at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   },
@@ -12,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/pull/6",
-    "title": "更新到稳定版本 by yi-Xu-0100 · Pull Request #6 · yi-Xu-0100/traffic-to-badge · GitHub",
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/.github/workflows",
+    "title": "traffic-to-badge/.github/workflows at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   }

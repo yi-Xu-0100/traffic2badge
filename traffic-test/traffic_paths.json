@@ -14,8 +14,8 @@
   {
     "path": "/yi-Xu-0100/test",
     "title": "yi-Xu-0100/test: test",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/test/actions/runs/670620926/jobs/534997714",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test/blob/main/.gitignore",
-    "title": "test/.gitignore at main · yi-Xu-0100/test · GitHub",
+    "path": "/yi-Xu-0100/test/pulls",
+    "title": "Pull requests · yi-Xu-0100/test",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/test/pulls",
-    "title": "Pull requests · yi-Xu-0100/test",
+    "path": "/yi-Xu-0100/test/tree/main/.github",
+    "title": "test/.github at main · yi-Xu-0100/test",
     "count": 1,
     "uniques": 1
   }

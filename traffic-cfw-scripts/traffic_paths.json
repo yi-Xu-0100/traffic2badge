@@ -2,31 +2,19 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 23,
+    "count": 18,
     "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
     "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 13,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib",
-    "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts",
-    "count": 6,
-    "uniques": 2
+    "count": 12,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subs-info-parser.js",
-    "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
-    "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts",
-    "count": 4,
+    "title": "cfw-scripts/subs-info-parser.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 6,
     "uniques": 2
   },
   {
@@ -36,16 +24,16 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
-    "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/lib/variables.yml",
+    "title": "cfw-scripts/variables.yml at main · yi-Xu-0100/cfw-scripts",
     "count": 3,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/resources",
-    "title": "cfw-scripts/resources at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 2
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib",
+    "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy.js",
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
     "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/test.js",
+    "title": "cfw-scripts/test.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/issues",
+    "title": "Issues · yi-Xu-0100/cfw-scripts",
     "count": 2,
     "uniques": 1
   }
