@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/actions",
     "title": "Actions · yi-Xu-0100/license-generator · GitHub",
     "count": 3,
@@ -16,6 +10,12 @@
     "title": "license-generator/LICENSE at main · yi-Xu-0100/license-generator · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator",
+    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/license-generator/actions/runs/4310059327",
@@ -38,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/license-generator/blob/main/CHANGELOG.md",
     "title": "license-generator/CHANGELOG.md at main · yi-Xu-0100/license-generator · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/issues/200",
-    "title": "[Qustion]: How do I generate a URL license ? · Issue #200 · yi-Xu-0100/licens...",
     "count": 1,
     "uniques": 1
   },
