@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n",
     "title": "yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-types inter...",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/es.json",
@@ -15,6 +15,30 @@
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ja.json",
     "title": "conventional-commit-types-i18n/ja.json at main · yi-Xu-0100/conventional-comm...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "conventional-commit-types-i18n/enhance-deps-pr.yml at main · yi-Xu-0100/conve...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/390",
+    "title": "chore(deps): ⬆️ bump lint-staged from 13.1.2 to 13.2.0 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/.github",
+    "title": "conventional-commit-types-i18n/.github at main · yi-Xu-0100/conventional-comm...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/.github/workflows",
+    "title": "conventional-commit-types-i18n/.github/workflows at main · yi-Xu-0100/convent...",
+    "count": 1,
     "uniques": 1
   }
 ]

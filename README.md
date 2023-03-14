@@ -484,36 +484,6 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
 ```
 
-## 📚 [my-bash-config](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-my-bash-config)
-
-### 📷 Badges without link of [my-bash-config](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-my-bash-config)
-
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views.svg)
-![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones.svg)
-![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones_per_week.svg)
-
-```markdown
-![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views.svg)
-![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views_per_week.svg)
-![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones.svg)
-![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones_per_week.svg)
-```
-
-### 🔗 Badges with link of [my-bash-config](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-my-bash-config)
-
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-
-```markdown
-[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-my-bash-config/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-my-bash-config)
-```
-
 ## 📚 [MyWiki](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MyWiki)
 
 ### 📷 Badges without link of [MyWiki](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MyWiki)
