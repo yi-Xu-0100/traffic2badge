@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/commit/32886f5225876ea2793d7d15c3992bea1f31f4b2",
+    "title": "fix: update version in readme · yi-Xu-0100/repo-list-generator@32886f5 · GitHub",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
     "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 4,
@@ -52,11 +58,5 @@
     "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator · Git...",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/commits/main",
-    "title": "Commits · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 1
   }
 ]

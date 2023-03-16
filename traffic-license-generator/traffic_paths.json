@@ -1,43 +1,7 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator/actions",
-    "title": "Actions · yi-Xu-0100/license-generator · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
     "title": "license-generator/LICENSE at main · yi-Xu-0100/license-generator · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/actions/runs/4310059327",
-    "title": "CC0-1.0 · yi-Xu-0100/license-generator@e046745 · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/actions/runs/4288047086",
-    "title": "chore(deps): ⬆️ bump eslint from 8.34.0 to 8.35.0 · yi-Xu-0100/license-genera...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/actions/runs/4310059327/jobs/7518109822",
-    "title": "CC0-1.0 · yi-Xu-0100/license-generator@e046745 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/blob/main/CHANGELOG.md",
-    "title": "license-generator/CHANGELOG.md at main · yi-Xu-0100/license-generator · GitHub",
     "count": 1,
     "uniques": 1
   },
