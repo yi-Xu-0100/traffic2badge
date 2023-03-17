@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 29,
-    "uniques": 10
+    "count": 27,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
@@ -14,24 +14,18 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 12,
-    "uniques": 10
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
-    "title": "chore(package): 📦 update package to v2.3.0 · yi-Xu-0100/soulsign-scripts@d9d...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/find/main",
-    "title": "File Finder · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 13,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
     "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/4f1443daf469d06dc831a99350569a1a146399fc",
+    "title": "yi-Xu-0100/soulsign-scripts at 4f1443daf469d06dc831a99350569a1a146399fc",
     "count": 2,
     "uniques": 1
   },
@@ -42,20 +36,26 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/leetcode-cn.com.js",
+    "title": "soulsign-scripts/leetcode-cn.com.js at 4f1443daf469d06dc831a99350569a1a146399...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/www.abooky.com.js",
+    "title": "soulsign-scripts/www.abooky.com.js at 4f1443daf469d06dc831a99350569a1a146399f...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/d9dbe42bc553ebdf0f3d23f478596bb466ebbce2",
+    "title": "chore(package): 📦 update package to v2.3.0 · yi-Xu-0100/soulsign-scripts@d9d...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/commits/main",
     "title": "Commits · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/53",
-    "title": "大大可以做个百度贴吧签到吗？ · Issue #53 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/59",
-    "title": "不懂就问，这些签到有啥用呢 · Issue #59 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
