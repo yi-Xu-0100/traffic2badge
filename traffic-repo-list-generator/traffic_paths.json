@@ -2,18 +2,18 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 9,
+    "count": 8,
     "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
-    "count": 9,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions/runs/4344769487",
     "title": "chore(deps-dev): bump eslint-config-prettier from 8.6.0 to 8.7.0 · yi-Xu-0100...",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
     "count": 7,
     "uniques": 1
   },
@@ -36,12 +36,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/actions",
-    "title": "Actions · yi-Xu-0100/repo-list-generator",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/commit/32886f5225876ea2793d7d15c3992bea1f31f4b2",
     "title": "fix: update version in readme · yi-Xu-0100/repo-list-generator@32886f5 · GitHub",
     "count": 4,
@@ -54,9 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/commits/main",
-    "title": "Commits · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/actions",
+    "title": "Actions · yi-Xu-0100/repo-list-generator",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/issues/174",
+    "title": "Error: Repository access blocked · Issue #174 · yi-Xu-0100/repo-list-generator",
+    "count": 2,
+    "uniques": 2
   }
 ]

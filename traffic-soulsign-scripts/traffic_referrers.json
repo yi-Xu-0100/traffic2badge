@@ -5,14 +5,14 @@
     "uniques": 4
   },
   {
-    "referrer": "github.com",
-    "count": 15,
-    "uniques": 7
+    "referrer": "soulsign.inu1255.cn",
+    "count": 11,
+    "uniques": 5
   },
   {
-    "referrer": "soulsign.inu1255.cn",
-    "count": 12,
-    "uniques": 6
+    "referrer": "github.com",
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "github.yixuju.cn",
@@ -27,6 +27,11 @@
   {
     "referrer": "cn.bing.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "Google",
+    "count": 1,
     "uniques": 1
   }
 ]

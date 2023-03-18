@@ -2,44 +2,8 @@
   {
     "path": "/yi-Xu-0100/matlab-toolbox",
     "title": "yi-Xu-0100/matlab-toolbox: self-build matlab toolbox",
-    "count": 15,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/matlab-toolbox/tree/main/common",
-    "title": "matlab-toolbox/common at main · yi-Xu-0100/matlab-toolbox",
     "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/matlab-toolbox/new/main",
-    "title": "New File",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/matlab-toolbox/blob/main/common/laguerre.m",
-    "title": "matlab-toolbox/laguerre.m at main · yi-Xu-0100/matlab-toolbox",
-    "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/matlab-toolbox/tree/main",
-    "title": "yi-Xu-0100/matlab-toolbox: self-build matlab toolbox",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/matlab-toolbox/community",
-    "title": "Community Standards",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/matlab-toolbox/community/license/new",
-    "title": "Add a license to yi-Xu-0100/matlab-toolbox",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/matlab-toolbox/blob/main/html/LGBeam_example.html",
@@ -48,14 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/matlab-toolbox/graphs/community",
-    "title": "Community · yi-Xu-0100/matlab-toolbox",
+    "path": "/yi-Xu-0100/matlab-toolbox/new/main",
+    "title": "New File",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/matlab-toolbox/graphs/contributors",
-    "title": "Contributors to yi-Xu-0100/matlab-toolbox",
+    "path": "/yi-Xu-0100/matlab-toolbox/tree/main",
+    "title": "yi-Xu-0100/matlab-toolbox: self-build matlab toolbox",
     "count": 1,
     "uniques": 1
   }
