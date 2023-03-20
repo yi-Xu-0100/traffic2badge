@@ -1,8 +1,8 @@
 [
   {
     "referrer": "ijkxs.com",
-    "count": 17,
-    "uniques": 4
+    "count": 19,
+    "uniques": 6
   },
   {
     "referrer": "github.com",
@@ -15,22 +15,17 @@
     "uniques": 4
   },
   {
-    "referrer": "github.yixuju.cn",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "referrer": "Google",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "yixu0100.gitee.io",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "yixu0100.gitee.io",
+    "referrer": "cn.bing.com",
     "count": 2,
     "uniques": 1
   }
