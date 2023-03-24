@@ -6,13 +6,13 @@
   },
   {
     "referrer": "github.com",
-    "count": 10,
-    "uniques": 4
+    "count": 9,
+    "uniques": 3
   },
   {
     "referrer": "soulsign.inu1255.cn",
-    "count": 10,
-    "uniques": 4
+    "count": 8,
+    "uniques": 3
   },
   {
     "referrer": "Google",
@@ -21,6 +21,11 @@
   },
   {
     "referrer": "yixu0100.gitee.io",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "Baidu",
     "count": 2,
     "uniques": 1
   }
