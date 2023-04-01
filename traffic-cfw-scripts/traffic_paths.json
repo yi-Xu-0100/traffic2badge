@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 22,
-    "uniques": 14
+    "count": 16,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
     "title": "cfw-scripts/change-rules.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 7,
-    "uniques": 5
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/merge-nodes.js",
     "title": "cfw-scripts/merge-nodes.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 4,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
@@ -24,20 +24,8 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
-    "title": "cfw-scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.yml",
     "title": "cfw-scripts/change-rules.yml at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/releases/tag/v0.0.1",
-    "title": "Release Release v0.0.1 · yi-Xu-0100/cfw-scripts",
     "count": 2,
     "uniques": 1
   },
@@ -48,14 +36,26 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
-    "title": "cfw-scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/issues/139",
+    "title": "大佬你好，能麻烦帮忙写个脚本吗，每次更新节点池配置的时候把节点名包含的Relay_和 Pool替换成空字符串 · Issue #139 · yi-Xu-0...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/subscription-userinfo.js",
-    "title": "cfw-scripts/subscription-userinfo.js at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/pull/204",
+    "title": "chore(deps): ⬆️ bump actions/stale from 7 to 8 by dependabot[bot] · Pull Requ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/pull/206",
+    "title": "chore(deps): ⬆️ bump eslint from 8.36.0 to 8.37.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/search",
+    "title": "Search · CLASH URL · GitHub",
     "count": 1,
     "uniques": 1
   }
