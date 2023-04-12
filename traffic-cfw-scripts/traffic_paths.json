@@ -2,12 +2,18 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 15,
-    "uniques": 10
+    "count": 14,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/.gitignore",
     "title": "cfw-scripts/.gitignore at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/.prettierrc.json",
+    "title": "cfw-scripts/.prettierrc.json at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -24,14 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/pull/206",
-    "title": "chore(deps): ⬆️ bump eslint from 8.36.0 to 8.37.0 by dependabot[bot] · Pull R...",
+    "path": "/yi-Xu-0100/cfw-scripts/issues/211",
+    "title": "Reporting a vulnerability · Issue #211 · yi-Xu-0100/cfw-scripts",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/search",
-    "title": "Search · CLASH URL · GitHub",
+    "path": "/yi-Xu-0100/cfw-scripts/releases/tag/v0.0.1",
+    "title": "Release Release v0.0.1 · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
