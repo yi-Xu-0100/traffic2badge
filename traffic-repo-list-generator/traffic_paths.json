@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.gitignore",
@@ -18,21 +12,9 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
-    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/dist/index.js",
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
     "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
+    "count": 2,
     "uniques": 1
   },
   {
@@ -54,8 +36,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/dist",
-    "title": "repo-list-generator/dist at main · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
+    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github/workflows",
+    "title": "repo-list-generator/.github/workflows at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
+    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }

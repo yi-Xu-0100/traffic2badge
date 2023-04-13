@@ -2,18 +2,30 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 6,
-    "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
-    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 3,
-    "uniques": 1
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
+    "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
+    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lis...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
+    "title": "File not found · GitHub",
     "count": 2,
     "uniques": 1
   },
@@ -44,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/SumatraPDF.txt",
     "title": "Application-Lists/SumatraPDF.txt at main · yi-Xu-0100/Application-Lists · Git...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
-    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lis...",
     "count": 1,
     "uniques": 1
   }
