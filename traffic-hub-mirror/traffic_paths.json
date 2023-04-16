@@ -30,6 +30,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/blob/a564aab17d7ec9167dfc7e696a79c314754fa380/template/patch.yml",
+    "title": "hub-mirror/patch.yml at a564aab17d7ec9167dfc7e696a79c314754fa380 · yi-Xu-0100...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
     "title": "hub-mirror/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
     "title": "hub-mirror/add_pub_key.png at main · yi-Xu-0100/hub-mirror",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
-    "title": "hub-mirror/add_secret_key.png at main · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }

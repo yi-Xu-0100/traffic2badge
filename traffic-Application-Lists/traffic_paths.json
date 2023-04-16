@@ -2,32 +2,26 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
     "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lis...",
-    "count": 11,
+    "count": 12,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 9,
-    "uniques": 7
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
     "title": "Application-Lists/mixin.yaml at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 8,
+    "count": 6,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 7,
+    "count": 6,
     "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists · ...",
-    "count": 5,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
@@ -36,26 +30,32 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/cfw-settings.yaml at main · yi-Xu-0100/Application-Lists · ...",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/cmd_init.bat",
-    "title": "Application-Lists/cmd_init.bat at main · yi-Xu-0100/Application-Lists · GitHub",
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/.gitignore",
+    "title": "Application-Lists/.gitignore at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/pakku.json",
-    "title": "Application-Lists/pakku.json at main · yi-Xu-0100/Application-Lists · GitHub",
+    "path": "/yi-Xu-0100/Application-Lists/pulls",
+    "title": "Pull requests · yi-Xu-0100/Application-Lists",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/SumatraPDF.txt",
-    "title": "Application-Lists/SumatraPDF.txt at main · yi-Xu-0100/Application-Lists · Git...",
+    "path": "/yi-Xu-0100/Application-Lists/tree/main",
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 1,
     "uniques": 1
   }
