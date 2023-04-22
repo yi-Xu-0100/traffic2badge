@@ -2,26 +2,8 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/branches",
     "title": "Branches · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 9,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "GitHub - yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bin/checkurls.ps1",
-    "title": "scoop-bucket/checkurls.ps1 at main · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/find/main",
-    "title": "File Finder · GitHub",
-    "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/ISSUE_TEMPLATE/Package_request.md",
@@ -30,14 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/ISSUE_TEMPLATE/Bug_report.md",
-    "title": "scoop-bucket/Bug_report.md at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "GitHub - yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.vscode/extensions.json",
-    "title": "scoop-bucket/extensions.json at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bin/checkurls.ps1",
+    "title": "scoop-bucket/checkurls.ps1 at main · yi-Xu-0100/scoop-bucket · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -48,14 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bin",
-    "title": "scoop-bucket/bin at main · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/.vscode",
-    "title": "scoop-bucket/.vscode at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "path": "/yi-Xu-0100/scoop-bucket/find/main",
+    "title": "File Finder · GitHub",
     "count": 1,
     "uniques": 1
   }

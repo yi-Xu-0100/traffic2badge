@@ -8,5 +8,10 @@
     "referrer": "Google",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 1,
+    "uniques": 1
   }
 ]
