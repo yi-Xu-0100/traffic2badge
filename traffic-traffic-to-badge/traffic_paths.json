@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 9,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -15,6 +15,12 @@
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/dist/index.js",
     "title": "traffic-to-badge/index.js at main · yi-Xu-0100/traffic-to-badge",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/dependabot.yml",
+    "title": "traffic-to-badge/dependabot.yml at main · yi-Xu-0100/traffic-to-badge",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -32,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/action.yml",
     "title": "traffic-to-badge/action.yml at main · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/dependabot.yml",
-    "title": "traffic-to-badge/dependabot.yml at main · yi-Xu-0100/traffic-to-badge",
     "count": 1,
     "uniques": 1
   },
