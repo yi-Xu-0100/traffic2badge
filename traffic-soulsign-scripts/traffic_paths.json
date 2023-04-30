@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/76",
-    "title": "Reporting a vulnerability · Issue #76 · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/account.lingfengyun.com.js",
     "title": "soulsign-scripts/account.lingfengyun.com.js at 58d538ad02b81536a97a8c2848083a...",
     "count": 2,
@@ -50,6 +44,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/64",
     "title": "请问可以改一个ScriptCat版本的GORPG自动签到吗 · Issue #64 · yi-Xu-0100/soulsign-scripts · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/76",
+    "title": "Reporting a vulnerability · Issue #76 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   },
