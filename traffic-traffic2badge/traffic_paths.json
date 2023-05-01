@@ -1,38 +1,20 @@
 [
   {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/commit/2574c6360aa28a36d3cbb16dad7c9e1bd52957d8",
     "title": "💚 add workflow_dispatch test · yi-Xu-0100/traffic2badge@2574c63 · GitHub",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge",
-    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/blob/traffic/traffic-repo-list-generator/clones.svg",
-    "title": "traffic2badge/clones.svg at traffic · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/blob/traffic/traffic-repo-list-generator/traffic_clones_per_week.json",
-    "title": "traffic2badge/traffic_clones_per_week.json at traffic · yi-Xu-0100/traffic2ba...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
-    "title": "GitHub - yi-Xu-0100/traffic2badge at traffic",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/traffic/traffic-repo-list-generator",
-    "title": "traffic2badge/traffic-repo-list-generator at traffic · yi-Xu-0100/traffic2bad...",
-    "count": 1,
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/README.md",
+    "title": "traffic2badge/README.md at main · yi-Xu-0100/traffic2badge · GitHub",
+    "count": 2,
     "uniques": 1
   }
 ]
