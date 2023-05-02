@@ -12,21 +12,15 @@
     "uniques": 5
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues",
+    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
     "title": "soulsign-scripts/cloud.189.cn.js at 4f1443daf469d06dc831a99350569a1a146399fc ...",
     "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/account.lingfengyun.com.js",
-    "title": "soulsign-scripts/account.lingfengyun.com.js at 58d538ad02b81536a97a8c2848083a...",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/search",
     "title": "Search · soul签到 · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
