@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 14,
-    "uniques": 11
+    "count": 19,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
@@ -14,8 +14,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 4,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/4f1443daf469d06dc831a99350569a1a146399fc/scripts/cloud.189.cn.js",
@@ -24,8 +30,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/zt.wps.cn.js",
+    "title": "soulsign-scripts/zt.wps.cn.js at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/206545c7e7c36942c3b0c305c9d4aa8673e4919d/scripts/uqer.datayes.com.js",
     "title": "soulsign-scripts/uqer.datayes.com.js at 206545c7e7c36942c3b0c305c9d4aa8673e49...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/2ba33fab83eff3cb4f646fcdd48b9a70e504668a",
+    "title": "fix: 🐛 更新爱奇艺签到脚本到 v1.0.9 · yi-Xu-0100/soulsign-scripts@2ba33fa",
     "count": 1,
     "uniques": 1
   },
@@ -36,26 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/64",
-    "title": "请问可以改一个ScriptCat版本的GORPG自动签到吗 · Issue #64 · yi-Xu-0100/soulsign-scripts · Git...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/76",
-    "title": "Reporting a vulnerability · Issue #76 · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/search",
-    "title": "Search · soul签到 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
-    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/10",
+    "title": "爱奇艺签到失败 · Issue #10 · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
