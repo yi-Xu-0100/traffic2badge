@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
+    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/commit/26218cfa5ee074dfcf130d124e8d2ce955b59dab",
+    "title": "feat: remove gsudo.json · yi-Xu-0100/scoop-bucket@26218cf",
+    "count": 1,
+    "uniques": 1
+  }
+]
