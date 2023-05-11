@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
     "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 2,
+    "count": 5,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
@@ -21,6 +21,12 @@
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
     "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/281",
+    "title": "chore(deps): ⬆️ bump eslint from 8.39.0 to 8.40.0 by dependabot[bot] · Pull R...",
+    "count": 1,
     "uniques": 1
   },
   {
