@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/test/actions/runs/670620926",
+    "title": "ci(actions): 🐛 fix yaml syntax · yi-Xu-0100/test@d6f4382",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/actions/runs/670620926/workflow",
+    "title": "ci(actions): 🐛 fix yaml syntax · yi-Xu-0100/test@d6f4382",
+    "count": 1,
+    "uniques": 1
+  }
+]
