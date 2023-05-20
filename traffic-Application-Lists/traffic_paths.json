@@ -2,13 +2,37 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 8,
-    "uniques": 6
+    "count": 9,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 8,
-    "uniques": 3
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main",
+    "title": "Application-Lists/ at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/server",
+    "title": "Application-Lists/server at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/.gitignore",
+    "title": "Application-Lists/.gitignore at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/package-lock.json",
+    "title": "Application-Lists/package-lock.json at main · yi-Xu-0100/Application-Lists · ...",
+    "count": 2,
+    "uniques": 1
   }
 ]
