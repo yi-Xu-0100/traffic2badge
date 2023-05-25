@@ -1,26 +1,32 @@
 [
   {
-    "path": "/yi-Xu-0100/Application-Lists",
-    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 5,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 5,
-    "uniques": 2
+    "count": 7,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists",
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main",
-    "title": "Application-Lists/ at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 3,
-    "uniques": 1
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/server",
     "title": "Application-Lists/server at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1",
+    "title": "Application-Lists/Microsoft.PowerShell_profile.ps1 at main · yi-Xu-0100/Appli...",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -33,6 +39,24 @@
     "path": "/yi-Xu-0100/Application-Lists/blob/main/package-lock.json",
     "title": "Application-Lists/package-lock.json at main · yi-Xu-0100/Application-Lists · ...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
+    "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists · G...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
+    "title": "404 Page not found · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
+    "title": "404 Page not found · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]

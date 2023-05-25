@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 10,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main",
-    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
+    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
     "uniques": 1
   }
