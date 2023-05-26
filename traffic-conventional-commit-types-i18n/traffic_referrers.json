@@ -1,12 +1,12 @@
 [
   {
-    "referrer": "npmjs.com",
+    "referrer": "Google",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "Google",
-    "count": 1,
+    "referrer": "npmjs.com",
+    "count": 2,
     "uniques": 1
   }
 ]
