@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 7,
-    "uniques": 3
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/Application-Lists",
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/pull/177",
+    "title": "chore(deps): ⬆️ bump yaml from 2.2.1 to 2.2.2 by dependabot[bot] · Pull Reque...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
     "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists · G...",
     "count": 1,
@@ -49,12 +55,6 @@
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
-    "title": "404 Page not found · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
     "title": "404 Page not found · GitHub",
     "count": 1,
     "uniques": 1
