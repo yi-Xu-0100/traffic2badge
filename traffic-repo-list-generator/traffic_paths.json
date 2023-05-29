@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 8,
-    "uniques": 6
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
@@ -42,21 +42,21 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/dependabot.yml",
-    "title": "repo-list-generator/dependabot.yml at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
     "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.github",
-    "title": "repo-list-generator/.github at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 2,
+    "path": "/yi-Xu-0100/repo-list-generator/commits/main",
+    "title": "Commits · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/279",
+    "title": "chore(deps): ⬆️ bump yaml from 2.2.1 to 2.2.2 by dependabot[bot] · Pull Reque...",
+    "count": 1,
     "uniques": 1
   }
 ]
