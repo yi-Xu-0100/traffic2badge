@@ -2,49 +2,13 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 5,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
     "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/dist/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
-    "title": "repo-list-generator/index.js at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/dist",
-    "title": "repo-list-generator/dist at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/dist/index.js.map",
-    "title": "repo-list-generator/index.js.map at main · yi-Xu-0100/repo-list-generator · G...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
-    "title": "repo-list-generator/repo.js at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
@@ -56,6 +20,18 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/279",
     "title": "chore(deps): ⬆️ bump yaml from 2.2.1 to 2.2.2 by dependabot[bot] · Pull Reque...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/pull/282",
+    "title": "chore(deps): ⬆️ bump eslint from 8.40.0 to 8.41.0 by dependabot[bot] · Pull R...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main",
+    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
     "count": 1,
     "uniques": 1
   }
