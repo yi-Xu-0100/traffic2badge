@@ -1,13 +1,13 @@
 [
   {
     "referrer": "github.com",
-    "count": 24,
-    "uniques": 9
+    "count": 21,
+    "uniques": 6
   },
   {
     "referrer": "Google",
-    "count": 11,
-    "uniques": 5
+    "count": 10,
+    "uniques": 4
   },
   {
     "referrer": "github.yixuju.cn",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "soulsign.inu1255.cn",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "gist.github.com",

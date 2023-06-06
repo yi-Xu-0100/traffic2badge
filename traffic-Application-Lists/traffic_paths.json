@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 11,
-    "uniques": 7
+    "count": 10,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 9,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/Microsoft.PowerShell_profile.ps1",
-    "title": "Application-Lists/Microsoft.PowerShell_profile.ps1 at main · yi-Xu-0100/Appli...",
-    "count": 2,
-    "uniques": 1
+    "count": 7,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/pull/177",
@@ -24,32 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/tampermonkey.zip",
-    "title": "Application-Lists/tampermonkey.zip at main · yi-Xu-0100/Application-Lists · G...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main",
-    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config/TrafficMonitor",
     "title": "Application-Lists/config/TrafficMonitor at main · yi-Xu-0100/Application-List...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
-    "title": "404 Page not found · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
-    "title": "404 Page not found · GitHub",
     "count": 1,
     "uniques": 1
   }
