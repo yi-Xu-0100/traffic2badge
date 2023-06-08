@@ -10,5 +10,11 @@
     "title": "ci(actions): 🐛 fix yaml syntax · yi-Xu-0100/test@d6f4382",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/test/actions/runs/701210953/workflow",
+    "title": "chore(release): 🔖 release v1.2.1 (#15) · yi-Xu-0100/test@e5cbd93",
+    "count": 1,
+    "uniques": 1
   }
 ]
