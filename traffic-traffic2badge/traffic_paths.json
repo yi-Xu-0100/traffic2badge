@@ -1,38 +1,20 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic2badge/blob/main/README.md",
-    "title": "traffic2badge/README.md at main · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
-    "title": "yi-Xu-0100/traffic2badge at traffic",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/main/.vscode",
-    "title": "traffic2badge/.vscode at main · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/tree/traffic/traffic-traffic-to-badge",
     "title": "traffic2badge/traffic-traffic-to-badge at traffic · yi-Xu-0100/traffic2badge ...",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge",
-    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/blob/traffic/traffic-traffic-to-badge/traffic_views.json",
     "title": "traffic2badge/traffic_views.json at traffic · yi-Xu-0100/traffic2badge · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -54,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/tree/main",
-    "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
+    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
+    "title": "yi-Xu-0100/traffic2badge at traffic",
     "count": 1,
     "uniques": 1
   }
