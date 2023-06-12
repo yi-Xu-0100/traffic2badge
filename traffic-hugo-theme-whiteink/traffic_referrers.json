@@ -1,11 +1,16 @@
 [
   {
-    "referrer": "yixuju.cn",
+    "referrer": "github.com",
+    "count": 8,
+    "uniques": 2
+  },
+  {
+    "referrer": "hugothemesfree.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "github.com",
+    "referrer": "yixuju.cn",
     "count": 1,
     "uniques": 1
   }

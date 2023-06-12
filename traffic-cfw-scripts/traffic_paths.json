@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 14,
-    "uniques": 14
+    "count": 12,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
@@ -32,12 +32,6 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/pull/219",
     "title": "chore(deps): ⬆️ bump eslint from 8.41.0 to 8.42.0 by dependabot[bot] · Pull R...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/search",
-    "title": "Search · clash for windows · GitHub",
     "count": 1,
     "uniques": 1
   }
