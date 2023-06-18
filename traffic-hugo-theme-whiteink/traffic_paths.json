@@ -6,12 +6,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hugo-theme-whiteink/releases/tag/v0.0.8",
-    "title": "Release Release v0.0.8 · yi-Xu-0100/hugo-theme-whiteink",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/blob/main/CHANGELOG.md",
     "title": "hugo-theme-whiteink/CHANGELOG.md at main · yi-Xu-0100/hugo-theme-whiteink · G...",
     "count": 2,
@@ -21,6 +15,12 @@
     "path": "/yi-Xu-0100/hugo-theme-whiteink/issues",
     "title": "Issues · yi-Xu-0100/hugo-theme-whiteink",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/releases/tag/v0.0.8",
+    "title": "Release Release v0.0.8 · yi-Xu-0100/hugo-theme-whiteink",
+    "count": 1,
     "uniques": 1
   }
 ]
