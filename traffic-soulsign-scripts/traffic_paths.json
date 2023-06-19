@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/cloud.189.cn.js",
     "title": "soulsign-scripts/scripts/cloud.189.cn.js at 58d538ad02b81536a97a8c2848083a197...",
-    "count": 8,
-    "uniques": 4
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -24,14 +24,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.iqiyi.com.js",
-    "title": "soulsign-scripts/www.iqiyi.com.js at 58d538ad02b81536a97a8c2848083a197a7c6ed2...",
-    "count": 4,
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/account.lingfengyun.com.js",
+    "title": "soulsign-scripts/account.lingfengyun.com.js at 58d538ad02b81536a97a8c2848083a...",
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/account.lingfengyun.com.js",
-    "title": "soulsign-scripts/account.lingfengyun.com.js at 58d538ad02b81536a97a8c2848083a...",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.iqiyi.com.js",
+    "title": "soulsign-scripts/www.iqiyi.com.js at 58d538ad02b81536a97a8c2848083a197a7c6ed2...",
     "count": 2,
     "uniques": 1
   },
@@ -44,12 +44,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/37",
     "title": "签到失败 · Issue #37 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/58d538ad02b81536a97a8c2848083a197a7c6ed2",
-    "title": "yi-Xu-0100/soulsign-scripts at 58d538ad02b81536a97a8c2848083a197a7c6ed2",
     "count": 1,
     "uniques": 1
   }
