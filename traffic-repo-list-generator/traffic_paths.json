@@ -1,15 +1,15 @@
 [
   {
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "count": 5,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
     "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator",
     "count": 5,
     "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 4,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/.husky",
@@ -30,6 +30,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
+    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator · Git...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.husky/pre-commit",
     "title": "repo-list-generator/.husky/pre-commit at main · yi-Xu-0100/repo-list-generato...",
     "count": 2,
@@ -39,12 +45,6 @@
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
     "title": "repo-list-generator/src/repo.js at main · yi-Xu-0100/repo-list-generator · Gi...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/283",
-    "title": "chore(deps): ⬆️ bump eslint from 8.41.0 to 8.42.0 by dependabot[bot] · Pull R...",
-    "count": 1,
     "uniques": 1
   },
   {
