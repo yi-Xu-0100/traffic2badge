@@ -12,15 +12,21 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/static",
-    "title": "hub-mirror/static at main · yi-Xu-0100/hub-mirror",
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 2,
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
+    "title": "hub-mirror/README.md at main · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commits/main",
+    "title": "Commits · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
