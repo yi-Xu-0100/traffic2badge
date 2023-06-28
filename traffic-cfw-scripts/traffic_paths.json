@@ -1,26 +1,14 @@
 [
   {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 16,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 14,
-    "uniques": 9
+    "count": 13,
+    "uniques": 8
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib",
-    "title": "cfw-scripts/lib at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 5,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy-plus.js",
-    "title": "cfw-scripts/scripts/add-proxy-plus.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 4,
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 12,
     "uniques": 2
   },
   {
@@ -34,12 +22,6 @@
     "title": "cfw-scripts/resources at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/main.js",
-    "title": "cfw-scripts/main.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/package.json",
@@ -57,6 +39,24 @@
     "path": "/yi-Xu-0100/cfw-scripts/tree/main/lib/rule-providers.json",
     "title": "File not found · GitHub",
     "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy.js",
+    "title": "cfw-scripts/scripts/add-proxy.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy-plus.js",
+    "title": "cfw-scripts/scripts/add-proxy-plus.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
+    "title": "cfw-scripts/scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
     "uniques": 1
   }
 ]
