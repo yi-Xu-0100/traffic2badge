@@ -12,15 +12,15 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/scoop-bucket/tree/main/bin",
     "title": "scoop-bucket/bin at main · yi-Xu-0100/scoop-bucket · GitHub",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -32,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/commit/630758447529f0b6621f359ef3a347c7084de985",
     "title": "feat: add TencentQQNT.json · yi-Xu-0100/scoop-bucket@6307584",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/issues/1",
+    "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket · Gi...",
     "count": 1,
     "uniques": 1
   }
