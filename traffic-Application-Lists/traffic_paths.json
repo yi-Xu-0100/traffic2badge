@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 6,
-    "uniques": 3
+    "count": 8,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/Application-Lists",
@@ -12,13 +12,31 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
     "title": "404 Page not found · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
+    "title": "Application-Lists/config/ClashForWindows/mixin.yaml at main · yi-Xu-0100/Appl...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
+    "title": "Application-Lists/config/ClashForWindows/parser.yaml at main · yi-Xu-0100/App...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main",
+    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
     "title": "404 Page not found · GitHub",
     "count": 1,
     "uniques": 1
