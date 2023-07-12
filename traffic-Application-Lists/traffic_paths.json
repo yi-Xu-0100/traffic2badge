@@ -2,13 +2,37 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 8,
-    "uniques": 4
+    "count": 17,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/npm_and_yarn/lint-staged-13.2.3/Configuration/ClashForWindows/changeRule.js",
+    "title": "File not found · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/npm_and_yarn/marked-4.3.0/Configuration/ClashForWindows/changeRule.js",
+    "title": "File not found · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/npm_and_yarn/prettier-3.0.0/Configuration/ClashForWindows/changeRule.js",
+    "title": "File not found · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/gh-pages/Configuration/ClashForWindows/changeRule.js",
+    "title": "File not found · GitHub",
+    "count": 3,
     "uniques": 1
   },
   {
@@ -32,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
-    "title": "404 Page not found · GitHub",
     "count": 1,
     "uniques": 1
   }
