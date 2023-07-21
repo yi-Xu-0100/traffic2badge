@@ -6,11 +6,16 @@
   },
   {
     "referrer": "github.yixuju.cn",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "referrer": "github.com",
     "count": 4,
     "uniques": 3
   },
   {
-    "referrer": "github.com",
+    "referrer": "soulsign.inu1255.cn",
     "count": 4,
     "uniques": 3
   },
@@ -21,11 +26,6 @@
   },
   {
     "referrer": "bidianer.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "soulsign.inu1255.cn",
     "count": 2,
     "uniques": 2
   }

@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 38,
-    "uniques": 15
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
-    "title": "File not found",
-    "count": 5,
-    "uniques": 2
+    "count": 34,
+    "uniques": 13
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
@@ -20,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/init.js",
     "title": "Application-Lists/init.js at main · yi-Xu-0100/Application-Lists",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
+    "title": "File not found",
     "count": 4,
     "uniques": 1
   },
@@ -54,9 +54,9 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
-    "title": "404 Page not found · GitHub",
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
+    "title": "Application-Lists/config/ClashForWindows/mixin.yaml at main · yi-Xu-0100/Appl...",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   }
 ]
