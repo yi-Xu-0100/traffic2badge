@@ -2,42 +2,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 13,
+    "count": 11,
     "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.cached.yml",
-    "title": "hub-mirror/.github/workflows/sync2gitee.cached.yml at main · yi-Xu-0100/hub-m...",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
-    "title": "hub-mirror/.github at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/actions",
-    "title": "Actions · yi-Xu-0100/hub-mirror",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
-    "title": "hub-mirror/.github/workflows/sync2gitee.yml at main · yi-Xu-0100/hub-mirror ·...",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
     "title": "hub-mirror/README_EN.md at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
-    "title": "hub-mirror/template/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror · Git...",
     "count": 2,
     "uniques": 1
   },
@@ -48,14 +18,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github/workflows",
-    "title": "hub-mirror/.github/workflows at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 2,
+    "path": "/yi-Xu-0100/hub-mirror/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
+    "title": "chore(deps): ⬆️ bump yi-Xu-0100/repo-list-generator from 1.1.0 to 1.1.1 · yi-...",
+    "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/actions/caches",
-    "title": "Actions · yi-Xu-0100/hub-mirror",
+    "path": "/yi-Xu-0100/hub-mirror/issues/23",
+    "title": "如何构建像您这样的github page · Issue #23 · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   }
