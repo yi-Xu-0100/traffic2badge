@@ -15,18 +15,18 @@
     "uniques": 3
   },
   {
-    "referrer": "Google",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "referrer": "soulsign.inu1255.cn",
     "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "bidianer.com",
+    "referrer": "Google",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "bidianer.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
