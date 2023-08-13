@@ -1,7 +1,25 @@
 [
   {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
+    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket",
+    "count": 3,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "GitHub - yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/TencentQQNT.json",
+    "title": "scoop-bucket/bucket/TencentQQNT.json at main · yi-Xu-0100/scoop-bucket",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/commit/b8b7c9b06e08add385b6bacbf168e01a70ccf366",
+    "title": "chore: upgrade ClashForWindows to version 0.20.31 · yi-Xu-0100/scoop-bucket@b...",
     "count": 1,
     "uniques": 1
   }
