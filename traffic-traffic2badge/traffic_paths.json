@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Use reposit...",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/issues",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/issues/8",
     "title": "The TOC of readme can be deleted · Issue #8 · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
+    "title": "yi-Xu-0100/traffic2badge at traffic",
     "count": 1,
     "uniques": 1
   }
