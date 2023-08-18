@@ -1,44 +1,14 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator/blob/main/src/index.js",
-    "title": "license-generator/src/index.js at main · yi-Xu-0100/license-generator",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/tree/main/src",
-    "title": "license-generator/src at main · yi-Xu-0100/license-generator",
-    "count": 8,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/license-generator",
-    "title": "yi-Xu-0100/license-generator: The GitHub action that using template to genera...",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/blob/main/src/util.js",
-    "title": "license-generator/src/util.js at main · yi-Xu-0100/license-generator",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/issues",
-    "title": "Issues · yi-Xu-0100/license-generator",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
-    "title": "license-generator/LICENSE at main · yi-Xu-0100/license-generator",
+    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/license-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/license-generator",
-    "count": 1,
+    "path": "/yi-Xu-0100/license-generator/blob/main/.gitignore",
+    "title": "license-generator/.gitignore at main · yi-Xu-0100/license-generator · GitHub",
+    "count": 2,
     "uniques": 1
   }
 ]

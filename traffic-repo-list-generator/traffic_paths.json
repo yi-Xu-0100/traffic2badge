@@ -14,14 +14,20 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 9,
-    "uniques": 6
+    "count": 7,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
     "title": "repo-list-generator/src/index.js at main · yi-Xu-0100/repo-list-generator · G...",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.gitignore",
+    "title": "repo-list-generator/.gitignore at main · yi-Xu-0100/repo-list-generator · Git...",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/package.json",
