@@ -1,31 +1,25 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
-    "title": "repo-list-generator/src/repo.js at main · yi-Xu-0100/repo-list-generator · Gi...",
-    "count": 8,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 6,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
+    "title": "repo-list-generator/src/repo.js at main · yi-Xu-0100/repo-list-generator · Gi...",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
     "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 6,
-    "uniques": 2
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.gitignore",
     "title": "repo-list-generator/.gitignore at main · yi-Xu-0100/repo-list-generator · Git...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/package.json",
-    "title": "repo-list-generator/package.json at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   },
