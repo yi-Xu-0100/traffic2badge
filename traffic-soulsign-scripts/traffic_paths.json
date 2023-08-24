@@ -20,14 +20,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.txtnovel.pro.js",
-    "title": "soulsign-scripts/scripts/www.txtnovel.pro.js at 58d538ad02b81536a97a8c2848083...",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blame/main/build2.4.3.zip",
@@ -57,6 +51,12 @@
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.ablesci.com.js",
     "title": "soulsign-scripts/scripts/www.ablesci.com.js at main · yi-Xu-0100/soulsign-scr...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/58d538ad02b81536a97a8c2848083a197a7c6ed2",
+    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.2 to 3.9.3 · yi-Xu-0...",
+    "count": 1,
     "uniques": 1
   }
 ]
