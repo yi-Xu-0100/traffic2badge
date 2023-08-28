@@ -8,14 +8,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "议题 · yi-Xu-0100/soulsign-scripts",
-    "count": 10,
-    "uniques": 7
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 9,
-    "uniques": 3
+    "count": 7,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
@@ -39,12 +39,6 @@
     "path": "/yi-Xu-0100/soulsign-scripts/deployments/github-pages",
     "title": "Deployments · yi-Xu-0100/soulsign-scripts",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/commit/58d538ad02b81536a97a8c2848083a197a7c6ed2",
-    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.2 to 3.9.3 · yi-Xu-0...",
-    "count": 1,
     "uniques": 1
   },
   {

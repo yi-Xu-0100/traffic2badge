@@ -1,15 +1,15 @@
 [
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
+    "title": "File not found · GitHub",
+    "count": 7,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 5,
     "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
-    "title": "File not found · GitHub",
-    "count": 5,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/15cd9393250e6ca4d8a1589f76c81fb3ac28885c/config/v2rayN.txt",
@@ -32,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/issues/102",
     "title": "项目引用了ansi-regex等190个开源组件，存在2个漏洞，建议升级 · Issue #102 · yi-Xu-0100/Application-Li...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
+    "title": "404 Page not found · GitHub",
     "count": 1,
     "uniques": 1
   }
