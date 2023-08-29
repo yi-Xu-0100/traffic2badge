@@ -2,50 +2,14 @@
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/auto-check-in.js",
     "title": "cfw-scripts/scripts/auto-check-in.js at main · yi-Xu-0100/cfw-scripts · GitHub",
-    "count": 8,
-    "uniques": 3
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts",
     "title": "yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
-    "count": 7,
-    "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
-    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/a8fc46c16001639bba0d18b5900a80b96010af8f/scripts/subs-info-parser.js",
-    "title": "cfw-scripts/scripts/subs-info-parser.js at a8fc46c16001639bba0d18b5900a80b960...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/conf.json",
-    "title": "cfw-scripts/conf.json at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy.js",
-    "title": "cfw-scripts/scripts/add-proxy.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/add-proxy-plus.js",
-    "title": "cfw-scripts/scripts/add-proxy-plus.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-keys.js",
-    "title": "cfw-scripts/scripts/change-keys.js at main · yi-Xu-0100/cfw-scripts",
-    "count": 2,
-    "uniques": 1
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/change-rules.js",
@@ -54,9 +18,21 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/info.js",
-    "title": "cfw-scripts/scripts/info.js at main · yi-Xu-0100/cfw-scripts",
+    "path": "/yi-Xu-0100/cfw-scripts/blob/main/scripts/test.js",
+    "title": "cfw-scripts/scripts/test.js at main · yi-Xu-0100/cfw-scripts · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main/scripts",
+    "title": "cfw-scripts/scripts at main · yi-Xu-0100/cfw-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/tree/main",
+    "title": "GitHub - yi-Xu-0100/cfw-scripts: Some scripts for parser in clash.for.windows.",
+    "count": 1,
     "uniques": 1
   }
 ]
