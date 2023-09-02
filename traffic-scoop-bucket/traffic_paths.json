@@ -1,20 +1,14 @@
 [
   {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
-    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/WinRAR.json",
     "title": "scoop-bucket/bucket/WinRAR.json at main · yi-Xu-0100/scoop-bucket",
-    "count": 4,
+    "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 1,
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
+    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket",
+    "count": 2,
     "uniques": 1
   }
 ]
