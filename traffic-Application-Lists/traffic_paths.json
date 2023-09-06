@@ -18,8 +18,26 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/15cd9393250e6ca4d8a1589f76c81fb3ac28885c/config/ClashForWindows/parser.yaml",
+    "title": "Application-Lists/config/ClashForWindows/parser.yaml at 15cd9393250e6ca4d8a15...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/.gitignore",
     "title": "Application-Lists/.gitignore at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/15cd9393250e6ca4d8a1589f76c81fb3ac28885c/config",
+    "title": "Application-Lists/config at 15cd9393250e6ca4d8a1589f76c81fb3ac28885c · yi-Xu-...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/15cd9393250e6ca4d8a1589f76c81fb3ac28885c/config/ClashForWindows",
+    "title": "Application-Lists/config/ClashForWindows at 15cd9393250e6ca4d8a1589f76c81fb3a...",
     "count": 2,
     "uniques": 1
   },
@@ -38,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3/Configuration",
     "title": "404 Page not found",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3/Configuration/ClashForWindows",
-    "title": "404 Page not found",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
-    "title": "404 Page not found · GitHub",
     "count": 1,
     "uniques": 1
   }
