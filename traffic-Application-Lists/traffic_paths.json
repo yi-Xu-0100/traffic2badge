@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists",
-    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/15cd9393250e6ca4d8a1589f76c81fb3ac28885c/config/ClashForWindows/parser.yaml",
     "title": "Application-Lists/config/ClashForWindows/parser.yaml at 15cd9393250e6ca4d8a15...",
     "count": 2,
@@ -42,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/issues/102",
-    "title": "项目引用了ansi-regex等190个开源组件，存在2个漏洞，建议升级 · Issue #102 · yi-Xu-0100/Application-Li...",
+    "path": "/yi-Xu-0100/Application-Lists",
+    "title": "GitHub - yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 1,
     "uniques": 1
   },
@@ -55,6 +49,12 @@
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3/Configuration",
+    "title": "404 Page not found",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3/Configuration/ClashForWindows",
     "title": "404 Page not found",
     "count": 1,
     "uniques": 1
