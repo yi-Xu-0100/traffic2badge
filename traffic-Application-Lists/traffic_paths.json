@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 12,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3/Configuration/ClashForWindows/changeRule.js",
-    "title": "File not found",
-    "count": 3,
-    "uniques": 1
+    "count": 9,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/15cd9393250e6ca4d8a1589f76c81fb3ac28885c/config/ClashForWindows/parser.yaml",
@@ -27,24 +21,6 @@
     "path": "/yi-Xu-0100/Application-Lists/tree/15cd9393250e6ca4d8a1589f76c81fb3ac28885c/config/ClashForWindows",
     "title": "Application-Lists/config/ClashForWindows at 15cd9393250e6ca4d8a1589f76c81fb3a...",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3",
-    "title": "yi-Xu-0100/Application-Lists at dependabot/github_actions/Yikun/hub-mirror-ac...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3/Configuration",
-    "title": "404 Page not found",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/dependabot/github_actions/Yikun/hub-mirror-action-1.3/Configuration/ClashForWindows",
-    "title": "404 Page not found",
-    "count": 1,
     "uniques": 1
   }
 ]
