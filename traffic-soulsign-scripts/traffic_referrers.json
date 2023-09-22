@@ -1,10 +1,5 @@
 [
   {
-    "referrer": "github.com",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "referrer": "Google",
     "count": 4,
     "uniques": 2
@@ -21,6 +16,11 @@
   },
   {
     "referrer": "bbs.kafan.cn",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "github.com",
     "count": 2,
     "uniques": 2
   }
