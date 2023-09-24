@@ -1,5 +1,10 @@
 [
   {
+    "referrer": "bbs.kafan.cn",
+    "count": 7,
+    "uniques": 4
+  },
+  {
     "referrer": "soulsign.inu1255.cn",
     "count": 6,
     "uniques": 4
@@ -8,11 +13,6 @@
     "referrer": "github.yixuju.cn",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "referrer": "bbs.kafan.cn",
-    "count": 3,
-    "uniques": 3
   },
   {
     "referrer": "github.com",
