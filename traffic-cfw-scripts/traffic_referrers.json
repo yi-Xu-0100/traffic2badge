@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 14,
-    "uniques": 4
+    "count": 13,
+    "uniques": 3
   },
   {
     "referrer": "github.com",
@@ -11,6 +11,11 @@
   },
   {
     "referrer": "ecosia.org",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   }
