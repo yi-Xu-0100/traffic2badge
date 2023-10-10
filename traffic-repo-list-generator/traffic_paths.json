@@ -2,6 +2,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/issues/174",
+    "title": "Error: Repository access blocked · Issue #174 · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 2
   },
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
     "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/.vscode",
-    "title": "repo-list-generator/.vscode at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   }

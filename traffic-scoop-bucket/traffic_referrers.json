@@ -5,6 +5,11 @@
     "uniques": 2
   },
   {
+    "referrer": "cn.bing.com",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "referrer": "rasa.github.io",
     "count": 1,
     "uniques": 1
