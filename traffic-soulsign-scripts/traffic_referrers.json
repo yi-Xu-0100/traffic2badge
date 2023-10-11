@@ -7,12 +7,7 @@
   {
     "referrer": "github.yixuju.cn",
     "count": 4,
-    "uniques": 4
-  },
-  {
-    "referrer": "bbs.kafan.cn",
-    "count": 2,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "cncc.bingj.com",
@@ -20,7 +15,17 @@
     "uniques": 1
   },
   {
+    "referrer": "github.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "soulsign.inu1255.cn",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "bbs.kafan.cn",
     "count": 1,
     "uniques": 1
   }
