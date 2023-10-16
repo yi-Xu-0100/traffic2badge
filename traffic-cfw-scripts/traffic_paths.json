@@ -12,6 +12,18 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/1e530b5c567228af40c3b17b8295f01dc7bb3c8d",
+    "title": "fix: :bug: update to fix rule-providers.yml occupied error (#141) · yi-Xu-010...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/cfw-scripts/commit/522fe6fff471aae31041fd7f3e9ec9b95c8863da",
+    "title": "🎉 first init · yi-Xu-0100/cfw-scripts@522fe6f",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/cfw-scripts/commit/62da5138fdef1046cdcda16184dfca0e964ff43b",
     "title": "📝 update change-rules.js to add DIRECT and AUTO into PROXY · yi-Xu-0100/cfw-...",
     "count": 1,
