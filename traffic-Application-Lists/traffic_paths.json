@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 13,
+    "count": 16,
     "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
+    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 7,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Application-Lists",
@@ -12,49 +18,13 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
-    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
-    "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
-    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lists",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
-    "title": "404 Page not found",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
-    "title": "Application-Lists/config/ClashForWindows/mixin.yaml at main · yi-Xu-0100/Appl...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
-    "title": "Application-Lists/config/ClashForWindows/parser.yaml at main · yi-Xu-0100/App...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main",
-    "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
+    "path": "/yi-Xu-0100/Application-Lists/issues",
+    "title": "Issues · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration/ClashForWindows",
     "title": "404 Page not found",
     "count": 1,
     "uniques": 1
