@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 19,
-    "uniques": 7
+    "count": 24,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
@@ -12,15 +12,21 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
-    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 7,
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
+    "title": "Application-Lists/config/ClashForWindows/parser.yaml at main · yi-Xu-0100/App...",
+    "count": 8,
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/parser.yaml",
-    "title": "Application-Lists/config/ClashForWindows/parser.yaml at main · yi-Xu-0100/App...",
-    "count": 6,
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
+    "title": "Application-Lists/config/ClashForWindows/cfw-settings.yaml at main · yi-Xu-01...",
+    "count": 5,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
+    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 5,
     "uniques": 2
   },
   {
@@ -34,12 +40,6 @@
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 3,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
-    "title": "Application-Lists/config/ClashForWindows/cfw-settings.yaml at main · yi-Xu-01...",
-    "count": 3,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
