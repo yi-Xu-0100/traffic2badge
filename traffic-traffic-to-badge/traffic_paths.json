@@ -1,26 +1,32 @@
 [
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
+    "title": "traffic-to-badge/README.md at main · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 11,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/LICENSE",
     "title": "traffic-to-badge/LICENSE at main · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
-    "title": "traffic-to-badge/README.md at main · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 4,
-    "uniques": 1
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/61",
+    "title": "Bump husky from 4.3.7 to 4.3.8 by dependabot[bot] · Pull Request #61 · yi-Xu-...",
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/forks",
     "title": "Forks · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "GitHub - yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using reposit...",
-    "count": 1,
-    "uniques": 1
   }
 ]

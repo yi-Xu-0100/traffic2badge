@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/Configuration/ClashForWindows/changeRule.js",
     "title": "File not found · GitHub",
-    "count": 20,
-    "uniques": 7
+    "count": 15,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
-    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
     "count": 3,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/blame/main/config/ClashForWindows/mixin.yaml",
     "title": "Blaming Application-Lists/config/ClashForWindows/mixin.yaml at main · yi-Xu-0...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/.vscode/settings.json",
+    "title": "Application-Lists/.vscode/settings.json at main · yi-Xu-0100/Application-List...",
     "count": 2,
     "uniques": 1
   }
