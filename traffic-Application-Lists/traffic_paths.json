@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/config/saladict.json",
-    "title": "Application-Lists/config/saladict.json at main · yi-Xu-0100/Application-Lists...",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/tree/main/config",
     "title": "Application-Lists/config at main · yi-Xu-0100/Application-Lists",
     "count": 3,
@@ -54,9 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/.vscode/settings.json",
-    "title": "Application-Lists/.vscode/settings.json at main · yi-Xu-0100/Application-List...",
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/config/ClashForWindows",
+    "title": "Application-Lists/config/ClashForWindows at main · yi-Xu-0100/Application-Lis...",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/issues/102",
+    "title": "项目引用了ansi-regex等190个开源组件，存在2个漏洞，建议升级 · Issue #102 · yi-Xu-0100/Application-Li...",
+    "count": 1,
     "uniques": 1
   }
 ]
