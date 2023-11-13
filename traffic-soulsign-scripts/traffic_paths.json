@@ -12,12 +12,6 @@
     "uniques": 6
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/forks",
-    "title": "Forks · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/80",
     "title": "随便聊聊 关于星辰签到的问题 · Issue #80 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
@@ -38,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/84ca560b04de50bb71805063768de098103f9ab4",
     "title": "feat: ✨ add www.aliyundrive.com.js to v1.0.1 · yi-Xu-0100/soulsign-scripts@84...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/forks",
+    "title": "Forks · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 1,
     "uniques": 1
   }
