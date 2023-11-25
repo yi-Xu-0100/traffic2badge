@@ -5,6 +5,11 @@
     "uniques": 2
   },
   {
+    "referrer": "Google",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "bbs.kafan.cn",
     "count": 1,
     "uniques": 1
