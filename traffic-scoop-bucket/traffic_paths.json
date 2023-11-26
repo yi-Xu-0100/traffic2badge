@@ -2,31 +2,31 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/issues/1",
     "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket · Gi...",
-    "count": 4,
-    "uniques": 2
+    "count": 6,
+    "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 2,
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bin",
+    "title": "scoop-bucket/bin at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
-    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket",
+    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/scripts",
+    "title": "scoop-bucket/scripts at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/scripts/everything",
+    "title": "scoop-bucket/scripts/everything at main · yi-Xu-0100/scoop-bucket · GitHub",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/commit/d496738b32e8742ef4b8f16cf82d79ef0e929a08",
-    "title": "chore: upgrade TencentQQNT to version 9.9.5.18394 · yi-Xu-0100/scoop-bucket@d...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/commits/main",
-    "title": "Commits · yi-Xu-0100/scoop-bucket",
-    "count": 1,
     "uniques": 1
   }
 ]
