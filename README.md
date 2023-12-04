@@ -544,6 +544,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-optional-works/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-optional-works)
 ```
 
+## 📚 [pixelpackages3D](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-pixelpackages3D)
+
+### 📷 Badges without link of [pixelpackages3D](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-pixelpackages3D)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [pixelpackages3D](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-pixelpackages3D)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-pixelpackages3D/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-pixelpackages3D)
+```
+
 ## 📚 [purewriter-FAQ](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-purewriter-FAQ)
 
 ### 📷 Badges without link of [purewriter-FAQ](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-purewriter-FAQ)
