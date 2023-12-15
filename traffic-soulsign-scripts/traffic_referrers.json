@@ -1,18 +1,18 @@
 [
   {
     "referrer": "Google",
-    "count": 13,
+    "count": 10,
     "uniques": 4
   },
   {
     "referrer": "github.com",
-    "count": 8,
-    "uniques": 4
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "github.yixuju.cn",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "Baidu",
