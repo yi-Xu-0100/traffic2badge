@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "GitHub - yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 10,
-    "uniques": 7
+    "count": 12,
+    "uniques": 9
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/club.aliyun.com.js",
-    "title": "soulsign-scripts/scripts/club.aliyun.com.js at 58d538ad02b81536a97a8c2848083a...",
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts",
     "count": 4,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/register.stnts.com.js",
@@ -32,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
     "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.iqiyi.com.js",
+    "title": "soulsign-scripts/scripts/www.iqiyi.com.js at main · yi-Xu-0100/soulsign-scripts",
     "count": 2,
     "uniques": 1
   }

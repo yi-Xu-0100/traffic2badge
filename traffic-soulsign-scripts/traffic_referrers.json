@@ -1,8 +1,13 @@
 [
   {
+    "referrer": "github.yixuju.cn",
+    "count": 9,
+    "uniques": 2
+  },
+  {
     "referrer": "Google",
-    "count": 4,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "referrer": "github.com",
@@ -18,10 +23,5 @@
     "referrer": "bbs.kafan.cn",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "github.yixuju.cn",
-    "count": 1,
-    "uniques": 1
   }
 ]
