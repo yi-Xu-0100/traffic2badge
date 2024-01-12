@@ -5,18 +5,18 @@
     "uniques": 3
   },
   {
-    "referrer": "Google",
-    "count": 10,
-    "uniques": 6
-  },
-  {
     "referrer": "github.yixuju.cn",
     "count": 10,
     "uniques": 2
   },
   {
+    "referrer": "Google",
+    "count": 8,
+    "uniques": 5
+  },
+  {
     "referrer": "soulsign.inu1255.cn",
-    "count": 3,
-    "uniques": 1
+    "count": 5,
+    "uniques": 2
   }
 ]
