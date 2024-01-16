@@ -2,20 +2,8 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket",
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 8,
-    "uniques": 5
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/issues/1",
-    "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket · Gi...",
-    "count": 6,
+    "count": 5,
     "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
-    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 6,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/commits",
@@ -24,32 +12,26 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/scoop-bucket/issues/1",
+    "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket · Gi...",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/ClashForWindows.json",
     "title": "scoop-bucket/bucket/ClashForWindows.json at main · yi-Xu-0100/scoop-bucket · ...",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/NetAssist.json",
-    "title": "scoop-bucket/bucket/NetAssist.json at main · yi-Xu-0100/scoop-bucket · GitHub",
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
+    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/commit/f2c19cf78aefbcdbeb65eb8eb79380096abc3dbb",
     "title": "chore: upgrade TencentQQNT to version 9.9.6.19527 · yi-Xu-0100/scoop-bucket@f...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/issues",
-    "title": "Issues · yi-Xu-0100/scoop-bucket · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/pulls",
-    "title": "Pull requests · yi-Xu-0100/scoop-bucket · GitHub",
     "count": 1,
     "uniques": 1
   }
