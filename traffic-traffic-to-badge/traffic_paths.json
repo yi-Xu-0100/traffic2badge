@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.README.md",
+    "title": "File not found",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/edit/main/README.md",
+    "title": "Editing traffic-to-badge/README.md at main · yi-Xu-0100/traffic-to-badge",
+    "count": 2,
+    "uniques": 1
+  }
+]
