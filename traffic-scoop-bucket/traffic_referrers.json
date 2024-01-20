@@ -5,13 +5,13 @@
     "uniques": 1
   },
   {
-    "referrer": "scoop.sh",
-    "count": 6,
-    "uniques": 2
-  },
-  {
     "referrer": "cn.bing.com",
     "count": 5,
     "uniques": 5
+  },
+  {
+    "referrer": "scoop.sh",
+    "count": 3,
+    "uniques": 2
   }
 ]
