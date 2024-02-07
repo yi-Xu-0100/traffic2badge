@@ -1,5 +1,11 @@
 {
-  "count": 0,
-  "uniques": 0,
-  "views": []
+  "count": 12,
+  "uniques": 2,
+  "views": [
+    {
+      "timestamp": "2024-02-06T00:00:00Z",
+      "count": 12,
+      "uniques": 2
+    }
+  ]
 }
