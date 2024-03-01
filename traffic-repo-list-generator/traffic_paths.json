@@ -2,18 +2,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 8,
-    "uniques": 4
+    "count": 10,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
     "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/main/src",
-    "title": "repo-list-generator/src at main · yi-Xu-0100/repo-list-generator",
     "count": 4,
     "uniques": 2
   },
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/workflows/enhance-deps-pr.yml",
     "title": "repo-list-generator/.github/workflows/enhance-deps-pr.yml at main · yi-Xu-010...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.gitignore",
+    "title": "repo-list-generator/.gitignore at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   }
