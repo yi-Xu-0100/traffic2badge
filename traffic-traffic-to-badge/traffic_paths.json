@@ -1,15 +1,27 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 3,
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/310/checks",
+    "title": "chore(deps): ⬆️ bump word-wrap from 1.2.3 to 1.2.4 by dependabot[bot] · Pull ...",
+    "count": 4,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/issues/32",
+    "title": "Use template for week badge · Issue #32 · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/action.yml",
     "title": "traffic-to-badge/action.yml at main · yi-Xu-0100/traffic-to-badge",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/package.json",
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues",
     "title": "Issues · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/31",
-    "title": "Add note for traffic data · Issue #31 · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/32",
-    "title": "Use template for week badge · Issue #32 · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 1,
     "uniques": 1
   }
