@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 11,
-    "uniques": 8
+    "count": 13,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
+    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/commit/84ca560b04de50bb71805063768de098103f9ab4",
     "title": "feat: ✨ add www.aliyundrive.com.js to v1.0.1 · yi-Xu-0100/soulsign-scripts@84...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/pull/79",
-    "title": "chore(deps): ⬆️ bump actions/checkout from 3 to 4 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }
