@@ -21,16 +21,16 @@
   },
   {
     "referrer": "cn.bing.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "sou.mxin.moe",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "yixu0100.gitee.io",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "sou.mxin.moe",
     "count": 1,
     "uniques": 1
   }
