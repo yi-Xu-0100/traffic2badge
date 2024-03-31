@@ -3,17 +3,17 @@
   "uniques": 3,
   "views": [
     {
-      "timestamp": "2024-03-23T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "timestamp": "2024-03-27T00:00:00Z",
       "count": 1,
       "uniques": 1
     },
     {
       "timestamp": "2024-03-28T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2024-03-30T00:00:00Z",
       "count": 1,
       "uniques": 1
     }
