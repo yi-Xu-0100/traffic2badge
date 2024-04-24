@@ -5,11 +5,6 @@
     "uniques": 9
   },
   {
-    "referrer": "github.yixuju.cn",
-    "count": 7,
-    "uniques": 3
-  },
-  {
     "referrer": "Bing",
     "count": 4,
     "uniques": 1
@@ -18,5 +13,10 @@
     "referrer": "cn.bing.com",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "github.yixuju.cn",
+    "count": 3,
+    "uniques": 2
   }
 ]

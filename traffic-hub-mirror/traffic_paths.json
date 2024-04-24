@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 13,
-    "uniques": 9
+    "count": 12,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.list.org.yml",
@@ -12,28 +12,16 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
-    "title": "hub-mirror/template/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 8,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.yml",
     "title": "hub-mirror/.github/workflows/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
     "count": 6,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
-    "title": "hub-mirror/template/sync2gitee.cached.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
-    "title": "hub-mirror/template/sync2gitee.yml at main · yi-Xu-0100/hub-mirror",
-    "count": 4,
-    "uniques": 2
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
+    "title": "hub-mirror/template/sync2gitee.list.yml at main · yi-Xu-0100/hub-mirror",
+    "count": 6,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/sync2gitee.cached.yml",
@@ -58,5 +46,17 @@
     "title": "Issues · yi-Xu-0100/hub-mirror",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/issues/18",
+    "title": "The TOC of readme can be deleted · Issue #18 · yi-Xu-0100/hub-mirror",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.github/workflows/enhance-deps-pr.yml",
+    "title": "hub-mirror/.github/workflows/enhance-deps-pr.yml at main · yi-Xu-0100/hub-mir...",
+    "count": 2,
+    "uniques": 1
   }
 ]
