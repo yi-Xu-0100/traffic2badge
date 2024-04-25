@@ -1,21 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator/commits/main",
-    "title": "Commits · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 26,
-    "uniques": 3
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
-    "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 12,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 11,
-    "uniques": 6
+    "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator",
+    "count": 8,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/network/dependents",
@@ -27,18 +21,6 @@
     "path": "/yi-Xu-0100/repo-list-generator/blame/main/README.md",
     "title": "Blaming repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/4d01ce871f36b75399b991c06d7f7c92f710159a/.github/workflows/enhance-deps-pr.yml",
-    "title": "repo-list-generator/.github/workflows/enhance-deps-pr.yml at 4d01ce871f36b753...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/tree/4d01ce871f36b75399b991c06d7f7c92f710159a",
-    "title": "yi-Xu-0100/repo-list-generator at 4d01ce871f36b75399b991c06d7f7c92f710159a",
-    "count": 1,
     "uniques": 1
   }
 ]
