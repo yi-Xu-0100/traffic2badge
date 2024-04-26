@@ -1,5 +1,11 @@
 [
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/295",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.13 to 17.0.14 by dependabot[bot] ·...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/303",
     "title": "chore(deps): ⬆️ bump eslint-config-alloy from 4.4.0 to 4.5.1 by dependabot[bo...",
     "count": 1,
