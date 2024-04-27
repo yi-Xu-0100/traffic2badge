@@ -2,8 +2,26 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 12,
+    "count": 20,
     "uniques": 10
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
+    "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues",
+    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 9,
+    "uniques": 6
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
+    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 6,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
@@ -14,12 +32,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/80",
     "title": "随便聊聊 关于星辰签到的问题 · Issue #80 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 2
   },
@@ -32,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/deployments",
     "title": "Deployments · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github/workflows",
+    "title": "soulsign-scripts/.github/workflows at main · yi-Xu-0100/soulsign-scripts · Gi...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.vscode",
+    "title": "soulsign-scripts/.vscode at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 1
   }

@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/350",
+    "title": "chore(deps): ⬆️ bump typescript from 4.7.2 to 4.7.3 by dependabot[bot] · Pull...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/73",
     "title": "chore(deps): ⬆️ bump codecov/codecov-action from v1.3.2 to v1.4.0 by dependab...",
     "count": 1,
