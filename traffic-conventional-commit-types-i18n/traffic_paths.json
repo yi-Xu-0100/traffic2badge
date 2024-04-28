@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/359",
+    "title": "chore(deps): ⬆️ bump @types/node from 17.0.43 to 18.0.0 by dependabot[bot] · ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/73",
     "title": "chore(deps): ⬆️ bump codecov/codecov-action from v1.3.2 to v1.4.0 by dependab...",
     "count": 1,
