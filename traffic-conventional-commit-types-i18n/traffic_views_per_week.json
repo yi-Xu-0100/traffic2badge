@@ -1,11 +1,11 @@
 {
-  "count": 3,
-  "uniques": 3,
+  "count": 1,
+  "uniques": 1,
   "views": [
     {
-      "timestamp": "2024-04-27T00:00:00Z",
-      "count": 3,
-      "uniques": 3
+      "timestamp": "2024-05-04T00:00:00Z",
+      "count": 1,
+      "uniques": 1
     }
   ]
 }
