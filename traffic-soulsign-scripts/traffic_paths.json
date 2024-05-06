@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 14,
-    "uniques": 10
+    "count": 12,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
@@ -36,12 +36,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/80",
-    "title": "随便聊聊 关于星辰签到的问题 · Issue #80 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/api.live.bilibili.com.js",
     "title": "soulsign-scripts/scripts/api.live.bilibili.com.js at 58d538ad02b81536a97a8c28...",
     "count": 2,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github/workflows",
     "title": "soulsign-scripts/.github/workflows at main · yi-Xu-0100/soulsign-scripts · Gi...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.vscode",
+    "title": "soulsign-scripts/.vscode at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 1
   }
