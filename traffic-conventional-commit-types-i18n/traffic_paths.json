@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/303",
-    "title": "chore(deps): ⬆️ bump eslint-config-alloy from 4.4.0 to 4.5.1 by dependabot[bo...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/350",
     "title": "chore(deps): ⬆️ bump typescript from 4.7.2 to 4.7.3 by dependabot[bot] · Pull...",
     "count": 1,
@@ -44,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/52",
     "title": "chore(deps): ⬆️ bump husky from 5.2.0 to 6.0.0 by dependabot[bot] · Pull Requ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/73",
-    "title": "chore(deps): ⬆️ bump codecov/codecov-action from v1.3.2 to v1.4.0 by dependab...",
     "count": 1,
     "uniques": 1
   }
