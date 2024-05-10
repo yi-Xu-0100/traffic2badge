@@ -1,7 +1,19 @@
 [
   {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/123",
+    "title": "chore(deps): ⬆️ bump lint-staged from 12.1.7 to 12.2.0 by dependabot[bot] · P...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/175",
     "title": "chore(deps): ⬆️ bump mindsers/changelog-reader-action from 2.1.0 to 2.1.1 by ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hugo-theme-whiteink/pull/199",
+    "title": "chore(deps): ⬆️ bump @vercel/ncc from 0.34.0 to 0.36.0 by dependabot[bot] · P...",
     "count": 1,
     "uniques": 1
   }
