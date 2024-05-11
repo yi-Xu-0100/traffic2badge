@@ -4,23 +4,5 @@
     "title": "chore(deps): ⬆️ bump @typescript-eslint/eslint-plugin from 4.32.0 to 4.33.0 b...",
     "count": 1,
     "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/351",
-    "title": "chore(deps): ⬆️ bump @types/node from 17.0.39 to 17.0.40 by dependabot[bot] ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/49",
-    "title": "chore(deps): ⬆️ bump @types/node from 14.14.35 to 14.14.36 by dependabot[bot]...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/pull/52",
-    "title": "chore(deps): ⬆️ bump husky from 5.2.0 to 6.0.0 by dependabot[bot] · Pull Requ...",
-    "count": 1,
-    "uniques": 1
   }
 ]
