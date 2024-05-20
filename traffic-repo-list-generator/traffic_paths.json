@@ -12,16 +12,16 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "GitHub - yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate r...",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/index.js",
     "title": "repo-list-generator/src/index.js at main · yi-Xu-0100/repo-list-generator · G...",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "GitHub - yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate r...",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
