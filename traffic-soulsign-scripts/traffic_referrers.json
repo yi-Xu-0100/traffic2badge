@@ -6,8 +6,8 @@
   },
   {
     "referrer": "yandex.com",
-    "count": 6,
-    "uniques": 5
+    "count": 7,
+    "uniques": 6
   },
   {
     "referrer": "soulsign.inu1255.cn",
@@ -21,6 +21,11 @@
   },
   {
     "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "cn.bing.com",
     "count": 1,
     "uniques": 1
   },
