@@ -1,22 +1,22 @@
 [
   {
     "referrer": "Google",
-    "count": 18,
-    "uniques": 14
-  },
-  {
-    "referrer": "cn.bing.com",
-    "count": 2,
-    "uniques": 2
+    "count": 23,
+    "uniques": 18
   },
   {
     "referrer": "github.com",
-    "count": 2,
+    "count": 11,
+    "uniques": 3
+  },
+  {
+    "referrer": "cn.bing.com",
+    "count": 3,
     "uniques": 2
   },
   {
     "referrer": "yandex.com",
-    "count": 2,
+    "count": 3,
     "uniques": 2
   }
 ]
