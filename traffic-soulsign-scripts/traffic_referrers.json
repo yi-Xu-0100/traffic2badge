@@ -10,6 +10,11 @@
     "uniques": 6
   },
   {
+    "referrer": "Bing",
+    "count": 13,
+    "uniques": 2
+  },
+  {
     "referrer": "yandex.com",
     "count": 5,
     "uniques": 4

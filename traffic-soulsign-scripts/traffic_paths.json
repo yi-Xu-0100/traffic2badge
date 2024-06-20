@@ -8,8 +8,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 27,
-    "uniques": 14
+    "count": 33,
+    "uniques": 16
   },
   {
     "path": "/yi-xu-0100/soulsign-scripts/issues/61",
@@ -20,13 +20,37 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/deployments",
+    "title": "Deployments · yi-Xu-0100/soulsign-scripts",
     "count": 4,
-    "uniques": 4
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
     "title": "soulsign-scripts/scripts at main · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/compare",
+    "title": "Compare · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/compare/main...dependabot/github_actions/actions/checkout-4",
+    "title": "Comparing main...dependabot/github_actions/actions/checkout-4 · yi-Xu-0100/so...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
     "uniques": 1
   }
 ]
