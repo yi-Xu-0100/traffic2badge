@@ -1,11 +1,6 @@
 [
   {
     "referrer": "Google",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "kkgithub.com",
     "count": 1,
     "uniques": 1
   }
