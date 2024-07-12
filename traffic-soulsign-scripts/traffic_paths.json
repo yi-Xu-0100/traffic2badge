@@ -3,7 +3,7 @@
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
     "count": 45,
-    "uniques": 22
+    "uniques": 23
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -24,16 +24,16 @@
     "uniques": 2
   },
   {
-    "path": "/yi-xu-0100/soulsign-scripts/issues/61",
-    "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/80",
     "title": "随便聊聊 关于星辰签到的问题 · Issue #80 · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-xu-0100/soulsign-scripts/issues/61",
+    "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 3,
-    "uniques": 3
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.ablesci.com.js",
-    "title": "soulsign-scripts/scripts/www.ablesci.com.js at 58d538ad02b81536a97a8c2848083a...",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
+    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/build2.4.3.zip",
-    "title": "soulsign-scripts/build2.4.3.zip at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/baipiaoyun.xyz.js",
+    "title": "soulsign-scripts/scripts/baipiaoyun.xyz.js at main · yi-Xu-0100/soulsign-scri...",
     "count": 2,
     "uniques": 1
   }
