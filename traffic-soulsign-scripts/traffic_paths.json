@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 35,
+    "count": 34,
     "uniques": 17
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/issues",
+    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 10,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 9,
     "uniques": 6
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 8,
-    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/j02.space.js",
+    "title": "soulsign-scripts/scripts/j02.space.js at 58d538ad02b81536a97a8c2848083a197a7c...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/baipiaoyun.xyz.js",
     "title": "soulsign-scripts/scripts/baipiaoyun.xyz.js at main · yi-Xu-0100/soulsign-scri...",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/leetcode-cn.com.js",
     "title": "soulsign-scripts/scripts/leetcode-cn.com.js at main · yi-Xu-0100/soulsign-scr...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/wenku.baidu.com.js",
-    "title": "soulsign-scripts/scripts/wenku.baidu.com.js at main · yi-Xu-0100/soulsign-scr...",
     "count": 2,
     "uniques": 1
   }
