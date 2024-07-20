@@ -2,32 +2,26 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 24,
-    "uniques": 17
+    "count": 26,
+    "uniques": 18
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 9,
+    "count": 8,
     "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 6,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
-    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts",
-    "count": 3,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/80",
@@ -42,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/baipiaoyun.xyz.js",
-    "title": "soulsign-scripts/scripts/baipiaoyun.xyz.js at main · yi-Xu-0100/soulsign-scri...",
+    "path": "/yi-Xu-0100/soulsign-scripts/deployments/github-pages",
+    "title": "Deployments · yi-Xu-0100/soulsign-scripts",
     "count": 2,
     "uniques": 1
   },
@@ -54,9 +48,15 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github/workflows",
-    "title": "soulsign-scripts/.github/workflows at main · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
+    "path": "/yi-Xu-0100/soulsign-scripts/issues/6",
+    "title": "wnflb签到 不在线 · Issue #6 · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/labels/stale",
+    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 1,
     "uniques": 1
   }
 ]
