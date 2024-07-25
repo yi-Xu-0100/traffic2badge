@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 13,
+    "count": 15,
     "uniques": 8
   },
   {
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "cn.bing.com",
-    "count": 4,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
@@ -33,5 +33,10 @@
     "referrer": "yandex.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "Baidu",
+    "count": 1,
+    "uniques": 1
   }
 ]
