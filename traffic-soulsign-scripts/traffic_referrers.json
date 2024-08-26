@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 51,
+    "count": 49,
     "uniques": 29
   },
   {
@@ -30,12 +30,17 @@
     "uniques": 2
   },
   {
+    "referrer": "link.zhihu.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "bbs.kafan.cn",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "link.zhihu.com",
+    "referrer": "gitee.com",
     "count": 1,
     "uniques": 1
   }
