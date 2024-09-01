@@ -3,5 +3,10 @@
     "referrer": "uk.search.yahoo.com",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "referrer": "medium.com",
+    "count": 2,
+    "uniques": 1
   }
 ]
