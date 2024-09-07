@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 20,
-    "uniques": 15
+    "count": 28,
+    "uniques": 18
   },
   {
     "referrer": "github.com",
@@ -11,8 +11,8 @@
   },
   {
     "referrer": "cn.bing.com",
-    "count": 6,
-    "uniques": 3
+    "count": 8,
+    "uniques": 4
   },
   {
     "referrer": "Bing",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "gitee.com",
-    "count": 3,
-    "uniques": 2
+    "count": 2,
+    "uniques": 1
   },
   {
     "referrer": "soulsign.inu1255.cn",

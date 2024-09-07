@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Ins...",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/activity",
-    "title": "Activity · yi-Xu-0100/traffic-to-badge",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/30b72a5c14228f077c629658eb56a78f3c71fd3c/src/traffic.js",
@@ -21,18 +15,6 @@
     "path": "/yi-Xu-0100/traffic-to-badge/edit/main/README.md",
     "title": "Editing traffic-to-badge/README.md at main · yi-Xu-0100/traffic-to-badge",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues",
-    "title": "Issues · yi-Xu-0100/traffic-to-badge",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/265",
-    "title": "Feature request: Include total number of downloads for all releases of a repo...",
-    "count": 1,
     "uniques": 1
   }
 ]
