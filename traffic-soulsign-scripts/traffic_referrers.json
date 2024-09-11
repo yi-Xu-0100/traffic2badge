@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 24,
-    "uniques": 17
+    "count": 25,
+    "uniques": 18
   },
   {
     "referrer": "github.com",
-    "count": 15,
-    "uniques": 6
+    "count": 17,
+    "uniques": 8
   },
   {
     "referrer": "cn.bing.com",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "Bing",
-    "count": 3,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "referrer": "github.yixuju.cn",
