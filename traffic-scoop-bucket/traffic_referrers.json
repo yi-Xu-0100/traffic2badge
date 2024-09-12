@@ -5,6 +5,16 @@
     "uniques": 1
   },
   {
+    "referrer": "Bing",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "cn.bing.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "referrer": "Yahoo",
     "count": 1,
     "uniques": 1
