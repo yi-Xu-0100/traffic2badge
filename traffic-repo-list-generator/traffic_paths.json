@@ -8,8 +8,14 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 2,
-    "uniques": 2
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
+    "title": "repo-list-generator/action.yml at main · yi-Xu-0100/repo-list-generator",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blame/ab43860392fbfa12528e4afb184555c0c08abc5c/.github/dependabot.yml",
@@ -20,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/blame/main/.github/dependabot.yml",
     "title": "Blaming repo-list-generator/.github/dependabot.yml at main · yi-Xu-0100/repo-...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/src/repo.js",
+    "title": "repo-list-generator/src/repo.js at main · yi-Xu-0100/repo-list-generator",
     "count": 2,
     "uniques": 1
   }
