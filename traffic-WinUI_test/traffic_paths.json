@@ -6,6 +6,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/WinUI_test",
+    "title": "yi-Xu-0100/WinUI_test: WinUI_test",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/WinUI_test/blob/7751a2c01e5c12abcfe935585856752f7db06387/WinUI_test/TemplateStudio.xml",
     "title": "WinUI_test/WinUI_test/TemplateStudio.xml at 7751a2c01e5c12abcfe935585856752f7...",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/WinUI_test/blob/main/WinUI_test/ViewModels/MainViewModel.cs",
     "title": "WinUI_test/WinUI_test/ViewModels/MainViewModel.cs at main · yi-Xu-0100/WinUI_...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/WinUI_test/blob/main/WinUI_test/ViewModels/P1ViewModel.cs",
-    "title": "WinUI_test/WinUI_test/ViewModels/P1ViewModel.cs at main · yi-Xu-0100/WinUI_test",
     "count": 2,
     "uniques": 1
   }

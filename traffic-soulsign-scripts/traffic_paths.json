@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 20,
-    "uniques": 11
+    "count": 18,
+    "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
@@ -12,16 +12,16 @@
     "uniques": 7
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/6",
     "title": "wnflb签到 不在线 · Issue #6 · yi-Xu-0100/soulsign-scripts · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.iqiyi.com.js",
+    "title": "soulsign-scripts/scripts/www.iqiyi.com.js at 58d538ad02b81536a97a8c2848083a19...",
+    "count": 2,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
@@ -30,8 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues/80",
-    "title": "随便聊聊 关于星辰签到的问题 · Issue #80 · yi-Xu-0100/soulsign-scripts · GitHub",
+    "path": "/yi-Xu-0100/soulsign-scripts/issues",
+    "title": "Issues · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/58d538ad02b81536a97a8c2848083a197a7c6ed2",
+    "title": "yi-Xu-0100/soulsign-scripts at 58d538ad02b81536a97a8c2848083a197a7c6ed2",
     "count": 1,
     "uniques": 1
   }
