@@ -3,5 +3,10 @@
     "referrer": "Bing",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "scoop.sh",
+    "count": 2,
+    "uniques": 1
   }
 ]
