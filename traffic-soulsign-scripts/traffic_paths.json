@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 21,
-    "uniques": 12
+    "count": 22,
+    "uniques": 13
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
@@ -38,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.ablesci.com.js",
     "title": "soulsign-scripts/scripts/www.ablesci.com.js at 58d538ad02b81536a97a8c2848083a...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/cloud.189.cn.js",
+    "title": "soulsign-scripts/scripts/cloud.189.cn.js at main · yi-Xu-0100/soulsign-script...",
     "count": 1,
     "uniques": 1
   },
