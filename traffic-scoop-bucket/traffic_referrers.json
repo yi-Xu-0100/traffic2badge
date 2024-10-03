@@ -1,12 +1,12 @@
 [
   {
-    "referrer": "Bing",
-    "count": 2,
+    "referrer": "scoop.sh",
+    "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "scoop.sh",
+    "referrer": "Bing",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   }
 ]
