@@ -3,5 +3,10 @@
     "referrer": "cn.bing.com",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
   }
 ]
