@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 24,
-    "uniques": 16
+    "count": 34,
+    "uniques": 18
   },
   {
     "referrer": "github.com",
@@ -10,14 +10,9 @@
     "uniques": 4
   },
   {
-    "referrer": "blog.csdn.net",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "referrer": "soulsign.inu1255.cn",
-    "count": 4,
-    "uniques": 2
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "Bing",
