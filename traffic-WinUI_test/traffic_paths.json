@@ -2,12 +2,18 @@
   {
     "path": "/yi-Xu-0100/WinUI_test/tree/main/WinUI_test",
     "title": "WinUI_test/WinUI_test at main · yi-Xu-0100/WinUI_test",
-    "count": 2,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/WinUI_test",
     "title": "yi-Xu-0100/WinUI_test: WinUI_test",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/WinUI_test/blob/7751a2c01e5c12abcfe935585856752f7db06387/WinUI_test/Views/SettingsPage.xaml",
+    "title": "WinUI_test/WinUI_test/Views/SettingsPage.xaml at 7751a2c01e5c12abcfe935585856...",
     "count": 1,
     "uniques": 1
   },
@@ -38,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/WinUI_test/blob/main/WinUI_test/ViewModels/ShellViewModel.cs",
     "title": "WinUI_test/WinUI_test/ViewModels/ShellViewModel.cs at main · yi-Xu-0100/WinUI...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/WinUI_test/tree/7751a2c01e5c12abcfe935585856752f7db06387/WinUI_test/Views",
+    "title": "WinUI_test/WinUI_test/Views at 7751a2c01e5c12abcfe935585856752f7db06387 · yi-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/WinUI_test/tree/main/WinUI_test/Views",
+    "title": "WinUI_test/WinUI_test/Views at main · yi-Xu-0100/WinUI_test",
     "count": 1,
     "uniques": 1
   }
