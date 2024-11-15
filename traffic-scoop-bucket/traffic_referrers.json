@@ -3,5 +3,10 @@
     "referrer": "cn.bing.com",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "referrer": "aecra.cn",
+    "count": 2,
+    "uniques": 1
   }
 ]
