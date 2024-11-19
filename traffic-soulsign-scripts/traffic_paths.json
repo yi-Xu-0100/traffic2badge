@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 22,
-    "uniques": 10
+    "count": 23,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 18,
-    "uniques": 12
+    "count": 17,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -21,12 +21,6 @@
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
     "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.v2ex.com.js",
-    "title": "soulsign-scripts/scripts/www.v2ex.com.js at 58d538ad02b81536a97a8c2848083a197...",
-    "count": 2,
     "uniques": 1
   },
   {
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/tree/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts",
-    "title": "soulsign-scripts/scripts at 58d538ad02b81536a97a8c2848083a197a7c6ed2 · yi-Xu-...",
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github",
+    "title": "soulsign-scripts/.github at main · yi-Xu-0100/soulsign-scripts · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/tree/main/.github/workflows",
+    "title": "soulsign-scripts/.github/workflows at main · yi-Xu-0100/soulsign-scripts · Gi...",
     "count": 1,
     "uniques": 1
   }
