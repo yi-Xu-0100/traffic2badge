@@ -22,7 +22,7 @@ jobs:
 
       - name: Get Commit Message
         id: message
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         env:
           FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
         with:
