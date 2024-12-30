@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/soulsign-scripts",
-    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 21,
-    "uniques": 13
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 16,
-    "uniques": 15
+    "count": 19,
+    "uniques": 17
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts",
+    "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
+    "count": 19,
+    "uniques": 12
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/LICENSE",
-    "title": "soulsign-scripts/LICENSE at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/commit/af8e56ac27199fa93eb37d09b074bc90465d74d5",
+    "title": "docs: 📝 add notes of gratitude to script authors · yi-Xu-0100/soulsign-scrip...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/README.md",
-    "title": "soulsign-scripts/README.md at main · yi-Xu-0100/soulsign-scripts",
+    "path": "/yi-Xu-0100/soulsign-scripts/deployments",
+    "title": "Deployments · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
