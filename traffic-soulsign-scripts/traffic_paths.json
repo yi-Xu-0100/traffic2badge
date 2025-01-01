@@ -8,14 +8,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 19,
-    "uniques": 12
+    "count": 17,
+    "uniques": 11
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "Issues · yi-Xu-0100/soulsign-scripts · GitHub",
-    "count": 6,
-    "uniques": 3
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/80",
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/fishc.com.cn.js",
-    "title": "soulsign-scripts/scripts/fishc.com.cn.js at 58d538ad02b81536a97a8c2848083a197...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/renzhe.cloud.js",
     "title": "soulsign-scripts/scripts/renzhe.cloud.js at 58d538ad02b81536a97a8c2848083a197...",
     "count": 1,
@@ -55,6 +49,12 @@
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/deployments",
+    "title": "Deployments · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/deployments/github-pages",
     "title": "Deployments · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
