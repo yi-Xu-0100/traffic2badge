@@ -5,13 +5,13 @@
     "uniques": 1
   },
   {
-    "referrer": "zhaouncle.com",
+    "referrer": "github.com",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "referrer": "github.com",
-    "count": 2,
+    "referrer": "zhaouncle.com",
+    "count": 3,
     "uniques": 1
   }
 ]
