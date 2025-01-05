@@ -3,5 +3,10 @@
     "referrer": "cn.bing.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "ya.ru",
+    "count": 2,
+    "uniques": 1
   }
 ]
