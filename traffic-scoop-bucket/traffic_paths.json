@@ -1,19 +1,61 @@
 [
   {
-    "path": "/yi-Xu-0100/scoop-bucket/issues",
-    "title": "Issues · yi-Xu-0100/scoop-bucket",
-    "count": 2,
+    "path": "/yi-Xu-0100/scoop-bucket/actions",
+    "title": "Workflow runs · yi-Xu-0100/scoop-bucket",
+    "count": 14,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket",
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 1,
+    "count": 13,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/pull/2",
+    "title": "TencentQQNT: Add checkver script and 32bit support by AkariiinMKII · Pull Req...",
+    "count": 13,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/pulls",
+    "title": "Pull requests · yi-Xu-0100/scoop-bucket",
+    "count": 10,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/actions/workflows/excavator.yml",
+    "title": "Excavator · Workflow runs · yi-Xu-0100/scoop-bucket",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/issues",
+    "title": "Issues · yi-Xu-0100/scoop-bucket",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
+    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket",
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/issues/1",
     "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/TencentQQNT.json",
+    "title": "scoop-bucket/bucket/TencentQQNT.json at main · yi-Xu-0100/scoop-bucket",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/12801386434",
+    "title": "TencentQQNT: Add checkver script and 32bit support · yi-Xu-0100/scoop-bucket@...",
     "count": 1,
     "uniques": 1
   }
