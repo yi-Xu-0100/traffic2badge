@@ -15,9 +15,9 @@
     "uniques": 2
   },
   {
-    "referrer": "yandex.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "github.yixuju.cn",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "Bing",
@@ -25,12 +25,7 @@
     "uniques": 1
   },
   {
-    "referrer": "github.yixuju.cn",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "yandex.ru",
+    "referrer": "yandex.com",
     "count": 1,
     "uniques": 1
   }
