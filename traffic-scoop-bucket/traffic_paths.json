@@ -2,19 +2,25 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/actions",
     "title": "Workflow runs · yi-Xu-0100/scoop-bucket",
-    "count": 17,
+    "count": 20,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket",
     "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 16,
+    "count": 17,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/pull/2",
     "title": "TencentQQNT: Add checkver script and 32bit support by AkariiinMKII · Pull Req...",
-    "count": 14,
+    "count": 16,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/pulls",
+    "title": "Pull requests · yi-Xu-0100/scoop-bucket",
+    "count": 12,
     "uniques": 2
   },
   {
@@ -24,15 +30,9 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/pulls",
-    "title": "Pull requests · yi-Xu-0100/scoop-bucket",
-    "count": 10,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/scoop-bucket/issues",
     "title": "Issues · yi-Xu-0100/scoop-bucket",
-    "count": 4,
+    "count": 5,
     "uniques": 2
   },
   {
@@ -54,9 +54,9 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/actions/runs/12801386434",
-    "title": "TencentQQNT: Add checkver script and 32bit support · yi-Xu-0100/scoop-bucket@...",
-    "count": 1,
-    "uniques": 1
+    "path": "/yi-Xu-0100/scoop-bucket/pull/2/files",
+    "title": "TencentQQNT: Add checkver script and 32bit support by AkariiinMKII · Pull Req...",
+    "count": 2,
+    "uniques": 2
   }
 ]
