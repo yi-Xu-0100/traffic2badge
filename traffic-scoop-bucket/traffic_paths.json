@@ -6,15 +6,15 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 17,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/scoop-bucket/pull/2",
     "title": "TencentQQNT: Add checkver script and 32bit support by AkariiinMKII · Pull Req...",
     "count": 17,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "count": 16,
     "uniques": 2
   },
   {
@@ -32,14 +32,8 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/issues/1",
     "title": "[Download]: UartAssist串口调试助手 - 野人家园 · Issue #1 · yi-Xu-0100/scoop-bucket",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/issues",
-    "title": "Issues · yi-Xu-0100/scoop-bucket",
-    "count": 5,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
@@ -50,6 +44,12 @@
   {
     "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/TencentQQNT.json",
     "title": "scoop-bucket/bucket/TencentQQNT.json at main · yi-Xu-0100/scoop-bucket",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/issues",
+    "title": "Issues · yi-Xu-0100/scoop-bucket",
     "count": 3,
     "uniques": 1
   },
