@@ -18,15 +18,15 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "path": "/yi-Xu-0100/scoop-bucket/pulls",
+    "title": "Pull requests · yi-Xu-0100/scoop-bucket",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/pulls",
-    "title": "Pull requests · yi-Xu-0100/scoop-bucket",
-    "count": 2,
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/TencentQQNT.json",
-    "title": "scoop-bucket/bucket/TencentQQNT.json at main · yi-Xu-0100/scoop-bucket",
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/.github/workflows/excavator.yml",
+    "title": "scoop-bucket/.github/workflows/excavator.yml at main · yi-Xu-0100/scoop-bucket",
     "count": 1,
     "uniques": 1
   }
