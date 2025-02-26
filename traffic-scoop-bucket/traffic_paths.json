@@ -1,33 +1,27 @@
 [
   {
-    "path": "/yi-Xu-0100/scoop-bucket",
-    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
-    "count": 4,
+    "path": "/yi-Xu-0100/scoop-bucket/pull/3",
+    "title": "TencentQQNT: Update checkver script, add arm64 version by AkariiinMKII · Pull...",
+    "count": 6,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/pull/3",
-    "title": "TencentQQNT: Update checkver script, add arm64 version by AkariiinMKII · Pull...",
-    "count": 4,
-    "uniques": 1
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "yi-Xu-0100/scoop-bucket: Personal Bucket for Scoop.",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/pull/3/files",
     "title": "TencentQQNT: Update checkver script, add arm64 version by AkariiinMKII · Pull...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
-    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket",
-    "count": 2,
+    "count": 4,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/actions",
     "title": "Workflow runs · yi-Xu-0100/scoop-bucket",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/TencentQQNT.json",
@@ -36,14 +30,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/WinRAR.json",
-    "title": "scoop-bucket/bucket/WinRAR.json at main · yi-Xu-0100/scoop-bucket",
+    "path": "/yi-Xu-0100/scoop-bucket/compare/main...AkariiinMKII:scoop-bucket:main",
+    "title": "Comparing yi-Xu-0100:main...AkariiinMKII:main · yi-Xu-0100/scoop-bucket",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/scoop-bucket/compare/main...AkariiinMKII:scoop-bucket:main",
-    "title": "Comparing yi-Xu-0100:main...AkariiinMKII:main · yi-Xu-0100/scoop-bucket",
+    "path": "/yi-Xu-0100/scoop-bucket/pulls",
+    "title": "Pull requests · yi-Xu-0100/scoop-bucket",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
+    "title": "scoop-bucket/bucket at main · yi-Xu-0100/scoop-bucket",
     "count": 1,
     "uniques": 1
   }
