@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 G...",
-    "count": 6,
-    "uniques": 6
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/a564aab17d7ec9167dfc7e696a79c314754fa380/template/patch.yml",
+    "title": "hub-mirror/template/patch.yml at a564aab17d7ec9167dfc7e696a79c314754fa380 · y...",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/activity",
@@ -12,8 +18,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/a564aab17d7ec9167dfc7e696a79c314754fa380/template/patch.yml",
-    "title": "hub-mirror/template/patch.yml at a564aab17d7ec9167dfc7e696a79c314754fa380 · y...",
+    "path": "/yi-Xu-0100/hub-mirror/blob/a564aab17d7ec9167dfc7e696a79c314754fa380/template/sync2gitee.list.yml",
+    "title": "hub-mirror/template/sync2gitee.list.yml at a564aab17d7ec9167dfc7e696a79c31475...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/a564aab17d7ec9167dfc7e696a79c314754fa380/template/sync2gitee.yml",
+    "title": "hub-mirror/template/sync2gitee.yml at a564aab17d7ec9167dfc7e696a79c314754fa38...",
     "count": 1,
     "uniques": 1
   },
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
     "title": "hub-mirror/README.md at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commit/36dbbd175ad33a2e8dbc931555dc214b4b2fb362",
-    "title": "💄 update small style type · yi-Xu-0100/hub-mirror@36dbbd1 · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
-    "title": "📄 update license year · yi-Xu-0100/hub-mirror@47945a0 · GitHub",
     "count": 1,
     "uniques": 1
   }
