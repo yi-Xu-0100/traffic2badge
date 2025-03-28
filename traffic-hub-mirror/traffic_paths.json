@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/activity",
-    "title": "Activity · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/a564aab17d7ec9167dfc7e696a79c314754fa380/template/patch.yml",
     "title": "hub-mirror/template/patch.yml at a564aab17d7ec9167dfc7e696a79c314754fa380 · y...",
     "count": 1,
@@ -36,26 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/CHANGELOG.md",
-    "title": "hub-mirror/CHANGELOG.md at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
-    "title": "hub-mirror/.gitignore at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
-    "title": "hub-mirror/LICENSE at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
-    "title": "hub-mirror/.prettierignore at main · yi-Xu-0100/hub-mirror · GitHub",
+    "path": "/yi-Xu-0100/hub-mirror/issues",
+    "title": "Issues · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }

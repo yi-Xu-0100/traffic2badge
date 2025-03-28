@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 30,
+    "count": 29,
     "uniques": 16
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "referrer": "soulsign.inu1255.cn",
-    "count": 4,
+    "count": 5,
     "uniques": 3
   },
   {
@@ -25,12 +25,12 @@
     "uniques": 2
   },
   {
-    "referrer": "cn.bing.com",
+    "referrer": "gitee.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "gitee.com",
+    "referrer": "cn.bing.com",
     "count": 2,
     "uniques": 1
   }
