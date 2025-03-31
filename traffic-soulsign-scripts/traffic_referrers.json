@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 28,
+    "count": 29,
     "uniques": 16
   },
   {
@@ -20,18 +20,13 @@
     "uniques": 3
   },
   {
-    "referrer": "gitee.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "referrer": "cn.bing.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "link.csdn.net",
-    "count": 1,
+    "referrer": "gitee.com",
+    "count": 2,
     "uniques": 1
   }
 ]
