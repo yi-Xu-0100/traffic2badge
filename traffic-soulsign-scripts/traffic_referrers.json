@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 12,
-    "uniques": 11
+    "count": 14,
+    "uniques": 13
   },
   {
     "referrer": "cn.bing.com",
-    "count": 8,
-    "uniques": 2
+    "count": 7,
+    "uniques": 1
   },
   {
     "referrer": "github.com",
@@ -21,12 +21,12 @@
   },
   {
     "referrer": "bbs.kanxue.com",
-    "count": 2,
-    "uniques": 1
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "Bing",
-    "count": 2,
+    "count": 1,
     "uniques": 1
   },
   {
