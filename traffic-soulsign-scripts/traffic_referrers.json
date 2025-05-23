@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 20,
-    "uniques": 15
+    "count": 16,
+    "uniques": 11
   },
   {
     "referrer": "link.gitcode.com",
@@ -20,7 +20,7 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "link.csdn.net",
     "count": 1,
     "uniques": 1
   },
