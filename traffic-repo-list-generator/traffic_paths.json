@@ -48,14 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/compare/v1.0.1...HEAD",
-    "title": "Comparing v1.0.1...HEAD · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/issues/262",
+    "title": "Warning: Unexpected input(s) 'allow_archived' · Issue #262 · yi-Xu-0100/repo-...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/compare/v1.1.0...HEAD",
-    "title": "Comparing v1.1.0...HEAD · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/pull/226",
+    "title": "chore(deps): ⬆️ bump eslint from 8.22.0 to 8.23.0 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   }
