@@ -1,13 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 20,
-    "uniques": 12
-  },
-  {
-    "referrer": "github.com",
-    "count": 5,
-    "uniques": 2
+    "count": 21,
+    "uniques": 13
   },
   {
     "referrer": "bbs.kafan.cn",
@@ -22,6 +17,16 @@
   {
     "referrer": "soulsign.inu1255.cn",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "referrer": "github.com",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "Bing",
+    "count": 3,
     "uniques": 1
   },
   {

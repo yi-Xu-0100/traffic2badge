@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/dependabot/github_actions/actions/github-script-7/.github/dependabot.yml",
+    "title": "traffic2badge/.github/dependabot.yml at dependabot/github_actions/actions/git...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/dependabot/github_actions/actions/checkout-4/.github/dependabot.yml",
+    "title": "traffic2badge/.github/dependabot.yml at dependabot/github_actions/actions/che...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/.github/dependabot.yml",
+    "title": "traffic2badge/.github/dependabot.yml at main · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/README_CN.md",
+    "title": "traffic2badge/README_CN.md at main · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/branches",
+    "title": "Branches · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/main/.github",
+    "title": "traffic2badge/.github at main · yi-Xu-0100/traffic2badge",
+    "count": 1,
+    "uniques": 1
+  }
+]
