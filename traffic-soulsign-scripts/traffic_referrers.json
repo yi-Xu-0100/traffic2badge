@@ -23,5 +23,10 @@
     "referrer": "cn.bing.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "github.com",
+    "count": 2,
+    "uniques": 1
   }
 ]
