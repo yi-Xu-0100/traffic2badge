@@ -454,6 +454,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
 ```
 
+## 📚 [Moyu.JsonExtensions](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Moyu.JsonExtensions)
+
+### 📷 Badges without link of [Moyu.JsonExtensions](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Moyu.JsonExtensions)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [Moyu.JsonExtensions](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Moyu.JsonExtensions)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-Moyu.JsonExtensions/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-Moyu.JsonExtensions)
+```
+
 ## 📚 [MyWiki](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MyWiki)
 
 ### 📷 Badges without link of [MyWiki](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MyWiki)
