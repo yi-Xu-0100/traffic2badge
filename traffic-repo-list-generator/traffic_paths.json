@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository...",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/LICENSE",
+    "title": "repo-list-generator/LICENSE at main · yi-Xu-0100/repo-list-generator",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
     "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/projects",
     "title": "Projects · repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
