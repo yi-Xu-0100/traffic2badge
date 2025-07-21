@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/Moyu.JsonExtensions",
     "title": "yi-Xu-0100/Moyu.JsonExtensions: Elegant JSON extension methods for .NET",
-    "count": 24,
+    "count": 26,
     "uniques": 3
   },
   {
@@ -14,7 +14,7 @@
   {
     "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/workflows/publish.yml",
     "title": "Publish NuGet Package · Workflow runs · yi-Xu-0100/Moyu.JsonExtensions · GitHub",
-    "count": 5,
+    "count": 6,
     "uniques": 2
   },
   {
@@ -24,13 +24,31 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16364565497/job/46238823261",
+    "title": "feat: 补充 release · yi-Xu-0100/Moyu.JsonExtensions@330e4ec",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16367065593/job/46246626928",
     "title": "chore: 更新版本号到 1.5.0 · yi-Xu-0100/Moyu.JsonExtensions@687e86c",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16364565497/job/46238823261",
+    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16367184748/job/46246993774",
+    "title": "chore: 更新版本号到 1.6.0 · yi-Xu-0100/Moyu.JsonExtensions@5c769d0",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16367184748/workflow",
+    "title": "chore: 更新版本号到 1.6.0 · yi-Xu-0100/Moyu.JsonExtensions@5c769d0",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16364565497",
     "title": "feat: 补充 release · yi-Xu-0100/Moyu.JsonExtensions@330e4ec",
     "count": 1,
     "uniques": 1
@@ -38,24 +56,6 @@
   {
     "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16364607684/job/46238951306",
     "title": "Publish NuGet Package · yi-Xu-0100/Moyu.JsonExtensions@1da11e9",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16364669734",
-    "title": "feat: 增加权限给 github action · yi-Xu-0100/Moyu.JsonExtensions@1da11e9",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16364669734/job/46239140711",
-    "title": "feat: 增加权限给 github action · yi-Xu-0100/Moyu.JsonExtensions@1da11e9",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.JsonExtensions/actions/runs/16366884341/job/46246059298",
-    "title": "feat: 补充函数说明 · yi-Xu-0100/Moyu.JsonExtensions@96b47c3",
     "count": 1,
     "uniques": 1
   }
