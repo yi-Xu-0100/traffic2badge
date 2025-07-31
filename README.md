@@ -454,6 +454,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-matlab-toolbox/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-matlab-toolbox)
 ```
 
+## 📚 [MLScript](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MLScript)
+
+### 📷 Badges without link of [MLScript](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MLScript)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [MLScript](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-MLScript)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-MLScript/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-MLScript)
+```
+
 ## 📚 [Moyu.DotnetExtensions](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Moyu.DotnetExtensions)
 
 ### 📷 Badges without link of [Moyu.DotnetExtensions](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-Moyu.DotnetExtensions)
