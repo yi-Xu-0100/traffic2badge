@@ -2,61 +2,7 @@
   {
     "path": "/yi-Xu-0100/Moyu.DotnetExtensions",
     "title": "yi-Xu-0100/Moyu.DotnetExtensions: 莫语 .net 扩展集. 憋说话, 用就完了! Elegant JSON extens...",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/actions",
-    "title": "Workflow runs · yi-Xu-0100/Moyu.DotnetExtensions",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/releases/tag/v1.7.1",
-    "title": "Release Release v1.7.1 · yi-Xu-0100/Moyu.DotnetExtensions",
     "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/releases/tag/v1.8.1",
-    "title": "Release Release v1.8.1 · yi-Xu-0100/Moyu.DotnetExtensions",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/actions/runs/16385727016",
-    "title": "chore: 更新版本号到 v1.7.1 · yi-Xu-0100/Moyu.DotnetExtensions@e27053b",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/actions/runs/16385727016/job/46304948606",
-    "title": "chore: 更新版本号到 v1.7.1 · yi-Xu-0100/Moyu.DotnetExtensions@e27053b",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/actions/runs/16385920059/job/46305400257",
-    "title": "chore: 更新版本号到 v1.8.1 · yi-Xu-0100/Moyu.DotnetExtensions@8c55718",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/actions/runs/16385850621",
-    "title": "chore: 更新版本号到 v1.8.0 · yi-Xu-0100/Moyu.DotnetExtensions@4863cac",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/actions/runs/16385850621/job/46305245729",
-    "title": "chore: 更新版本号到 v1.8.0 · yi-Xu-0100/Moyu.DotnetExtensions@4863cac",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Moyu.DotnetExtensions/actions/runs/16385920059",
-    "title": "chore: 更新版本号到 v1.8.1 · yi-Xu-0100/Moyu.DotnetExtensions@8c55718",
-    "count": 1,
     "uniques": 1
   }
 ]
