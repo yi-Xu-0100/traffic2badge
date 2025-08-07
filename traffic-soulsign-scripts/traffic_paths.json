@@ -2,18 +2,48 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 35,
+    "count": 37,
     "uniques": 19
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · Issue #61 · yi-Xu-0100/soulsign-scripts",
-    "count": 6,
-    "uniques": 3
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/pulls",
+    "title": "Pull requests · yi-Xu-0100/soulsign-scripts",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/58d538ad02b81536a97a8c2848083a197a7c6ed2/scripts/www.v2ex.com.js",
     "title": "soulsign-scripts/scripts/www.v2ex.com.js at 58d538ad02b81536a97a8c2848083a197...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/music.163.com.js",
+    "title": "soulsign-scripts/scripts/music.163.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/wenku.baidu.com.js",
+    "title": "soulsign-scripts/scripts/wenku.baidu.com.js at main · yi-Xu-0100/soulsign-scr...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.v2ex.com.js",
+    "title": "soulsign-scripts/scripts/www.v2ex.com.js at main · yi-Xu-0100/soulsign-scripts",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/xingxinggo.us.js",
+    "title": "soulsign-scripts/scripts/xingxinggo.us.js at main · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   },
@@ -26,24 +56,6 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/deployments/github-pages",
     "title": "Deployments · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/forks",
-    "title": "Forks · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/issues",
-    "title": "Issues · yi-Xu-0100/soulsign-scripts",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/pulls",
-    "title": "Pull requests · yi-Xu-0100/soulsign-scripts",
     "count": 1,
     "uniques": 1
   }
