@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "GitHub - yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using reposit...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/forks",
+    "title": "Forks · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/stargazers",
+    "title": "Stargazers · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 1,
+    "uniques": 1
+  }
+]

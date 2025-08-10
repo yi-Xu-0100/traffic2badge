@@ -15,18 +15,23 @@
     "uniques": 1
   },
   {
-    "referrer": "cn.bing.com",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "referrer": "Bing",
     "count": 5,
     "uniques": 1
   },
   {
+    "referrer": "cn.bing.com",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "referrer": "blog.csdn.net",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "referrer": "github.yixuju.cn",
+    "count": 1,
     "uniques": 1
   }
 ]
