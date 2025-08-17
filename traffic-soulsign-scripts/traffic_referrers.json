@@ -1,7 +1,7 @@
 [
   {
     "referrer": "Google",
-    "count": 18,
+    "count": 17,
     "uniques": 10
   },
   {
@@ -20,13 +20,13 @@
     "uniques": 3
   },
   {
-    "referrer": "bilibili.com",
-    "count": 3,
-    "uniques": 1
+    "referrer": "github.yixuju.cn",
+    "count": 5,
+    "uniques": 2
   },
   {
-    "referrer": "github.yixuju.cn",
-    "count": 1,
+    "referrer": "bilibili.com",
+    "count": 3,
     "uniques": 1
   }
 ]
