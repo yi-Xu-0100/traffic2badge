@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
-    "count": 25,
+    "count": 22,
     "uniques": 10
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/issues/61",
     "title": "好书友复活了，现在论坛地址改了 · 议题 #61 · yi-Xu-0100/soulsign-scripts",
-    "count": 7,
-    "uniques": 7
+    "count": 6,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/soulsign-scripts/tree/main/scripts",
@@ -21,12 +21,6 @@
     "path": "/yi-Xu-0100/soulsign-scripts/issues",
     "title": "yi-Xu-0100/soulsign-scripts: 📝 一部分是个人为魂签制作的签到脚本，还有一些个人使用的签到脚本。",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/soulsign-scripts/deployments/github-pages",
-    "title": "Deployments · yi-Xu-0100/soulsign-scripts",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/wenku.baidu.com.js",
     "title": "soulsign-scripts/scripts/wenku.baidu.com.js at main · yi-Xu-0100/soulsign-scr...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/soulsign-scripts/blob/main/scripts/www.ablesci.com.js",
+    "title": "soulsign-scripts/scripts/www.ablesci.com.js at main · yi-Xu-0100/soulsign-scr...",
     "count": 1,
     "uniques": 1
   }

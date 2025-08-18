@@ -1,11 +1,5 @@
 {
-  "count": 4,
-  "uniques": 4,
-  "views": [
-    {
-      "timestamp": "2025-08-10T00:00:00Z",
-      "count": 4,
-      "uniques": 4
-    }
-  ]
+  "count": 0,
+  "uniques": 0,
+  "views": []
 }
