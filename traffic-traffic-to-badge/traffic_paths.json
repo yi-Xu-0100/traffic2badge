@@ -12,6 +12,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/activity",
+    "title": "Activity · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.nvmrc",
     "title": "traffic-to-badge/.nvmrc at main · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 1,
@@ -36,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/30b72a5c14228f077c629658eb56a78f3c71fd3c",
+    "title": "chore(deps): ⬆️ bump eslint from 8.41.0 to 8.42.0 · yi-Xu-0100/traffic-to-bad...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/45f3c2a7d242275034829aea186424a147047245",
     "title": "🎉 完成traffic2badge功能 · yi-Xu-0100/traffic-to-badge@45f3c2a · GitHub",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/6c7801e9ea121693ec4eb0abdaedbef2ce4a3533",
     "title": "chore(deps): ⬆️ bump eslint from 8.19.0 to 8.20.0 · yi-Xu-0100/traffic-to-bad...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/6d246479ba498edf1b88fae094da471889c9f850",
-    "title": "chore(deps): ⬆️ bump @actions/github from 5.1.0 to 5.1.1 · yi-Xu-0100/traffic...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/86b60e9a897a682ebb2c4f2d86e8c1fa31ddcf3a",
-    "title": "chore(deps): ⬆️ bump husky from 8.0.1 to 8.0.2 · yi-Xu-0100/traffic-to-badge@...",
     "count": 1,
     "uniques": 1
   }
