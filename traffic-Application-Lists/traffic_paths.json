@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/LICENSE",
-    "title": "Application-Lists/LICENSE at main · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/cfw-settings.yaml",
     "title": "Application-Lists/config/ClashForWindows/cfw-settings.yaml at main · yi-Xu-01...",
     "count": 1,
@@ -54,8 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/commit/2976c90b28de5959eb50afaee7a12512d8d01d6b",
-    "title": "chore(husky): 🎨 husky v7 do not need the .husky/.gitignore · yi-Xu-0100/Appli...",
+    "path": "/yi-Xu-0100/Application-Lists/commit/433c6ce9f42784e096fb379ebe8dd7a7a81b1ffe",
+    "title": "style(prettier): 🔧 update prettier configuration · yi-Xu-0100/Application-Lis...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/commit/7a9a2d4d43434304b8e561a9bcf8565899ebbd45",
+    "title": "perf: ⚡️ update office configuration · yi-Xu-0100/Application-Lists@7a9a2d4 ·...",
     "count": 1,
     "uniques": 1
   }
