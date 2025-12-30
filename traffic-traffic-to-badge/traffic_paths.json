@@ -18,12 +18,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.prettierignore",
-    "title": "traffic-to-badge/.prettierignore at main · yi-Xu-0100/traffic-to-badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
     "title": "traffic-to-badge/README_CN.md at main · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/914d840f85d9e3452238d017aa242750e5ed9165",
     "title": "✨ Add LICENSE and README for action · yi-Xu-0100/traffic-to-badge@914d840 · G...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/a38a57b362985700ef7c4a39dac0eda7be3e68d9",
+    "title": "chore(deps): ⬆️ bump eslint from 8.23.1 to 8.24.0 · yi-Xu-0100/traffic-to-bad...",
     "count": 1,
     "uniques": 1
   }

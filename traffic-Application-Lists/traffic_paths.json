@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/Application-Lists/commits",
-    "title": "Commits · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "yi-Xu-0100/Application-Lists: 个人使用的应用程序列表，备用和备忘。",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/commit/2976c90b28de5959eb50afaee7a12512d8d01d6b",
     "title": "chore(husky): 🎨 husky v7 do not need the .husky/.gitignore · yi-Xu-0100/Appli...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/commit/433c6ce9f42784e096fb379ebe8dd7a7a81b1ffe",
+    "title": "style(prettier): 🔧 update prettier configuration · yi-Xu-0100/Application-Lis...",
     "count": 1,
     "uniques": 1
   }
