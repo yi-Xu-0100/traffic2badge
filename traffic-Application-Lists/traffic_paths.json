@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/package-lock.json",
+    "title": "Application-Lists/package-lock.json at main · yi-Xu-0100/Application-Lists · ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Application-Lists/commit/14ce4d5151898a43efee8f7e5de7b7c5f36a2219",
     "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.2 to 3.9.3 · yi-Xu-0...",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/commit/2976c90b28de5959eb50afaee7a12512d8d01d6b",
     "title": "chore(husky): 🎨 husky v7 do not need the .husky/.gitignore · yi-Xu-0100/Appli...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Application-Lists/commit/433c6ce9f42784e096fb379ebe8dd7a7a81b1ffe",
-    "title": "style(prettier): 🔧 update prettier configuration · yi-Xu-0100/Application-Lis...",
     "count": 1,
     "uniques": 1
   }
