@@ -36,18 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/86b60e9a897a682ebb2c4f2d86e8c1fa31ddcf3a",
-    "title": "chore(deps): ⬆️ bump husky from 8.0.1 to 8.0.2 · yi-Xu-0100/traffic-to-badge@...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/914d840f85d9e3452238d017aa242750e5ed9165",
-    "title": "✨ Add LICENSE and README for action · yi-Xu-0100/traffic-to-badge@914d840 · G...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/eda27cf89dae3a7cc8b183b67b47a39b0699778f",
     "title": "✨ add total badge support (#64) · yi-Xu-0100/traffic-to-badge@eda27cf · GitHub",
     "count": 1,
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/64",
     "title": "Total Weekly Visit Count - All repositories · Issue #64 · yi-Xu-0100/traffic-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.4.0",
+    "title": "Release Release v1.4.0 · yi-Xu-0100/traffic-to-badge · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/e3753ff294c3918e6539a83abb971ed82d7c7ce5",
+    "title": "GitHub - yi-Xu-0100/traffic-to-badge at e3753ff294c3918e6539a83abb971ed82d7c7...",
     "count": 1,
     "uniques": 1
   }
