@@ -6,12 +6,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/actions",
-    "title": "Workflow runs · yi-Xu-0100/Application-Lists · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/.gitignore",
     "title": "Application-Lists/.gitignore at main · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/commit/433c6ce9f42784e096fb379ebe8dd7a7a81b1ffe",
     "title": "style(prettier): 🔧 update prettier configuration · yi-Xu-0100/Application-Lis...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/commit/486b50e6a8c42b4473d32ce75dad29f6b2a0106c",
+    "title": "chore: 📄 update license date · yi-Xu-0100/Application-Lists@486b50e · GitHub",
     "count": 1,
     "uniques": 1
   }
