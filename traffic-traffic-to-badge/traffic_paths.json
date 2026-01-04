@@ -18,20 +18,26 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.prettierrc.json",
+    "title": "traffic-to-badge/.prettierrc.json at main · yi-Xu-0100/traffic-to-badge · Git...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/30b72a5c14228f077c629658eb56a78f3c71fd3c",
     "title": "chore(deps): ⬆️ bump eslint from 8.41.0 to 8.42.0 · yi-Xu-0100/traffic-to-bad...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/45f3c2a7d242275034829aea186424a147047245",
-    "title": "🎉 完成traffic2badge功能 · yi-Xu-0100/traffic-to-badge@45f3c2a · GitHub",
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/79201b5948689e37ac743443fab492e0ed413686",
+    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.2 to 3.9.3 · yi-Xu-0...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/79201b5948689e37ac743443fab492e0ed413686",
-    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.2 to 3.9.3 · yi-Xu-0...",
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/ecabfc914fafb2847f543dc24de77c3d18361a31",
+    "title": "♻️ 测试 lint · yi-Xu-0100/traffic-to-badge@ecabfc9 · GitHub",
     "count": 1,
     "uniques": 1
   },
