@@ -1,6 +1,6 @@
 {
-  "count": 67,
-  "uniques": 9,
+  "count": 68,
+  "uniques": 10,
   "views": [
     {
       "timestamp": "2024-07-12T00:00:00Z",
@@ -98,17 +98,17 @@
       "uniques": 0
     },
     {
-      "timestamp": "2025-12-21T00:00:00Z",
-      "count": 0,
-      "uniques": 0
-    },
-    {
       "timestamp": "2025-12-20T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
     {
       "timestamp": "2025-12-22T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2025-12-21T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
@@ -166,6 +166,11 @@
       "timestamp": "2026-01-02T00:00:00Z",
       "count": 0,
       "uniques": 0
+    },
+    {
+      "timestamp": "2026-01-03T00:00:00Z",
+      "count": 1,
+      "uniques": 1
     }
   ]
 }

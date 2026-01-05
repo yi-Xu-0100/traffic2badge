@@ -533,11 +533,6 @@
       "uniques": 0
     },
     {
-      "timestamp": "2025-12-21T00:00:00Z",
-      "count": 0,
-      "uniques": 0
-    },
-    {
       "timestamp": "2025-12-29T00:00:00Z",
       "count": 0,
       "uniques": 0
@@ -554,6 +549,11 @@
     },
     {
       "timestamp": "2026-01-01T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2025-12-22T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
@@ -588,7 +588,7 @@
       "uniques": 0
     },
     {
-      "timestamp": "2025-12-22T00:00:00Z",
+      "timestamp": "2025-12-21T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
