@@ -6,12 +6,6 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.eslintignore",
-    "title": "repo-list-generator/.eslintignore at main · yi-Xu-0100/repo-list-generator · ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/.nvmrc",
     "title": "repo-list-generator/.nvmrc at main · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
@@ -30,18 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/commit/4d01ce871f36b75399b991c06d7f7c92f710159a",
-    "title": "chore(deps): ⬆️ bump eslint from 8.41.0 to 8.42.0 · yi-Xu-0100/repo-list-gene...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/commits",
-    "title": "Commits · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/issues",
     "title": "Issues · yi-Xu-0100/repo-list-generator",
     "count": 1,
@@ -54,8 +36,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/releases",
-    "title": "Releases · yi-Xu-0100/repo-list-generator",
+    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v1.1.1",
+    "title": "Release Release v1.1.1 · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }
