@@ -12,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/commit/14ce4d5151898a43efee8f7e5de7b7c5f36a2219",
-    "title": "chore(deps): ⬆️ bump peaceiris/actions-gh-pages from 3.9.2 to 3.9.3 · yi-Xu-0...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/commit/2976c90b28de5959eb50afaee7a12512d8d01d6b",
     "title": "chore(husky): 🎨 husky v7 do not need the .husky/.gitignore · yi-Xu-0100/Appli...",
     "count": 1,
@@ -30,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/commit/ce7c4e5a35da912a977dfa519275285691ac0082",
-    "title": "fix: 🔒 fix github dependabot alerts · yi-Xu-0100/Application-Lists@ce7c4e5 · ...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/commits",
     "title": "Commits · yi-Xu-0100/Application-Lists · GitHub",
     "count": 1,
@@ -44,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/issues",
     "title": "Issues · yi-Xu-0100/Application-Lists · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/labels",
+    "title": "GitHub · Where software is built",
     "count": 1,
     "uniques": 1
   },

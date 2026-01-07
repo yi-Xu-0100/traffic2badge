@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commit/eda27cf89dae3a7cc8b183b67b47a39b0699778f",
-    "title": "✨ add total badge support (#64) · yi-Xu-0100/traffic-to-badge@eda27cf · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/265",
     "title": "Feature request: Include total number of downloads for all releases of a repo...",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/issues/64",
     "title": "Total Weekly Visit Count - All repositories · Issue #64 · yi-Xu-0100/traffic-...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.4.0",
+    "title": "Release Release v1.4.0 · yi-Xu-0100/traffic-to-badge · GitHub",
     "count": 1,
     "uniques": 1
   }
