@@ -1998,11 +1998,6 @@
       "uniques": 0
     },
     {
-      "timestamp": "2025-12-25T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "timestamp": "2025-12-24T00:00:00Z",
       "count": 0,
       "uniques": 0
@@ -2011,6 +2006,11 @@
       "timestamp": "2025-12-26T00:00:00Z",
       "count": 0,
       "uniques": 0
+    },
+    {
+      "timestamp": "2025-12-25T00:00:00Z",
+      "count": 1,
+      "uniques": 1
     },
     {
       "timestamp": "2025-12-27T00:00:00Z",
@@ -2064,6 +2064,11 @@
     },
     {
       "timestamp": "2026-01-06T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-01-07T00:00:00Z",
       "count": 0,
       "uniques": 0
     }
