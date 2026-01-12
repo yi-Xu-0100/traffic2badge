@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using repositories Insi...",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.prettierrc.json",
@@ -30,6 +30,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/63d7c04959f96e334066e3e8425a14819998eee9/dist",
+    "title": "traffic-to-badge/dist at 63d7c04959f96e334066e3e8425a14819998eee9 · yi-Xu-010...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/6c7801e9ea121693ec4eb0abdaedbef2ce4a3533/dist",
     "title": "traffic-to-badge/dist at 6c7801e9ea121693ec4eb0abdaedbef2ce4a3533 · yi-Xu-010...",
     "count": 1,
@@ -44,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/tree/740a863ac777f1ba33643bd584be0fff67a5f88e/template",
     "title": "traffic-to-badge/template at 740a863ac777f1ba33643bd584be0fff67a5f88e · yi-Xu...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/e459086573d4b969d016d57bc03e2b6f7bc638d5/dist",
+    "title": "traffic-to-badge/dist at e459086573d4b969d016d57bc03e2b6f7bc638d5 · yi-Xu-010...",
     "count": 1,
     "uniques": 1
   }
