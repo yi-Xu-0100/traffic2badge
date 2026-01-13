@@ -4173,16 +4173,6 @@
       "uniques": 1
     },
     {
-      "timestamp": "2025-12-29T00:00:00Z",
-      "count": 0,
-      "uniques": 0
-    },
-    {
-      "timestamp": "2026-01-09T00:00:00Z",
-      "count": 0,
-      "uniques": 0
-    },
-    {
       "timestamp": "2025-12-26T00:00:00Z",
       "count": 0,
       "uniques": 0
@@ -4199,6 +4189,11 @@
     },
     {
       "timestamp": "2025-12-30T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2025-12-29T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
@@ -4244,6 +4239,21 @@
     },
     {
       "timestamp": "2026-01-08T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-01-09T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-01-10T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-01-11T00:00:00Z",
       "count": 0,
       "uniques": 0
     }
