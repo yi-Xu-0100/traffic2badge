@@ -2,25 +2,13 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate repository ...",
-    "count": 4,
-    "uniques": 4
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/pulls",
     "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.nvmrc",
-    "title": "repo-list-generator/.nvmrc at main · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/commit/32886f5225876ea2793d7d15c3992bea1f31f4b2",
-    "title": "fix: update version in readme · yi-Xu-0100/repo-list-generator@32886f5 · GitHub",
-    "count": 1,
-    "uniques": 1
   }
 ]
