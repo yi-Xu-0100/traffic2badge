@@ -2,6 +2,18 @@
   {
     "path": "/yi-Xu-0100/OnnxExtensions",
     "title": "yi-Xu-0100/OnnxExtensions: Onnx extension methods for .NET 8+.",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/OnnxExtensions/tree/main/src/OnnxExtensions",
+    "title": "OnnxExtensions/src/OnnxExtensions at main · yi-Xu-0100/OnnxExtensions · GitHub",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/OnnxExtensions/blob/main/src/OnnxExtensions/Extensions/DenseTensorExtensions.cs",
+    "title": "OnnxExtensions/src/OnnxExtensions/Extensions at main · yi-Xu-0100/OnnxExtensi...",
     "count": 1,
     "uniques": 1
   },
@@ -18,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/OnnxExtensions/tree/main/src/OnnxExtensions",
-    "title": "OnnxExtensions/src/OnnxExtensions at main · yi-Xu-0100/OnnxExtensions",
+    "path": "/yi-Xu-0100/OnnxExtensions/tree/main/src/OnnxExtensions/Extensions",
+    "title": "OnnxExtensions/src/OnnxExtensions at main · yi-Xu-0100/OnnxExtensions · GitHub",
     "count": 1,
     "uniques": 1
   }
