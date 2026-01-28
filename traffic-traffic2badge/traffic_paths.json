@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "GitHub - yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Us...",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/commit/409c2af1d41093435d3cf3db74e3f4563a281036",
@@ -18,7 +18,19 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/commit/f5a77a263cdc6c57dbb6fc413dff25c84dcee69f",
+    "title": "chore(deps): ⬆️ bump actions/checkout from 2.3.4 to 2.3.5 · yi-Xu-0100/traffi...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/commits",
+    "title": "Commits · yi-Xu-0100/traffic2badge · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/commits/main",
     "title": "Commits · yi-Xu-0100/traffic2badge · GitHub",
     "count": 1,
     "uniques": 1
