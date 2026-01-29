@@ -2,8 +2,20 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "GitHub - yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，...",
-    "count": 7,
-    "uniques": 5
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions",
+    "title": "Workflow runs · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/workflows/patch.yml",
+    "title": "patch · Workflow runs · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
@@ -44,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/issues",
     "title": "Issues · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "hub-mirror/template at main · yi-Xu-0100/hub-mirror",
     "count": 1,
     "uniques": 1
   }
