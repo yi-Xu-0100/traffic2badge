@@ -1,7 +1,19 @@
 [
   {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "GitHub - yi-Xu-0100/traffic-to-badge: 📊 The GitHub action that using reposito...",
+    "count": 6,
+    "uniques": 6
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/commit/188406faeda2dd16813e45ab5b21acbbb1602fc6",
     "title": "chore(deps): ⬆️ bump @actions/core from 1.7.0 to 1.8.0 · yi-Xu-0100/traffic-t...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/280",
+    "title": "chore(deps): ⬆️ bump eslint from 8.31.0 to 8.32.0 by dependabot[bot] · Pull R...",
     "count": 1,
     "uniques": 1
   },
