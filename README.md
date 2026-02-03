@@ -1114,6 +1114,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-www.yixuju.cn/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-www.yixuju.cn)
 ```
 
+## 📚 [XmeyeSDKTestDemo](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-XmeyeSDKTestDemo)
+
+### 📷 Badges without link of [XmeyeSDKTestDemo](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-XmeyeSDKTestDemo)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [XmeyeSDKTestDemo](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-XmeyeSDKTestDemo)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-XmeyeSDKTestDemo/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-XmeyeSDKTestDemo)
+```
+
 ## 📚 [yi-Xu-0100.github.io](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-yi-Xu-0100.github.io)
 
 ### 📷 Badges without link of [yi-Xu-0100.github.io](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-yi-Xu-0100.github.io)
