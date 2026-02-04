@@ -2733,17 +2733,17 @@
       "uniques": 0
     },
     {
-      "timestamp": "2026-01-20T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "timestamp": "2026-01-19T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
     {
       "timestamp": "2026-01-21T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-01-20T00:00:00Z",
       "count": 1,
       "uniques": 1
     },
@@ -2801,6 +2801,11 @@
       "timestamp": "2026-02-01T00:00:00Z",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "timestamp": "2026-02-02T00:00:00Z",
+      "count": 0,
+      "uniques": 0
     }
   ]
 }

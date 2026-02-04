@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "GitHub - yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-typ...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/commit/b40fe3a4e9635dd24b9e7f38c42bb2d35862879d",
     "title": "perf: ⚡️ Add test for empty string input · yi-Xu-0100/conventional-commit-typ...",
     "count": 2,
@@ -16,5 +10,11 @@
     "title": "Forks · yi-Xu-0100/conventional-commit-types-i18n · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
+    "title": "GitHub - yi-Xu-0100/conventional-commit-types-i18n: 🌐 conventional-commit-typ...",
+    "count": 1,
+    "uniques": 1
   }
 ]

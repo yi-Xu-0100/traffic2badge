@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "GitHub - yi-Xu-0100/traffic2badge: Traffic to badge action usage template. Us...",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/actions",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/runs/21270364548",
     "title": "traffic2badge · yi-Xu-0100/traffic2badge@518cdec · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/README_CN.md",
+    "title": "traffic2badge/README_CN.md at main · yi-Xu-0100/traffic2badge · GitHub",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/issues",
     "title": "Issues · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/pull/7",
-    "title": "chore(deps): ⬆️ Bump peaceiris/actions-gh-pages from v3.7.3 to v3.8.0 by depe...",
     "count": 1,
     "uniques": 1
   }
