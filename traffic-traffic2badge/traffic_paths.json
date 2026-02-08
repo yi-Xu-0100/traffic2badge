@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/commit/409c2af1d41093435d3cf3db74e3f4563a281036",
-    "title": "⬆️ update traffic-to-badge to v1.4.0 · yi-Xu-0100/traffic2badge@409c2af · Git...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/commit/dafdad909e4e3a749013785fc7f38658df08a12b",
     "title": "chore(deps): ⬆️ bump actions/github-script from 5 to 6 · yi-Xu-0100/traffic2b...",
     "count": 1,
@@ -42,20 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/commits",
-    "title": "Commits · yi-Xu-0100/traffic2badge · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/commits/main",
     "title": "Commits · yi-Xu-0100/traffic2badge · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/issues",
-    "title": "Issues · yi-Xu-0100/traffic2badge · GitHub",
+    "path": "/yi-Xu-0100/traffic2badge/pulls",
+    "title": "Pull requests · yi-Xu-0100/traffic2badge · GitHub",
     "count": 1,
     "uniques": 1
   }
