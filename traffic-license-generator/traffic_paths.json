@@ -2,19 +2,19 @@
   {
     "path": "/yi-Xu-0100/license-generator",
     "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
-    "count": 25,
-    "uniques": 25
+    "count": 21,
+    "uniques": 21
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-NC-SA-4.0.yml",
+    "title": "CC-BY-NC-SA-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-ND-4.0.yml",
     "title": "CC-BY-ND-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-NC-SA-4.0.yml",
-    "title": "CC-BY-NC-SA-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
-    "count": 1,
-    "uniques": 1
   }
 ]
