@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "GitHub - yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate re...",
-    "count": 25,
-    "uniques": 24
+    "count": 15,
+    "uniques": 15
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/pulls",
     "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.github/dependabot.yml",
-    "title": "repo-list-generator/.github/dependabot.yml at main · yi-Xu-0100/repo-list-gen...",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/287",
@@ -30,32 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/.prettierignore",
-    "title": "repo-list-generator/.prettierignore at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
-    "title": "repo-list-generator/README.md at main · yi-Xu-0100/repo-list-generator",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/issues",
-    "title": "GitHub · Where software is built",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/labels",
     "title": "Labels · yi-Xu-0100/repo-list-generator · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases/tag/v1.1.1",
-    "title": "Release Release v1.1.1 · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
