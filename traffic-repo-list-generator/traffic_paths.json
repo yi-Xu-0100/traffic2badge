@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "GitHub - yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate re...",
-    "count": 9,
-    "uniques": 9
+    "count": 4,
+    "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/pulls",
-    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/labels",
+    "title": "Labels · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/pull/287",
-    "title": "chore(deps): ⬆️ bump word-wrap from 1.2.3 to 1.2.4 by dependabot[bot] · Pull ...",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
@@ -24,8 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/repo-list-generator/labels",
-    "title": "Labels · yi-Xu-0100/repo-list-generator · GitHub",
+    "path": "/yi-Xu-0100/repo-list-generator/pulls",
+    "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 1,
     "uniques": 1
   }
