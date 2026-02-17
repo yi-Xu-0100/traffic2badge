@@ -6,15 +6,27 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-ND-4.0.yml",
     "title": "CC-BY-ND-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator",
+    "title": "GitHub - yi-Xu-0100/license-generator: The GitHub action that using template ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-SA-4.0.yml",
+    "title": "CC-BY-SA-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/24746357c498c1e8a873d4588ad3d6a83f7bcea1/.github/workflows/autoRelease.yml",
+    "title": "license-generator/.github/workflows/autoRelease.yml at 24746357c498c1e8a873d4...",
+    "count": 1,
+    "uniques": 1
   }
 ]
