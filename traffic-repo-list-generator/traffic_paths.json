@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "GitHub - yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate re...",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/labels",
     "title": "Labels · yi-Xu-0100/repo-list-generator · GitHub",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "GitHub - yi-Xu-0100/repo-list-generator: 📃 The GitHub action that generate re...",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/actions",
@@ -20,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pulls",
     "title": "Pull requests · yi-Xu-0100/repo-list-generator · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/releases",
+    "title": "Releases · yi-Xu-0100/repo-list-generator",
     "count": 1,
     "uniques": 1
   }
