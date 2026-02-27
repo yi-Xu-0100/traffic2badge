@@ -6,10 +6,10 @@
     "uniques": 6
   },
   {
-    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-NC-SA-4.0.yml",
-    "title": "CC-BY-NC-SA-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
-    "count": 3,
-    "uniques": 3
+    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-ND-4.0.yml",
+    "title": "CC-BY-ND-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/license-generator/blob/24746357c498c1e8a873d4588ad3d6a83f7bcea1/.github/workflows/autoRelease.yml",
@@ -18,8 +18,8 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-ND-4.0.yml",
-    "title": "CC-BY-ND-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
+    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-NC-SA-4.0.yml",
+    "title": "CC-BY-NC-SA-4.0 · Workflow runs · yi-Xu-0100/license-generator · GitHub",
     "count": 1,
     "uniques": 1
   }
