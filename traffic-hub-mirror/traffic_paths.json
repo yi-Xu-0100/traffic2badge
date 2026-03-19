@@ -1,13 +1,19 @@
 [
   {
     "path": "/yi-Xu-0100/hub-mirror",
-    "title": "yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 Gi...",
-    "count": 10,
+    "title": "GitHub - yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，...",
+    "count": 6,
     "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
     "title": "🎨 使用 prettier 格式化仓库 · yi-Xu-0100/hub-mirror@66c35c0 · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
+    "title": "chore(deps): ⬆️ bump yi-Xu-0100/repo-list-generator from 1.1.0 to 1.1.1 · yi-...",
     "count": 2,
     "uniques": 1
   },
@@ -20,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
     "title": "📝 update action version for template · yi-Xu-0100/hub-mirror@afb99b5 · GitHub",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commit/c087afe65f4efca3c85673682c18219d8797083b",
+    "title": "docs(readme): 🔥 delete toc · yi-Xu-0100/hub-mirror@c087afe · GitHub",
     "count": 2,
     "uniques": 1
   },
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
     "title": "hub-mirror/LICENSE at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
-    "title": "hub-mirror/static/add_secret_key.png at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/github_name.png",
-    "title": "hub-mirror/static/github_name.png at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   }
