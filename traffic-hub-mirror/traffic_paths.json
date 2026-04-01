@@ -2,12 +2,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "GitHub - yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，...",
-    "count": 11,
-    "uniques": 6
+    "count": 9,
+    "uniques": 5
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
-    "title": "🎨 使用 prettier 格式化仓库 · yi-Xu-0100/hub-mirror@66c35c0 · GitHub",
+    "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
+    "title": "📄 update license year · yi-Xu-0100/hub-mirror@47945a0 · GitHub",
     "count": 2,
     "uniques": 1
   },
@@ -18,44 +18,38 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/a6b6ad7bd110383d40233cc908bf0f60deced3aa",
-    "title": "🙈 增加 .vscode 文件夹 · yi-Xu-0100/hub-mirror@a6b6ad7 · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
-    "title": "📝 update action version for template · yi-Xu-0100/hub-mirror@afb99b5 · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/commit/c087afe65f4efca3c85673682c18219d8797083b",
     "title": "docs(readme): 🔥 delete toc · yi-Xu-0100/hub-mirror@c087afe · GitHub",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/actions",
-    "title": "Workflow runs · yi-Xu-0100/hub-mirror · GitHub",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
+    "title": "hub-mirror/static/gitee_name.png at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/activity",
-    "title": "Activity · yi-Xu-0100/hub-mirror · GitHub",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
+    "title": "hub-mirror/static/rsa_gen.png at main · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
-    "title": "hub-mirror/.prettierignore at main · yi-Xu-0100/hub-mirror · GitHub",
+    "path": "/yi-Xu-0100/hub-mirror/issues",
+    "title": "Issues · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
-    "title": "hub-mirror/LICENSE at main · yi-Xu-0100/hub-mirror · GitHub",
+    "path": "/yi-Xu-0100/hub-mirror/pulls",
+    "title": "Pull requests · yi-Xu-0100/hub-mirror · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-xu-0100/hub-mirror",
+    "title": "GitHub - yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，...",
     "count": 1,
     "uniques": 1
   }
