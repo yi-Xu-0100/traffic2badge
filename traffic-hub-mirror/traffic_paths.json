@@ -12,15 +12,9 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
-    "title": "chore(deps): ⬆️ bump yi-Xu-0100/repo-list-generator from 1.1.0 to 1.1.1 · yi-...",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commit/c087afe65f4efca3c85673682c18219d8797083b",
-    "title": "docs(readme): 🔥 delete toc · yi-Xu-0100/hub-mirror@c087afe · GitHub",
-    "count": 2,
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
+    "title": "hub-mirror/static/generate_secret_token.png at main · yi-Xu-0100/hub-mirror ·...",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -32,12 +26,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
     "title": "hub-mirror/static/rsa_gen.png at main · yi-Xu-0100/hub-mirror · GitHub",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "Issues · yi-Xu-0100/hub-mirror · GitHub",
     "count": 1,
     "uniques": 1
   },

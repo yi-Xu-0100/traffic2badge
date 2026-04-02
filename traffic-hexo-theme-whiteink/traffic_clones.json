@@ -2193,17 +2193,17 @@
       "uniques": 0
     },
     {
-      "timestamp": "2026-03-18T00:00:00Z",
-      "count": 0,
-      "uniques": 0
-    },
-    {
       "timestamp": "2026-03-17T00:00:00Z",
       "count": 1,
       "uniques": 1
     },
     {
       "timestamp": "2026-03-19T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-03-18T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
@@ -2259,6 +2259,11 @@
     },
     {
       "timestamp": "2026-03-30T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-03-31T00:00:00Z",
       "count": 0,
       "uniques": 0
     }
