@@ -1,43 +1,61 @@
 [
   {
     "path": "/yi-Xu-0100/hub-mirror",
-    "title": "GitHub - yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，...",
-    "count": 9,
-    "uniques": 5
+    "title": "Overview",
+    "count": 11,
+    "uniques": 7
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
+    "title": "/blob/main/static/generate_secret_token.png",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
-    "title": "📄 update license year · yi-Xu-0100/hub-mirror@47945a0 · GitHub",
+    "title": "/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
-    "title": "hub-mirror/static/generate_secret_token.png at main · yi-Xu-0100/hub-mirror ·...",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
-    "title": "hub-mirror/static/gitee_name.png at main · yi-Xu-0100/hub-mirror · GitHub",
+    "title": "/blob/main/static/gitee_name.png",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
-    "title": "hub-mirror/static/rsa_gen.png at main · yi-Xu-0100/hub-mirror · GitHub",
+    "title": "/blob/main/static/rsa_gen.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
+    "title": "/blob/main/template/patch.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
+    "title": "/blob/main/template/sync2gitee.cached.yml",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/pulls",
-    "title": "Pull requests · yi-Xu-0100/hub-mirror · GitHub",
+    "title": "/pulls",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "/tree/main/template",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-xu-0100/hub-mirror",
-    "title": "GitHub - yi-Xu-0100/hub-mirror: 🎞 使用 github action - hub-mirror-action 的模板仓库，...",
+    "title": "Overview",
     "count": 1,
     "uniques": 1
   }
