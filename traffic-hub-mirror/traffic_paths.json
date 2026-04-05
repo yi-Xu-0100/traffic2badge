@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 11,
+    "count": 10,
     "uniques": 7
   },
   {
@@ -30,12 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
-    "title": "/blob/main/static/rsa_gen.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
     "title": "/blob/main/template/patch.yml",
     "count": 1,
@@ -44,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
     "title": "/blob/main/template/sync2gitee.cached.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/issues/23",
+    "title": "/issues/23",
     "count": 1,
     "uniques": 1
   },
