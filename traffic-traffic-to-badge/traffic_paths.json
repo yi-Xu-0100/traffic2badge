@@ -2,12 +2,24 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "Overview",
-    "count": 4,
-    "uniques": 3
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/30b72a5c14228f077c629658eb56a78f3c71fd3c/.github/workflows/enhance-deps-pr.yml",
     "title": "/blob/30b72a5c14228f077c629658eb56a78f3c71fd3c/.github/workflows/enhance-deps-pr.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/forks",
+    "title": "/forks",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/stargazers",
+    "title": "/stargazers",
     "count": 1,
     "uniques": 1
   }

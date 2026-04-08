@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 8,
-    "uniques": 5
+    "count": 9,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
@@ -24,6 +24,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/github_name.png",
+    "title": "/blob/main/static/github_name.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
     "title": "/blob/main/template/patch.yml",
     "count": 1,
@@ -36,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/forks",
+    "title": "/forks",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/issues/23",
     "title": "/issues/23",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/pulls",
     "title": "/pulls",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "/tree/main/template",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-xu-0100/hub-mirror",
-    "title": "Overview",
     "count": 1,
     "uniques": 1
   }
