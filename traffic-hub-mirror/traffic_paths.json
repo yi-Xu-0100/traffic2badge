@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 9,
+    "count": 8,
     "uniques": 6
   },
   {
@@ -21,6 +21,12 @@
     "path": "/yi-Xu-0100/hub-mirror/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
     "title": "/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
+    "title": "/blob/main/static/gitee_name.png",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/issues/23",
     "title": "/issues/23",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/pulls",
-    "title": "/pulls",
     "count": 1,
     "uniques": 1
   }
