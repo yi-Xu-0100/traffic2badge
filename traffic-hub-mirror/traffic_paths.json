@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 7,
-    "uniques": 4
+    "count": 10,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
@@ -30,12 +30,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
-    "title": "/blob/main/static/generate_secret_token.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
     "title": "/blob/main/static/gitee_name.png",
     "count": 1,
@@ -48,14 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
-    "title": "/blob/main/template/patch.yml",
+    "path": "/yi-Xu-0100/hub-mirror/forks",
+    "title": "/forks",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
-    "title": "/blob/main/template/sync2gitee.cached.yml",
+    "path": "/yi-Xu-0100/hub-mirror/issues/23",
+    "title": "/issues/23",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/stargazers",
+    "title": "/stargazers",
     "count": 1,
     "uniques": 1
   }

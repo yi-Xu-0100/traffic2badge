@@ -6,6 +6,18 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/repo-list-generator/blob/main/action.yml",
+    "title": "/blob/main/action.yml",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/main",
+    "title": "/tree/main",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/repo-list-generator/forks",
     "title": "/forks",
     "count": 1,
@@ -26,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/stargazers",
     "title": "/stargazers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator/tree/v1.1.1",
+    "title": "/tree/v1.1.1",
     "count": 1,
     "uniques": 1
   }
