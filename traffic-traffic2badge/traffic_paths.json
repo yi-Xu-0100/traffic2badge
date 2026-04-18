@@ -1,5 +1,11 @@
 [
   {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "Overview",
+    "count": 3,
+    "uniques": 3
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/issues",
     "title": "/issues",
     "count": 3,
@@ -9,12 +15,6 @@
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "/pulls",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge",
-    "title": "Overview",
-    "count": 2,
     "uniques": 2
   },
   {
