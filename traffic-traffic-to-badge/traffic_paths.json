@@ -12,14 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/forks",
-    "title": "/forks",
+    "path": "/yi-Xu-0100/traffic-to-badge/edit/main/README.md",
+    "title": "/edit/main/README.md",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/stargazers",
-    "title": "/stargazers",
+    "path": "/yi-Xu-0100/traffic-to-badge/pulls",
+    "title": "/pulls",
     "count": 1,
     "uniques": 1
   }
