@@ -2,12 +2,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "Overview",
-    "count": 6,
-    "uniques": 6
+    "count": 5,
+    "uniques": 5
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/30b72a5c14228f077c629658eb56a78f3c71fd3c/.github/workflows/enhance-deps-pr.yml",
-    "title": "/blob/30b72a5c14228f077c629658eb56a78f3c71fd3c/.github/workflows/enhance-deps-pr.yml",
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/package-lock.json",
+    "title": "/blob/main/package-lock.json",
     "count": 1,
     "uniques": 1
   },

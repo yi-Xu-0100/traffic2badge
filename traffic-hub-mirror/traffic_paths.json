@@ -12,6 +12,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-xu-0100/hub-mirror",
+    "title": "Overview",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
     "title": "/blob/main/template/patch.yml",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blame/main/template/patch.yml",
     "title": "/blame/main/template/patch.yml",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
-    "title": "/blob/main/static/add_pub_key.png",
     "count": 1,
     "uniques": 1
   }
