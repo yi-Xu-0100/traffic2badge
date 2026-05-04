@@ -2,20 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-xu-0100/hub-mirror",
     "title": "Overview",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commit/c087afe65f4efca3c85673682c18219d8797083b",
-    "title": "/commit/c087afe65f4efca3c85673682c18219d8797083b",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",

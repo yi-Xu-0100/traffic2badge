@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "Overview",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "/pulls",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-xu-0100/traffic2badge",
@@ -26,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/stargazers",
     "title": "/stargazers",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/watchers",
+    "title": "/watchers",
     "count": 1,
     "uniques": 1
   }
