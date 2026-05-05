@@ -8,8 +8,14 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "/pulls",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/issues",
+    "title": "/issues",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-xu-0100/traffic2badge",
@@ -18,8 +24,20 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/issues",
-    "title": "/issues",
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/23076623424",
+    "title": "/actions/runs/23076623424",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/23076623424/workflow",
+    "title": "/actions/runs/23076623424/workflow",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/actions/runs/23100279851/workflow",
+    "title": "/actions/runs/23100279851/workflow",
     "count": 1,
     "uniques": 1
   },
