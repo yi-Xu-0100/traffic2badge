@@ -1,13 +1,13 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic2badge",
-    "title": "Overview",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "/pulls",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "Overview",
     "count": 4,
     "uniques": 4
   },
@@ -38,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/runs/23100279851/workflow",
     "title": "/actions/runs/23100279851/workflow",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/stargazers",
-    "title": "/stargazers",
     "count": 1,
     "uniques": 1
   },
