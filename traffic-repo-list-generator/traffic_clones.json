@@ -5478,17 +5478,17 @@
       "uniques": 0
     },
     {
-      "timestamp": "2026-04-23T00:00:00Z",
-      "count": 0,
-      "uniques": 0
-    },
-    {
       "timestamp": "2026-04-22T00:00:00Z",
       "count": 1,
       "uniques": 1
     },
     {
       "timestamp": "2026-04-24T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-04-23T00:00:00Z",
       "count": 0,
       "uniques": 0
     },
@@ -5544,6 +5544,11 @@
     },
     {
       "timestamp": "2026-05-05T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-05-06T00:00:00Z",
       "count": 0,
       "uniques": 0
     }
