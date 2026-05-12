@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/license-generator",
+    "title": "Overview",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/CHANGELOG.md",
+    "title": "/blob/main/CHANGELOG.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/issues",
+    "title": "/issues",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/issues/200",
+    "title": "/issues/200",
+    "count": 1,
+    "uniques": 1
+  }
+]
