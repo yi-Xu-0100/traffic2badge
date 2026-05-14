@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "/pulls",
-    "count": 7,
-    "uniques": 7
+    "count": 8,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/traffic2badge",
@@ -38,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/runs/23100279851/workflow",
     "title": "/actions/runs/23100279851/workflow",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/commit/a332cb91dcd31c24f2d475ae0aa3e493e90415ad",
+    "title": "/commit/a332cb91dcd31c24f2d475ae0aa3e493e90415ad",
     "count": 1,
     "uniques": 1
   },
