@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/Application-Lists",
     "title": "Overview",
-    "count": 3,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/config/ClashForWindows/mixin.yaml",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/Application-Lists/find/main",
     "title": "/find/main",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/tree/main/Configuration",
+    "title": "/tree/main/Configuration",
     "count": 1,
     "uniques": 1
   }
