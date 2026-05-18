@@ -2,14 +2,14 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "/pulls",
-    "count": 6,
-    "uniques": 6
+    "count": 5,
+    "uniques": 5
   },
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "Overview",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/actions/runs/23076623424",
@@ -48,8 +48,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/watchers",
-    "title": "/watchers",
+    "path": "/yi-Xu-0100/traffic2badge/labels",
+    "title": "/labels",
     "count": 1,
     "uniques": 1
   }
