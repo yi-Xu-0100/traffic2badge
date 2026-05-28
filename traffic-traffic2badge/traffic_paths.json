@@ -6,12 +6,6 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/commit/a332cb91dcd31c24f2d475ae0aa3e493e90415ad",
-    "title": "/commit/a332cb91dcd31c24f2d475ae0aa3e493e90415ad",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/forks",
     "title": "/forks",
     "count": 1,
@@ -20,12 +14,6 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/labels",
     "title": "/labels",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/pulls",
-    "title": "/pulls",
     "count": 1,
     "uniques": 1
   },
