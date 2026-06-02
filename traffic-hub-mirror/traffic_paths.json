@@ -6,10 +6,46 @@
     "uniques": 5
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/issues",
+    "title": "/issues",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/pulls",
     "title": "/pulls",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions",
+    "title": "/actions",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/activity",
+    "title": "/activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
+    "title": "/blob/main/.gitignore",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
+    "title": "/blob/main/.prettierignore",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierrc.json",
+    "title": "/blob/main/.prettierrc.json",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
@@ -18,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "/issues",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
+    "title": "/blob/main/static/add_pub_key.png",
     "count": 1,
     "uniques": 1
   }
