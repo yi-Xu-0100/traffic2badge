@@ -2,18 +2,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "Overview",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/forks",
     "title": "/forks",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
-    "title": "/tree/traffic",
     "count": 1,
     "uniques": 1
   }
