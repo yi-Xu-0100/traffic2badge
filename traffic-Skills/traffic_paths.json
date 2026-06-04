@@ -2,13 +2,13 @@
   {
     "path": "/yi-Xu-0100/Skills/blob/main/skills/lf-to-crlf/SKILL.md",
     "title": "/blob/main/skills/lf-to-crlf/SKILL.md",
-    "count": 8,
+    "count": 7,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/Skills",
     "title": "Overview",
-    "count": 6,
+    "count": 3,
     "uniques": 3
   },
   {
@@ -18,14 +18,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Skills/releases",
-    "title": "/releases",
+    "path": "/yi-Xu-0100/Skills/commits",
+    "title": "/commits",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Skills/tree/main/skills/lf-to-crlf",
-    "title": "/tree/main/skills/lf-to-crlf",
+    "path": "/yi-Xu-0100/Skills/releases",
+    "title": "/releases",
     "count": 1,
     "uniques": 1
   }
