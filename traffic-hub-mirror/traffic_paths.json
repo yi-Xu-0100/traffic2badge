@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 5,
+    "count": 6,
     "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
+    "title": "/blob/main/static/add_pub_key.png",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/issues",
@@ -44,12 +50,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierrc.json",
     "title": "/blob/main/.prettierrc.json",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
-    "title": "/blob/main/static/add_pub_key.png",
     "count": 1,
     "uniques": 1
   },

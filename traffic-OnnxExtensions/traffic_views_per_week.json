@@ -1,5 +1,36 @@
 {
   "count": 0,
   "uniques": 0,
-  "views": []
+  "views": [
+    {
+      "timestamp": "2026-05-29T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-05-30T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-05-31T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-06-01T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-06-02T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-06-03T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    }
+  ]
 }
