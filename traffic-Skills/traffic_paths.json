@@ -6,15 +6,15 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/Skills",
-    "title": "Overview",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/Skills/blob/main/skills/git-commit/SKILL.md",
     "title": "/blob/main/skills/git-commit/SKILL.md",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Skills",
+    "title": "Overview",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Skills/commits",
-    "title": "/commits",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Skills/compare",
     "title": "/compare",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Skills/milestones",
     "title": "/milestones",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Skills/pulls",
+    "title": "/pulls",
     "count": 1,
     "uniques": 1
   }
