@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 6,
+    "count": 5,
     "uniques": 3
   },
   {
@@ -18,20 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
-    "title": "/blob/main/static/add_pub_key.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/github_name.png",
     "title": "/blob/main/static/github_name.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commits",
-    "title": "/commits",
     "count": 1,
     "uniques": 1
   },

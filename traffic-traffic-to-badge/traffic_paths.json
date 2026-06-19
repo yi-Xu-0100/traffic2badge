@@ -1,31 +1,13 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "Overview",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/activity",
     "title": "/activity",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
     "title": "/blob/main/README_CN.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/edit/main/README.md",
-    "title": "/edit/main/README.md",
     "count": 1,
     "uniques": 1
   }
