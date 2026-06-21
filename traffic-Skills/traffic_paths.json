@@ -18,6 +18,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Skills/activity",
+    "title": "/activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Skills/commit/179d7dac10d3675e2a31d1d6e011f5b4a7b8ea71",
     "title": "/commit/179d7dac10d3675e2a31d1d6e011f5b4a7b8ea71",
     "count": 1,
@@ -36,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/Skills/commit/bcdad09e6e25132ab60d7166315d4246ba784b19",
+    "title": "/commit/bcdad09e6e25132ab60d7166315d4246ba784b19",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/Skills/compare",
     "title": "/compare",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/Skills/labels",
     "title": "/labels",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Skills/milestones",
-    "title": "/milestones",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Skills/pulls",
-    "title": "/pulls",
     "count": 1,
     "uniques": 1
   }
