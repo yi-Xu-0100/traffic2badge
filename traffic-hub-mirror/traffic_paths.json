@@ -3,7 +3,7 @@
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
     "count": 5,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/github_name.png",
     "title": "/blob/main/static/github_name.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commits",
+    "title": "/commits",
     "count": 1,
     "uniques": 1
   },
