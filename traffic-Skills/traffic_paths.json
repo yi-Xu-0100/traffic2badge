@@ -24,12 +24,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Skills/commit/179d7dac10d3675e2a31d1d6e011f5b4a7b8ea71",
-    "title": "/commit/179d7dac10d3675e2a31d1d6e011f5b4a7b8ea71",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Skills/commit/2b445ba228d98383fa4ec3138bda2871a7e296dd",
     "title": "/commit/2b445ba228d98383fa4ec3138bda2871a7e296dd",
     "count": 1,
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/Skills/labels",
     "title": "/labels",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Skills/milestones",
+    "title": "/milestones",
     "count": 1,
     "uniques": 1
   }

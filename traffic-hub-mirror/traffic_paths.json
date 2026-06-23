@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 5,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
@@ -18,14 +18,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commits",
-    "title": "/commits",
+    "path": "/yi-Xu-0100/hub-mirror/commit/63289391680a189bd01cb10b7fefcecbbd421e80",
+    "title": "/commit/63289391680a189bd01cb10b7fefcecbbd421e80",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "/issues",
+    "path": "/yi-Xu-0100/hub-mirror/commits",
+    "title": "/commits",
     "count": 1,
     "uniques": 1
   }
