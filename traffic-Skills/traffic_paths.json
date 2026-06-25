@@ -42,20 +42,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Skills/labels",
-    "title": "/labels",
+    "path": "/yi-Xu-0100/Skills/tree/main/skills",
+    "title": "/tree/main/skills",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Skills/milestones",
-    "title": "/milestones",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Skills/pulls",
-    "title": "/pulls",
+    "path": "/yi-Xu-0100/Skills/tree/main/skills/git-commit",
+    "title": "/tree/main/skills/git-commit",
     "count": 1,
     "uniques": 1
   }
