@@ -2,24 +2,18 @@
   {
     "path": "/yi-Xu-0100/Skills/commit/714de21e5ee99f98703cb9ff24b27ec5126ef6f3",
     "title": "/commit/714de21e5ee99f98703cb9ff24b27ec5126ef6f3",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/Skills/blob/main/skills/git-commit/SKILL.md",
-    "title": "/blob/main/skills/git-commit/SKILL.md",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/Skills",
-    "title": "Overview",
-    "count": 1,
-    "uniques": 1
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/Skills/activity",
     "title": "/activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Skills/blob/main/skills/git-commit/SKILL.md",
+    "title": "/blob/main/skills/git-commit/SKILL.md",
     "count": 1,
     "uniques": 1
   },
@@ -36,20 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/Skills/compare",
-    "title": "/compare",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Skills/tree/main/skills",
-    "title": "/tree/main/skills",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/Skills/tree/main/skills/git-commit",
-    "title": "/tree/main/skills/git-commit",
+    "path": "/yi-xu-0100/skills",
+    "title": "Overview",
     "count": 1,
     "uniques": 1
   }
