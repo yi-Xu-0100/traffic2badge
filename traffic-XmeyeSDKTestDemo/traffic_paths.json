@@ -1,14 +1,26 @@
 [
   {
+    "path": "/yi-Xu-0100/XmeyeSDKTestDemo",
+    "title": "Overview",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/XmeyeSDKTestDemo/tree/main",
+    "title": "/tree/main",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/XmeyeSDKTestDemo/tree/main/XmeyeSDKTestDemo",
+    "title": "/tree/main/XmeyeSDKTestDemo",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/XmeyeSDKTestDemo/tree/main/XmeyeSDKTestDemo/Views",
     "title": "/tree/main/XmeyeSDKTestDemo/Views",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/XmeyeSDKTestDemo",
-    "title": "Overview",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -20,18 +32,6 @@
   {
     "path": "/yi-Xu-0100/XmeyeSDKTestDemo/blob/main/XmeyeSDKTestDemo/Services/XmeyeService/XmeyeService.cs",
     "title": "/blob/main/XmeyeSDKTestDemo/Services/XmeyeService/XmeyeService.cs",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/XmeyeSDKTestDemo/tree/main",
-    "title": "/tree/main",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/XmeyeSDKTestDemo/tree/main/XmeyeSDKTestDemo",
-    "title": "/tree/main/XmeyeSDKTestDemo",
     "count": 1,
     "uniques": 1
   },
