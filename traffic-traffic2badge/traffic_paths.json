@@ -6,12 +6,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic2badge/issues",
-    "title": "/issues",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic2badge/actions/caches",
     "title": "/actions/caches",
     "count": 1,
@@ -20,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/blob/main/LICENSE",
     "title": "/blob/main/LICENSE",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/issues",
+    "title": "/issues",
     "count": 1,
     "uniques": 1
   }
