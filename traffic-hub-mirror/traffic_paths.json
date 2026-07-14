@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 12,
-    "uniques": 10
+    "count": 11,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/activity",
@@ -20,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
     "title": "/blob/main/static/rsa_gen.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commits",
+    "title": "/commits",
     "count": 1,
     "uniques": 1
   },
