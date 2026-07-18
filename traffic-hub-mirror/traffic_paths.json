@@ -2,8 +2,32 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 12,
-    "uniques": 10
+    "count": 14,
+    "uniques": 9
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
+    "title": "/blob/main/template/sync2gitee.cached.yml",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.yml",
+    "title": "/blob/main/template/sync2gitee.yml",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/.github",
+    "title": "/tree/main/.github",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/actions/workflows/patch.yml",
+    "title": "/actions/workflows/patch.yml",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/activity",
@@ -18,26 +42,20 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
+    "title": "/blob/main/static/gitee_name.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
     "title": "/blob/main/static/rsa_gen.png",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/c087afe65f4efca3c85673682c18219d8797083b",
-    "title": "/commit/c087afe65f4efca3c85673682c18219d8797083b",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commits",
-    "title": "/commits",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "/issues",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
+    "title": "/blob/main/template/patch.yml",
     "count": 1,
     "uniques": 1
   }
