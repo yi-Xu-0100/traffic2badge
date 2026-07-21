@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 13,
-    "uniques": 8
+    "count": 9,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "/tree/main/template",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.cached.yml",
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
     "title": "/blob/main/static/rsa_gen.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
-    "title": "/blob/main/template/patch.yml",
     "count": 1,
     "uniques": 1
   }
