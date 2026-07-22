@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "Overview",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/commits",
@@ -20,18 +20,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/activity",
     "title": "/activity",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues",
-    "title": "/issues",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/pulls",
-    "title": "/pulls",
     "count": 2,
     "uniques": 2
   },
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/dependabot.yml",
     "title": "/blob/main/.github/dependabot.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.gitignore",
+    "title": "/blob/main/.gitignore",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.nvmrc",
+    "title": "/blob/main/.nvmrc",
     "count": 1,
     "uniques": 1
   }
