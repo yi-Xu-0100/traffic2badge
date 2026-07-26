@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 8,
+    "count": 10,
     "uniques": 4
   },
   {
@@ -36,18 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/activity",
-    "title": "/activity",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
-    "title": "/blob/main/.prettierignore",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
     "title": "/blob/main/static/gitee_name.png",
     "count": 1,
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
     "title": "/blob/main/static/rsa_gen.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/patch.yml",
+    "title": "/blob/main/template/patch.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/template/sync2gitee.list.yml",
+    "title": "/blob/main/template/sync2gitee.list.yml",
     "count": 1,
     "uniques": 1
   }
