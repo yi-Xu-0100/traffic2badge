@@ -4928,17 +4928,17 @@
       "uniques": 3
     },
     {
-      "timestamp": "2026-07-12T00:00:00Z",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "timestamp": "2026-07-11T00:00:00Z",
       "count": 13,
       "uniques": 11
     },
     {
       "timestamp": "2026-07-13T00:00:00Z",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "timestamp": "2026-07-12T00:00:00Z",
       "count": 2,
       "uniques": 2
     },
@@ -4996,6 +4996,11 @@
       "timestamp": "2026-07-24T00:00:00Z",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "timestamp": "2026-07-25T00:00:00Z",
+      "count": 0,
+      "uniques": 0
     }
   ]
 }
