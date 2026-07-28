@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/commits",
-    "title": "/commits",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/actions",
     "title": "/actions",
     "count": 2,
@@ -14,6 +8,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/activity",
     "title": "/activity",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/commits",
+    "title": "/commits",
     "count": 2,
     "uniques": 2
   },
