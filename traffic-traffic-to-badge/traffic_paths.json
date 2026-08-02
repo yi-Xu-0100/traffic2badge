@@ -12,6 +12,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
+    "title": "/blob/main/README_CN.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/commits",
     "title": "/commits",
     "count": 2,
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.gitignore",
     "title": "/blob/main/.gitignore",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.nvmrc",
-    "title": "/blob/main/.nvmrc",
     "count": 1,
     "uniques": 1
   }
