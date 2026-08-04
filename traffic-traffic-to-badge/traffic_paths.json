@@ -1,27 +1,9 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/actions",
-    "title": "/actions",
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/src/index.js",
+    "title": "/blob/main/src/index.js",
     "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/activity",
-    "title": "/activity",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
-    "title": "/blob/main/README_CN.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/commits",
-    "title": "/commits",
-    "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
@@ -30,32 +12,38 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.README.md",
-    "title": "/blob/main/.README.md",
+    "path": "/yi-Xu-0100/traffic-to-badge/activity",
+    "title": "/activity",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.eslintignore",
-    "title": "/blob/main/.eslintignore",
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
+    "title": "/blob/main/README_CN.md",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.eslintrc.json",
-    "title": "/blob/main/.eslintrc.json",
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/src/traffic.js",
+    "title": "/blob/main/src/traffic.js",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.github/dependabot.yml",
-    "title": "/blob/main/.github/dependabot.yml",
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/2c10826016f77970552a7f85dbf7fff3e749491a",
+    "title": "/tree/2c10826016f77970552a7f85dbf7fff3e749491a",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.gitignore",
-    "title": "/blob/main/.gitignore",
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/eda27cf89dae3a7cc8b183b67b47a39b0699778f/src",
+    "title": "/tree/eda27cf89dae3a7cc8b183b67b47a39b0699778f/src",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/src",
+    "title": "/tree/main/src",
     "count": 1,
     "uniques": 1
   }
