@@ -16,5 +16,23 @@
     "title": "/blob/main/CHANGELOG.md",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/community",
+    "title": "/community",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/graphs/contributors",
+    "title": "/graphs/contributors",
+    "count": 1,
+    "uniques": 1
   }
 ]
