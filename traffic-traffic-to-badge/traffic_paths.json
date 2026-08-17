@@ -1,17 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/src/index.js",
-    "title": "/blob/main/src/index.js",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "Overview",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG.md",
     "title": "/blob/main/CHANGELOG.md",
     "count": 1,
@@ -24,12 +12,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/src/traffic.js",
-    "title": "/blob/main/src/traffic.js",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/issues",
     "title": "/issues",
     "count": 1,
@@ -38,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/releases",
     "title": "/releases",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/tree/main/src",
-    "title": "/tree/main/src",
     "count": 1,
     "uniques": 1
   },
