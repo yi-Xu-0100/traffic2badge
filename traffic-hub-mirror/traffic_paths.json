@@ -2,12 +2,18 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 33,
+    "count": 37,
     "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
     "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
+    "title": "/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
     "count": 1,
     "uniques": 1
   },
