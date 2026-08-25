@@ -1,7 +1,25 @@
 [
   {
+    "path": "/yi-Xu-0100/traffic2badge",
+    "title": "Overview",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/issues",
     "title": "/issues",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
+    "title": "/tree/traffic",
     "count": 1,
     "uniques": 1
   }
