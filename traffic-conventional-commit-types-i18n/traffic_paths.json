@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ja.json",
     "title": "/blob/main/locale/ja.json",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n",
-    "title": "Overview",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/hu.json",
@@ -32,12 +26,6 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/graphs/contributors",
     "title": "/graphs/contributors",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/tree/main/locale",
-    "title": "/tree/main/locale",
     "count": 1,
     "uniques": 1
   }

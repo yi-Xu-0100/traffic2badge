@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "Overview",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/deployments",
@@ -20,12 +20,6 @@
   {
     "path": "/yi-Xu-0100/traffic2badge/deployments/github-pages",
     "title": "/deployments/github-pages",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/issues",
-    "title": "/issues",
     "count": 1,
     "uniques": 1
   },
