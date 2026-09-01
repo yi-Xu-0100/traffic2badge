@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/ja.json",
     "title": "/blob/main/locale/ja.json",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -12,8 +12,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/conventional-commit-types-i18n/blob/main/locale/hu.json",
-    "title": "/blob/main/locale/hu.json",
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/actions/workflows/release.yml",
+    "title": "/actions/workflows/release.yml",
     "count": 1,
     "uniques": 1
   },
