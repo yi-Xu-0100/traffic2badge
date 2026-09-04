@@ -2,6 +2,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "Overview",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/package.json",
+    "title": "/blob/main/package.json",
     "count": 1,
     "uniques": 1
   }

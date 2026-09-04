@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/yi-Xu-0100/scoop-bucket",
+    "title": "Overview",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/blob/main/bucket/WinRAR.json",
+    "title": "/blob/main/bucket/WinRAR.json",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/scoop-bucket/tree/main/bucket",
+    "title": "/tree/main/bucket",
+    "count": 1,
+    "uniques": 1
+  }
+]
