@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 54,
-    "uniques": 6
+    "count": 49,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "/tree/main/template",
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
@@ -12,10 +18,10 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "/tree/main/template",
-    "count": 3,
-    "uniques": 3
+    "path": "/yi-Xu-0100/hub-mirror/activity",
+    "title": "/activity",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
@@ -26,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
     "title": "/blob/main/.prettierignore",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierrc.json",
+    "title": "/blob/main/.prettierrc.json",
     "count": 2,
     "uniques": 2
   },
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/36dbbd175ad33a2e8dbc931555dc214b4b2fb362",
     "title": "/commit/36dbbd175ad33a2e8dbc931555dc214b4b2fb362",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
-    "title": "/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
-    "title": "/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
     "count": 2,
     "uniques": 2
   }
