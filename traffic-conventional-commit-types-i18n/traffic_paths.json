@@ -40,5 +40,11 @@
     "title": "/graphs/contributors",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/conventional-commit-types-i18n/issues",
+    "title": "/issues",
+    "count": 1,
+    "uniques": 1
   }
 ]

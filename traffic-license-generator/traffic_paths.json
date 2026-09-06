@@ -10,5 +10,17 @@
     "title": "Overview",
     "count": 1,
     "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/CHANGELOG.md",
+    "title": "/blob/main/CHANGELOG.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/tree/main/.github",
+    "title": "/tree/main/.github",
+    "count": 1,
+    "uniques": 1
   }
 ]
