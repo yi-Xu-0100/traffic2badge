@@ -2,36 +2,12 @@
   {
     "path": "/yi-Xu-0100/traffic2badge",
     "title": "Overview",
-    "count": 5,
-    "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/deployments",
-    "title": "/deployments",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/deployments/github-pages",
-    "title": "/deployments/github-pages",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic2badge/pulls",
     "title": "/pulls",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic2badge/tree/traffic",
-    "title": "/tree/traffic",
     "count": 1,
     "uniques": 1
   }
