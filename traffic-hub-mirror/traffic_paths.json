@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 43,
+    "count": 48,
     "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
+    "title": "/tree/main/template",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
@@ -12,9 +18,15 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "/tree/main/template",
-    "count": 3,
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
+    "title": "/blob/main/.gitignore",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
+    "title": "/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -24,9 +36,9 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
-    "title": "/blob/main/.gitignore",
-    "count": 1,
+    "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
+    "title": "/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
+    "count": 2,
     "uniques": 1
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_token.png",
     "title": "/blob/main/static/add_secret_token.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
-    "title": "/blob/main/static/generate_secret_token.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
-    "title": "/blob/main/static/gitee_name.png",
     "count": 1,
     "uniques": 1
   }
