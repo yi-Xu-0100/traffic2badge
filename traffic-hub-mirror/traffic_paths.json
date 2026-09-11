@@ -12,12 +12,6 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
     "title": "/blob/main/.gitignore",
     "count": 2,
@@ -32,6 +26,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/activity",
     "title": "/activity",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
     "count": 2,
     "uniques": 1
   },
