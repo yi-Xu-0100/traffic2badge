@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 48,
+    "count": 49,
     "uniques": 4
   },
   {
@@ -20,6 +20,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
     "title": "/blob/main/README_EN.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/tree/main",
+    "title": "/tree/main",
     "count": 2,
     "uniques": 2
   },
@@ -42,20 +48,14 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
+    "title": "/blob/main/.prettierignore",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierrc.json",
     "title": "/blob/main/.prettierrc.json",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_token.png",
-    "title": "/blob/main/static/add_secret_token.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
-    "title": "/blob/main/static/generate_secret_token.png",
     "count": 1,
     "uniques": 1
   }
