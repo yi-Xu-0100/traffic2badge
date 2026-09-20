@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 39,
+    "count": 37,
     "uniques": 4
   },
   {
@@ -14,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
     "title": "/blob/main/.gitignore",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commit/491b9e2be5d9c786dc5602ddbaca4da149ed4efa",
+    "title": "/commit/491b9e2be5d9c786dc5602ddbaca4da149ed4efa",
     "count": 2,
     "uniques": 2
   },
@@ -30,10 +36,10 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main/template",
-    "title": "/tree/main/template",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
+    "title": "/blob/main/.prettierignore",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
@@ -44,12 +50,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/activity",
     "title": "/activity",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierignore",
-    "title": "/blob/main/.prettierignore",
     "count": 1,
     "uniques": 1
   },
