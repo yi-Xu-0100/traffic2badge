@@ -2,7 +2,19 @@
   {
     "path": "/yi-Xu-0100/Skills/commit/714de21e5ee99f98703cb9ff24b27ec5126ef6f3",
     "title": "/commit/714de21e5ee99f98703cb9ff24b27ec5126ef6f3",
-    "count": 3,
-    "uniques": 3
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/yi-Xu-0100/Skills/blob/714de21e5ee99f98703cb9ff24b27ec5126ef6f3/skills/git-commit/SKILL.md",
+    "title": "/blob/714de21e5ee99f98703cb9ff24b27ec5126ef6f3/skills/git-commit/SKILL.md",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/Skills/tree/714de21e5ee99f98703cb9ff24b27ec5126ef6f3/skills/git-commit",
+    "title": "/tree/714de21e5ee99f98703cb9ff24b27ec5126ef6f3/skills/git-commit",
+    "count": 1,
+    "uniques": 1
   }
 ]

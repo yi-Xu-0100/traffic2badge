@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 37,
+    "count": 34,
     "uniques": 4
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
-    "count": 3,
-    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
@@ -42,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
-    "title": "/blob/main/static/rsa_gen.png",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierrc.json",
     "title": "/blob/main/.prettierrc.json",
     "count": 1,
@@ -56,6 +44,18 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/CHANGELOG.md",
     "title": "/blob/main/CHANGELOG.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
+    "title": "/blob/main/README_EN.md",
     "count": 1,
     "uniques": 1
   }
