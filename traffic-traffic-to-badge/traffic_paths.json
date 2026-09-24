@@ -1,14 +1,14 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "Overview",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README_CN.md",
     "title": "/blob/main/README_CN.md",
     "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "Overview",
+    "count": 3,
     "uniques": 3
   },
   {
@@ -24,20 +24,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/forks",
-    "title": "/forks",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/v1.0.1/README_CN.md",
     "title": "/blob/v1.0.1/README_CN.md",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues",
-    "title": "/issues",
+    "path": "/yi-Xu-0100/traffic-to-badge/forks",
+    "title": "/forks",
     "count": 1,
     "uniques": 1
   },
