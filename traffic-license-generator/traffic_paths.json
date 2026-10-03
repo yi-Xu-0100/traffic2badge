@@ -6,15 +6,15 @@
     "uniques": 4
   },
   {
+    "path": "/yi-Xu-0100/license-generator",
+    "title": "Overview",
+    "count": 5,
+    "uniques": 5
+  },
+  {
     "path": "/yi-Xu-0100/license-generator/actions",
     "title": "/actions",
     "count": 4,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator",
-    "title": "Overview",
-    "count": 3,
     "uniques": 3
   },
   {
@@ -32,12 +32,6 @@
   {
     "path": "/yi-Xu-0100/license-generator/actions/workflows/licenseGenerator.yml",
     "title": "/actions/workflows/licenseGenerator.yml",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/license-generator/blob/main/.github/workflows/CC-BY-NC-4.0.yml",
-    "title": "/blob/main/.github/workflows/CC-BY-NC-4.0.yml",
     "count": 1,
     "uniques": 1
   },
