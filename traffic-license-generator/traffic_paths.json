@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
     "title": "/blob/main/LICENSE",
-    "count": 7,
-    "uniques": 4
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/license-generator",
@@ -14,8 +14,8 @@
   {
     "path": "/yi-Xu-0100/license-generator/actions",
     "title": "/actions",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-NC-4.0.yml",
@@ -38,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/license-generator/blob/main/.github/workflows/CC-BY-NC-SA-4.0.yml",
     "title": "/blob/main/.github/workflows/CC-BY-NC-SA-4.0.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/graphs/contributors",
+    "title": "/graphs/contributors",
     "count": 1,
     "uniques": 1
   },
