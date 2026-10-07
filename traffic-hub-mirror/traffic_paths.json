@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 51,
-    "uniques": 8
+    "count": 52,
+    "uniques": 7
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
@@ -12,14 +12,26 @@
     "uniques": 3
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
+    "title": "/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
+    "title": "/blob/main/static/generate_secret_token.png",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
     "title": "/blob/main/static/rsa_gen.png",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/CHANGELOG.md",
-    "title": "/blob/main/CHANGELOG.md",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/.prettierrc.json",
+    "title": "/blob/main/.prettierrc.json",
     "count": 2,
     "uniques": 2
   },
@@ -30,26 +42,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
-    "title": "/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
+    "path": "/yi-Xu-0100/hub-mirror/commit/36dbbd175ad33a2e8dbc931555dc214b4b2fb362",
+    "title": "/commit/36dbbd175ad33a2e8dbc931555dc214b4b2fb362",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
-    "title": "/blob/main/static/generate_secret_token.png",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
     "title": "/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/tree/main",
-    "title": "/tree/main",
     "count": 2,
     "uniques": 1
   },
