@@ -184,6 +184,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-docsify-test/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-docsify-test)
 ```
 
+## 📚 [DotnetPublishTool](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-DotnetPublishTool)
+
+### 📷 Badges without link of [DotnetPublishTool](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-DotnetPublishTool)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [DotnetPublishTool](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-DotnetPublishTool)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
+```
+
 ## 📚 [ExcelWashing](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-ExcelWashing)
 
 ### 📷 Badges without link of [ExcelWashing](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-ExcelWashing)
