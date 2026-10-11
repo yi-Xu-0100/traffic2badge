@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
-    "count": 4,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/actions",
     "title": "/actions",
     "count": 3,
     "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/license-generator",

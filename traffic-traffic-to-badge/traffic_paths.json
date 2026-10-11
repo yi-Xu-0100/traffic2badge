@@ -8,24 +8,24 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "Overview",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.README.md",
     "title": "/blob/main/.README.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG.md",
+    "title": "/blob/main/CHANGELOG.md",
     "count": 1,
     "uniques": 1
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG_CN.md",
     "title": "/blob/main/CHANGELOG_CN.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/package.json",
-    "title": "/blob/main/package.json",
     "count": 1,
     "uniques": 1
   }
