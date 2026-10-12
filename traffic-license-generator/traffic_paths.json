@@ -1,11 +1,5 @@
 [
   {
-    "path": "/yi-Xu-0100/license-generator/actions",
-    "title": "/actions",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/yi-Xu-0100/license-generator/blob/main/LICENSE",
     "title": "/blob/main/LICENSE",
     "count": 3,
@@ -18,8 +12,8 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/license-generator/actions/workflows/CC-BY-NC-4.0.yml",
-    "title": "/actions/workflows/CC-BY-NC-4.0.yml",
+    "path": "/yi-Xu-0100/license-generator/actions",
+    "title": "/actions",
     "count": 1,
     "uniques": 1
   },
