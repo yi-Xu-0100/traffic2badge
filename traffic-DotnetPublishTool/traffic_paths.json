@@ -1,13 +1,13 @@
 [
   {
-    "path": "/yi-Xu-0100/DotnetPublishTool/actions/new",
-    "title": "/actions/new",
-    "count": 2,
+    "path": "/yi-Xu-0100/DotnetPublishTool/releases",
+    "title": "/releases",
+    "count": 3,
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/DotnetPublishTool/releases",
-    "title": "/releases",
+    "path": "/yi-Xu-0100/DotnetPublishTool/actions/new",
+    "title": "/actions/new",
     "count": 2,
     "uniques": 1
   },
