@@ -2,8 +2,14 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 65,
+    "count": 62,
     "uniques": 10
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
+    "title": "/blob/main/static/rsa_gen.png",
+    "count": 6,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
@@ -12,21 +18,9 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/rsa_gen.png",
-    "title": "/blob/main/static/rsa_gen.png",
-    "count": 5,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
     "title": "/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
     "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_token.png",
-    "title": "/blob/main/static/add_secret_token.png",
-    "count": 4,
     "uniques": 3
   },
   {
@@ -38,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
     "title": "/actions",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_token.png",
+    "title": "/blob/main/static/add_secret_token.png",
     "count": 3,
     "uniques": 3
   },
