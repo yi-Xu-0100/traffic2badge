@@ -214,6 +214,36 @@
 [![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-DotnetPublishTool/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-DotnetPublishTool)
 ```
 
+## 📚 [dsh-ptc-parse-frame](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-dsh-ptc-parse-frame)
+
+### 📷 Badges without link of [dsh-ptc-parse-frame](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-dsh-ptc-parse-frame)
+
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views.svg)
+![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones.svg)
+![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [dsh-ptc-parse-frame](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-dsh-ptc-parse-frame)
+
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+
+```markdown
+[![views](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+[![views per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/views_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+[![clones](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+[![clones per week](https://raw.githubusercontent.com/yi-Xu-0100/traffic2badge/traffic/traffic-dsh-ptc-parse-frame/clones_per_week.svg)](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic#-dsh-ptc-parse-frame)
+```
+
 ## 📚 [ExcelWashing](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-ExcelWashing)
 
 ### 📷 Badges without link of [ExcelWashing](https://github.com/yi-Xu-0100/traffic2badge/tree/traffic/traffic-ExcelWashing)

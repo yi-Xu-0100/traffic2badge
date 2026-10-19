@@ -2,14 +2,8 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG.md",
     "title": "/blob/main/CHANGELOG.md",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.README.md",
-    "title": "/blob/main/.README.md",
-    "count": 2,
-    "uniques": 2
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
@@ -20,6 +14,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "Overview",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.README.md",
+    "title": "/blob/main/.README.md",
     "count": 1,
     "uniques": 1
   },
