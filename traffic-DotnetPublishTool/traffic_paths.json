@@ -12,6 +12,18 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/DotnetPublishTool/releases/tag/v1.4.0",
+    "title": "/releases/tag/v1.4.0",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/DotnetPublishTool",
+    "title": "Overview",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/DotnetPublishTool/actions",
     "title": "/actions",
     "count": 1,
@@ -38,12 +50,6 @@
   {
     "path": "/yi-Xu-0100/DotnetPublishTool/releases/tag/v1.1.2",
     "title": "/releases/tag/v1.1.2",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/DotnetPublishTool/releases/tag/v1.4.0",
-    "title": "/releases/tag/v1.4.0",
     "count": 1,
     "uniques": 1
   }
