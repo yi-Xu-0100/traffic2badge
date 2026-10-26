@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator",
     "title": "Overview",
-    "count": 4,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
@@ -26,12 +26,6 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/185",
     "title": "/pull/185",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/repo-list-generator/releases",
-    "title": "/releases",
     "count": 1,
     "uniques": 1
   },

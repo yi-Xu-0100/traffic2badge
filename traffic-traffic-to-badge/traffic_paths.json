@@ -12,6 +12,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "Overview",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG_CN.md",
     "title": "/blob/main/CHANGELOG_CN.md",
     "count": 1,
@@ -20,6 +26,18 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
     "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/issues/21",
+    "title": "/issues/21",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.4.0",
+    "title": "/releases/tag/v1.4.0",
     "count": 1,
     "uniques": 1
   }
