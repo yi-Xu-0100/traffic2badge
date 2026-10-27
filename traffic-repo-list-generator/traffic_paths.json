@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/repo-list-generator",
-    "title": "Overview",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/yi-Xu-0100/repo-list-generator/blob/main/README.md",
     "title": "/blob/main/README.md",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/repo-list-generator",
+    "title": "Overview",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/repo-list-generator/pull/154",
@@ -38,6 +38,12 @@
   {
     "path": "/yi-Xu-0100/repo-list-generator/tags",
     "title": "/tags",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-xu-0100/repo-list-generator/issues/224",
+    "title": "/issues/224",
     "count": 1,
     "uniques": 1
   }

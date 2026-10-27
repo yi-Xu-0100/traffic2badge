@@ -6,6 +6,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/DotnetPublishTool",
+    "title": "Overview",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/DotnetPublishTool/actions/new",
     "title": "/actions/new",
     "count": 2,
@@ -15,12 +21,6 @@
     "path": "/yi-Xu-0100/DotnetPublishTool/releases/tag/v1.4.0",
     "title": "/releases/tag/v1.4.0",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/DotnetPublishTool",
-    "title": "Overview",
-    "count": 1,
     "uniques": 1
   },
   {
