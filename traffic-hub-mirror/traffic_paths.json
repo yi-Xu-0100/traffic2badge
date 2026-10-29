@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 29,
-    "uniques": 8
+    "count": 23,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/actions",
@@ -15,12 +15,6 @@
     "path": "/yi-Xu-0100/hub-mirror/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
     "title": "/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/activity",
-    "title": "/activity",
-    "count": 2,
     "uniques": 2
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/commit/36dbbd175ad33a2e8dbc931555dc214b4b2fb362",
     "title": "/commit/36dbbd175ad33a2e8dbc931555dc214b4b2fb362",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
+    "title": "/commit/66c35c0e650700c2a66db32c321fe1e518f55d79",
     "count": 2,
     "uniques": 2
   }
