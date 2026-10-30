@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 23,
+    "count": 27,
     "uniques": 6
   },
   {
@@ -12,8 +12,20 @@
     "uniques": 3
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
-    "title": "/commit/a564aab17d7ec9167dfc7e696a79c314754fa380",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
+    "title": "/blob/main/static/generate_secret_token.png",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
+    "title": "/blob/main/static/add_secret_key.png",
     "count": 3,
     "uniques": 2
   },
@@ -24,26 +36,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/CHANGELOG.md",
+    "title": "/blob/main/CHANGELOG.md",
     "count": 2,
     "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
     "title": "/blob/main/static/add_pub_key.png",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
-    "title": "/blob/main/static/add_secret_key.png",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
-    "title": "/blob/main/static/generate_secret_token.png",
     "count": 2,
     "uniques": 2
   },
