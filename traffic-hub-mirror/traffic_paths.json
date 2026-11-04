@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 33,
-    "uniques": 7
+    "count": 34,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/generate_secret_token.png",
@@ -30,14 +30,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
-    "title": "/blob/main/static/add_pub_key.png",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
+    "title": "/blob/main/README.md",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
-    "title": "/commit/47945a01c5255ff51a92b373eb078ebaf8406f0b",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
+    "title": "/blob/main/static/add_pub_key.png",
     "count": 2,
     "uniques": 2
   },
