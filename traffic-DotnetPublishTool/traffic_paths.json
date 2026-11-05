@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/DotnetPublishTool",
     "title": "Overview",
-    "count": 5,
-    "uniques": 5
+    "count": 6,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/DotnetPublishTool/releases",
@@ -18,8 +18,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/DotnetPublishTool/releases/tag/v1.4.0",
-    "title": "/releases/tag/v1.4.0",
+    "path": "/yi-Xu-0100/DotnetPublishTool/releases/tag/v1.4.1",
+    "title": "/releases/tag/v1.4.1",
     "count": 1,
     "uniques": 1
   }
