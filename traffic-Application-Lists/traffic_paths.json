@@ -6,14 +6,14 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/Application-Lists/blob/main/.prettierignore",
-    "title": "/blob/main/.prettierignore",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/yi-Xu-0100/Application-Lists/blob/main/README.md",
     "title": "/blob/main/README.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/yi-Xu-0100/Application-Lists/blob/main/.prettierignore",
+    "title": "/blob/main/.prettierignore",
     "count": 1,
     "uniques": 1
   }
