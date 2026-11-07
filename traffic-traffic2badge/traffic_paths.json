@@ -6,6 +6,12 @@
     "uniques": 3
   },
   {
+    "path": "/yi-Xu-0100/traffic2badge/pulls",
+    "title": "/pulls",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/traffic2badge/blob/main/.gitignore",
     "title": "/blob/main/.gitignore",
     "count": 1,

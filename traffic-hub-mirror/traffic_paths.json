@@ -24,8 +24,8 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
-    "title": "/blob/main/static/add_secret_key.png",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
+    "title": "/blob/main/static/add_pub_key.png",
     "count": 2,
     "uniques": 2
   },
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
-    "title": "/blob/main/static/add_pub_key.png",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
+    "title": "/blob/main/static/add_secret_key.png",
     "count": 1,
     "uniques": 1
   }
