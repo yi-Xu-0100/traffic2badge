@@ -1,15 +1,15 @@
 [
   {
-    "path": "/yi-Xu-0100/traffic-to-badge",
-    "title": "Overview",
-    "count": 4,
-    "uniques": 4
-  },
-  {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
     "title": "/blob/main/README.md",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge",
+    "title": "Overview",
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.README.md",
@@ -36,8 +36,14 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/traffic-to-badge/issues/21",
-    "title": "/issues/21",
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/6d3198a72ad283bb7f82a2f03aa4f100abe60cde",
+    "title": "/commit/6d3198a72ad283bb7f82a2f03aa4f100abe60cde",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/commit/e9e1f1a7dc8e2e0253e08be27c34655855176fb3",
+    "title": "/commit/e9e1f1a7dc8e2e0253e08be27c34655855176fb3",
     "count": 1,
     "uniques": 1
   },
@@ -50,12 +56,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/pull/193",
     "title": "/pull/193",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/releases/tag/v1.4.0",
-    "title": "/releases/tag/v1.4.0",
     "count": 1,
     "uniques": 1
   }
