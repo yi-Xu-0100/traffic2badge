@@ -12,6 +12,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
     "title": "/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
     "count": 2,
@@ -32,12 +38,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
     "title": "/blob/main/LICENSE",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
-    "title": "/blob/main/README.md",
     "count": 1,
     "uniques": 1
   },
