@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 31,
-    "uniques": 8
+    "count": 34,
+    "uniques": 9
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/CHANGELOG.md",
@@ -18,16 +18,10 @@
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
-    "title": "/commit/afb99b5694461f6b0f5e85c7bd0cae2228bb9001",
+    "path": "/yi-Xu-0100/hub-mirror/issues",
+    "title": "/issues",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/activity",
-    "title": "/activity",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/.gitignore",
@@ -38,6 +32,12 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
     "title": "/blob/main/LICENSE",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
+    "title": "/blob/main/README_EN.md",
     "count": 1,
     "uniques": 1
   },
