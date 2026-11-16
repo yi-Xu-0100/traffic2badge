@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 34,
-    "uniques": 10
+    "count": 29,
+    "uniques": 8
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
@@ -12,14 +12,14 @@
     "uniques": 4
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/commit/a6b6ad7bd110383d40233cc908bf0f60deced3aa",
-    "title": "/commit/a6b6ad7bd110383d40233cc908bf0f60deced3aa",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/github_name.png",
+    "title": "/blob/main/static/github_name.png",
     "count": 2,
     "uniques": 2
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/issues",
-    "title": "/issues",
+    "path": "/yi-Xu-0100/hub-mirror/commit/a6b6ad7bd110383d40233cc908bf0f60deced3aa",
+    "title": "/commit/a6b6ad7bd110383d40233cc908bf0f60deced3aa",
     "count": 2,
     "uniques": 2
   },
