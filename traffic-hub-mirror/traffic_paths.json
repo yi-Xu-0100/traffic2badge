@@ -2,8 +2,8 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 29,
-    "uniques": 8
+    "count": 27,
+    "uniques": 6
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README.md",
@@ -24,6 +24,12 @@
     "uniques": 2
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/issues",
+    "title": "/issues",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/activity",
     "title": "/activity",
     "count": 1,
@@ -36,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
     "title": "/blob/main/README_EN.md",
     "count": 1,
@@ -44,18 +56,6 @@
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
     "title": "/blob/main/static/add_pub_key.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_token.png",
-    "title": "/blob/main/static/add_secret_token.png",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/gitee_name.png",
-    "title": "/blob/main/static/gitee_name.png",
     "count": 1,
     "uniques": 1
   }
