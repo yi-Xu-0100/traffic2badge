@@ -2,7 +2,7 @@
   {
     "path": "/yi-Xu-0100/hub-mirror",
     "title": "Overview",
-    "count": 25,
+    "count": 24,
     "uniques": 5
   },
   {
@@ -10,6 +10,12 @@
     "title": "/blob/main/README.md",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
+    "title": "/blob/main/README_EN.md",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/hub-mirror/blob/main/static/github_name.png",
@@ -48,14 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/README_EN.md",
-    "title": "/blob/main/README_EN.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_pub_key.png",
-    "title": "/blob/main/static/add_pub_key.png",
+    "path": "/yi-Xu-0100/hub-mirror/blob/main/static/add_secret_key.png",
+    "title": "/blob/main/static/add_secret_key.png",
     "count": 1,
     "uniques": 1
   }
