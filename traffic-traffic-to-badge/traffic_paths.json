@@ -2,20 +2,20 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.README.md",
     "title": "/blob/main/.README.md",
-    "count": 6,
-    "uniques": 6
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG_CN.md",
     "title": "/blob/main/CHANGELOG_CN.md",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge",
     "title": "Overview",
-    "count": 1,
-    "uniques": 1
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/.prettierignore",
@@ -26,12 +26,6 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/blob/main/CHANGELOG.md",
     "title": "/blob/main/CHANGELOG.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/yi-Xu-0100/traffic-to-badge/blob/main/README.md",
-    "title": "/blob/main/README.md",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/yi-Xu-0100/traffic-to-badge/commits/main/CHANGELOG_CN.md",
     "title": "/commits/main/CHANGELOG_CN.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/yi-Xu-0100/traffic-to-badge/pull/193",
+    "title": "/pull/193",
     "count": 1,
     "uniques": 1
   }
