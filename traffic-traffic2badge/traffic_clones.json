@@ -11063,14 +11063,14 @@
       "uniques": 5
     },
     {
-      "timestamp": "2026-11-12T00:00:00Z",
-      "count": 14,
-      "uniques": 7
-    },
-    {
       "timestamp": "2026-11-13T00:00:00Z",
       "count": 4,
       "uniques": 3
+    },
+    {
+      "timestamp": "2026-11-12T00:00:00Z",
+      "count": 14,
+      "uniques": 7
     },
     {
       "timestamp": "2026-11-14T00:00:00Z",
